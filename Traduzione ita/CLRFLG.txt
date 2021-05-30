@@ -1,26 +1,26 @@
 [0]
-[1][color index="A01F0000"]【Paradox MELTDOWN】[color index="800000"] Completed
+[1][color index="A01F0000"]【Paradox MELTDOWN】[color index="800000"] completato
 [2]
 [3]
-[4][color index="A01F0000"]【STARDUST Sky】[color index="800000"] Completed
+[4][color index="A01F0000"]【STARDUST Sky】[color index="800000"] completato
 [5]
 [6]
-[7][color index="A01F0000"]【Link of Corruption and Rebirth】[color index="800000"] Completed
+[7][color index="A01F0000"]【Link of Corruption and Rebirth】[color index="800000"] completato
 [8]
 [9]
-[10][color index="A01F0000"]【Isolated JAMAIS VU】[color index="800000"] Completed
+[10][color index="A01F0000"]【Isolated JAMAIS VU】[color index="800000"] completato
 [11]
 [12]
-[13][color index="A01F0000"]【Irreversible ReBOOT】[color index="800000"] Completed
+[13][color index="A01F0000"]【Irreversible ReBOOT】[color index="800000"] completato
 [14]
 [15]
-[16][color index="A01F0000"]【Open the STEINS GATE】[color index="800000"] Completed
+[16][color index="A01F0000"]【Open the STEINS GATE】[color index="800000"] completato
 [17]
-[18][color index="A01F0000"]CLEAR LIST
-[19][color index="800000"]was added to the “EXTRA” menu.
-[20][color index="A01F0000"]CG LIBRARY
-[21][color index="800000"]was added to the “EXTRA” menu.
-[22][color index="A01F0000"]MUSIC LIBRARY
-[23][color index="800000"]was added to the “EXTRA” menu.
-[24][color index="A01F0000"]MOVIE LIBRARY
-[25][color index="800000"]was added to the “EXTRA” menu.
+[18][color index="A01F0000"]RIPULISCI LISTA
+[19][color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[20][color index="A01F0000"]LIBRERIA CG
+[21][color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[22][color index="A01F0000"]LIBRERIA MUSICA
+[23][color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[24][color index="A01F0000"]LIBRARY FILMATI
+[25][color index="800000"]e' stato aggiunto al menu' “EXTRA”.

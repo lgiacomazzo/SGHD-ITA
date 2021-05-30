@@ -1,8 +1,8 @@
-[0]Let's press the [color index="840000"]“Phone triggers”[color index="800000"] button and call the cellphone,
-[1]and make a call to the [color index="820000"]“PhoneWave (name subject to change)”[color index="800000"].
-[2][color index="800000"]It allows to confirm the controller settings from “CONFIG” of
-[3]the system menu.
-[4]Let's press the [color index="A0280000"]“Phone triggers”[color index="800000"] button and call the cellphone,
-[5]and make a call to the [color index="820000"]“PhoneWave (name subject to change)”[color index="800000"].
-[6][color index="800000"]It allows to confirm the controller settings from “CONFIG” of the
-[7]system menu.
+[0]Premiamo il pulsante [color index="840000"]“Phone triggers”[color index="800000"] e chiamiamo il cellulare,
+[1]facendo partire la chiamata verso il [color index="820000"]“Microonde Telefonico (nome soggetto a cambiamenti)”[color index="800000"].
+[2][color index="800000"]Permette di confermare le impostazioni del controller da “CONFIG” del
+[3]menu' di sistema.
+[4]Premiamo il pulsante [color index="A0280000"]“Phone triggers”[color index="800000"] e chiamiamo il cellulare,
+[5]facendo partire la chiamata verso il [color index="820000"]“Microonde Telefonico (nome soggetto a cambiamenti)”[color index="800000"].
+[6][color index="800000"]Permette di confermare le impostazioni del controller da “CONFIG” del
+[7]menu' di sistema.

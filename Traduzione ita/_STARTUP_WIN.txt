@@ -1,7 +1,7 @@
-[0]All unsaved game progress will be lost.
-[1]Exit Game?
+[0]Tutti i progressi di gioco non salvati saranno perduti.
+[1]Vuoi uscire dal gioco?
 [2]OK
-[3]Cancel
+[3]Annulla
 [4]セーブデータの確認中です。
 [5]セーブデータの読み込みに失敗しました。
 [6]もう一度読み込みますか?
@@ -28,82 +28,82 @@
 [27]開始することができません。
 [28]インストールが完了するまでお待ちください。
 [29]ロードしない
-[30]All unsaved game progress will be lost.
-[31]Exit Game?
+[30]Tutti i progressi di gioco non salvati saranno perduti.
+[31]Vuoi uscire dal gioco?
 [32]OK
-[33]Cancel
-[34]All unsaved game progress will be lost.
-[35]Exit Game?
+[33]Annulla
+[34]Tutti i progressi di gioco non salvati saranno perduti.
+[35]Vuoi uscire dal gioco?
 [36]OK
-[37]Cancel
-[38]All unsaved game progress will be lost.
-[39]Return to Title Menu?
+[37]Annulla
+[38]Tutti i progressi di gioco non salvati saranno perduti.
+[39]Vuoi tornare al menu' principale?
 [40]OK
-[41]Cancel
-[42]All unsaved game progress will be lost.
-[43]Return to Title Menu?
+[41]Annulla
+[42]Tutti i progressi di gioco non salvati saranno perduti.
+[43]Vuoi tornare al menu' principale?
 [44]OK
-[45]Cancel
-[46]Return to Title Menu?
+[45]Annulla
+[46]Vuoi tornare al menu' principale?
 [47]OK
-[48]Cancel
+[48]Annulla
 [49]シーン回想を中断しますか?
 [50]はい
 [51]いいえ
-[52]Return to Default Settings?
+[52]Vuoi tornare alle impostazioni default?
 [53]OK
-[54]Cancel
-[55]Return to Default Settings.
-[56]Load this Data?
+[54]Annulla
+[55]Ritorno alle impostazioni default.
+[56]Caricare questi dati?
 [57]OK
-[58]Cancel
+[58]Annulla
 [59]このセーブファイルはインストールが完了するまで
 [60]開始することができません。
 [61]インストールが完了するまでお待ちください。
 [62]ロードしない
-[63]Load this Data?
-[64]All unsaved game progress will be lost.
+[63]Caricare questi dati?
+[64]Tutti i progressi di gioco non salvati saranno perduti.
 [65]OK
-[66]Cancel
-[67]All Save Data are locked.
-[68]If all save data will be locked, you can not select the QUICK SAVE.
-[69]If you would like to select QUICK SAVE.
-[70]Please unlock the unnecessary Save Data.
-[71]All Save Data are locked.
-[72]If all save data will be locked, you can not select the QUICK SAVE.
-[73]If you would like to select QUICK SAVE.
-[74]Please unlock the unnecessary Save Data.
-[75]Save Data already exists.
-[76]If you choose to overwrite this data, the previous save will be lost.
-[77]Overwrite the Save Data?
-[78]Overwrite
-[79]Cancel
-[80]This Save Data is locked.
-[81]If you would like to overwrite the Save Data, please unlock it.
-[82]There exists the corrupted Save Data.
-[83]If overwrite, it will be lost the previous Save Data.
-[84]Overwrite to the corrupted Save Data?
-[85]Overwrite
-[86]Cancel
-[87]Saving data.
-[88]Please do not turn off the system.
-[89]Saving System Data.
-[90]Please do not turn off the system.
-[91]Checking System Data.
-[92]Loading System Data.
-[93]System Data could not found.
-[94]System Data are created.
-[95]Creating System Data.
-[96]Please do not turn off the system.
-[97]System Data is corrupted.
-[98]System Data are repaired.
-[99]Repairing System Data.
-[100]Please do not turn off the system.
-[101]This System Data is another user's data.
-[102]Please exit the game and delete System Data.
-[103]System Data is corrupted.
-[104]It failed to load System Data.
-[105]It failed to load System Data.
-[106]Please exit the game and retry.
-[107]It failed to create System Data.
-[108]Please exit the game and retry.
+[66]Annulla
+[67]Tutti i dati salvati sono bloccati.
+[68]Se i dati salvati sono bloccati, non puoi usare il QUICK SAVE.
+[69]Se vuoi selezionare il QUICK SAVE.
+[70]Per favore sblocca i dati salvati non necessari.
+[71]Tutti i dati salvati sono bloccati.
+[72]Se i dati salvati sono bloccati, non puoi usare il QUICK SAVE.
+[73]Se vuoi selezionare il QUICK SAVE.
+[74]Per favore sblocca i dati salvati non necessari.
+[75]Sono gia' presenti dati salvati.
+[76]Se sovrascrivi questi dati, il salvataggio precedente sara' perduto.
+[77]Sovrascrivere i dati?
+[78]Sovrascrivi
+[79]Annulla
+[80]Questi dati sono bloccati.
+[81]Se vuoi sovrascrivere i dati salvati, per favore sbloccali.
+[82]Esistono dati di salvataggio corrotti.
+[83]Se sovrascrivi, il salvataggio precedente sara' perduto.
+[84]Sovrascrivere i dati corrotti?
+[85]Sovrascrivi
+[86]Annulla
+[87]Salvataggio dei dati.
+[88]Per favore non spegnere il sistema.
+[89]Salvataggio dati di sistema.
+[90]Per favore non spegnere il sistema.
+[91]Controllo dati di sistema.
+[92]Caricamento dati di sistema.
+[93]Dati di sistema non trovati.
+[94]Dati di sistema creati.
+[95]Creazione dati di sistema.
+[96]Per favore non spegnere il sistema.
+[97]Dati di sistema corrotti.
+[98]Dati di sistema riparati.
+[99]Riparazione dati di sistema.
+[100]Per favore non spegnere il sistema.
+[101]Questi dati di sistema sono di un altro utente.
+[102]Per favore chiudi il gioco e rimuovi i dati di sistema.
+[103]Dati di sistema corrotti.
+[104]Caricamento dei dati di sistema fallito.
+[105]Caricamento dei dati di sistema fallito.
+[106]Per favore esci dal gioco e riprova.
+[107]Creazione dei dati di sistema fallito.
+[108]Per favore esci dal gioco e riprova.

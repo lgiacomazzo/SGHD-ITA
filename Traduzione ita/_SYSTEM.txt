@@ -3,14 +3,14 @@
 [2]サインアウトされました。タイトル画面に戻ります。
 [3]ゲームパッドが外されました。ゲームパッドを接続してください。
 [4]ゲームを遊ぶためにはサインインしてください。
-[5]Broken Data
-[6]No data
-[7]Play Time:
-[8]Save Time:
+[5]Dati corrotti
+[6]Niente dati
+[7]Tempo di gioco:
+[8]Ora del salvataggio:
 [9]/
 [10]:
 [11]No .
-[12]Total Play Time
+[12]Tempo di gioco totale
 [13]m
 [14]s
 [15]h
@@ -19,11 +19,11 @@
 [18]/
 [19]??/??
 [20]??????
-[21]Reached Ending
-[22]Acquired TIPS
+[21]Finale raggiunto
+[22]Aggiunto a TIPS
 [23]Album Achievement Rate
-[24]New
-[25]Unread
+[24]Nuovi
+[25]Non letti
 [26]
 [27]
 [28]
@@ -106,30 +106,30 @@
 [105]『
 [106]』
 [107] 
-[108]Prologue
-[109]Chapter 1
+[108]Prologo
+[109]Capitolo 1
 [110]Time Travel Paranoia
-[111]Chapter 2
+[111]Capitolo 2
 [112]Interpreter Rendezvous
-[113]Chapter 3
+[113]Capitolo 3
 [114]Butterfly Effect’s Divergence
-[115]Chapter 4
+[115]Capitolo 4
 [116]Chaos Theory Homeostasis
-[117]Chapter 5
+[117]Capitolo 5
 [118]Dogma in Event Horizon
-[119]Chapter 6
+[119]Capitolo 6
 [120]Metaphysics Necrosis
-[121]Chapter 7
+[121]Capitolo 7
 [122]Made in Complex
-[123]Chapter 8
+[123]Capitolo 8
 [124]Fractal Androgynous
-[125]Chapter 9
+[125]Capitolo 9
 [126]Endless Apoptosis
-[127]Chapter 10
+[127]Capitolo 10
 [128]Paradox Meltdown
-[129]Chapter 10
+[129]Capitolo 10
 [130]Stardust Sky
-[131]Chapter 11
+[131]Capitolo 11
 [132]Open The Steins Gate
 [133]Original Opening
 [134]Prolog-1
@@ -143,11 +143,11 @@
 [142]True Ending
 [143]『A.R.』
 [144]Nonlinear Geniac
-[145]Track
-[146]time
-[147]Title
+[145]Traccia
+[146]Tempo
+[147]Titolo
 [148]?????
-[149]Artists
+[149]Artisti
 [150]...
 [151]3:54
 [152]GATE OF STEINER -Piano-
