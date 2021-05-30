@@ -1,0 +1,109 @@
+[0]All unsaved game progress will be lost.
+[1]Exit Game?
+[2]OK
+[3]Cancel
+[4]セーブデータの確認中です。
+[5]セーブデータの読み込みに失敗しました。
+[6]もう一度読み込みますか?
+[7]はい
+[8]いいえ
+[9]セーブデータを消去しますか?
+[10]はい
+[11]いいえ
+[12]アクティブユーザーを変更すると、保存されていない
+[13]プレイ状況は失われます。
+[14] 
+[15]アクティブユーザーを変更しますか?
+[16]はい
+[17]いいえ
+[18]このコンテンツはインストールが完了するまで
+[19]開始することができません。
+[20]インストールが完了するまでお待ちください。
+[21]ロードしない
+[22]このコンテンツはインストールが完了するまで
+[23]開始することができません。
+[24]インストールが完了するまでお待ちください。
+[25]ロードしない
+[26]このコンテンツはインストールが完了するまで
+[27]開始することができません。
+[28]インストールが完了するまでお待ちください。
+[29]ロードしない
+[30]All unsaved game progress will be lost.
+[31]Exit Game?
+[32]OK
+[33]Cancel
+[34]All unsaved game progress will be lost.
+[35]Exit Game?
+[36]OK
+[37]Cancel
+[38]All unsaved game progress will be lost.
+[39]Return to Title Menu?
+[40]OK
+[41]Cancel
+[42]All unsaved game progress will be lost.
+[43]Return to Title Menu?
+[44]OK
+[45]Cancel
+[46]Return to Title Menu?
+[47]OK
+[48]Cancel
+[49]シーン回想を中断しますか?
+[50]はい
+[51]いいえ
+[52]Return to Default Settings?
+[53]OK
+[54]Cancel
+[55]Return to Default Settings.
+[56]Load this Data?
+[57]OK
+[58]Cancel
+[59]このセーブファイルはインストールが完了するまで
+[60]開始することができません。
+[61]インストールが完了するまでお待ちください。
+[62]ロードしない
+[63]Load this Data?
+[64]All unsaved game progress will be lost.
+[65]OK
+[66]Cancel
+[67]All Save Data are locked.
+[68]If all save data will be locked, you can not select the QUICK SAVE.
+[69]If you would like to select QUICK SAVE.
+[70]Please unlock the unnecessary Save Data.
+[71]All Save Data are locked.
+[72]If all save data will be locked, you can not select the QUICK SAVE.
+[73]If you would like to select QUICK SAVE.
+[74]Please unlock the unnecessary Save Data.
+[75]Save Data already exists.
+[76]If you choose to overwrite this data, the previous save will be lost.
+[77]Overwrite the Save Data?
+[78]Overwrite
+[79]Cancel
+[80]This Save Data is locked.
+[81]If you would like to overwrite the Save Data, please unlock it.
+[82]There exists the corrupted Save Data.
+[83]If overwrite, it will be lost the previous Save Data.
+[84]Overwrite to the corrupted Save Data?
+[85]Overwrite
+[86]Cancel
+[87]Saving data.
+[88]Please do not turn off the system.
+[89]Saving System Data.
+[90]Please do not turn off the system.
+[91]Checking System Data.
+[92]Loading System Data.
+[93]System Data could not found.
+[94]System Data are created.
+[95]Creating System Data.
+[96]Please do not turn off the system.
+[97]System Data is corrupted.
+[98]System Data are repaired.
+[99]Repairing System Data.
+[100]Please do not turn off the system.
+[101]This System Data is another user's data.
+[102]Please exit the game and delete System Data.
+[103]System Data is corrupted.
+[104]It failed to load System Data.
+[105]It failed to load System Data.
+[106]Please exit the game and retry.
+[107]It failed to create System Data.
+[108]Please exit the game and retry.
