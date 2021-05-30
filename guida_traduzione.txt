@@ -1,0 +1,44 @@
+notepad++ Con espressione regolare (rimpiazzare con niente)
+^<voice.*$
+^</PRE>.*\R
+^\0.*$
+^.*$
+^\h*\R
+
+Questa espressione può essere presente. Toglierla
+"  DrawTransitionSG"
+. CreateClipTextureZoomEX
+
+Cambiare Congroo con Kongroo
+
+Rimuovere le prime righe (tipo header del file)
+Esaminare il file per trovare altra roba che non va bene
+
+
+mettere in fondo ad ogni riga di testo [%p]
+mettere all'inizio della riga [name]1321[line] in base al file scx corrispondente
+cercare i <FONT tag e rimpiazzarli con [color ,,,] in base al file e linea corrispondente:
+
+<FONT incolor="#ff7080" outcolor="#000000">   
+--> 
+[color index="820000"]
+
+</FONT>
+-->
+[color index="800000"]
+
+cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea corrispondente:
+
+<I>
+-->
+
+
+
+sostituire tutti i caratteri " all'inizio della stringa con il carattere “
+sostituire tutti i caratteri " alla fine della stringa con il carattere ”
+lasciare intatti tutti i caratteri " nei tag [color]
+Rimuovere tutti i caratteri ⑰
+Sostituire ' con ’
+NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’)
+	es: à -> a’
+	es: ò -> o’
