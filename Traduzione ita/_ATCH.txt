@@ -1010,793 +1010,793 @@
 [1009]RaiNet Kakeru ■Access No. 3
 [1010]″Pi-po-pi-po-! La Trappola della Net Police!″
 [1011]
-[1012]Japan's Net Police do not think well of Kakeru~ despite
-[1013]his commendable deeds. They threaten to prosecute
-[1014]Kakeru under the Unauthorized Access laws. They don't
-[1015]press charges this time~ but they take credit for
-[1016]Beesman's arrest and warn Kakeru to keep his nose out
-[1017]of police business.
+[1012]La Net Police del Giappone non vede di buon occhio Kakeru~
+[1013]nonostante i suoi risultati lodevoli. Minacciano di perseguire
+[1014]Kakeru secondo le leggi sull'Accesso non Autorizzato. Non lo
+[1015]denunceranno questa volta~ ma si prenderanno il merito per
+[1016]l'arresto di Beesman, avvertendo Kakeru di tenere il naso fuori
+[1017]dagli affari della polizia.
 [1018]
-[1019]″What can children do?″ ridicules Red~ a member of the
-[1020]Net Police.
-[1021]This angers Kakeru and the others. They know their
-[1022]hacking skills are a match for any adult's.
+[1019]″Cosa potrebbero mai fare dei bambini?″ ridicolizza Red~
+[1020]un membro della Net Police.
+[1021]Questo fa arrabbiare Kakeru e gli altri. Sanno che le proprie
+[1022]abilita' di hacking sono alla pari di qualunque adulto.
 [1023]
-[1024]Just then~ the Police Department's mascot character~
-[1025]Pipo-kun~ appears on their screens saying ″I heard
-[1026]everything!″ Suddenly~ Pipo-kun challenges them to a
-[1027]contest.
+[1024]E proprio in quel momento~ la mascot del Dipartimento di
+[1025]Polizia~ Pipo-kun~ appare sui loro schermi dicendo ″Ho
+[1026]sentito tutto!″ Improvvisamente~ Pipo-kun li sfida ad una
+[1027]gara.
 [1028]
-[1029]Cybercrime is getting worse by the day. There's no
-[1030]denying the police need all the help they can get. But
-[1031]still~ there's no way they can just let untrained kids
-[1032]disrupt an investigation. Therefore~ Pipo-kun wants to
-[1033]test just how capable Kakeru and friends are.
+[1029]I crimini informatici peggiorano giorno dopo giorno. Non c'e'
+[1030]alcun dubbio che la polizia abbia bisogno di tutto l'aiuto possibile.
+[1031]Eppure~ lasciare che dei bambini senza addestramento possano
+[1032]danneggiare le indagini e' assolutamente inconcepibile. Quindi~ Pipo-kun
+[1033]vuole testare le capacita' di Kakeru e dei suoi amici.
 [1034]
-[1035]Kakeru and friends win if they can infiltrate the
-[1036]deepest part of the Metropolitan Police Department's
-[1037]server where Pipo-kun lives. If Kakeru and friends win~
-[1038]they will be granted arrest privileges equal to the Net
+[1035]Se Kakeru e amici riusciranno ad infiltrarsi nella parte piu' profonda
+[1036]del server in cui vive Pipo-kun, dentro il Dipartimento di Polizia
+[1037]Metropolitana, avranno vinto. E se vinceranno~
+[1038]riceveranno privilegi per l'arresto pari a quelli della Net
 [1039]Police.
 [1040]
-[1041]Thinking himself unbeatable~ Red agrees to the contest.
-[1042]Thus~ the Metropolitan Police Department's server
-[1043]becomes the stage for the hacking battle.
+[1041]Credendosi imbattibile~ Red accetta la sfida.
+[1042]Dunque~ il server del Dipartimento di Polizia Metropolitana
+[1043]diventa il campo di battaglia per la sfida di hacking.
 [1044]
-[1045]However~ the cowardly Red closes every port to the
-[1046]server. Ports are like doors that open to the outside.
-[1047]In other words~ Kakeru and friends need to penetrate a
-[1048]building without entrances.
+[1045]Tuttavia~ il codardo Red chiude ogni porta sul server.
+[1046]Le porte sono come le porte di casa che aprono verso l'esterno.
+[1047]In altre parole~ Kakeru e amici devono entrare in un
+[1048]edificio senza entrate.
 [1049]
-[1050]Without a foundation~ Kakeru and friends are at a loss.
-[1051]However~ an idea comes to Kakeru. He skates into town
-[1052]with Kirari and Tamaru.
+[1050]Senza alcun punto di ingresso~ Kakeru e amici sembrano sconfitti.
+[1051]Pero'~ Kakeru ha un'idea. Pattina verso la citta'
+[1052]con Kirari e Tamaru.
 [1053]
-[1054]With their help~ Kakeru successfully infiltrates the
-[1055]Police Department building. Attaching his sub notebook
-[1056]through their public phone~ with abundant knowledge and
-[1057]splendid technique~ he steadily heads to the depths~
-[1058]successfully reaching the server!
+[1054]Con il loro aiuto~ Kakeru riesce ad infiltrarsi con successo
+[1055]nel Dipartimento di Polizia. Collegando il suo mini portatile
+[1056]attraverso il loro telefono pubblicp~ con grande conoscenza e
+[1057]incredibile tecnica~ riesce con sicurezza a raggiungere le profondita'~
+[1058]e raggiungere con successo il server!
 [1059]
-[1060]Pipo-kun declares Kakeru the victor. As promised~ they
-[1061]will receive complete backing from the police. Kakeru
-[1062]and his friends are overjoyed. However~ Red protests
-[1063]″What right does Pipo-kun have to do that!? This isn't
-[1064]authorized!″
+[1060]Pipo-kun dichiara Kakeru il victor. Come promesso~ loro
+[1061]riceveranno supporto completo dalla polizia. Kakeru
+[1062]e i suoi amici sono felicissimi. Tuttavia~ Red protesta dicendo
+[1063]″Quale diritto ha Pipo-kun di fare quello che fatto!? Non e'
+[1064]autorizzato!″
 [1065]
-[1066]Just then~ the image of Pipo-kun dissolves~ revealing
-[1067]none other than the Police Commisioner himself! That
-[1068]was Pipo-kun's true identity all along!
+[1066]E proprio in quel momento~ l'immagine di Pipo-kun si dissolve~
+[1067]rivelando la persona del Commissario di Polizia! Quella era
+[1068]la vera identita' di Pipo-kun per tutto questo tempo!
 [1069]
-[1070]When he says ″Isn't youthful strength like theirs
-[1071]necessary to fight against cyber-crime?″ Red is unable
-[1072]to object.
+[1070]Quando ha detto ″Non e' la forza di giovani come loro
+[1071]necessaria per combattere contro i crimini informatici?″ Red
+[1072]non e' in grado di obiettare.
 [1073]
-[1074]And thus~ the police-sanctioned ″RaiNet Guardians″ are
-[1075]born!
+[1074]E quindi~ nascono con l'autorizzazione della polizia
+[1075]i ″RaiNet Guardians″!
 [1076]
 [1077]
 [1078]RaiNet Kakeru ■Access No. 4
-[1079]″Computer Club Head Kazuma's pride″
+[1079]″L'orgoglio di Kazuma, capo del club di informatica″
 [1080]
-[1081]Kirari and Tamaru implore Kakeru to join the Computer
-[1082]Club.
-[1083]But the head of the Computer Club~ Ichikawa Kazuma from
-[1084]class 4~ says ″Unless I see Kakeru's true skill~ I
-[1085]won't recognize his entry to the club!″
+[1081]Kirari e Tamaru implorano Kakeru di unirsi al club di
+[1082]informatica.
+[1083]Ma il capo del club~ Ichikawa Kazuma dalla classe 4~
+[1084]ha detto ″A meno che non veda la vera abilita' di Kakeru~
+[1085]non riconoscero' il suo ingresso nel club!″
 [1086]
-[1087]Afterwards~ a personal challenge arrives from the
-[1088]computer of Shidou Elementary. Shidou is a rival school
-[1089]competing in the typing tournament ″Typing Masters.″
+[1087]Successivamente~ una sfida personale arriva dal
+[1088]computer della Shidou Elementary. Shidou e' una scuola rivale che
+[1089]compete nel torneo di scrittura ″Typing Masters.″
 [1090]
-[1091]There's no way they can turn down the challenge. And so
-[1092]the Typing Battle Game between Kazuma and the Shidou
-[1093]Computer Club Head~ ″Ima Pyuuta″ began.
+[1091]Non e' possibile rifiutare la sfida. E cosi'
+[1092]la Typing Battle Game tra Kazuma e il capo del club
+[1093]di informatica della Shidou~ ″Ima Pyuuta″~ e' iniziata.
 [1094]
-[1095]At first~ Kazuma dominates with a steady score.
-[1096]However~ his opponent~ taking advantage of the fact
-[1097]that he cannot be seen in an online battle~
-[1098]underhandedly sends a virus program to Kaigyou
-[1099]Elementary's PC~ slowing down its processing speed.
+[1095]All'inizio~ Kazuma riesce a dominare con un alto punteggio.
+[1096]Tuttavia~ il suo avversario~ sfruttando il fatto che
+[1097]lui non puo' essere visto in una battaglia online~
+[1098]imbroglia mandando un virus verso il PC della Kaigyou
+[1099]Elementary~ rallentando la sua velocita' di calcolo.
 [1100]
-[1101]Before he knows it~ Kazuma starts losing. Kakeru~
-[1102]having noticed their opponent is cheating with a dirty
-[1103]virus~ asks to switch places.
+[1101]Senza accorgesene~ Kazuma inizia a perdere. Kakeru~
+[1102]avendo notato che il suo avversario sta imbrogliando con uno sporco
+[1103]virus~ chiede di scambiarsi di posto con lui.
 [1104]
 [1105][Kazuma]
-[1106]″The honor of Kaigyou Elementary hangs on this fight.
-[1107]I'm not just going to switch places with you.″
+[1106]″L'onore della Kaigyou Elementary si poggia su questo scontro.
+[1107]Non ho intenzione di scambiarmi di posto con te.″
 [1108]
-[1109]But Kazuma is blinded by pride. The match is gradually
-[1110]turning against him.
+[1109]Ma Kazuma e' accecato dall'orgoglio. L'incontro si sta gradualmente
+[1110]spostando a suo sfavore.
 [1111]
-[1112]At this point~ even Tamaru and Kirari start pressuring
-[1113]Kazuma to listen to Kakeru. The whole class holds their
-[1114]breath as the baton is passed to Kakeru under grave
-[1115]conditions.
+[1112]A questo punto~ anche Tamaru e Kirari hanno iniziato a spingere
+[1113]Kazuma ad ascoltare Kakeru. L'intera classe rimane con il fiato sospeso
+[1114]mentre il comando viene passato a Kakeru sotto queste condizioni cosi'
+[1115]pesanti.
 [1116]
-[1117]Kazuma has already given up. He bows his head and turns
-[1118]his back.
-[1119]But from behind him~ comes the sound of typing unlike
-[1120]any he's ever heard before.
+[1117]Kazuma si e' gia' arreso. Abbassa la sua testa e si prepara
+[1118]ad andarsene.
+[1119]Ma alle sue spalle~ sente un suono di scrittura che non ha
+[1120]mai sentito in tutta la sua vita.
 [1121]
-[1122]Kazuma looks back in shock after hearing a noise
-[1123]echoing like a jackhammer. It was Kakeru~ crushing the
-[1124]cheater fair and square~ typing at a ferocious pace!
+[1122]Kazuma guarda scioccato dopo aver sentito un rumore molto simile
+[1123]a quello di un martello pneumatico. Era Kakeru~ che stava distruggendo
+[1124]l'imbroglione senza imbrogliare~ scrivendo ad un ritmo feroce!
 [1125]
-[1126]Followed by a splendid victory!
-[1127]Kazuma threw his arms around Kakeru in relief~
-[1128]exclaiming ″Please join our Computer Club!″
+[1126]E a seguire una splendida vittoria!
+[1127]Kazuma mette le sue braccia attorno a Kakeru con sollievo~
+[1128]esclamando ″Per favore unisciti al nostro club!″
 [1129]
-[1130]And then Nagaya-san calls. An online bank cracking
-[1131]incident has occurred! The enemy is the infamous bank
-[1132]robber~ ″Bishop!″
+[1130]E poi ha chiamato Nagaya-san. Si e' verificato un incidente di
+[1131]cracking di una banca online! Il nemico e' il temuto
+[1132]rapitore di banche~ ″Bishop!″
 [1133]
-[1134]Tension once again runs through Kakeru and friends!
+[1134]Si solleva di nuovo la tensione tra Kakeru e i suoi amici!
 [1135]
 [1136]
 [1137]RaiNet Kakeru ■Access No. 5
-[1138]″Encounter with Bishop~ online bank hacker″
+[1138]″Incontro con Bishop~ hacker di banche online″
 [1139]
-[1140]These days~ Online Banking is widespread. Sometimes
-[1141]even billions of units of currency are transferred
-[1142]wirelessly.
+[1140]Nel presente~ l'Online Banking e' diffuso. In alcuni momenti
+[1141]vengono trasferiti anche miliardi di unita' di valuta in maniera
+[1142]wireless.
 [1143]
-[1144]The current enemy~ ″Bishop″ is a tough opponent~
-[1145]cracking through a mobile connection while driving to
-[1146]mask his location.
+[1144]L'attuale avversario~ ″Bishop″ e' un temibile avversario~
+[1145]craccando tramite una connessione mobile e mentre guida per
+[1146]mascherare la sua posizione.
 [1147]
-[1148]But Kakeru reads his opponent's moves one by one and
-[1149]gradually corners him. In order to close the distance~
-[1150]Kakeru and friends don rollerblades~ moving between
-[1151]hotspots and public phone lines in town!
+[1148]Ma Kakeru riesce a leggere le mosse del suo avversiario una alla
+[1149]volta e gradualmente lo mette alle strette. Per potersi avvicinare~
+[1150]Kakeru e amici usano dei rollerblades~ spostandosi tra gli
+[1151]hotspot e le linee di telefoni pubblici in citta'!
 [1152]
-[1153]With Kakeru's swift techniques and precise strikes~
-[1154]along with Tamaru's group's teamwork~ they successfully
-[1155]corner Bishop!
+[1153]Con le rapide tecniche di Kakeru e colpi ben precisi~
+[1154]insieme al lavoro di squadra del gruppo di Tamaru~ riescono
+[1155]a mettere alle strette Bishop!
 [1156]
-[1157]Out of options~ their target uses his last resort!
-[1158]One of the 9 existing phantom Monster Programs~
+[1157]Senza altre opzioni~ il loro bersaglio usa il suo asso nella manica!
+[1158]Uno dei 9 Monster Programs esistenti~
 [1159]″Terios!″
 [1160]
-[1161]Its capacity for wanton destruction instantly turns the
-[1162]tables on Kakeru. Bishop prepares to use Terios to
-[1163]deliver the finishing blow.
+[1161]La sua capacita' di sfrenata distruzione cambia immediatamente
+[1162]la situazione a sfavore di Kakeru. Bishop si prepara a usare Terios
+[1163]per dare il colpo di grazia.
 [1164]
-[1165]The vile virus approaches!
+[1165]Il terribile virus si avvicina!
 [1166]
-[1167]Checkmate for Kakeru!! But then~ as if to protect them~
-[1168]something flies out of Kakeru's PC!
+[1167]Sembra essere finita per Kakeru!! Ma proprio in quel momento~ come
+[1168]se fosse per proteggerli~ qualcosa esce dal PC di Kakeru!
 [1169]
-[1170]It's the virtual pet Upa that Kakeru cared for!
+[1170]E' Upa, l'animaletto virtuale di cui Kakeru si era preso cura!
 [1171]
-[1172]Upa intercepts the hit meant for Kakeru.
+[1172]Upa intercetta il colpo diretto a Kakeru.
 [1173]
-[1174]Will Upa be okay!?
+[1174]Sara' Upa ok!?
 [1175]RaiNet Kakeru ■Access No. 6
-[1176]″To the trial~ upaupa! Upa's secret″
+[1176]″Verso la prova~ upaupa! Il segreto di Upa″
 [1177]
-[1178]Upa has taken a direct attack from the Monster-level
-[1179]virus.
+[1178]Upa ha preso un attacco diretto dal virus di livello
+[1179]Monster.
 [1180]
-[1181]But he is unscathed. And of all things~ he devours the
-[1182]attack itself.
+[1181]Ma non ha subito ferite. E cosa piu' importante~ ha
+[1182]divorato l'attacco stesso.
 [1183]
-[1184]Kakeru has successfully countered Bishop with Upa's
-[1185]great efforts. On top of that~ he has obtained Bishop's
-[1186]Monster Program ″Terios.″
+[1184]Kakeru riesce quindi a contrattacare contro Bishop grazie
+[1185]al grande sforzo di Upa. Oltre a cio'~ e' riuscito a ottenere
+[1186]il Monster Program di Bishop, ″Terios.″
 [1187]
-[1188]But he doesn't understand. Why could Upa devour such a
-[1189]strong Monster-level virus program?
+[1188]Ma lui non riesce a capire. Come puo' Upa divorare
+[1189]un virus di livello Monster cosi' forte?
 [1190]
-[1191]Not even Nagaya-san knows. But the mystery Site Master
-[1192]″Cyber Dragon″ might.
+[1191]Neanche Nagaya-san lo sa. Ma il misterioso Site Master
+[1192]″Cyber Dragon″ potrebbe saperlo.
 [1193]
-[1194]Cyber Dragon~ who has information about every program
-[1195]in existence~ is like a sage with knowledge of the
-[1196]entire net world.
+[1194]Cyber Dragon~ che ha informazioni su ogni singolo programma
+[1195]esistente~ e' come un saggio che vive con conoscenza sull'intero
+[1196]mondo della rete.
 [1197]
-[1198]Kakeru and friends begin searching for Cyber Dragon's
-[1199]site immediately.
+[1198]Kakeru e amici iniziano la ricerca della sito di Cyber Dragon
+[1199]immediatamente.
 [1200]
-[1201]In order to obtain the URL for Cyber Dragon's site~ it
-[1202]appears they'll need to clear the online game~ ″Cyber
+[1201]Per poter ottenere l'URL del sito di Cyber Dragon~ sembra che
+[1202]dovranno completare il videogioco online~ ″Cyber
 [1203]Dragon Trial.″
 [1204]
-[1205]This is a typing battle with increasing viral attacks~
-[1206]wearing Kakeru down.
+[1205]E' una battaglia di scrittura con attachi virali sempre piu' forti~
+[1206]questo sfianca Kakeru.
 [1207]
-[1208]But he keeps going~ cheered on by his friends. After a
-[1209]grueling struggle~ Kakeru successfully gets the URL for
-[1210]Cyber Dragon's site.
+[1208]Ma continua lo stesso~ con il sostegno dei suoi amici. Dopo una
+[1209]lotta estenuante~ Kakeru riesce a ottenere l'URL per il
+[1210]sito di Cyber Dragon.
 [1211]
-[1212]They finally manage to meet Cyber Dragon.
+[1212]Riescono finalmente a poter incontrare Cyber Dragon.
 [1213]
-[1214]As his name suggests~ he takes the form of an elder
-[1215]dragon. He inspects Upa's program.
+[1214]Come suggerisce il suo nome~ ha assunto la forma di un
+[1215]drago anziano. Ora sta ispezionando il programma di Upa.
 [1216]
-[1217]What he discovers is that Upa iss also a Monster
-[1218]Program.
+[1217]Cio' che e' riuscito a scoprire e' che' Upa e' anch'esso un
+[1218]Monster Program.
 [1219]
-[1220]Kirari worries Upa is dangerous. Cyber Dragon~ however~
-[1221]explains that based on the user's will~ a deadly weapon
-[1222]can also become a tool to protect.
+[1220]Kirari si preoccupa quindi della pericolosita' di Upa. Cyber Dragon~
+[1221]tuttavia~ spiega che in base alla volonta' dell'utente~ un'arma letale
+[1222]puo' anche diventare uno strumento per proteggere.
 [1223]
-[1224]Unfortunately~ that also means it will be necessary to
-[1225]awaken Upa's inner Monster Program.
+[1224]Sfortunatamente~ vuol dire che sara' necessario risvegliare
+[1225]il Monster Program dormiente dentro Upa.
 [1226]
-[1227]And if Kakeru fails to fully master it~ he may lose
-[1228]control of the awakened form.
+[1227]E se Kakeru non riuscira' a usarlo alla perfezione~ potrebbe perdere
+[1228]il controllo della forma risvegliata.
 [1229]
-[1230]Without knowing how to awaken Upa~ Kakeru and friends
-[1231]leave Cyber Dragon's site.
+[1230]Senza sapere come risvegliare Upa~ Kakeru e amici
+[1231]lasciano il sito di Cyber Dragon.
 [1232]
-[1233]In order to overcome the vile programs~ Kakeru pledges
-[1234]to discover Upa's Monster Program boot process.
+[1233]Per poter abbattere i programmi pericolosi~ Kakeru si impegna
+[1234]nello scoprire il processo di boot del Monster Program di Upa.
 [1235]
-[1236]Before long~ rumors spread around the world of Kakeru
-[1237]and friends~ the amazing grade schoolers who possess
-[1238]a Monster Program.
+[1236]Non e' passato molto tempo prima se si diffondessero le voci su Kakeru
+[1237]e amici~ i fantastici studenti che possedevano
+[1238]un Monster Program.
 [1239]
 [1240]RaiNet Kakeru ■Access No. 7
-[1241]″First in aircraft history! Ground hijack!″
+[1241]″Primo caso nella storia dell'aviazione! Dirottamento a terra!″
 [1242]
-[1243]Japan prepares to send a team to the Typing Masters
-[1244]world championships in Los Angeles.
+[1243]Il Giappone si prepara a mandare un team ai campionati del mondo
+[1244]dei Typing Masters a Los Angeles.
 [1245]
-[1246]Among Japan's representatives is Kakeru~ who has become
-[1247]an instant celebrity for solving numerous cybercrimes.
+[1246]Tra i rappresentanti del Giappone c'e' Kakeru~ il quale e' diventato
+[1247]una celebrita' famosa per aver risolto numerosi crimini informatici.
 [1248]
-[1249]Tamaru accompanies as second~ and Kirari's wealth lets
-[1250]her pay her own way. While they're chatting on the
-[1251]plane~ an emergency suddenly occurs.
+[1249]Tamaru lo accompagna per secondo~ e la ricchezza di Kirari la lascia
+[1250]pavimentare la sua strada. Mentre parlavano del piu' e del meno
+[1251]sull'aereo~ si e' verificata una emergenza.
 [1252]
-[1253]The cabin crew frantically approaches them. It appears
-[1254]that someone has hijacked the jumbo jet.
+[1253]Il personale di bordo si avvicina freneticamente a loro. Sembra che
+[1254]qualcuno abbia dirottato il jumbo jet.
 [1255]
-[1256]Moreover~ the culprit is not onboard. Somehow~ he
-[1257]hijacked the computer systems from the ground.
+[1256]Inoltre~ il colpevole non e' a bordo. In qualche modo~ ha
+[1257]dirottato i sistemi informatici da terra.
 [1258]
-[1259]The crew cannot not switch to manual control~ letting
-[1260]the hacker decrease the plane's altitude along with its
-[1261]276 passengers.
+[1259]L'equipaggio non puo' utilizzare il controllo manuale~ permettendo
+[1260]quindi che l'hacker riduca l'altitudine dell'aereo insieme ai suoi
+[1261]276 passeggeri.
 [1262]
-[1263]Without needing a single explosive~ the culprit instead
-[1264]was bringing the plane down by halting its engines
-[1265]electronically:the century's first ″Ground Hijack!″
+[1263]Senza un singolo esplosivo~ il colpevole invece stava
+[1264]facendo atterrare l'aereo fermando i suoi motori
+[1265]elettronicamente: il primo ″Dirottamento da Terra″ del secolo!
 [1266]
-[1267]The hacker wants the Monster Program ″Upa.″
-[1268]Kakeru infiltrates the jet with his sub notebook and
-[1269]tries to  trace the hacker~ but can't.
+[1267]L'hacker vuole il Monster Program ″Upa.″
+[1268]Kakeru si infiltra nel jet con il suo mini portatile e
+[1269]prova a tracciare l'hacker~ ma non ce la fa.
 [1270]
-[1271]The only line that connects to the jet is the heavily
-[1272]protected control tower's.
+[1271]L'unica linea che puo' connettersi al jet e' la torre di controllo,
+[1272]che pero' e' fortemente protetta.
 [1273]
-[1274]Searching for the core of that line... fails.
-[1275]There is no suspicious activity from the tower.
-[1276]Kakeru and friends grow impatient.
+[1274]La ricerca nel nucleo di quella linea... fallisce.
+[1275]Non c'e' alcuna attivita' sospettosa che parte dalla torre.
+[1276]Kakeru e i suoi amici diventano impazienti.
 [1277]
-[1278]Only special radio waves should have been able to reach
-[1279]the plane's height from the tower.
+[1278]Solo particolari onde radio possono essere in grado di raggiungere
+[1279]l'altezza a cui si trova l'aereo partendo dalla torre.
 [1280]
-[1281]However~ considering other possibilities~ Kakeru comes
-[1282]up with another idea:via satellite.
+[1281]Tuttavia~ considerando altre possibilita'~ Kakeru pensa
+[1282]ad un'altra idea: tramite un satellite.
 [1283]
-[1284]″Bingo!″ Kakeru was right. The ground base is connected
-[1285]to the satellite through an external line.
+[1284]″Bingo!″ Kakeru aveva ragione. La base terrena era collegata
+[1285]al satellite atraverso una linea esterna.
 [1286]
-[1287]The culprit broke the satellite's firewall to connect
-[1288]to the plane's computer systems. Both a satellite and a
-[1289]plane were hijacked in this major incident.
+[1287]Il colpevole ha bucato il firewall del satellite per connettersi
+[1288]al sistema di controllo dell'aereo. Sia un satellite che un aereo
+[1289]sono stati dirottati in questo importante incidente.
 [1290]
-[1291]Kakeru figures this out and corners the culprit. The
-[1292]first war fought at the core of an orbiting satellite
-[1293]begins. A quick victory.
+[1291]Kakeru riesce a capirlo e a mettere alle corde il colpevole. La
+[1292]prima guerra e' stata combattuta nel nucleo di un satellite orbitante.
+[1293]Una vittoria rapida.
 [1294]
-[1295]The opponent is clever~ but not enough to match
-[1296]Kakeru's methods. Kakeru and friends watch the first
-[1297]space battle unfold on screen.
+[1295]L'avversario e' intelligente~ ma non abbastanza da essere alla pari
+[1296]dei metodi di Kakeru. Kakeru e i suoi amici guardano la prima
+[1297]battaglia spaziale svolgersi sullo schermo.
 [1298]
-[1299]The jumbo jet is almost as beautiful as a shuttle
-[1300]floating in space. Stars are reflected in Kakeru's
-[1301]eyes.
+[1299]Il jumbo jet sembra magnifico quasi quanto uno shuttle
+[1300]che vola nello spazio. Le stelle si riflettono negli occhi di
+[1301]Kakeru.
 [1302]
-[1303]Next~ the world Typing Masters championship begins.
+[1303]Prossimo obiettivo~ il campionato del mondo dei Typing Masters.
 [1304]
 [1305]RaiNet Kakeru ■Access No. 8
-[1306]″Echo~ Inazuma! Typing Masters' Secrets!″
+[1306]″Echo~ Inazuma! I segreti dei Typing Masters!″
 [1307]
-[1308]Despite the incident~ they safely land in Los Angeles.
-[1309]As they exit the crowded terminal~ they notice an
-[1310]American youth helping an old lady with her suitcase.
+[1308]Nonostante l'incidente~ riescono ad atterrare a Los Angeles.
+[1309]Mentre stavano uscendo dall'affollato terminale~ hanno notato un giovane
+[1310]americano che stava aiutando una signora anziana con la sua valigia.
 [1311]
 [1312][Tamaru]
-[1313]″Heh~ so Americans are kind people too.″
+[1313]″Eh~ quindi gli americani sono anche persone gentili.″
 [1314]
 [1315][Kirari]
-[1316]″Considerate people live in every country.″
+[1316]″Buone persone vivono in ogni singolo paese.″
 [1317]
-[1318]After a 30 minute bus ride from the airport~ they
-[1319]arrive at the LA convention center.
+[1318]Dopo un viaggio di 30 minuti sull'autobus dall'aeroporto~
+[1319]loro sono arrivati al centro congressi di LA.
 [1320]
-[1321]An aura of feverish competition spreads through the
-[1322]Typing Master grounds.
+[1321]Un'aura di febbrile competizione e' diffusa su tutto il luogo
+[1322]d'incontro dei Typing Master.
 [1323]
-[1324]Most surprisingly~ the list of participants includes
-[1325]even world famous hackers and crackers.
+[1324]Sorprendentemente~ la lista di partecipanti include
+[1325]anche hacker e cracker famosi a livello mondiale.
 [1326]
-[1327]Since they leave no evidence~ they evade wanted lists.
+[1327]Poiche' non lasciano alcuna prova~ sfuggono alle liste dei ricercati.
 [1328]
-[1329]And among them is the name of their fated opponent~
-[1330]″J.″ They have not yet met in person.
+[1329]E tra questi c'e' anche il nome dell'avversario scelto dal destino~
+[1330]″J.″ Ancora non si sono incontrati di persona.
 [1331]
 [1332][Tamaru]
-[1333]″I bet he looks like a scoundrel.″
+[1333]″Scometto che assomiglia ad una canaglia.″
 [1334]
-[1335]The battles are live-streamed worldwide on the
-[1336]internet~ where they're as popular as the Olympics!
+[1335]Gli scontri sono trasmessi in streaming in tutto il mondo
+[1336]della rete internet~ dove sono popolari quasi come le Olimpiadi!
 [1337]
-[1338]The tournament starts the main race. An energetic DJ
-[1339]announces the top 8. 7th called is Kakeru~ and last is
-[1340]″J's″ name.
+[1338]Il torneo entra nel vivo della competizione. Un DJ molto 
+[1339]energetico annuncia la top 8. In settima posizione c'e' Kakeru~
+[1340]e infine il nome ″J″.
 [1341]
-[1342]That last face... is the face of the boy who helped the
-[1343]lady in the airport!
+[1342]Quella faccia... e' la faccia del ragazzo che ha aiutato la signora
+[1343]dentro l'aeroporto!
 [1344]
-[1345]The 3 are shocked. Who is he? By now~ Kakeru is the
-[1346]last Japanese competitor remaining. Another one~ Red's
-[1347]subordinate~ lost in the first round.
+[1345]I 3 sono scioccati. Chi e' lui? In questo momento~ Kakeru e'
+[1346]l'ultimo giapponese rimasto in gara. Un altro~ un subordinato
+[1347]di Red~ ha perso nel primo round.
 [1348]
-[1349]All they can do is root for Kakeru.
-[1350]Kakeru's first top 8 opponent is the rhythmic Dancing
-[1351]Typist ″Lost Shade~″ who proves no match for Kakeru's
-[1352]speed.
+[1349]Tutto cio' che possono fare e' tifare per Kakeru.
+[1350]Il primo avversario di Kakeru nella top 8 e' il ritmico Dancing
+[1351]Typist ″Lost Shade~″, il quale non riesce a stare dietro alla
+[1352]velocita' di Kakeru.
 [1353]
-[1354]Kakeru advances. His next opponent is ″Indra Panther″
-[1355]son of an Arabian oil baron.
+[1354]Kakeru avanza. Il suo prossimo avversario e' ″Indra Panther″,
+[1355]figlio di un arabo barone del petrolio.
 [1356]
-[1357]His limber yoga movements make him appear to be
-[1358]jointless. It's a hard match since his movement
-[1359]patterns leave no openings.
+[1357]I suoi agili movimenti da yoga lo fanno sembrare senza
+[1358]articolazioni. E' uno scontro molto duro poiche' i suoi
+[1359]pattern di movimento non lasciano aperture.
 [1360]
-[1361]But Kakeru uses a freezing virus attack~ sealing his
-[1362]opponent's moves. Finally~ one light touch shatters him
-[1363]like ice.
+[1361]Ma Kakeru usa un attacco con un virus congelante~ sigillando
+[1362]le mosse del suo avversario. Infine~ un tocco leggero lo spezza
+[1363]come ghiaccio in mille pezzi.
 [1364]
-[1365]Now it's the finals! As expected~ the opponent is the
-[1366]mysterious ″J.″
+[1365]Adesso tocca alle finali! Come sospettato~ l'avversario e' il
+[1366]misterioso ″J.″
 [1367]
-[1368]How will this match turn out!?
+[1368]Chi uscira' vincitore da questo scontro!?
 [1369]
 [1370]RaiNet Kakeru ■Access No. 9
-[1371]″Decisive battle! And... begin!″
+[1371]″La battaglia decisiva! E... via!″
 [1372]
-[1373]″Bunshin no jutsu″ would be an appropriate name for J's
-[1374]technique. His movements are so fast it's like there
-[1375]are four of him typing at the same time.
+[1373]″Bunshin no jutsu″ sarebbe un nome appropriato per la tecnica
+[1374]di J. I suoi movimenti sono cosi' veloci che sembra che siano
+[1375]in quattro a scrivere contemporaneamente.
 [1376]
-[1377]His self-taught typing method is nicknamed ″Cross
-[1378]Ripper.″ J is fairly famous in America's underworld~
-[1379]and many imitate this style.
+[1377]Il suo originale metodo di scrittura viene chiamato ″Cross
+[1378]Ripper.″ J e' abbastanza famoso nell'underground dell'America~
+[1379]e molti imitano questo stile.
 [1380]
-[1381]It gets its name from his arms overlapping eachother in
-[1382]the shape of a cross.
+[1381]Il suo nome deriva dalla forma delle sue braccia, sovrapposte una
+[1382]sopra l'altra assumendo la forma di una croce.
 [1383]
-[1384]Of course~ Kakeru also has a unique skill~ nicknamed
+[1384]Ovviamente~ anche Kakeru ha una abilita' unica~ soprannominata
 [1385]″Thunder Gladiator.″
 [1386]
-[1387]The friction between his fingers and keys~ caused by
-[1388]his typing speed~ generates a small electric current
-[1389]like lightning from his fingertips that gradually
-[1390]builds up.
+[1387]L'attrito tra le sue dita e i tasti~ causato dalla sua
+[1388]velocita' di scrittura~ genera una leggera corrente elettrica
+[1389]come un lampo dalla punta delle sue dita che cresce sempre di
+[1390]piu'.
 [1391]
-[1392]They are evenly matched. The first set goes to Kakeru~
-[1393]and the second to J. The outcome hinges on the last
+[1392]I due sfidanti sembrano giocare alla pari. Il primo set e' vinto da
+[1393]Kakeru~ e il secondo viene vinto da J. Il risultato poggia sull'ultimo
 [1394]round.
 [1395]
-[1396]Final match. Sparks fly in this grand head-to-head
-[1397]fight. The struggle is projected onto large display
-[1398]panels. The audience holds their breath. However~ the
-[1399]match is suddenly interrupted by a power outage.
+[1396]Match finale. Scintille volano in questo fantastico scontro
+[1397]testa a testa. La lotta e' proiettata su degli schermi giganti.
+[1398]Il pubblico rimane con il fiato sospeso. Tuttavia~ lo scontro
+[1399]viene improvvisamente interrotto da una interruzione di corrente.
 [1400]
-[1401]This isn't a normal problem. Typically~ the UPS
-[1402](Uninterruptible Power Supply)would activate~ and the
-[1403]machines would continue functioning.
+[1401]Questo non e' un normale problema. Tipicamente~ l'UPS
+[1402](Gruppo di Continuita') si attiverebbe~ e le macchine
+[1403]ritornerebbero a funzionare correttamente. Non e' successo pero'.
 [1404]
-[1405]The battle between the two ends with a temporary truce.
-[1406]As the organizer becomes impatient~ the audience
-[1407]begins to stir restlessly.
+[1405]La battaglia tra i due termina con una tregua temporanea.
+[1406]Mentre l'organizzatore diventa impaziente~ il pubblico
+[1407]inizia ad agitarsi in maniera irrequieta.
 [1408]
-[1409]...Suddenly~ a strange logo appears on every monitor~
-[1410]and words slowly materialize one letter at a time.
+[1409]...Improvvisamente~ uno strano logo appare su ogni monitor~
+[1410]e cominciano a materializzarsi delle parole sullo schermo, una alla volta.
 [1411]
-[1412]「I am a Monster. You are friend? hahahaha」
+[1412]「Io sono un Monster. Tu sei amico? hahahaha」
 [1413]
-[1414]Along with the ominous message~ tiny electronic sounds
-[1415]can be heard.
+[1414]Oltre al messaggio minaccioso~ si possono sentire dei
+[1415]fievoli suoni elettronici.
 [1416]
 [1417][J]
-[1418]″Kakeru! Move!″
+[1418]″Kakeru! Spostati!″
 [1419]
-[1420]J suddenly pushes Kakeru away and forcibly unplugs
-[1421]Kakeru's keyboard from the tourney PC.
+[1420]J all'improvviso spinge via Kakeru e stacca con forza
+[1421]la tastiera di Kakeru dal PC del torneo.
 [1422]
-[1423]As soon as he does~ sparks fly from the USB port...
+[1423]Nel momento stesso in cui lo fa~ scintille escono dalla porta USB...
 [1424]
-[1425]His all-important player keyboard narrowly avoids
-[1426]shorting. It seems like J saved Kakeru.
+[1425]La sua importantissima tastiera da giocatore evita per un pelo
+[1426]un cortocircuito. Sembra che J abbia salvato Kakeru.
 [1427]
 [1428][Kakeru]
-[1429]″Th-thanks″
+[1429]″G-Grazie...″
 [1430]
 [1431][J]
-[1432]″Hmph~ don't thank me. I just can't have a match
-[1433]without an opponent.″
+[1432]″Hmph~ non ringraziarmi. Semplicemente non posso far parte di un
+[1433]incontro senza un avversario.″
 [1434]
-[1435]With those words~ J turns and leaves.
-[1436]Though the finals end with J and Kakeru tied for first
-[1437]place~ J disappears without accepting the trophy.
+[1435]Con queste parole~ J si gira e se ne va.
+[1436]Anche se le finali sono terminate con J e Kakeru in lotta per il
+[1437]primo posto~ J sparisce senza accettare il trofeo.
 [1438]
-[1439]Naturally~ Kakeru also declines it. The true winner
-[1440]will be decided at their rematch next year.
+[1439]Naturalmente~ anche Kakeru lo rifiuta. Il vero vincitore
+[1440]verra' deciso quando si scontreranno il prossimo anno.
 [1441]
-[1442]Mystery boy J. Kakeru and friends are unaware that
-[1443]soon~ J will join them as a member of the RaiNet team.
+[1442]Il misterioso ragazzo J. Kakeru e i suoi amici non sanno che
+[1443]presto~ J si unira' a loro come membro del team RaiNet.
 [1444]
 [1445]
 [1446]RaiNet Kakeru ■Access No. 10
-[1447]『Whose girl is that girl? Tamaru's love story』
+[1447]『Di chi e' quella ragazza? La storia d'amore di Tamaru』
 [1448]
-[1449]Kakeru and friends hunt down crackers again today.
-[1450]Tamaru meets Ayumi~ the No. 1 girl on the net. He can't
-[1451]help but notice the tragic aura that she gives off.
+[1449]Kakeru e amici continuano la caccia ai cracker oggi.
+[1450]Tamaru incontra Ayumi~ la ragazza No. 1 sulla rete. Non puo'
+[1451]non notare l'aura tragica che la ragazza emana.
 [1452]
-[1453]Tamaru decides to track down Ayumi's site and is
-[1454]shocked. It's been ravaged by trolls. Even her password
-[1455]was cracked~ preventing her from closing it down.
+[1453]Tamaru decide di rintracciare il sito di Ayumi e rimane
+[1454]scioccato. E' stato tempestato dai troll. Anche la sua password
+[1455]e' stata craccata~ impedendole di chiudere il sito.
 [1456]
-[1457]After investigating~ he finds it was the simple prank
-[1458]of an unspecified number of script kiddies~ using a
-[1459]cracking tool available all over the net.
+[1457]Dopo una fase di investigazione~ scopre che questo e' uno scherzo
+[1458]da parte di un numero non precisato di script kiddies~ usando uno
+[1459]programma per il cracking disponibile in tutta la rete.
 [1460]
-[1461]Enraged~ Tamaru challenges them to a match. He
-[1462]disregards Kakeru's warnings~ recklessly plunging in
-[1463]headfirst.
+[1461]Arrabbiato~ Tamaru li sfida ad uno scontro. Decide di
+[1462]ignorare gli avvertimenti di Kakeru~ buttandosi incautamente
+[1463]nella mischia.
 [1464]
-[1465]He puts himself in danger as a result~ but endures~
-[1466]eventually beating the kiddies and restoring Ayumi's
-[1467]site.
+[1465]Come conseguenza si pone in uno stato di pericolo~ ma resiste~
+[1466]ed eventualmente sconfigge i kiddies e recupera il sito
+[1467]di Ayumi.
 [1468]
-[1469]Tamaru goes to tell her it's safe now.
-[1470]However~ Ayumi has become too traumatized towards the
-[1471]net to restart her site~ and doesn't return his
-[1472]feelings. Tamaru finds himself at a loss for words.
+[1469]Tamaru va quindi a dirle che adesso e' sicuro.
+[1470]Tuttavia~ Ayumi ha subito troppi traumi dalla rete
+[1471]per voler riavviare il suo sito~ e non e' felice come
+[1472]lui. Tamaru si ritrova quindi senza parole.
 [1473]
-[1474]But--
-[1475]People around the world who know what happened send
-[1476]encouraging messages to Ayumi.
+[1474]Ma--
+[1475]Persone da tutto il mondo che hanno saputo che cosa e' successo
+[1476]hanno deciso di mandare messaggi di incoraggiamento ad Ayumi.
 [1477]
-[1478]The internet is not only full of malice.
-[1479]There is unconditional kindness~ too.
-[1480]Ayumi decides to reopen her site~ and they discover
-[1481]that she also attends Kaigyou.
+[1478]La rete Internet non e' solo piena di malizia.
+[1479]Esiste anche un'illimitata gentilezza~ too.
+[1480]Ayumi decide di riaprire il suo sito~ e loro scoprono
+[1481]che lei e' anche una studentessa della Kaigyou.
 [1482]
-[1483]When the two of them meet~ the one who appears in front
-[1484]of the nervously waiting Tamaru is a boy. Ayumi was a
-[1485]Guy In Real Life.
+[1483]Quando loro due si sono incontrati~ la persona che appare davanti
+[1484]ad un Tamaru che attendeva nervosamente e' un ragazzo. Ayumi era
+[1485]un ragazzo nella vita reale.
 [1486]
-[1487]And thus~ Tamaru's first love (?)goes down in flames.
+[1487]E dunque~ il primo amore di Tamaru (?) crolla tra le fiamme.
 [1488]
 [1489]
 [1490]RaiNet Kakeru ■Access No. 11
-[1491]″Prince of J~ redux″
+[1491]″Principe di J~ redux″
 [1492]
-[1493]J starts another cyberterror incident.
-[1494]Kakeru starts off in pursuit~ but is repelled by the
-[1495]enemy.
-[1496]He and his friends are struck with a freeze program by
-[1497]the Monster Program ″Vaios.″
+[1493]J causa un altro incidente cyber-terroristico.
+[1494]Kakeru inizia l'inseguimento~ ma viene respinto dal
+[1495]nemico.
+[1496]Lui e i suoi amici sono fermati da un programma freeze lanciato dal
+[1497]Monster Program ″Vaios.″
 [1498]
-[1499]While they're left defenseless~ J talks to Kakeru via
-[1500]voice chat.
+[1499]Mentre sono senza difese~ J parla a Kakeru tramite
+[1500]chat vocale.
 [1501]
 [1502][J]
-[1503]″Kakeru~ why do you try to stop me?″
+[1503]″Kakeru~ perche' stai provando a fermarmi?″
 [1504]
 [1505][Kakeru]
-[1506]″Why are you doing this!? Is suffering really that fun
-[1507]for you!?″
+[1506]″Perche' lo stai facendo!? La sofferenza e' cosi' divertente
+[1507]per te!?″
 [1508]
-[1509]J's answer is that he is merely testing his own power.
-[1510]To see if he can break the unbreakable~ steal the
-[1511]unstealable. To test himself... is that not why Kakeru
-[1512]became a Net Guardian?
+[1509]La risposta di J e' che lui sta solamente testando la propria potenza.
+[1510]Per vedere se e' in grado di spezzare cio' che non puo' essere spezzato~ 
+[1511]rubare cio' che non puo' essere rubato. Per testarsi... non e' forse il 
+[1512]motivo per cui Kakeru e' diventato un Net Guardian?
 [1513]
-[1514]Kakeru says that's not true. After saying that Kakeru's
-[1515]not being honest~ J departs.
+[1514]Kakeru dice che non e' vero. Dopo aver detto che Kakeru
+[1515]non e' onesto~ J sparisce.
 [1516]
-[1517]After hearing J's words~ Kakeru finds himself wavering~
-[1518]wondering why he really became a Net Guardian. He
-[1519]wanted to make use of his brilliant knowledge and
-[1520]technique handed down to him by his father.
+[1517]Dopo aver sentito le parole di J~ Kakeru si ritrova pieno di dubbi~
+[1518]chiedendosi per quale motivo e' diventato un Net Guardian. Voleva
+[1519]fare uso della sua brillante conoscenza e tecnica che gli e' stata
+[1520]consegnata da suo padre.
 [1521]
-[1522]He didn't gain power with the goal of becoming a
-[1523]Guardian.
+[1522]Non ha raggiunto questo livello con l'obiettivo di diventare un
+[1523]guardiano.
 [1524]
 [1525][Kakeru]
-[1526]″Did I become a Guardian just to test my own power?″
+[1526]″Sono diventato un Guardiano solo per testare le mie abilita'?″
 [1527]
-[1528]Kakeru is troubled. Sitting in front of his computer~
-[1529]he doubts his own heart.
+[1528]Kakeru e' turbato. Sedendosi di fronte al suo computer~
+[1529]dubita il suo stesso cuore.
 [1530]
-[1531]Without Kakeru's interference~ J's invasion reaches the
-[1532]Japanese Traffic Ministry's main computer.
+[1531]Senza l'interferenza di Kakeru~ l'invasione di J raggiunge il
+[1532]computer principale del Ministero dei Trasporti Giapponesi.
 [1533]
-[1534]Accidents are happening everywhere. While tragic
-[1535]news-flashes continue~ Kakeru is unable to fight back.
+[1534]In ogni parte si verificano incidenti. Mentre notizie tragiche continuano a
+[1535]vedersi ai telegiornali~ Kakeru non si sente in grado di combattere.
 [1536]
-[1537]One report catches his eye. Someone's father has died.
-[1538]The circumstances also seem familiar to him.
+[1537]Una notizia cattura il suo occhio. Il padre di qualcuno e' morto.
+[1538]Le circostanze sembrano anche familiari a lui.
 [1539]
-[1540]Snapping out of it~ Kakeru turns back to his keyboard.
-[1541]The battle between Kakeru and J begins anew.
+[1540]Tornando in se~ Kakeru ritorna alla sua tastiera.
+[1541]La battaglia tra Kakeru e J ricomincia di nuovo.
 [1542]
 [1543]
 [1544]RaiNet Kakeru ■Access No. 12
-[1545]″Upa Awakens″
+[1545]″Il risveglio di Upa″
 [1546]
-[1547]J unleashes his monster program repeatedly.
-[1548]Kakeru's fighting spirit returns. Unfortunately~ he
-[1549]still has no idea how to use Upa's Monster Program.
+[1547]J rilascia il suo Monster Program ripetutamente.
+[1548]Lo spirito da combattente di Kakeru ritorna. Sfortunatamente~ non
+[1549]ha ancora idea su come utilizzare il Monster Program di Upa.
 [1550]
-[1551]While outnumbered~ Kakeru realizes something.
-[1552]The way to awaken Upa... His father once mentioned
-[1553]something about it.
+[1551]Mentre in inferiorita' numerica~ Kakeru realizza qualcosa.
+[1552]Il modo per risvegliare Upa... Suo padre ha menzionato qualcosa
+[1553]al riguardo una volta.
 [1554]
 [1555][Kakeru's Father]
-[1556]″Never sink to underhanded techniques.
-[1557]True strength is in the cards.″
+[1556]″Non affidarti a tecniche subdole.
+[1557]La vera forza sta nelle carte.″
 [1558]
-[1559]The way to awaken Upa is to seal the entirety of his
-[1560]program into a RaiNet Card~ producing an attack card.
+[1559]Il modo per risvegliare Upa sta nel sigillare l'intero
+[1560]programma in una RaiNet Card~ producendo una carta di attacco.
 [1561]
-[1562]Since taking Upa out of the computer means uninstalling
-[1563](killing)him~ Kakeru knows it's risky. However~
-[1564]Operation Awaken Upa is a huge success!
+[1562]Visto che prendere Upa dal computer vuol dire disinstallarlo
+[1563](ucciderlo)~ Kakeru sa che questa e' una operazione rischiosa.
+[1564]Tuttavia~ L'operazione Risveglia Upa e' un grande successo!
 [1565]
-[1566]Upa's power increases beyond comprehension.
-[1567]While Kakeru's overwhelming technique and Upa's
-[1568]awakened power manage to overcome J~ he manages to find
-[1569]an opening and flee.
+[1566]La potenza di Upa cresce aldila' di qualunque aspettativa.
+[1567]Mentre la straordinaria tecnica di Kakeru e la forza risvegliata
+[1568]di Upa riescono a ottenere il vantaggio su J~ questo riesce a
+[1569]trovare una apertura e fuggire.
 [1570]
-[1571]J sends the words ″That was fun″ to Kakeru's chat
-[1572]window~ angering him.
+[1571]J manda le parole ″E' stato divertente″ alla finestra della chat
+[1572]di Kakeru~ facendolo arrabbiare.
 [1573]
-[1574]As if nothing happened~ Upa returns to being a cute
-[1575]desktop accessory.
+[1574]Come se non fosse successo niente~ Upa ritorna a essere un
+[1575]adorabile accessorio per il desktop.
 [1576]
-[1577]Cyber Dragon saw it all. He looks at how they've grown~
-[1578]pleased.
+[1577]Cyber Dragon ha visto tutto. Osserva come sono cresciuti~
+[1578]con sguardo felice.
 [1579]
 [1580][Cyber Dragon]
-[1581]″Persevere~ Kakeru--″
+[1581]″Persevera~ Kakeru--″
 [1582]
-[1583]Although J regrettably escaped~ Cyber Dragon felt that
-[1584]Kakeru and friends had grown. What is Cyber Dragon's
-[1585]true identity!?
+[1583]Anche se J e' riuscito a fuggire~ Cyber Dragon ha capito che
+[1584]Kakeru e i suoi amici sono cresciuti. Quale e' la vera identita'
+[1585]di Cyber Dragon!?
 [1586]
 [1587]
-[1588](Next Episode)
+[1588](Prossimo episodia)
 [1589]
-[1590]There are still many hackers aiming for the world of
-[1591]the internet.
+[1590]Esistono ancora molti hacker che puntano al mondo di
+[1591]Internet.
 [1592]
-[1593]The RaiNet War has just begun!
-[1594]With renewed resolve in our hearts~ we race to protect
-[1595]the order of the net.
+[1593]La RaiNet War e' appena iniziata!
+[1594]Con rinnovata determinazione nei nostri cuori~ combattiamo per
+[1595]proteggere l'ordine della rete.
 [1596]
-[1597]Toward the vast future!!
+[1597]Verso il vasto futuro!!
 [1598]
-[1599]But wait~ what's with this next title!? An elementary
-[1600]school girl!?
+[1599]Ma aspetta~ che cosa dice questo nuovo titolo!? Una ragazza
+[1600]della scuola elementare!?
 [1601]
 [1602]RaiNet Kakeru ■Access No. 13
-[1603]″Legendary elementary schoolgirl hacker~ Will China~
-[1604]goes to Japan!″
+[1603]″Leggendaria ragazza hacker delle elementari~ Will China~
+[1604]va in Giappone!″
 [1605]
-[1606]Until next time~ Dual Access!
+[1606]Fino alla prossima volta~ Dual Access!
 [1607]
 [1608]
 [1609]229 :[color index="8E0000"]JOHN TITOR◆f8VuYnoyWU[color index="800000"]:2010/07/29(Thu) 15:04:29 ID:4Co5c6io0
 [1610]
-[1611]     I see that everyone would like to know more about my time machine.
-[1612]     I'm happy to explain.
-[1613]     Just so you know~ it's impossible to reproduce with current technology.
-[1614]     Certain critical components won't exist until SERN invents them in 2034..
+[1611]     Vedo che tutti volete sapere di piu' sulla mia macchina del tempo.
+[1612]     Saro' felice di spiegare.
+[1613]     Per la cronaca~ e' impossibile riprodurla con la tecnologia attuale.
+[1614]     Alcuni componenti critici non esisteranno fino a quando il SERN non li inventera' nel 2034..
 [1615]
-[1616]     Time travel works by altering gravity.
-[1617]     Basically~ you can think of it as using the twin paradox.
-[1618]     But that alone isn't enough to reverse time.
+[1616]     Il viaggio nel tempo funziona alterando la gravita'.
+[1617]     In pratica~ potete pensare a cio' utilizzando il paradosso dei gemelli.
+[1618]     Ma solo quello non e' sufficiente per poter tornare indietro nel tempo.
 [1619]
 [1620]
 [1621]230 :[color index="8E0000"]Anonymous[color index="800000"]:2010/07/29(Thu) 15:05:04 ID:b6ohLRKPO
 [1622]
-[1623]     Still here faker?
-[1624]     ur annoying. Go away.
+[1623]     Ancora qui bugiardo?
+[1624]     k noia. Vattene.
 [1625]
 [1626]
 [1627]231 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:05:13 ID:K3Vie+ Ed0
 [1628]
-[1629]     So your power is gravity control? Not bad~ but still not enough for top
-[1630]     tier power levels.
+[1629]     Quindi la tua abilita' e' il controllo della gravita'? Non male~ ma non sufficiente per
+[1630]     il top dei livelli di potenza.
 [1631]
 [1632]
 [1633]232 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:05:57 ID:twA9Im/8O
 [1634]
-[1635]     The twin paradox? Is that like the Urashima effect?
-[1636]     That's just slowing time down~ not reversing it.
+[1635]     Il paradosso dei gemelli? E' come l'effetto Urashima?
+[1636]     Semplicemente rallenti il tempo~ non lo inverti.
 [1637]
 [1638]
 [1639]233 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:06:11 ID:XCOl4WFG0
 [1640]
-[1641]     Who gives a shit about the time machine?
-[1642]     Give me stock prices!
+[1641]     Chi cazzo se ne frega della macchina del tempo?
+[1642]     Dammi i prezzi delle azioni!
 [1643]
 [1644]
 [1645]234 :[color index="8E0000"]Hououin Kyouma[color index="800000"]:2010/07/29(Thu) 15:06:39 ID:1Kz7Z7Sn0
 [1646]
 [1647]     [rubyBase]>>229[rubyTextEnd]
 [1648]
-[1649]     It uses Tipler Cylinders and Kerr Black Holes~ doesn't it?
-[1650]     Just like you said ten years ago!
-[1651]     And your time machine is a 1970s [color index="8C0000"]Chevy[color index="800000"]!
-[1652]     I know all of it!
+[1649]     Usa i cilindri di Tipler e i buchi neri di Kerr~ no?
+[1650]     Proprio come hai detto 10 anni fa!
+[1651]     E la tua macchina del tempo e' una [color index="8C0000"]Chevy[color index="800000"] degli anni 70!
+[1652]     So tutto al riguardo!
 [1653]
 [1654]
 [1655]235 :[color index="8E0000"]Anonymous[color index="800000"]:2010/07/29(Thu) 15:07:01 ID:sjCZ8ysE0
 [1656]
 [1657]     [rubyBase]>>229[rubyTextEnd]
 [1658]
-[1659]     Oh god shut the fuck up you disgusting chuuni scum
+[1659]     Oh porca puttana sta zitto disgustoso chuuni
 [1660]
 [1661]
 [1662]236 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:07:23 ID:Lqjl70lsO
 [1663]
 [1664]     [rubyBase]>>232[rubyTextEnd]
-[1665]     The twin paradox and the Urashima effect are different things duh.
+[1665]     Il paradosso dei gemelli e l'effetto Urashima sono due cose diverse pero'.
 [1666]
 [1667]
 [1668]237 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:07:50 ID:2xDTmiuLO
 [1669]
-[1670]     time traveler lol
+[1670]     viaggiatore del tempo lol
 [1671]     john titor lol
 [1672]
 [1673]
 [1674]238 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:08:35 ID:5rtMan8S0
 [1675]
 [1676]     [rubyBase]>>234[rubyTextEnd]
-[1677]     A Chevy's an American car~ right?
-[1678]     I'd rather go German with a BMW lol
+[1677]     Una Chevy e' un auto americana~ giusto?
+[1678]     Preferirei molto di piu' usare una tedesca BMW lol
 [1679]
 [1680]
 [1681]264 :[rubyBase]KuriGohan and Kamehameha[rubyTextEnd]:2010/07/29(Thu) 15:19:38 ID:0WM1H5LT0
 [1682]
 [1683]     [rubyBase]>>234[rubyTextEnd]
 [1684]
-[1685]     By Tipler cylinders~ are you referring to the Tipler machine?
+[1685]     Per cilindri di Tipler~ ti stai riferendo alla macchina di Tipler?
 [1686]     lolwut?
 [1687]
-[1688]     A Tipler cylinder would have to be 10km in diameter~ 1000km long~
-[1689]     have mass equal to the sun~ and revolve 2500 times per second to become a
-[1690]     time machine lol
-[1691]     How do you fit that onto a Chevy?
-[1692]     Even if you could~ a Tipler Machine can't travel farther back in time than
-[1693]     the moment of its creation.
+[1688]     Un cilindro di Tipler dovrebbe avere un diametro di 10km~ 1000km di lunghezza~
+[1689]     avere massa uguale a quella del sole~ e ruotare 2500 volte al secondo per
+[1690]     diventare una macchina del tempo lol
+[1691]     Come lo metteresti in una Chevy?
+[1692]     Anche se potessi farlo~ una macchina di Tipler non puo' viaggiare ad un momento
+[1693]     precedente la sua creazione.
 [1694]
-[1695]     Enough of your delusions
-[1696]     @channel is not your blog
-[1697]     I want to hear from Titor
+[1695]     Basta con i tuoi deliri
+[1696]     @channel non e' il tuo blog
+[1697]     Voglio sentire tutto da Titor
 [1698]
 [1699]
 [1700]265 :[color index="8E0000"]JOHN TITOR◆f8VuYnoyWU[color index="800000"]:2010/07/29(Thu) 15:20:29 ID:4Co5c6io0
 [1701]
-[1702]     This is a surprise.
-[1703]     Does this mean people of this age already know about my time machine?
-[1704]     Did you really encounter me ten years ago?
-[1705]     If so~ then that must have been on another linea di universo.
-[1706]     I~ at least~ have not gone to the year 2000.
+[1702]     Certo che questa e' una sorpresa.
+[1703]     Significa che le persone di questa epoca gia' conoscono dettagli sulla mia macchina del tempo?
+[1704]     Hai davvero incontrato me 10 anni fa?
+[1705]     Se e' cosi'~ allora deve essere successo in un'altra linea di universo.
+[1706]     Io~ almeno~ non sono andato nell'anno 2000.
 [1707]
-[1708]     In any case~ the important point is that a rotating black hole has the same
-[1709]     effect as a Tipler cyclinder.
-[1710]     You can learn more about Kerr black holes by
-[1711]     studying the Penrose diagram or Tipler's calculations.
-[1712]     My time machine works by generating a pair of Kerr black holes.
+[1708]     In ogni caso~ il punto importante e' che un buco nero ruotante ha lo stesso
+[1709]     effetto di un cilindro di Tipler.
+[1710]     Potete apprendere di piu' sui buchi neri di Kerr studiando
+[1711]     il diagramma di Penrose o i calcoli di Tipler.
+[1712]     La mia macchina del tempo funziona generando una coppia di buchi neri di Kerr.
 [1713]
 [1714]
 [1715]266 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:21:06 ID:g0EVX39A0
 [1716]
-[1717]     [color index="8C0000"]In Japanese plz[color index="800000"]
+[1717]     [color index="8C0000"]In giapponese plz[color index="800000"]
 [1718]
 [1719]
 [1720]267 :[color index="8E0000"]Anonymous[color index="800000"]:2010/07/29(Thu) 15:22:26 ID:gigiR1Hh0
 [1721]
-[1722]     Titor came 10 years ago? Source?
+[1722]     Titor era qui 10 anni fa? Fonte?
 [1723]
 [1724]
 [1725]268 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:23:17 ID:K483z8/c0
 [1726]
-[1727]     Wtf are kerr black holes?
-[1728]     Explain using boobies oh erotic one!
+[1727]     Wtf? Che sono i buchi neri di keer?
+[1728]     Spiegalo usando le tette o personaggio erotico!
 [1729]
 [1730]
 [1731]269 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:24:22 ID:odGzF8qBO
 [1732]
-[1733]     I'll pay 1000 yen to ride your time machine.
-[1734]     Not a yen more!
+[1733]     Sono disposto a darti 1000 yen per salire sulla tua macchina del tempo.
+[1734]     Non uno yen di piu'!
 [1735]
 [1736]
 [1737]270 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:24:45 ID:0cc0yP/Q0
 [1738]
 [1739]     [rubyBase]>>268[rubyTextEnd]
 [1740]
-[1741]     Source is Houou-san's delusions lol
-[1742]     Real deal
+[1741]     La fonte e' l'insieme dei deliri di Houou-san lol
+[1742]     Verita'
 [1743]
 [1744]
 [1745]271 :[rubyBase]KuriGohan and Kamehameha[rubyTextEnd]:2010/07/29(Thu) 15:25:34 ID:0WM1H5LT0
 [1746]
-[1747]     He didn't deny it? LOOOOOOOOOOOOOL
-[1748]     All aboard Hououin's crazy train~ prepare for a trainwreck!
+[1747]     Non lo ha negato? LOOOOOOOOOOOOOL
+[1748]     Tutti a bordo del pazzo treno di Hououin~ preparatevi ad un disastro!
 [1749]
-[1750]     Kerr black hole time travel is theoretically possible~ but
+[1750]     I viaggi nel tempo con i buchi neri di Kerr sono teoricamente possibili~ ma
 [1751]
 [1752]
-[1753]     1. How do you get black holes to spin? Don't tell me you wait until you
-[1754]     find one spinning naturally. That's ridiculous.
+[1753]     1. Come fai girare i buchi neri? Non dirmi che aspetti fino a quando non
+[1754]     ne trovi uno che gira naturalmente. E' ridicolo.
 [1755]
-[1756]     2. How do you pass through the [color index="8C0000"]singularity[color index="800000"]?
-[1757]     There's no way a Chevy can withstand the pressure.
+[1756]     2. Come riesci a passare attraverso la [color index="8C0000"]singularita'[color index="800000"]?
+[1757]     Non e' possibile che una Chevy possa sopportare la pressione.
 [1758]
 [1759]
 [1760]272 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:26:00 ID:jPm+ uqabO
 [1761]
-[1762]     Why the short explanations~ John? You stupid? Wanna die?
+[1762]     Perche' fai breve spiegazioni~ John? Sei stupido? Vuoi morire?
 [1763]
 [1764]
 [1765]273 :[color index="8E0000"]Anonymous[color index="800000"]:2010/07/29(Thu) 15:26:08 ID:ZPjtoV5f0
 [1766]
-[1767]     Still no stock prices?(・∀・ )っ/凵⌒☆ *crash*
+[1767]     Ancora niente prezzi delle azioni?(・∀・ )っ/凵⌒☆ *crash*
 [1768]
 [1769]
 [1770]274 :[color index="8E0000"]Hououin Kyouma[color index="800000"]:2010/07/29(Thu) 15:26:54 ID:1Kz7Z7Sn0
 [1771]
-[1772]     This isn't a delusion.
-[1773]     I know for a fact that Titor posted ten years ago.
-[1774]     There's even a book about it. Search the used book stores if you don't
-[1775]     believe me.
+[1772]     Non e' un delirio.
+[1773]     Sono sicuro che Titor abbia scritto qualcosa dieci anni fa.
+[1774]     C'e' anche un libro al riguardo. Cerca nei negozi di libri usati se non
+[1775]     mi credi.
 [1776]
-[1777]     His Chevy has a gravity distortion unit.
-[1778]     That's what he said ten years ago.
+[1777]     La sua Chevy ha una unita' di distorsione gravitazionale.
+[1778]     Questo e' cio' che ha detto dieci anni fa.
 [1779]
 [1780]
 [1781]312 :[color index="8E0000"]JOHN TITOR◆f8VuYnoyWU[color index="800000"]:2010/07/29(Thu) 15:37:55 ID:4Co5c6io0
 [1782]
-[1783]     Yes~ it does have a gravity distortion unit.
-[1784]     My time machine is not perfect. It was built by a third party who
-[1785]     reverse-engineered SERN's design.
-[1786]     The gravity distortion unit is a little unstable.
+[1783]     Si~ ha una unita' di distorsione gravitazionale.
+[1784]     La mia macchina del tempo non e' perfetta. E' stata costruita da un altro gruppo
+[1785]     tramite reverse-engineering del design del SERN.
+[1786]     L'unita' di distorsione gravitazionale e' un po' instabile.
 [1787]
-[1788]     First~ the unit produces a micro singularity~ then injects electrons to
-[1789]     induce rapid rotation.
-[1790]     This generates a local gravity sine wave.
-[1791]     As the time machine passes through the singularity~ the gravity distortion
-[1792]     unit regulates the pressure to ensure safe passage.
-[1793]     I'm not a specialist~ so I cannot explain the mechanics any further.
+[1788]     Per prima cosa~ l'unita' produce una micro singolarita'~ poi inietta elettroni per
+[1789]     indurre una rotazione rapida.
+[1790]     Questo genera una sinusoide gravitazionale locale.
+[1791]     Mentre la macchina del tempo passa attraverso la singolarita'~ l'unita'
+[1792]     di distorsione gravitazionale regola la pressione per assicurare un passaggio sicuro.
+[1793]     Non sono uno specialista~ quindi non sono in grado di spiegare ulteriormente le meccaniche coinvolte.
 [1794]
-[1795]     Let me just say that Kerr black holes can be manufactured.
+[1795]     Fammi dire solo che i buchi neri di Kerr possono essere prodotti.
 [1796]
-[1797]     I assume everyone's aware of SERN's current experiments with black hole
-[1798]     creation.
+[1797]     Assumo che tutti siano consapevoli degli attuali esperimenti del SERN con la creazione dei
+[1798]     buchi neri.
 [1799]
 [1800]
 [1801]313 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:38:28 ID:lofLpstvO
@@ -1806,72 +1806,72 @@
 [1805]
 [1806]314 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 15:38:42 ID:C7QwgBSS0
 [1807]
-[1808]     Unstable? Sounds dangerous.
+[1808]     Instabile? Sembra pericoloso.
 [1809]
 [1810]
 [1811]315 :[color index="8E0000"]Anonymous[color index="800000"]:2010/07/29(Thu) 15:39:31 ID:BrrQolR00
 [1812]
-[1813]     Oh fuck!
-[1814]     Titor's black holes are gonna swallow the Earth!
+[1813]     Oh cazzo!
+[1814]     I buchi neri di Titor inghiottiranno la Terra!
 [1815]
-[1816]     He's not just a mass murderer! He's trying to wipe out the entire human
-[1817]     race!
+[1816]     Non e' solo un omicida di massa! Sta provando a spazzare via l'intera razza
+[1817]     umana!
 [1818]
-[1819]     Find his parents before it's too late!
+[1819]     Trovate i suoi genitori prima che sia troppo tardi!
 [1820]
 [1821]
 [1822]316 :[rubyBase]KuriGohan and Kamehameha[rubyTextEnd]:2010/07/29(Thu) 15:40:27 ID:0WM1H5LT0
 [1823]
-[1824]     It's not that you won't explain~ it's that you can't~ lol.
+[1824]     Non e' che non vuoi spiegare~ e' che non puoi~ lol.
 [1825]
-[1826]     How do you set the destination? The Earth is constantly moving~ or didn't
-[1827]     you know that?
+[1826]     Come imposti la destinazione? La Terra e' in costante movimento~ oppure non
+[1827]     lo sai?
 [1828]
-[1829]     By the way~ I propose the Titor = Hououin theory lol.
+[1829]     Per la cronaca~ propongo la teoria Titor = Hououin lol.
 [1830]
 [1831]
 [1832]379 :[color index="8E0000"]JOHN TITOR◆f8VuYnoyWU[color index="800000"]:2010/07/29(Thu) 16:01:20 ID:4Co5c6io0
 [1833]
-[1834]     I set the destination with the VGL system.
-[1835]     That's Variable Gravity Lock.
-[1836]     It functions by reading the local gravity of the destination and locking
-[1837]     the Tipler sine wave onto that location.
-[1838]     By locking onto Earth's gravity~ it ensures that I don't end up floating in
-[1839]     space.
-[1840]     It uses four cesium clocks to make the calculations~ so the margin of error
-[1841]     is negligible.
+[1834]     Imposto la destinazione con il sistema VGL.
+[1835]     VGL sta per Variable Gravity Lock.
+[1836]     Funziona leggendo la gravita' locale della destinazione e bloccando
+[1837]     la sinusoide di Tipler in quella posizione.
+[1838]     Bloccandolo sulla gravita' della Terra~ si assicura che non finisca a gallegiare nel vuoto
+[1839]     dello spazio.
+[1840]     Usa quattro orologi al cesio per realizzare i calcoli necessari~ cosi' il margine di errore
+[1841]     e' trascurabile.
 [1842]
 [1843]
 [1844]380 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 16:02:03 ID:OSrrA5ca0
 [1845]
-[1846]     Hououin needs to shut up lol
-[1847]     I never heard of any Titor from 10 years ago lol
+[1846]     Hououin deve stare zitto lol
+[1847]     Non ho mai sentito di nessun Titor di 10 anni fa lol
 [1848]
 [1849]
 [1850]381 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 16:02:09 ID:YKFYUVjGO
 [1851]
-[1852]     So the universe is deep in Titor's shit.
+[1852]     Quindi l'universo si trova nella merda di Titor.
 [1853]
 [1854]
 [1855]382 :[color index="8E0000"]Hououin Kyouma[color index="800000"]:2010/07/29(Thu) 16:04:15 ID:1Kz7Z7Sn0
 [1856]
-[1857]     The same information was in the Titor book.
+[1857]     Le stesse informazioni stanno nel libro di Titor.
 [1858]
-[1859]     All you've done is post 10 year old copypasta.
-[1860]     Anyone could do that. How do I know you're the real Titor?
+[1859]     Tutto cio' che hai fatto e' stato postare un copypasta vecchio di 10 anni.
+[1860]     Chiunque puo' farlo. Come faccio a sapere che tu sia il vero Titor?
 [1861]
 [1862]
 [1863]383 :[rubyBase]Anonymous[rubyTextEnd]:2010/07/29(Thu) 16:05:01 ID:yiNxM5tq0
 [1864]
-[1865]     John-tan's so moe. Mai waifu
-[1866]     I recognize different opinions.
+[1865]     John-tan e' cosi' moe. La mia waifu
+[1866]     Leggo diverse opinioni.
 [1867]
 [1868]
 [1869]384 :[rubyBase]KuriGohan and Kamehameha[rubyTextEnd]:2010/07/29(Thu) 16:05:41 ID:0WM1H5LT0
 [1870]
-[1871]     I'm feeling more and more disappointed...
+[1871]     Sento sempre piu' delusione...
 [1872]
-[1873]     Still nothing concrete.
-[1874]     Nice try~ I guess~ but I won't be fooled!
+[1873]     Ancora niente di concreto.
+[1874]     Bel tentativo~ credo~ ma non mi faro' ingannare!
 [1875]
 [1876]
