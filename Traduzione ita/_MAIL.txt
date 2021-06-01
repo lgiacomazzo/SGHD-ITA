@@ -97,7 +97,7 @@
 [96]080X723X963
 [97]Assistente
 [98]080X723X963
-[99]Part-Time Warrior
+[99]Guerriera Part-Time
 [100]080X801X338
 [101]Faris
 [102]090X198X638
@@ -322,7 +322,7 @@
 [321]Hai trovato qualche pista? Assolutamente niente da parte mia. Sono stata in molti negozi~ ma nessuno di loro aveva un IBN 5100 in mostra. Forse dovevo provare a chiedere... Comunque~ fammi sapere se trovi qualcosa. Moeka
 [322]Ciaooo?
 [323]Shining Finger
-[324]Hai ricevuto la mia ultima email? Se l'hai fatto~ allora rispondi ok? Oh~ So cosa fare! Decidiamo un programma. Ci scambieremo informazioni alle 7PM ogni giorno. Come ti pare? Non e' un'ottima idea? Penso che sia ok. Non credi? Fammi sapere. Moeka
+[324]Hai ricevuto la mia ultima email? Se l'hai fatto~ allora rispondi ok? Oh~ Quindi cosa fare! Decidiamo un programma. Ci scambieremo informazioni alle 7PM ogni giorno. Come ti pare? Non e' un'ottima idea? Penso che sia ok. Non credi? Fammi sapere. Moeka
 [325]Re:Trovato qualcosa?
 [326]Shining Finger
 [327]Ho trovato i beni. Passo.
@@ -619,205 +619,205 @@
 [618]
 [619]Re:Molto interessante
 [620]John Titor
-[621]Yes~ I still have my memories from before the past was changed. That's the truth.
+[621]Si~ Ho ancora i miei ricordi di prima che il passato venisse cambiato. E' la verita'.
 [622]Re:Molto interessante
 [623]John Titor
-[624]Yes~ I still have my memories from before the past was changed. That's the truth. Tra parentesi~ questa is actually the second time questa has happened.
+[624]Si~ Ho ancora i miei ricordi di prima che il passato venisse cambiato. E' la verita'. Tra parentesi~ questa e' in realta' la seconda volta che e' successo.
 [625]Re:Molto interessante
 [626]John Titor
-[627]Yes~ I still have my memories from before the past was changed. That's the truth. Tra parentesi~ questa is actually the second time questa has happened. Tu traveled 26 years into your past.
+[627]Si~ Ho ancora i miei ricordi di prima che il passato venisse cambiato. E' la verita'. Tra parentesi~ questa e' in realta' la seconda volta che e' successo. Tu hai viaggiato 26 anni nel passato.
 [628]Re:Molto interessante
 [629]John Titor
-[630]Yes~ I still have my memories from before the past was changed. That's the truth. Tra parentesi~ questa is actually the second time questa has happened. Tu traveled 26 years into your past. Haven't you experienced qualcosa similar?
+[630]Si~ Ho ancora i miei ricordi di prima che il passato venisse cambiato. E' la verita'. Tra parentesi~ questa e' in realta' la seconda volta che e' successo. Tu hai viaggiato 26 anni nel passato. Non hai sperimentato qualcosa di simile?
 [631]Re:Molto interessante
 [632]John Titor
-[633]Yes~ I still have my memories from before the past was changed. That's the truth. Tra parentesi~ questa is actually the second time questa has happened. Tu traveled 26 years into your past. Haven't you experienced qualcosa similar? Inoltre~ what effect do you think my intentional manipulation of the timeline might have?
-[634]Memory
+[633]Si~ Ho ancora i miei ricordi di prima che il passato venisse cambiato. E' la verita'. Tra parentesi~ questa e' in realta' la seconda volta che e' successo. Tu hai viaggiato 26 anni nel passato. Non hai sperimentato qualcosa di simile? Inoltre~ quale effetto pensi che possa avere la mia intenzionale manipolazione della linea temporale?
+[634]Memoria
 [635]John Titor
-[636]I've confirmed that divergence is currently 0.571015%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[637]Re:Memory
+[636]Ho confermato che la divergenza e' attualmente pari a 0.571015%. Non posso dire quale era il valore prima che tu cambiassi il passato. Questo perche' io~ come i tuoi amici~ non ho memoria della linea di universo prima che tu cambiassi il passato. Nel caso di un viaggio nel tempo piu' fisico~ le memorie rimangono anche se la linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ il ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[637]Re:Memoria
 [638]John Titor
 [639]
-[640]Re:Memory
+[640]Re:Memoria
 [641]John Titor
-[642]How esattamente do you measure divergence?
-[643]Re:Memory
+[642]Come fai esattamente a misurare la divergenza?
+[643]Re:Memoria
 [644]John Titor
-[645]How esattamente do you measure divergence? Dove do those numbers come from?
-[646]The many-mondi interpretation
+[645]Come fai esattamente a misurare la divergenza? Da dove arrivano questi numeri?
+[646]L'interpretazione dei molti mondi
 [647]John Titor
-[648]Strictly speaking~ I was not being entirely accurate quando I wrote that the Everett-Wheeler model is accepted in my time. The first functional time machine was completed in 2034. In the two years following that breakthrough~ our understanding of the universe's structure grew dramatically. In 2036~ scientists proved that the universe is comprised of ″attractor fields~″ which describe the extent of linea di universo convergence. This theory was first proposed in 2020.
-[649]Re:Re:Memory
+[648]A rigor di termini~ non sono stato proprio preciso quando ho scritto che il modello di Everett-Wheeler e' stato dimostrato nella mia epoca. La prima macchina del tempo funzionante e' stata completata nel 2034. Nei due anni successivi a questa scoperta rivoluzionaria~ la nostra conoscenza della struttura dell'universo e' cresciuta drammaticamente. Nel 2036~ gli scienziati hanno dimostrato che l'universo e' formato da ″campi attrattori~″ i quali descrivono la misura della convergenza della linea di universo. Questa teoria e' stata proposta per la prima volta nel 2020.
+[649]Re:Re:Memoria
 [650]John Titor
-[651]Scusa~ I forgot to answer your question. I have a meter that measures divergence. A reading of 0% divergence corresponds to the linea di universo I originally came from. In altre parole~ it's a subjective~ not absolute measurement. This tool can only indicate the ″current″ divergence.
-[652]Re:The many-mondi interpretation
+[651]Scusa~ ho dimenticato di rispondere alla tua domanda. Ho un misuratore in grado di misurare la divergenza. Una divergenza pari a 0% corrisponde alla linea di universo da cui provengo. In altre parole~ e' una misura soggettiva~ non assoluta. Questo strumento puo' indicare solo la ″attuale″ divergenza.
+[652]Re:L'interpretazione dei molti mondi
 [653]John Titor
 [654]
-[655]Re:The many-mondi interpretation
+[655]Re:L'interpretazione dei molti mondi
 [656]John Titor
-[657]Per favore explain these attractor fields.
-[658]Re:The many-mondi interpretation
+[657]Per favore spiega cosa sono questi campi attrattori.
+[658]Re:L'interpretazione dei molti mondi
 [659]John Titor
-[660]Per favore explain these ″attractor fields.″ How do they affect linea di universos?
-[661]Observing convergence
+[660]Per favore spiega cosa sono questi ″campi attrattori.″ Come riescono a influenzare le linee di universo?
+[661]Osservare la convergenza
 [662]John Titor
-[663]Put simply~ attractor fields are the focal points of linea di universo convergence. Their existence is responsible for phenomena previously known as ″fate″ e ″chance″. There's no real point making small changes to a linea di universo. Due to convergence~ small changes do not have a lasting influence. Humans who can observe convergence are exceedingly rare. I haven't met anyone with that ability myself~ quindi Sono unqualified to give you an accurate appraisal~ ma you~ Kyouma~ might be one such individual. Tu might have the power to observe convergence. Tu might be the one who can guide us to a linea di universo beyond 1% divergence~ across the wall that divides attractor fields.
-[664]Re:Observing convergence
+[663]Per farla semplice~ i campi attrattori sono i punti focali della convergenza della linea di universo. La loro esistenza e' responsabile per il fenomeno conosciuto precedentemente come ″destino″ e ″caso″. Non ha alcun senso applicare piccoli cambiamenti ad una linea di universo. A causa della convergenza~ piccoli cambiamenti non hanno alcun impatto duraturo. Gli umani che possono osservare la convergenza sono incredibilmente rari. Non ho incontrato nessuno non quella abilita' io stesso~ quindi non sono qualificato per darti una valutazione accurata~ ma tu~ Kyouma~ potresti essere una persona di questo tipo. Forse tu hai il potere di osservare la convergenza. Tu potresti essere colui che ci guidera' ad una linea di universo oltre la divergenza dell'1%~ oltre il muro che divide i campi attrattori.
+[664]Re:Osservare la convergenza
 [665]John Titor
 [666]
-[667]Re:Observing convergence
+[667]Re:Osservare la convergenza
 [668]John Titor
-[669]What is beyond the wall?
-[670]Re:Observing convergence
+[669]Cosa c'e' oltre il muro?
+[670]Re:Osservare la convergenza
 [671]John Titor
-[672]What is beyond the wall? What will happen quando we cross it?
-[673]The future
+[672]Cosa c'e' oltre il muro? Cosa succedera' quando lo attraverseremo?
+[673]Il futuro
 [674]John Titor
-[675]If we cross the wall~ we will have freedom. If we do not~ then the dystopia I came from will be your future. In exchange for providing false peace e joy~ your masters will stamp out every last vestige of free will. As I hai detto on @channel~ my goal is to change that future. And you may be the one who can make that possible.
-[676]Future 2
+[675]Se attraverseremo il muro~ avremo la vera' liberta'. Se non lo faremo~ allora la distopia da cui provengo sara' il vostro futuro. In cambio della false pace e gioia~ i vostri padroni elimineranno ogni singola traccia di libero arbitrio. Come ho detto su @channel~ il mio obiettivo e' cambiare quel futuro. E tu potresti essere colui che rendera' possibile questo obiettivo.
+[676]Futuro 2
 [677]John Titor
-[678]Kyouma~ I want you      to be the Messiah.   If the same thing happens to you again~ per favore contact me once di piu'. That moment will prove that you are the Messiah.
-[679]Favor
+[678]Kyouma~ Voglio che tu sia il Messia. Se quello che ti e' successo si verifichera' di nuovo~ per favore contattami di nuovo. Quel momento provera' che tu sei il Messia.
+[679]Favore
 [680]Shining Finger
-[681]Can I send a D-Mail too? Per favore? Moeka
-[682]Can I?
+[681]Posso mandare anche io una D-Mail? Per favore? Moeka
+[682]Posso?
 [683]Shining Finger
-[684]Per favore rispondi. Sono a lab mem too~ giusto? Per favore! Moeka
-[685]Sono
+[684]Per favore rispondi. Faccio parte del lab anche io~ giusto? Per favore! Moeka
+[685]Faccio
 [686]Shining Finger
-[687]a lab mem too~ aren't I? Moeka
-[688]Re:Sono
+[687]parte del lab anche io~ giusto? Moeka
+[688]Re:Faccio
 [689]Shining Finger
-[690]Indeed you are. Lab Member 005~ Shining Finger! Report to the lab at once.
+[690]Ovviamente. Lab Member 005~ Shining Finger! Fai subito rapporto al laboratorio.
 [691]Mi dispiace
 [692]Shining Finger
-[693]I know it's selfish~ ma I really need to send a D-Mail. Moeka
-[694]Not just that
+[693]Lo so che e' da egoisti~ ma devo davvero mandare una D-Mail. Moeka
+[694]Non e' solo questo
 [695]Shining Finger
-[696]Mi dispiace. There's one di piu' thing. I want to keep my message secret. Moeka
-[697]I mean...
+[696]Mi dispiace. Non posso dirti tutto. Voglio tenere il mio messaggio segreto. Moeka
+[697]Voglio dire...
 [698]Shining Finger
-[699]It's private... It would be embarrassing if anyone knew. Moeka
+[699]E' privato... Sarebbe imbarazzante se qualcuno lo scoprisse. Moeka
 [700]Um
 [701]Shining Finger
-[702]Can I see the D-Mails you've sent quindi far? I want to use them as a reference. Moeka
+[702]Posso vedere le D-Mail che hai spedito fino ad ora? Voglio usarle come riferimento. Moeka
 [703]Roger
 [704]Shining Finger
-[705]I don't need vedere the history. And I'll show you the message before I send it. Is that ok? Moeka
-[706]The plan
+[705]Non devo vedere la storia. E ti mostrero' il messaggio prima di spedirlo. Ti va bene? Moeka
+[706]Il piano
 [707]Shining Finger
-[708]About four days ago~ I bought a new phone. But now that Ho provato it~ I think I should have stayed with the old one. So I want to use a D-Mail to tell myself not to buy a new phone. If we do that~ the phone Sono holding will change~ won't it? Moeka
-[709]It's me!
+[708]Circa quattro giorni fa~ Ho comprato un nuovo cellulare. Ma ora che l'ho provato~ penso che il vecchio cellulare fosse migliore. Quindi voglio usare una D-Mail per dire a me stessa di non comprare un nuovo telefono. Se facciamo cosi'~ il telefono che ho in mano cambiera'~ non e' vero? Moeka
+[709]Sono io!
 [710]Shining Finger
-[711]Reply the second you read questa email.
-[712]Hello
+[711]Rispondi nel momento in cui leggi questa email.
+[712]Ciao
 [713]Shining Finger
-[714]Cosa e' wrong? Sono kind of busy now. Scusa. I'll email you later. Moeka
-[715]Plans for Saturday
+[714]Cosa c'e' che non va? Sono abbastanza impegnata. Scusa. Ti mandero' una email piu' tardi. Moeka
+[715]Piani per sabato
 [716]Assistente
-[717]We need to have an urgent meeting tomorrow~ quindi all lab mems assemble at the lab by 1 PM. This meeting is mandatory. Be sure to come!
-[718]Urgent
+[717]Dobbiamo tenere un incontro urgente domani~ quindi tutti i membri del lab si devono riunire al lab per le 13. Questo incontro e' obbligatorio. Dovete venire!
+[718]Urgente
 [719]Shining Finger
-[720]Ho un IBN 5100. Did sai?
-[721]What?
+[720]Ho un IBN 5100. Lo sai?
+[721]Cosa?
 [722]Shining Finger
-[723]Tu're not making any sense. Per favore explain. Did you really find un IBN 5100? Dove? Moeka
-[724]Alright already
+[723]Quello che stai dicendo non ha senso. Spiegami per favore. Hai davvero trovato un IBN 5100? Dove? Moeka
+[724]Tutto bene
 [725]Shining Finger
-[726]Just dirmi riguardo the IBN 5100. Moeka
+[726]E parlami allora dell'IBN 5100. Moeka
 [727]
 [728]patghqwskm@ninesixpbb.com
-[729]We're watching you.
-[730]Giving it straight
+[729]Noi ti osserviamo.
+[730]Dritto al punto
 [731]Daru
-[732]I have a thing today~ quindi I'll pass sul meeting.
+[732]Ho un evento oggi~ quindi passero' per questa volta.
 [733]EUREKA
-[734]Part-Time Warrior
-[735]Going to infiltrate now. What should I do? Sono quindi nervous!  I can't see my own heart~ like peeking through frosted glass.  Wish me luck. Over e out.
+[734]Guerriera Part-Time
+[735]Sto per infiltrarmi. Cosa dovrei fare? Sono cosi' nervosa! Non posso vedere il mio cuore~ e' come guardare attraverso il vetro satinato. Augurami buona fortuna. Passo e chiudo.
 [736]Scusa
-[737]Part-Time Warrior
-[738]Goodbye.
+[737]Guerriera Part-Time
+[738]Addio.
 [739]
 [740]Microonde Telefonico
-[741]Don't listen to Chris pursue Suzuha!
+[741]Non ascoltare Chris segui Suzuha!
 [742]
 [743]Hououin Kyouma
-[744]Don't listen to Chris pursue Suzuha!
+[744]Non ascoltare Chris segui Suzuha!
 [745]
 [746]Microonde Telefonico
-[747]Don't listen to Chris pursue Suzuha!
+[747]Non ascoltare Chris segui Suzuha!
 [748]
 [749]Hououin Kyouma
-[750]rsue Suzuha!
+[750] Suzuha!
 [751]
 [752]Hououin Kyouma
-[753] to Chris pu
+[753]e Chris segui
 [754]
 [755]Hououin Kyouma
-[756]Don't listen
+[756]Non ascoltar
 [757]lolwut
 [758]Daru
-[759]Check the news~ Okarin! That satellite up e e' scomparsa! Oh noes lololol
-[760]Disappeared
+[759]Guarda i telegiornali~ Okarin! Quel satellite lassu' e' scomparso! Oh no lololol
+[760]Scomparso
 [761]Mayuri
-[762]They say that satellite e' scomparsa... I wonder what happened. Did it fly away? It's like a magic trick ヘ(>ロ<)ノ Bene~ goodnightミ☆
-[763]Personal question
+[762]Hanno detto che quel satellite e' scomparso... Mi chiedo cosa sia successo. E' volato via? Sembra un trucco di magia ヘ(>ロ<)ノ Bene~ buonanotteミ☆
+[763]Domanda personale
 [764]John Titor
-[765]Do you have a daughter named Suzuha? Or do sai someone named Barrel Titor? If you do~ contact me. She's looking per te.
-[766]The time machine
+[765]Hai una figlia chiamata Suzuha? Oppure conosci qualcuno chiamato Barrel Titor? Se lo sai~ contattami. Lei ti sta cercando.
+[766]La macchina del tempo
 [767]Shining Finger
-[768]What happened to the time machine? Moeka
-[769]The time machine
+[768]Cosa e' successo alla macchina del tempo? Moeka
+[769]La macchina del tempo
 [770]Shining Finger
-[771]Sei ancora using it? Did you figure out come it works? Moeka
-[772]Cosa e' that?
+[771]La stai ancora utilizzando? Sei riuscito a capire come funziona? Moeka
+[772]Cosa e' quello?
 [773]Shining Finger
-[774]Cosa e' a time leap? Dimmelo di piu'! Moeka
-[775]What is it!?
+[774]Cosa e' un salto nel tempo? Dimmi di piu'! Moeka
+[775]Che cosa e'!?
 [776]Shining Finger
-[777]Cosa e' a time leap!? Moeka
+[777]Cosa e' un salto nel tempo!? Moeka
 [778]Wow
 [779]Shining Finger
-[780]That's amazing. Tu've made a real breakthrough. Congratulations. When will it be finished? Moeka
+[780]E' fantastico. Hai realizzato una grande scoperta. Congratulazioni. Quando sara' finita? Moeka
 [781]
 [782]patghqwskm@ninesixpbb.com
-[783]Tu know too much.
+[783]Tu sai troppo.
 [784]Okabe-kun
 [785]Shining Finger
-[786]We need to talk. Heading over now~ ok? Moeka
+[786]Dobbiamo parlare. Mi sto muovendo li'~ ok? Moeka
 [787]Top Secret
 [788]Shining Finger
-[789]I have information sul time machine. It's very important~ quindi we need to talk alone. How riguardo the roof of Radio Kaikan at five? Tu must come alone. We can't talk otherwise.
+[789]Ho delle informazioni sulla macchina del tempo. E' molto importante~ quindi dobbiamo parlare da soli. Che ne dici del tetto della Radio Kaikan alle cinque? Devi venire da solo. Altrimenti non parleremo.
 [790]Domanda
 [791]Assistente
-[792]Tu sei sure I can finish the Time Leap Machine in a day? We still haven't found our lifter substitute~ ricordi? I can't complete the upgrade without it.
+[792]Tu sei sicuro che io possa finire la Macchina per il Salto nel Tempo in un giorno? Non abbiamo ancora trovato il sostituto per il Lifter~ ricordi? Non posso completare l'aggiornamento senza.
 [793]Re:Domanda
 [794]Assistente
-[795]Our lifter is the 42-inch CRT downstairs. The electrical discharge phenomenon occurs quando it's turned on. So don't worry riguardo it. Just finish the upgrade.
+[795]Il nostro Lifter e' il monitor CRT da 42 pollici che sta al piano di sotto. Il fenomeno della scarica elettrica si verifica quando il monitor e' acceso. Quindi non preoccuparti. Finisci l'aggiornamento.
 [796]Grazie
 [797]John Titor
-[798]Goodbye.
+[798]Addio.
 [799]
 [800]Microonde Telefonico
 [801]
 [802]
 [803]Microonde Telefonico
-[804]Stop pursuit
+[804]Ferma ricerca
 [805]
 [806]Microonde Telefonico
-[807]Stop pursuit last mail
+[807]Ferma ricerca ultima mail
 [808]
 [809]Microonde Telefonico
-[810]Stop pursuit last mail is SERN trap
+[810]Ferma ricerca ultima mail trappola SERN
 [811]
 [812]Hououin Kyouma
-[813]s SERN trap
+[813]trappola SERN
 [814]
 [815]Hououin Kyouma
-[816] last mail i
+[816] ultima mail 
 [817]
 [818]Hououin Kyouma
-[819]Stop pursuit
+[819]Ferma ricerca
 [820]
 [821]Faris
 [822]
@@ -826,76 +826,76 @@
 [825]
 [826]Per favore rispondi!
 [827]Faris
-[828]It's Okabe!
+[828]Sono Okabe!
 [829]Per favore rispondi!
 [830]Faris
-[831]It's Okabe! It's urgent! Contattami!
+[831]Sono Okabe! E' urgente! Contattami!
 [832]Per favore rispondi!
 [833]Faris
-[834]It's Okabe! It's urgent! Contattami! There's no time!
-[835]Per favore contact me
+[834]Sono Okabe! E' urgente! Contattami! Non c'e' tempo!
+[835]Per favore contattami
 [836]Faris
-[837]Faris! Per favore pick up o email me back!
-[838]Did you get my email?
+[837]Faris! Per favore rispondi o mandami una mail!
+[838]Hai ricevuto la mia email?
 [839]Faris
-[840]We need to talk ASAP. It's urgent!
+[840]Dobbiamo parlare ASAP. E' urgente!
 [841]Dove sei tu!?
 [842]Faris
-[843]Dove sei tu now? It's Okabe. Kyouma. Per favore answer!
+[843]Dove sei tu ora? Sono Okabe. Kyouma. Per favore rispondi!
 [844]
 [845]Daru
 [846]
-[847]Help!
+[847]Aiuto!
 [848]Daru
 [849]
-[850]Help!
+[850]Aiuto!
 [851]Daru
-[852]Faris e I are hiding above Ramen Tasaburou.
-[853]Help!
+[852]Faris e io siamo attualmente nascosti sopra il Ramen Tasaburou.
+[853]Aiuto!
 [854]Daru
-[855]Faris e I are currently hiding above Ramen Tasaburou. It's mostly empty with some sacks of wheat flour.
-[856]Help!
+[855]Faris e io siamo attualmente nascosti sopra il Ramen Tasaburou. E' abbastanza vuoto con alcuni sacchi di farina di grano.
+[856]Aiuto!
 [857]Daru
-[858]Faris e I are currently hiding above Ramen Tasaburou. It's mostly empty with some sacks of wheat flour. Nothing that looks useful as a weapon~ e nothing big enough to hide behind.
-[859]Help!
+[858]Faris e io siamo attualmente nascosti sopra il Ramen Tasaburou. E' abbastanza vuoto con alcuni sacchi di farina di grano. Niente che sembra utile come arma~ e niente grande abbastanza dietro cui nascondersi.
+[859]Aiuto!
 [860]Daru
-[861]Faris e I are currently hiding above Ramen Tasaburou. It's mostly empty with some sacks of wheat flour. Nothing that looks useful as a weapon~ e nothing big enough to hide behind. The Viral Attackers are chasing us~ e Non credo che they can be reasoned with.
-[862]Help!
+[861]Faris e io siamo attualmente nascosti sopra il Ramen Tasaburou. E' abbastanza vuoto con alcuni sacchi di farina di grano. Niente che sembra utile come arma~ e niente grande abbastanza dietro cui nascondersi. I Viral Attackers ci stanno inseguendo~ e non credo di poter ragionare con loro.
+[862]Aiuto!
 [863]Daru
-[864]Faris e I are currently hiding above Ramen Tasaburou. It's mostly empty with some sacks of wheat flour. Nothing that looks useful as a weapon~ e nothing big enough to hide behind. The Viral Attackers are chasing us~ e Non credo che they can be reasoned with. Normally I'd have no trouble taking on all of them~ ma I can't use my full strength with Faris nearby.
-[865]Help!
+[864]Faris e io siamo attualmente nascosti sopra il Ramen Tasaburou. E' abbastanza vuoto con alcuni sacchi di farina di grano. Niente che sembra utile come arma~ e niente grande abbastanza dietro cui nascondersi. I Viral Attackers ci stanno inseguendo~ e non credo di poter ragionare con loro. Normalmente non avrei problemi ad abbatterli tutti~ ma non posso usare tutta la mia forza con Faris vicina.
+[865]Aiuto!
 [866]Daru
-[867]Faris e I are currently hiding above Ramen Tasaburou. It's mostly empty with some sacks of wheat flour. Nothing that looks useful as a weapon~ e nothing big enough to hide behind. The Viral Attackers are chasing us. They don't seem like the type to listen to reason. Normally I'd have no trouble taking out all of them~ ma I can't use my full strength with Faris nearby. Call us a taxi~ pronto.
+[867]Faris e io siamo attualmente nascosti sopra il Ramen Tasaburou. E' abbastanza vuoto con alcuni sacchi di farina di grano. Niente che sembra utile come arma~ e niente grande abbastanza dietro cui nascondersi. I Viral Attackers ci stanno inseguendo~ e non credo di poter ragionare con loro. Normalmente non avrei problemi ad abbatterli tutti~ ma non posso usare tutta la mia forza con Faris vicina. Chiama un taxi per noi~ pronto.
 [868]
 [869]future-gadget8@hardbank.ne.jp
-[870]JK on ransomI luv u papaSee you presto
+[870]JK su riscattoTi lovvo papaA presto
 [871]
 [872]Lukako
-[873]Okabe-san~  I have qualcosa important to talk to you riguardo. Per favore come to the shrine quando you can. Aspettero'. Per favore.
+[873]Okabe-san~ Ho qualcosa di importante da discutere con te. Per favore vieni al santuario quando puoi. Aspettero'. Per favore.
 [874]
 [875]Lukako
-[876]Okabe-san~  I have qualcosa important to talk to you riguardo. Per favore come to the shrine quando you can. Aspettero'. Per favore.
-[877]Per favore dirmi
+[876]Okabe-san~ Ho qualcosa di importante da discutere con te. Per favore vieni al santuario quando puoi. Aspettero'. Per favore.
+[877]Per favore dimmelo
 [878]Lukako
-[879]Is questa really ok?
+[879]Ti va davvero bene?
 [880]
 [881]Lukako
 [882]
-[883]Everything will be fine
+[883]Tutto andra' bene
 [884]Lukako
-[885]This was my choice. Tu don't have to worry riguardo a thing.
-[886]It's Okabe
+[885]Questa e' la mia scelta. Tu non devi proprio preoccupartene.
+[886]Sono Okabe
 [887]Shining Finger
-[888]Can we meet now? I've got some urgent business.
-[889]Sono off!
+[888]Possiamo incontrarci? Ho degli affari urgenti da completare.
+[889]Sono fuori!
 [890]Mayuri
-[891]Morning~ Okarin♪ Sono heading off now.
-[892]Headed out
+[891]Buongiorno~ Okarin♪ Sto uscendo fuori.
+[892]Uscita fuori
 [893]Assistente
-[894]Joined up with Mayuri. We're heading out to Ariake.  Kinda excited lol
-[895]So many people
+[894]Sono con Mayuri. Stiamo andando ad Ariake. Abbastanza entusiasta lol
+[895]Quindi molte persone
 [896]Assistente
-[897]I aveva no idea it would be questa crowded. Save me! orz
+[897]Non avevo idea che fosse cosi' affollato. Salvami! orz
 [898]
 [899]FB
 [900]FBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFB
@@ -907,7 +907,7 @@
 [906]
 [907]
 [908]future-gadget8@hardbank.ne.jp
-[909]Model changeDo it now!!!B4 sold out!
+[909]Cambio modelloFallo ora!!!Prima del sold out!
 [910]
 [911]
 [912]
@@ -916,7 +916,7 @@
 [915]
 [916]
 [917]future-gadget8@hardbank.ne.jp
-[918]GG01 rocks! Switch now o regret it!
+[918]GG01 rockeggia! Cambia ora o te ne pentirai!
 [919]
 [920]
 [921]
@@ -925,82 +925,82 @@
 [924]
 [925]
 [926]future-gadget8@hardbank.ne.jp
-[927]Change now! Ur phone is cursed!
+[927]Cambia ora! Il tuo telefono e' maledetto!
 [928]
 [929]
 [930]
 [931]
 [932]
-[933]Do NOT go!! Not @shrine!It's a trap!
+[933]NON andare!! No @santuario!E' una trappola!
 [934]
 [935]future-gadget8@hardbank.ne.jp
-[936]Do NOT go!! Not @shrine!It's a trap!
-[937]Favor to ask
+[936]NON andare!! No @santuario!E' una trappola!
+[937]Favore da chiedere
 [938]Daru
-[939]Tu know the coin locker in front of Daibiru? I need you to check if the big locker sul lower-giusto is in use. Per favore. This is very important.
-[940]Found it
+[939]Conosci il coin locker davanti a Daibiru? Devi controllare se il grande armadietto in basso a destra e' utilizzato. Per favore. Cio' e' molto importante.
+[940]Trovato
 [941]Daru
-[942]Checked. The big locker sul lower giusto is in use. Cosa e' questa riguardo anyway? Don't make me your errand boy quindi early in the morning~ fool! ヽ(`Д⌐)ﾉ
-[943]Re:Scusa for not being useful
+[942]Controllato. Il grande armadietto in basso a destra e' utilizzato. Perche' me lo hai chiesto? Non farmi diventare il tuo ragazzo delle consegne cosi' presto nel mattino~ idiota! ヽ(`Д⌐)ﾉ
+[943]Re:Scusa per non essere utile
 [944]FB
-[945]M4~ it's true that you're not very good with people~ ma I think that's just part of what makes you unique e special. Besides~ you have no trouble talking to me~ do you? Honestly~ M4~ there's nobody else who works as hard as you do. Sono very thankful for that. Sono glad you joined the Rounders. Even if nobody else values you~ I'll always look out per te. Feel free to email me whenever you like.   Oh yes~ since you're finally in Nagoya~ you should provare some of the local delicacies. It's not good per ter health to keep eating convenience store food. Or do you not like miso~ M4? In any case~ a girl your age needs to eat better. I recommend the firm miso stew.  Your next mission is to go to Akihabara in Tokyo~ quindi find an apartment by next week. I deposited a special bonus in your account~ quindi feel free to use it.  Talk to you presto. Your mother~ FB
+[945]M4~ e' vero che tu non sei brava con le persone~ ma penso che sia cio' che ti rende unica e speciale. Inoltre~ non hai problemi nel parlare con me~ vero? Onestamente~ M4~ non c'e' nessun altro che lavori duramente come te. Ne sono davvero molto grato. Sono contento che ti sia unita ai Rounders. Anche se nessuno ti da valore~ mi prendero' sempre cura di te. Sii pure libera di mandarmi una email quando vuoi. Ah si~ visto che finalmente sei a Nagoya~ dovresti provare alcune delle delicatezze locali. Non e' buono per la tua salute continuare a mangiare cibo da minimarket. O forse non ti piace il miso~ M4? In ogni caso~ una ragazza della tua eta' dovrebbe mangiare meglio. I recommend lo stufato di miso. La tua prossima missione consiste nell'andare ad Akihabara a Tokyo~ quindi trova un appartamento entro la prossima settimana. Ho depositato un bonus speciale nel tuo account~ quindi sii libera di utilizzarlo come vuoi. Ci sentiamo presto. Tua madre~ FB
 [946]
 [947]future-gadget8@hardbank.ne.jp
-[948]Stop search.PC unneeded.Stand by.
+[948]Ferma ricerca.PC non necessario.In attesa.
 [949]
 [950]Shining Finger
-[951]I don't need un IBN 5100 anymore. Moeka
+[951]Non mi serve piu' un IBN 5100. Moeka
 [952]
 [953]Shining Finger
-[954]My supervisor told me to stop looking. Moeka
+[954]Il mio capo mi ha detto di smettere di cercare. Moeka
 [955]
 [956]Shining Finger
-[957]How do sai riguardo FB? Dove did you get that information? Moeka
+[957]Come sai di FB? Dove hai ottenuto quella informazione? Moeka
 [958]
 [959]future-gadget8@hardbank.ne.jp
 [960]
 [961]
 [962]future-gadget8@hardbank.ne.jp
-[963]Stop search.
+[963]Ferma ricerca.
 [964]
 [965]future-gadget8@hardbank.ne.jp
-[966]Stop search.PC unneeded.
+[966]Ferma ricerca.PC non necessario.
 [967]
 [968]future-gadget8@hardbank.ne.jp
-[969]Stop search.PC unneeded.Stand by.
+[969]Ferma ricerca.PC non necessario.In attesa.
 [970]
 [971]Shining Finger
-[972]I don't need un IBN 5100 anymore. Moeka
+[972]Non mi serve piu' un IBN 5100. Moeka
 [973]
 [974]Shining Finger
-[975]My supervisor told me to stop looking. Moeka
+[975]Il mio capo mi ha detto di smettere di cercare. Moeka
 [976]
 [977]Shining Finger
-[978]How do sai riguardo FB? Dove did you get that information? Moeka
-[979]Worried?
+[978]Come fai a sapere di FB? Dove hai ottenuto quella informazione? Moeka
+[979]Preoccupato?
 [980]Mayuri
-[981]Tutturu♪ Mayushii qui. Hey~ Okarin~ is qualcosa bothering you? Tu've been looking kinda sad lately. Do you want to talk riguardo it? Or is it qualcosa you can't tell Mayushii riguardo? That would make me sad. If you feel like Mayushii's being a burden~ then I want you to dirmi. Ok?
-[982]At ComiMa
+[981]Tutturu♪ Mayushii qui. Ehi~ Okarin~ qualcosa ti preoccupa? Sembri abbastanza triste ultimamente. Ti va di parlarne? O e' qualcosa che non puoi dire a Mayushii? Mi renderebbe tanto triste. Se ti senti come se Mayushii fosse un peso~ allora voglio che tu me lo dica. Ok?
+[982]Al ComiMa
 [983]Mayuri
-[984]Sono at ComiMa. Let's meet up. Dove sei tu?
+[984]Sono al ComiMa. Incontriamoci. Dove sei tu?
 [985]Per favore rispondi
 [986]Mayuri
-[987]Tu sei in the cosplay area? Dove sei tu? Per favore rispondi.
-[988]Start tomorrow
+[987]Tu sei nell'area cosplay? Dove sei tu? Per favore rispondi.
+[988]Si inizia domani
 [989]Daru
-[990]Let's hack SERN tomorrow. Come to the lab at 11.
-[991]see you
+[990]Domani hackeriamo il SERN. Vieni al laboratorio alle 11.
+[991]ci vediamo
 [992]Assistente
-[993]″Cease to inquire what the future has in store~ e take as a gift whatever the day brings forth.″ -Horace~ Italian philosopher.  Sono going back to my hotel. Do what needs to be done. Good night.
+[993]″Cio' che verra' domani non chiedere~ e ogni giorno che ancora ti dara' la sorte, prendilo come un guadagno.″ -Orazio~ Filosofo italiano.  Sono tornata al mio hotel. Faccio cio' che devo fare. Buonanotte.
 [994]
 [995]sg-epk@jtk93.x29.jp
-[996]Turn sul TV.
+[996]Accendi la TV.
 [997]
 [998]sg-epk@jtk93.x29.jp
 [999]
 [1000]Did you write it?
 [1001]Assistente
-[1002]Have you written that [rubyBase]report[rubyTextEnd] yet? For your information~ I wasn't joking yesterday. If you blow questa off~ then you have no giusto to call yourself a [rubyBase]scientist[rubyTextEnd]. Forse questa is too much for a freshman like you to [rubyBase]understand[rubyTextEnd]~ ma writing papers is part of being a scientist!
+[1002]Have you written quella [rubyBase]report[rubyTextEnd] yet? For your informazione~ I wasn't joking yesterday. If you blow questa off~ then you have no giusto to call yourself a [rubyBase]scientist[rubyTextEnd]. Forse questa is too much for a freshman like you to [rubyBase]understand[rubyTextEnd]~ ma writing papers is part of being a scientist!
 [1003]Re:Did you write it?
 [1004]Assistente
 [1005]Let lesser men worry riguardo such things! I have inventions to build e discoveries to make!
@@ -1012,29 +1012,29 @@
 [1011]If you're quindi confident in your superiority~ then show me your power!
 [1012]Scientist??
 [1013]Assistente
-[1014]What do you mean ″[rubyBase]mad[rubyTextEnd]″ scientist? More like [rubyBase]bad scientist[rubyTextEnd]~ am I giusto?
+[1014]Cosa do you mean ″[rubyBase]mad[rubyTextEnd]″ scientist? More like [rubyBase]bad scientist[rubyTextEnd]~ am I giusto?
 [1015]Re:Scientist??
 [1016]Assistente
 [1017]If you non so what ″mad″ means in questa context~ I'll tell you. It's the ″insane″ definition.
 [1018]Re:Scientist??
 [1019]Assistente
-[1020]Pfft~ that's like a pun my grandpa would come up with.
+[1020]Pfft~ quella's like a pun my grandpa would come up with.
 [1021]Bad Scientist
 [1022]Assistente
 [1023]Come you could [rubyBase]do better[rubyTextEnd]!
 [1024]Mad
 [1025]Assistente
-[1026]So you're an ″insane insane scientist~″ huh? That's like saying ″hot water heater″ (lol) o ″an aching headache″ (lol).
+[1026]Quindi you're an ″insane insane scientist~″ huh? That's like saying ″hot water heater″ (lol) o ″an aching headache″ (lol).
 [1027]Re:Bad Scientist
 [1028]Assistente
-[1029]Aren't Americans supposed to be funny? What have they been teaching you over there?
+[1029]Aren't Americans supposed to be funny? Cosa have they been teaching you over there?
 [1030]Per favore?
 [1031]Assistente
-[1032]While you're out~ can you buy me a fork? Because I want [rubyBase]my own fork.[rubyTextEnd] And get some [rubyBase]cup noodles[rubyTextEnd] for dinner too. I think there's a brand called ″Gen-chan Ramen.″ Get those.
+[1032]While you're out~ can you buy me a fork? Because I want [rubyBase]my own fork.[rubyTextEnd] And get some [rubyBase]cup noodles[rubyTextEnd] for dinner too. penso che there's a brand called ″Gen-chan Ramen.″ Get those.
 [1033]Home Alone
 [1034]Assistente
-[1035]Is it ok to leave me alone qui? Sono an [rubyBase]outsider[rubyTextEnd]~ ricordi? I could steal all of your precious [rubyBase]Future Gadgets[rubyTextEnd].
-[1036]So bored
+[1035]Is it ok to leave me alone qui? Sono an [rubyBase]outsider[rubyTextEnd]~ ricordi? I could steal all of your precious [rubyBase]Futuro Gadgets[rubyTextEnd].
+[1036]Quindi bored
 [1037]Assistente
 [1038]Japanese TV shows are all [rubyBase]boring[rubyTextEnd]~ aren't they? But then again~ all I watch in America are news e [rubyBase]dramas[rubyTextEnd].
 [1039]Re:Per favore?
@@ -1049,30 +1049,30 @@
 [1048]Re:Home Alone
 [1049]Assistente
 [1050]If you really want one~ you can have it. For a price~ ecco.
-[1051]Re:So bored
+[1051]Re:Quindi bored
 [1052]Assistente
 [1053]I agree with you there. Media in questa country is controlled by the Organization. It's the key to Operation Stupidify Japan.
-[1054]Re:So bored
+[1054]Re:Quindi bored
 [1055]Assistente
 [1056]Be careful. The Organization controls di tutto you see on TV. Watch too much~ e presto you'll be dancing to their tune.
 [1057]Ehhh?
 [1058]Assistente
 [1059]It's a [rubyBase]disgrace[rubyTextEnd] to be thought of as your partner. People will start doubting my character. Comunque~ finish your errands e get back qui.
-[1060]Future Gadget
+[1060]Futuro Gadget
 [1061]Assistente
 [1062]If I aveva to pick~ I guess I'd take questa ghost ball thing. Doesn't it kind of feel artsy? But I [rubyBase]refuse[rubyTextEnd].
 [1063]Re:Ehhh?
 [1064]Assistente
-[1065]Then why do you keep coming to the lab? In truth~ you're quindi happy to be a lab mem that you can't help it! Isn't that giusto!?
-[1066]Re:Future Gadget
+[1065]Then why do you keep coming to the lab? In truth~ you're quindi happy to be a lab mem quella you can't help it! Isn't quella giusto!?
+[1066]Re:Futuro Gadget
 [1067]Assistente
 [1068]Tu really are an @channeler.
 [1069]It's too hot
 [1070]Assistente
 [1071]And humid. It's been a while since my last [rubyBase]Japanese summer[rubyTextEnd]~ ma I don't ricordi it being questa humid.... [rubyBase]Sono dying[rubyTextEnd]....
-[1072]Favor to ask
+[1072]Favore da chiedere
 [1073]Assistente
-[1074]I forgot to mention it~ ma could you buy some cup noodles for dinner? Tu know that brand ″[rubyBase]Hacodate Number 1[rubyTextEnd]?″ That.
+[1074]I forgot to mention it~ ma could you buy some cup noodles for dinner? Tu know quella brand ″[rubyBase]Hacodate Number 1[rubyTextEnd]?″ That.
 [1075]asdf
 [1076]Assistente
 [1077]Gyah! There's [rubyBase]a cockroach[rubyTextEnd]! GELP! HELP MEEE!
@@ -1088,7 +1088,7 @@
 [1087]Re:It's too humid
 [1088]Assistente
 [1089]That's not a typo~ is it? Tu're an @channeler to the core.
-[1090]Re:Favor to ask
+[1090]Re:Favore da chiedere
 [1091]Assistente
 [1092]I thought you wanted to eat ″Gen-chan Ramen.″ Make up your mind.
 [1093]Re:Fujiko!
@@ -1105,34 +1105,34 @@
 [1104]I never hai detto anything riguardo ″Gen-chan Ramen.″ Is it good?
 [1105]Roach
 [1106]Assistente
-[1107][rubyBase]Nae-chan[rubyTextEnd] killed it for me. Thank god she was qui. Japanese roaches are quindi fast. So scary.
+[1107][rubyBase]Nae-chan[rubyTextEnd] killed it for me. Thank god she was qui. Japanese roaches are quindi fast. Quindi scary.
 [1108]Re:Roach
 [1109]Assistente
-[1110]Uh~ nice typo. Tu used the kanji for ″wither.″ Something tells me that's not the name her daddy gave her.
+[1110]Uh~ nice typo. Tu used the kanji for ″wither.″ Something tells me quella's not the name her daddy gave her.
 [1111]Being qui
 [1112]Assistente
 [1113]I non so riguardo questa Steins Gate thing~ ma maybe caos theory can explain come you derailed my life~ lol. At any rate~ take responsibility for getting me involved.
 [1114]Plans
 [1115]Assistente
-[1116]Going from Tokyo to Aomori by bullet train is over 15~000 yen per person~ ma the overnight bus is only 5~000 yen. Which do you prefer? I want to cover the [rubyBase]traveling expenses[rubyTextEnd]~ ma I don't have that much on hand. Sono staying at a hotel~ ma Sono not a celeb. Mama's pretty strict on money. Not to mention she'd kill me if she knew I was going vedere my father. So maybe we should go by [rubyBase]overnight bus[rubyTextEnd] to fit our budget?
+[1116]Going from Tokyo to Aomori by bullet train is over 15~000 yen per person~ ma the overnight bus is only 5~000 yen. Which do you prefer? I want to cover the [rubyBase]traveling expenses[rubyTextEnd]~ ma I don't have quella much on hand. Sono staying at a hotel~ ma Sono not a celeb. Mama's pretty strict on money. Not to mention she'd kill me if she knew I was going vedere my father. Quindi maybe we should go by [rubyBase]overnight bus[rubyTextEnd] to fit our budget?
 [1117]Re:Plans
 [1118]Assistente
-[1119]What is questa nonsense? Don't forget your duty as a lab mem!
+[1119]Cosa is questa nonsense? Don't forget your duty as a lab mem!
 [1120]Re:Plans
 [1121]Assistente
 [1122]Sono fine either way.
 [1123]Idiot!
 [1124]Assistente
-[1125]What do you mean nonsense!? Die! What the HELL~ Okabe!
+[1125]Cosa do you mean nonsense!? Die! Cosa the HELL~ Okabe!
 [1126]Overnight bus
 [1127]Assistente
-[1128]Grazie~ that helps. I'll keep plugging away at questa Time Leap Machine. After all~ I am a lab mem lol
+[1128]Grazie~ quella helps. I'll keep plugging away at questa Time Leap Machine. After all~ I am a lab mem lol
 [1129](⌐・ω・` )
 [1130]Assistente
-[1131]Scusa for getting mad (⌐・ω・` )But Okabe~ did you have to say it like that?
+[1131]Scusa for getting mad (⌐・ω・` )But Okabe~ did you have to say it like quella?
 [1132]The key (ﾉД`)
 [1133]Assistente
-[1134]Um~ there's nobody at the lab. [rubyBase]I don't have a key[rubyTextEnd]~ quindi I can't get in. When are you coming over? I just assumed you'd be qui~ like usual. It kind of feels like Sono visiting your [rubyBase]home[rubyTextEnd]. Er~ not that I want to visit your home o anything!
+[1134]Um~ there's nobody at the lab. [rubyBase]I don't have a key[rubyTextEnd]~ quindi I can't get in. When are you coming over? I just assumed you'd be qui~ like usual. It kind of feels like Sono visiting your [rubyBase]home[rubyTextEnd]. Er~ not quella I want to visit your home o anything!
 [1135]Re:The key (ﾉД`)
 [1136]Assistente
 [1137]Use the one hidden in the switchboard next to the door.
@@ -1141,10 +1141,10 @@
 [1140]Quit it. My room is a dead sea. Take one step inside~ e it's too late...
 [1141](  ° д°  )
 [1142]Assistente
-[1143]I found the key easily enough. Non credi think your [rubyBase]security[rubyTextEnd] should be tighter? Should've thought riguardo that before picking a [rubyBase]fight[rubyTextEnd] with SERN lol. Inoltre~ what's questa [rubyBase]frog[rubyTextEnd] that's been left with the key? Someone's bad taste? Only a maniac would put qualcosa that gross there. ...In realta'~ it scared the crap outta me~ ma keep that a [rubyBase]secret[rubyTextEnd]~ lol ok?
+[1143]I found the key easily enough. Non credi think your [rubyBase]security[rubyTextEnd] should be tighter? Should've thought riguardo quella prima picking a [rubyBase]fight[rubyTextEnd] with SERN lol. Inoltre~ what's questa [rubyBase]frog[rubyTextEnd] quella's been left with the key? Someone's bad taste? Only a maniac would put qualcosa quella gross there. ...In realta'~ it scared the crap outta me~ ma keep quella a [rubyBase]secret[rubyTextEnd]~ lol ok?
 [1144]Home
 [1145]Assistente
-[1146]I bet your room's a mess. The lab's a mess too [rubyBase]perche' of you boys.[rubyTextEnd] Not that Sono any better quando Sono focused on my research lol. I'll bring some deodorant spray la prossima volta. Then I'll wipe questa [rubyBase]filth[rubyTextEnd] from the face of the earth! [rubyBase]Hyahha[rubyTextEnd]!
+[1146]I bet your room's a mess. The lab's a mess too [rubyBase]perche' of you boys.[rubyTextEnd] Not quella Sono any better quando Sono focused on my research lol. I'll bring some deodorant spray la prossima volta. Then I'll wipe questa [rubyBase]filth[rubyTextEnd] from the face of the earth! [rubyBase]Hyahha[rubyTextEnd]!
 [1147]Re:(  ° д°  )
 [1148]Assistente
 [1149]Tu're giusto. I was careless. I should have known better.
@@ -1159,10 +1159,10 @@
 [1158]I don't need any of your frail girl appeal. Your strength has helped me di piu' than sai.
 [1159]Re:Home
 [1160]Assistente
-[1161]A mad scientist's lab should be a little messy. It's cooler that way.
+[1161]A mad scientist's lab should be a little messy. It's cooler quella way.
 [1162]Re:Home
 [1163]Assistente
-[1164]So men are nothing ma filth to you? Very well. If war is what you want~ then war you shall have.
+[1164]Quindi men are nothing ma filth to you? Very well. If war is what you want~ then war you shall have.
 [1165]Re:Home
 [1166]Assistente
 [1167]Tu're not even trying to hide your @channeler power level anymore~ are you?
@@ -1171,7 +1171,7 @@
 [1170]aveva too much pizza LOLol
 [1171]Tu're delusional~ I know
 [1172]Assistente
-[1173]Tu sei seriously considering [rubyBase]electronic locks e card keys[rubyTextEnd]? Chi has that kind of [rubyBase]money[rubyTextEnd]? Tu're being ridiculous~ as usual. Tu need to face [rubyBase]reality[rubyTextEnd] for a change.
+[1173]Tu sei seriously considering [rubyBase]electronic locks e card keys[rubyTextEnd]? Chi has quella kind of [rubyBase]money[rubyTextEnd]? Tu're being ridiculous~ as usual. Tu need to face [rubyBase]reality[rubyTextEnd] for a change.
 [1174]Re:Re:LHC
 [1175]Assistente
 [1176]That's true~ ma I've always wanted vedere the LHC firsthand. Until questa happened~ I even thought riguardo applying to SERN myself. Even though my field is completely unrelated~ lol.
@@ -1183,28 +1183,28 @@
 [1182]Only if he's hot. And Ho paura you boys don't fit the bill LOLol
 [1183]Speaking of smells
 [1184]Assistente
-[1185]Is Hashida a [rubyBase]scent fetishist[rubyTextEnd]? I mean~ every now e then he tries [rubyBase]sniffing[rubyTextEnd] me. Puoi say qualcosa to him?
+[1185]Is Hashida a [rubyBase]scent fetishist[rubyTextEnd]? Voglio dire~ every now e then he tries [rubyBase]sniffing[rubyTextEnd] me. Puoi say qualcosa to him?
 [1186]GOGOGOGOGOGO
 [1187]Assistente
-[1188]I learned ″[rubyBase]Sono gonna give it to you straight[rubyTextEnd]″ from @channel. I non so the source. All I know is that it's got [rubyBase]weird art[rubyTextEnd].
+[1188]I learned ″[rubyBase]Sono gonna give it to you straight[rubyTextEnd]″ from @channel. I non so the source. All I know is quella it's got [rubyBase]weird art[rubyTextEnd].
 [1189]Re:Tu're delusional~ I know
 [1190]Assistente
-[1191]I never hai detto anything riguardo electronic locks e card keys. Dove did that come from? ...Oh~ I get it. It must be an effect of time leaping.
+[1191]I never hai detto anything riguardo electronic locks e card keys. Dove did quella come from? ...Oh~ I get it. It must be an effect of time leaping.
 [1192]Re:Tu're delusional~ I know
 [1193]Assistente
-[1194]Yes~ money is a problem. Sponsor our lab with your thesis publication money. Seriously. Sono desperate qui.
+[1194]Si~ money is a problem. Sponsor our lab with your thesis publication money. Seriously. Sono desperate qui.
 [1195]Re:Tu're delusional~ I know
 [1196]Assistente
 [1197]Alright~ I'll tell you the truth~ ma keep it secret. SERN is after us. I need your help.
 [1198]Re:Don't call me weak
 [1199]Assistente
-[1200]Is that the kind of strength we're talking riguardo? Comunque~ it sounds to me like you're just a scaredy cat. I bet you've never been inside a haunted house.
+[1200]Is quella the kind of strength we're talking riguardo? Comunque~ it sounds to me like you're just a scaredy cat. I bet you've never been inside a haunted house.
 [1201]Re:Don't call me weak
 [1202]Assistente
-[1203]Chi hai detto you were weak? I don't ricordi anything like that. Probably perche' I time leaped. I might have hai detto ″weak in the chest area.″ That I could believe.
+[1203]Chi hai detto you were weak? I don't ricordi anything like quella. Probably perche' I time leaped. I might have hai detto ″weak in the chest area.″ That I could believe.
 [1204]Re:Speaking of
 [1205]Assistente
-[1206]I see... So that's what turns you on.
+[1206]I see... Quindi quella's what turns you on.
 [1207]Re:Speaking riguardo
 [1208]Assistente
 [1209]Tu've been working all night. The smell of your sweat might be exciting Daru. Use the lab's shower at once. I can't guarantee your safety otherwise!
@@ -1219,19 +1219,19 @@
 [1218]My lab in the US has card keys e fingerprint scanners. It's pretty cool. Non credo che you could ever afford them~ though.
 [1219]Money
 [1220]Assistente
-[1221]Don't be silly. I didn't get paid for that. In fact~ my budget is quite tight. So tight that I have to spend all day cooped up in the lab. I should start sleeping qui. Tu don't have a problem with that~ giusto? I mean~ you're the reason Sono still in Japan.
+[1221]Don't be silly. I didn't get paid for quella. In fact~ my budget is quite tight. Quindi tight quella I have to spend all day cooped up in the lab. I should start sleeping qui. Tu don't have a problem with quella~ giusto? Voglio dire~ you're the reason Sono still in Japan.
 [1222]Reality
 [1223]Assistente
-[1224]I can't tell if questa e' vero o just di piu' of your usual BS. Okabe~ questa is a serious situation. Tu're turning into the boy who cried wolf. So only dirmi the truth from now on. Per favore.
+[1224]I can't tell if questa e' vero o just di piu' of your usual BS. Okabe~ questa is a serious situation. Tu're turning into the boy who cried wolf. Quindi only dirmi the truth from now on. Per favore.
 [1225]Roller Coaster
 [1226]Assistente
-[1227]Sono not interested in haunted houses~ e I don't believe in ghosts one bit. What Sono really scared of are cars. Did sai bad driving is the number one cause of accidental death?
+[1227]Sono not interested in haunted houses~ e I don't believe in ghosts one bit. Cosa Sono really scared of are cars. Did sai bad driving is the number one cause of accidental death?
 [1228]Fetish
 [1229]Assistente
-[1230]Not me~ you dummy! Hashida! Tu mixed us up on purpose! Die! So what~ you're fine with Hashida sniffing me? Doesn't it bother you that he's such a pervert? I was hoping you'd ask him to stop.
-[1231]What kind of guy
+[1230]Not me~ you dummy! Hashida! Tu mixed us up on purpose! Die! Quindi what~ you're fine with Hashida sniffing me? Doesn't it bother you quella he's such a pervert? I was hoping you'd ask him to stop.
+[1231]Cosa kind of guy
 [1232]Assistente
-[1233]complains riguardo a woman's scent? I make sure to shower ogni giorno! I'll prove it~ quindi ritorna qui questa instant e smell me! Get drunk off my sweet fragrance e die of diabetes! And you even dared to peek at me before... That was my first time to be seen naked by a man~ sai. \( [キリ]o[キリ])/
+[1233]complains riguardo a woman's scent? I make sure to shower ogni giorno! I'll prove it~ quindi ritorna qui questa instant e smell me! Get drunk off my sweet fragrance e die of diabetes! And you even dared to peek at me prima... That was my first time to be seen naked by a man~ sai. \( [キリ]o[キリ])/
 [1234]Blazing heat!
 [1235]Assistente
 [1236]Memetaa! ( ¬・ω・⌐)
@@ -1240,7 +1240,7 @@
 [1239]Mudamudamudamuda! Road roller!
 [1240]Explain yourself!
 [1241]Assistente
-[1242]Hey! What the hell was that just now!? That was some loving hug! Sono seriously jealous.... Ah~ no~ not riguardo getting hugged by you~ ma riguardo having someone of the opposite sex to lovingly hug! Don't misunderstand me! Comunque~ [rubyBase]what was that[rubyTextEnd] riguardo?
+[1242]Hey! Cosa the hell was quella just now!? That was some loving hug! Sono seriously jealous.... Ah~ no~ not riguardo getting hugged by you~ ma riguardo having someone of the opposite sex to lovingly hug! Don't misunderstand me! Comunque~ [rubyBase]what was quella[rubyTextEnd] riguardo?
 [1243]Re:Explain yourself!
 [1244]Assistente
 [1245]Don't worry riguardo it. It was just qualcosa I aveva to do.
@@ -1252,19 +1252,19 @@
 [1251]I don't really care if you get yourself a girlfriend~ ma don't forget riguardo the Time Leap Machine. This thing is serious. We need to get everyone together e decide what to do with it. I understand you're doing questa for Mayuri's sake. Just ricordi~ there's di piu' to questa than just Urushibara-san. To be honest~ Sono still afraid of questa monster I've created. I'd feel better if we could talk riguardo it.
 [1252]Contattami~ idiot!
 [1253]Assistente
-[1254]Is di tutto alright? What happened with that Kiryu lady? At least fammi sapere if you're still alive! Don't say anything stupid like you're dead~ ok? Per favore~ just [rubyBase]reply[rubyTextEnd]. Even an email will do. Sono quindi [rubyBase]worried[rubyTextEnd] I can't even eat.
+[1254]Is di tutto alright? Cosa happened with quella Kiryu lady? At least fammi sapere if you're still alive! Don't say anything stupid like you're dead~ ok? Per favore~ just [rubyBase]reply[rubyTextEnd]. Even an email will do. Sono quindi [rubyBase]worried[rubyTextEnd] I can't even eat.
 [1255]Re:Contattami~ idiot!
 [1256]Assistente
-[1257]Mi dispiace for making you worry. I appreciate these emails~ I really do. They remind me that Sono not alone.
+[1257]Mi dispiace for making you worry. I appreciate these emails~ I really do. They remind me quella Sono not alone.
 [1258]Re:Contattami~ idiot!
 [1259]Assistente
 [1260]Don't worry. I won't die. Not until I've fulfilled my promise to go to Aomori with you.
 [1261]Re:Re:Contattami~ idiot!
 [1262]Assistente
-[1263]Don't ignore us like that again. Mayuri e Daru are waiting to sentire from you too. I don't want vedere Mayuri cry.
+[1263]Don't ignore us like quella again. Mayuri e Daru are waiting to sentire from you too. I don't want vedere Mayuri cry.
 [1264]Re:Re:Contattami~ idiot!
 [1265]Assistente
-[1266]Forse questa isn't what you want to sentire~ ma I need you to listen. I don't care riguardo Aomori anymore. I just want you to be safe~ Okabe. When you ran out without saying anything yesterday~ it felt like my heart was going to explode. So hurry back. Per favore.
+[1266]Forse questa isn't what you want to sentire~ ma I need you to listen. I don't care riguardo Aomori anymore. I just want you to be safe~ Okabe. When you ran out without saying anything yesterday~ it felt like my heart was going to explode. Quindi hurry back. Per favore.
 [1267]Dove sei tu now?
 [1268]Assistente
 [1269]Dove sei tu? Tu haven't been to the lab in two days. Sei ancora in Akihabara? We're worried~ sai? Tu were acting strange yesterday. I want to help~ quindi dirmi [rubyBase]dove you are[rubyTextEnd]. I don't feel giusto not having you around. Dove sei tu? I want vedere you...
@@ -1285,13 +1285,13 @@
 [1284]Upa is super popular~ sai? Even di piu' popular than the hero~ [rubyBase]Kakeru-kun[rubyTextEnd]. They're quindi cute Voglio collect them all! It's like come you used to collect black [rubyBase]fingerless gloves[rubyTextEnd]~ ricordi?
 [1285]Just Fatty
 [1286]Mayuri
-[1287]I didn't want any of the other Gero Froggies~ ma I did want  [rubyBase]Fatty[rubyTextEnd]. But now that I think riguardo it~ it wasn't really that cute. In realta'~ it was kind of weird looking. I wonder why I wanted one quindi bad.  Hey~ I just realized Fatty kinda looks like [rubyBase]Daru[rubyTextEnd]-kun!
+[1287]I didn't want any of the other Gero Froggies~ ma I did want  [rubyBase]Fatty[rubyTextEnd]. But now quella penso che riguardo it~ it wasn't really quella cute. In realta'~ it was kind of weird looking. I wonder why I wanted one quindi bad.  Hey~ I just realized Fatty kinda looks like [rubyBase]Daru[rubyTextEnd]-kun!
 [1288]Re:Don't sell it ><
 [1289]Mayuri
 [1290]I have no idea who ecco. I don't watch bad anime.
 [1291]Re:Don't sell it ><
 [1292]Mayuri
-[1293]Indeed. But you must never speak of that to anyone else. It was necessary to seal the abomination lying dormant in questa giusto arm of mine!
+[1293]Indeed. But you must never speak of quella to anyone else. It was necessary to seal the abomination lying dormant in questa giusto arm of mine!
 [1294]Re:Just Fatty
 [1295]Mayuri
 [1296]Do they even sell Gero Froggies anymore?
@@ -1300,43 +1300,43 @@
 [1299]Just the body~ giusto? No comment on Daru's face.
 [1300]It's interesting
 [1301]Mayuri
-[1302]RaiNet Kakeru is really interesting. Tu should provare watching it sometime~ Okarin. It has lots of stuff that makes you think. It's not just for kids!
+[1302]RaiNet Kakeru is really interesting. Tu should provare watching it sometime~ Okarin. It has lots of stuff quella makes you think. It's not just for kids!
 [1303]I ricordi
 [1304]Mayuri
-[1305]Tu used to go around shouting ″burn!″ e stuff. Why do boys want fire powers? I think flower powers o plushy powers would be cuter~ don't you?
+[1305]Tu used to go around shouting ″burn!″ e stuff. Why do boys want fire powers? penso che flower powers o plushy powers would be cuter~ don't you?
 [1306]Non credo che quindi
 [1307]Mayuri
-[1308]I haven't heard anything riguardo them since before the big earthquake in Shibuya last year. And even if I found one~ Mayushii has no money... (*⌐∀¬)
+[1308]I haven't heard anything riguardo them since prima the big earthquake in Shibuya last year. And anche se I found one~ Mayushii has no money... (*⌐∀¬)
 [1309]Dangerous
 [1310]Mayuri
-[1311]Daru-kun was taking a nap earlier~ e I think he has sleep apnea! It really surprised me quando he stopped breathing. I told him he should lose weight~ ma he won't listen. Okarin~ you should talk to him too.
+[1311]Daru-kun was taking a nap earlier~ e penso che he has sleep apnea! It really surprised me quando he stopped breathing. I told him he should lose weight~ ma he won't listen. Okarin~ you should talk to him too.
 [1312](;_;)
 [1313]Mayuri
 [1314]Mayushii's [rubyBase]spending money[rubyTextEnd] is getting dangerously low. Tu e Daru need to chip in too sometimes! Tu don't want to get between me e my [rubyBase]food[rubyTextEnd] ><
 [1315]Re:(;_;)
 [1316]Mayuri
-[1317]Don't get angry. Next time~ I'll treat you to anything you want to eat. So keep buying di piu' bananas for the sake of our experiments!
+[1317]Don't get angry. Next time~ I'll treat you to anything you want to eat. Quindi keep buying di piu' bananas for the sake of our experiments!
 [1318]Re:(;_;)
 [1319]Mayuri
-[1320]Tu eat too much anyway! Go on a diet before it's too late!
+[1320]Tu eat too much anyway! Go on a diet prima it's too late!
 [1321]Thank you very much♪
 [1322]Mayuri
-[1323]Just hearing that from Okarin makes me happy (≧▽≦)
+[1323]Just hearing quella from Okarin makes me happy (≧▽≦)
 [1324]It's August
 [1325]Mayuri
-[1326]Okarin~ do you eat [rubyBase]junk food[rubyTextEnd]? It's almost [rubyBase]festival[rubyTextEnd] season~ quindi if I find any food stalls~ I think I'll provare them out. What do you think?
+[1326]Okarin~ do you eat [rubyBase]junk food[rubyTextEnd]? It's almost [rubyBase]festival[rubyTextEnd] season~ quindi if I find any food stalls~ penso che I'll provare them out. Cosa do you think?
 [1327]I just realized
 [1328]Mayuri
 [1329]Tu know~ I don't get fat no matter come much I eat. It's weird! Forse it's perche' I go jogging with my dad every morning. Tu should come with us~ Okarin. It's [rubyBase]healthy[rubyTextEnd]! ( ¬・ω・⌐)
 [1330]Re:It's August
 [1331]Mayuri
-[1332]Then buy some takoyaki without octopus! Tu could say that's the supreme dish.
+[1332]Then buy some takoyaki without octopus! Tu could say quella's the supreme dish.
 [1333]Re:It's August
 [1334]Mayuri
-[1335]Now that you mention it~ we used to go to a lot of festivals together~ didn't we? Remember come I used to clean house at the shooting ranges? They called me the ″6PM Sniper.″ 
+[1335]Now quella you mention it~ we used to go to a lot of festivals together~ didn't we? Remember come I used to clean house at the shooting ranges? They called me the ″6PM Sniper.″ 
 [1336]Re:Speaking riguardo
 [1337]Mayuri
-[1338]The mad scientist's dictionary contains many words~ ma ″healthy″ is not one of them!
+[1338]The mad scientist's dictionary contains molte words~ ma ″healthy″ is not one of them!
 [1339]Candy apple
 [1340]Mayuri
 [1341]Those candy apples you bought for me were really yummy! Mayushii still ricordis. When we were little~ you always gave me me stuff to eat. It's your fault Sono addicted to junk food.
@@ -1345,20 +1345,20 @@
 [1344]Remember quando we went to the Hariti festival? That ″[rubyBase]Rattsna-san[rubyTextEnd]″ plushy you won is still on my desk at home.
 [1345]Meat
 [1346]Mayuri
-[1347]That reminds me. Didn't you provare eating [rubyBase]raw meat[rubyTextEnd] one time? I ricordi you were laughing like ″guhehe!″ And then you were absent from school for riguardo a week after it made you sick. Why did you do that again?
+[1347]That reminds me. Didn't you provare eating [rubyBase]raw meat[rubyTextEnd] one time? I ricordi you were laughing like ″guhehe!″ And then you were absent from school for riguardo a week after it made you sick. Why did you do quella again?
 [1348]Re:Rattsna
 [1349]Mayuri
-[1350]Rattsna? Cosa e' that? Japanese plz.
+[1350]Rattsna? Cosa e' quello? Japanese plz.
 [1351]Re:Meat
 [1352]Mayuri
-[1353]To make a long story short~ that was basically a forbidden ceremony introduced to Europe in the Middle Ages. That ceremony later became the modern Carnival.
+[1353]To make a long story short~ quella was basically a forbidden ceremony introduced to Europe in the Middle Ages. That ceremony later became the modern Carnival.
 [1354]Re:Re:Rattsna
 [1355]Mayuri
 [1356]That stuffed rattlesnake~ ricordi? I'll bring him to the lab la prossima volta. Sono sure Rattsna-san will be happy vedere you again♪
 [1357]Wow♪
 [1358]Mayuri
 [1359]That sounds really amazing! Next time~ fammi sapere quindi I can provare too. I promise to eat all the [rubyBase]raw meat[rubyTextEnd] I can fit in my belly.
-[1360]Re:How mysterious♪
+[1360]Re:Come mysterious♪
 [1361]Mayuri
 [1362]Don't. It's not qualcosa an amateur could pull off. It's a double-edged sword.
 [1363]Maid experience
@@ -1369,22 +1369,22 @@
 [1368]Tu need money to buy junk food o else you'll die of starvation. I understand.
 [1369]Re:Maid experience
 [1370]Mayuri
-[1371]A party after just three months? Ridiculous. I don't see come that deserves congratulations. Tu girls are crazy.
+[1371]A party after just three months? Ridiculous. I don't see come quella deserves congratulations. Tu girls are crazy.
 [1372]Re:Maid experience
 [1373]Mayuri
-[1374]I still can't believe you're working at a maid cafe. I mean~ you still never cosplay outside of work.
+[1374]I still can't believe you're working at a maid cafe. Voglio dire~ you still never cosplay outside of work.
 [1375]Salary
 [1376]Mayuri
-[1377]It's not like Sono always hungry. Just most of the time. Besides~ I spend my salary at a 6:4 ratio of cosplay materials to snacks.
+[1377]It's not like Sono always hungry. Just most of the time. Inoltre~ I spend my salary at a 6:4 ratio of cosplay materials to snacks.
 [1378]It's not half-baked
 [1379]Mayuri
-[1380]Three months is a big deal! I mean~ they celebrated my first e second months too.
+[1380]Three months is a big deal! Voglio dire~ they celebrated my first e second months too.
 [1381]Reason
 [1382]Mayuri
-[1383]Tu know why I don't cosplay. Mayushii doesn't want to stand out. I mean~ Sono your hostage~ giusto?
+[1383]Tu know why I don't cosplay. Mayushii doesn't want to stand out. Voglio dire~ Sono your hostage~ giusto?
 [1384]Speaking of lotteries
 [1385]Mayuri
-[1386]Mayushii won a [rubyBase]magazine[rubyTextEnd] sweepstakes once. Amazing~ huh? ( ≧∇≦) Tu know the hero of [rubyBase]Gunbam[rubyTextEnd]~ Setsuri? I won an autograph from his [rubyBase]voice actor[rubyTextEnd].
+[1386]Mayushii won a [rubyBase]magazine[rubyTextEnd] sweepstakes once. Amazing~ huh? ( ≧∇≦) Conosci il hero of [rubyBase]Gunbam[rubyTextEnd]~ Setsuri? I won an autograph from his [rubyBase]voice actor[rubyTextEnd].
 [1387]Re:Speaking of lotteries
 [1388]Mayuri
 [1389]Tu're still reading anime magazines? Tu're a true otaku.
@@ -1399,19 +1399,19 @@
 [1398]I stopped by the store to buy some [rubyBase]Crunchy-kun[rubyTextEnd] since you hai detto you wanted to eat them~ ma you're not even qui. That's mean! I put them in the fridge~ quindi eat them presto~ ok?
 [1399]I saw him!
 [1400]Mayuri
-[1401]Wow! Remember come we were [rubyBase]talking[rubyTextEnd] riguardo [rubyBase]Joy-san[rubyTextEnd] before? Bene~ I just saw him sul street! The real thing! I got to shake his hand (≧▽≦)
+[1401]Wow! Remember come we were [rubyBase]talking[rubyTextEnd] riguardo [rubyBase]Joy-san[rubyTextEnd] prima? Bene~ I just saw him sul street! The real thing! I got to shake his hand (≧▽≦)
 [1402]Sengoku cosplay?
 [1403]Mayuri
-[1404]So you want to cosplay as a [rubyBase]warrior[rubyTextEnd] from the Sengoku period? Alrighty! Mayushii will work extra hard to have qualcosa for Winter ComiMa. I know you'll be popular with the girls. Sono not sure come to [rubyBase]feel[rubyTextEnd] riguardo that (*^ ω^ *)
+[1404]Quindi you want to cosplay as a [rubyBase]warrior[rubyTextEnd] from the Sengoku period? Alrighty! Mayushii will work extra hard to have qualcosa for Winter ComiMa. I know you'll be popular with the girls. Sono not sure come to [rubyBase]feel[rubyTextEnd] riguardo quella (*^ ω^ *)
 [1405]Re:Going out? Lelele~
 [1406]Mayuri
 [1407]Wait. When did I say I wanted to eat Crunchy-kun?
 [1408]Re:I saw him!
 [1409]Mayuri
-[1410]Wait. When was that? Joy-san? Chi's that?
+[1410]Wait. When was quella? Joy-san? Chi's quella?
 [1411]Re:I saw him!
 [1412]Mayuri
-[1413]What are you talking riguardo? Chi's Joy-san? An assassin from the Organization!?
+[1413]Cosa are you talking riguardo? Chi's Joy-san? An assassin from the Organization!?
 [1414]Re:Sengoku cosplay?
 [1415]Mayuri
 [1416]Wait. When did I say I'd cosplay? Did you email the wrong person?
@@ -1423,10 +1423,10 @@
 [1422]Um~ Luka-chan hai detto she'll forgive you if you cosplay [rubyBase]Kakeru-kun[rubyTextEnd] from RaiNet. Or maybe a Upa cosplay would be better lol. Just kidding. Leave Luka-chan to Mayushii.
 [1423]Trap
 [1424]Mayuri
-[1425]Do you want to be a trap too? There's nothing to be ashamed of. I think crossplaying is wonderful! Tu have Mayushii's full support (*⌐∀¬)
+[1425]Do you want to be a trap too? There's nothing to be ashamed of. penso che crossplaying is wonderful! Tu have Mayushii's full support (*⌐∀¬)
 [1426]Masochism
 [1427]Mayuri
-[1428]Luka-chan emanates an aura that makes you want to tease her~ e you just reacted to that. I understand. When Mayushii's with Luka-chan~ I feel a little sadistic too. But still~ you shouldn't tease her in real life. (⌐・ω・` )
+[1428]Luka-chan emanates an aura quella makes you want to tease her~ e you just reacted to quella. I understand. When Mayushii's with Luka-chan~ I feel a little sadistic too. But still~ you shouldn't tease her in real life. (⌐・ω・` )
 [1429]Don't dirmi
 [1430]Mayuri
 [1431]Do you like Luka-chan? But Okarin~ the last time there was a girl you liked~ non e' vero say qualcosa like ″Going out with me will bring you misfortune~ quindi I'll just watch over you from afar?″
@@ -1436,18 +1436,18 @@
 [1435]Kakeru-kun
 [1436]Mayuri
 [1437]Check the interwebs for di piu' details!
-[1438]What made me happy today
+[1438]Cosa made me happy today
 [1439]Mayuri
 [1440][rubyBase]Fubuki-chan e Kaede-chan[rubyTextEnd] praised me for the [rubyBase]cosplay[rubyTextEnd] I made them questa time. Sono really happy (*⌐∀¬)
-[1441]Re:What made me happy today
+[1441]Re:Cosa made me happy today
 [1442]Mayuri
-[1443]Chi? Tu've never mentioned them before.
-[1444]Re:What made me happy today
+[1443]Chi? Tu've never mentioned them prima.
+[1444]Re:Cosa made me happy today
 [1445]Mayuri
-[1446]Tu really like making costumes~ huh? What made you quindi passionate riguardo cosplay anyway?
+[1446]Tu really like making costumes~ huh? Cosa made you quindi passionate riguardo cosplay anyway?
 [1447]Huh?
 [1448]Mayuri
-[1449]I told you before~ ricordi? We met at an event~ e now we're cosplay buddies. Kaede-chan is a university studente studying the Sengoku period. She has a super-nice figure. Fubuki-chan is the same age as Mayushii~ e is kinda boyish~ ma she was really sexy last year in her Seira cosplay.
+[1449]I told you prima~ ricordi? We met at an event~ e now we're cosplay buddies. Kaede-chan is a university studente studying the Sengoku period. She has a super-nice figure. Fubuki-chan is the same age as Mayushii~ e is kinda boyish~ ma she was really sexy last year in her Seira cosplay.
 [1450]The reason
 [1451]Mayuri
 [1452]Tu forgot? It all started quando you asked for a costume of Kyoujiro~ the flame user from King of Ciaostories. Remember? I thought it looked great on you~ ma you only wore it once... such a waste (⌐・ω・` )
@@ -1462,7 +1462,7 @@
 [1461]Jealous? Tu want to go on a date with me?
 [1462]A difficult conversation?
 [1463]Mayuri
-[1464]Oh... Sono a little relieved. Why is that? I've never felt questa way before.
+[1464]Oh... Sono a little relieved. Why is quella? I've never felt questa way prima.
 [1465]Date
 [1466]Mayuri
 [1467]Voglio go on a date. Would you rather go to Sanbo o Kitchen Jiro? (*⌐∀¬)
@@ -1471,34 +1471,34 @@
 [1470]This morning~ I couldn't find [rubyBase]Pocketty[rubyTextEnd]. I almost started crying. The [rubyBase]sound[rubyTextEnd] of its ticking calms me down. If I lost it~ it would be a big shock. I non so come I'd apologize to [rubyBase]Granny[rubyTextEnd]. I was quindi relieved to find Pocketty safe e sound♪
 [1471]Re:Today's worry
 [1472]Mayuri
-[1473]Tu sei talking riguardo your pocket watch? I thought I told you to stop with that weird naming scheme of yours.
+[1473]Tu sei talking riguardo your pocket watch? I thought I told you to stop with quella weird naming scheme of yours.
 [1474]Re:Today's worry
 [1475]Mayuri
-[1476]Be careful. That secret ability of yours~ Unlimited Clock Works~ is a double-edged sword.
+[1476]Be careful. That secret abilita' of yours~ Unlimited Clock Works~ is a double-edged sword.
 [1477]Re:Today's worry
 [1478]Mayuri
 [1479]Tu used to take naps on your grandmother's lap~ non e' vero?
 [1480]Pocketty!
 [1481]Mayuri
-[1482]It's a pocket watch~ quindi ″Pocketty.″ It's cute e easy to understand~ quindi I think it's a good name.
+[1482]It's a pocket watch~ quindi ″Pocketty.″ It's cute e easy to understand~ quindi penso che it's a good name.
 [1483]Yeah~ yeah
 [1484]Mayuri
 [1485]Oh yeah~ you gave it a weird name! I completely forgot. (*⌐∀¬)
 [1486]Lap pillow
 [1487]Mayuri
-[1488]Granny kept Pocketty in the pocket of her apron~ quindi I'd go to sleep hearing that sound. I think that's why Pocketty's sound makes me calm.
+[1488]Granny kept Pocketty in the pocket of her apron~ quindi I'd go to sleep hearing quella sound. penso che quella's why Pocketty's sound makes me calm.
 [1489]They aveva a fight
 [1490]Mayuri
-[1491]Kaede-chan aveva a [rubyBase]fight[rubyTextEnd] with her boyfriend. How do I get them to make up? Mayushii's never aveva a fight with anyone~ quindi I think it's [rubyBase]mysterious[rubyTextEnd]. I couldn't fight with the [rubyBase]person I like[rubyTextEnd].
+[1491]Kaede-chan aveva a [rubyBase]fight[rubyTextEnd] with her boyfriend. Come do I get them to make up? Mayushii's never aveva a fight with anyone~ quindi penso che it's [rubyBase]mysterious[rubyTextEnd]. I couldn't fight with the [rubyBase]person I like[rubyTextEnd].
 [1492]Re:They aveva a fight
 [1493]Mayuri
 [1494]That's perche' you're a gentle girl~ Mayuri...
 [1495]Re:They aveva a fight
 [1496]Mayuri
-[1497]Yes. It is mysterious. Why are people quindi cruel to each other?
+[1497]Si. It is mysterious. Why are persone quindi cruel to each other?
 [1498]Re:They aveva a fight
 [1499]Mayuri
-[1500]Since quando do you have someone you like? I figured you'd put food before romance lol
+[1500]Since quando do you have someone you like? I figured you'd put food prima romance lol
 [1501]Re:Re:They aveva a fight
 [1502]Mayuri
 [1503]Mayushii does have... someone she likes (*⌐∀¬) ehehe
@@ -1519,7 +1519,7 @@
 [1518]I non so~ ma don't worry. Tu don't have to worry riguardo anything.
 [1519]Orion
 [1520]Mayuri
-[1521]I saw Orion last night. It was really pretty. I hope you were looking up [rubyBase]at the same time[rubyTextEnd]. Because then it would be like we were close by~ even if we were really far away. Stars are romantic if you think like that~ aren't they?
+[1521]I saw Orion last night. It was really pretty. I hope you were looking up [rubyBase]at the same time[rubyTextEnd]. Because then it would be like we were close by~ anche se we were really far away. Stars are romantic if you think like quella~ aren't they?
 [1522]Re:Orion
 [1523]Mayuri
 [1524]Yeah~ I saw it too. primo night in a while I've aveva time to look at the stars. But Non credo che it was Orion. That's a winter constellation.
@@ -1528,43 +1528,43 @@
 [1527]Okarin's been acting strange lately~ quindi Mayushii didn't go to ComiMa today. Sei unt the lab? Forse I'll go there now. I haven't seen you in a couple of days~ sai? We usually see each other ogni giorno~ quindi it's really lonely (⌐・ω・` ) I know it's only been four days at most~ ma Sono used to being with you all the time. Sono your hostage~ ricordi? Don't let go.
 [1528]About yesterday
 [1529]Lukako
-[1530]Tu sei really ok with yesterday's [rubyBase]exorcism[rubyTextEnd]? I feel like a di piu' traditional [rubyBase]ceremony[rubyTextEnd] would have been better. Sono worried [rubyBase]qualcosa[rubyTextEnd] might happen to you perche' my exorcism wasn't strong enough. It bothers me quindi much~ I can't sleep at night. P.S. Because of that~ I couldn't do di piu' than three practice swings with Samidare.
+[1530]Tu sei really ok with yesterday's [rubyBase]exorcism[rubyTextEnd]? I feel like a di piu' traditional [rubyBase]ceremony[rubyTextEnd] would have been better. Sono worried [rubyBase]qualcosa[rubyTextEnd] might happen to you perche' my exorcism wasn't strong enough. It bothers me quindi much~ I can't sleep at night. P.S. Because of quella~ I couldn't do di piu' than three practice swings with Samidare.
 [1531]Re:About yesterday
 [1532]Lukako
 [1533]It wasn't bad~ just a little clumsy. Tu're a servant of the gods. Tu need to project dignity e confidence. Work on it.
 [1534]Re:About yesterday
 [1535]Lukako
-[1536]What would a traditional ceremony entail? I need details. Don't dirmi it's an ancient forbidden secret.
+[1536]Cosa would a traditional ceremony entail? I need details. Don't dirmi it's an ancient forbidden secret.
 [1537]Re:About yesterday
 [1538]Lukako
-[1539]Don't worry. Grazie to your exorcism~ my giusto arm has been quiet for a while. Still~ there's no telling what could set it off. If Sono forced to do battle again... Let's just pray that the Organization's assassins don't find me.
+[1539]Don't worry. Grazie to your exorcism~ my giusto arm has been quiet for a while. Still~ there's no telling what could set it off. If Sono forced to do battle again... Let's just pray quella the Organization's assassins don't find me.
 [1540]Religious services
 [1541]Lukako
 [1542]Dad won't teach me come to be a priest. He keeps saying he has ″thirty years of work″ left in him~ quindi he doesn't need my help. That doesn't explain why he keeps trying to teach me the [rubyBase]ceremonial miko dance[rubyTextEnd]~ though... P.S. I did 10 practice swings with Samidare.
 [1543]About ceremonies
 [1544]Lukako
-[1545]Scusa. I non so any ancient secrets. At least~ Non credo che our shrine has anything like that. If you're interested in that sort of thing~ you should go to Izumo o Ise invece... Ah~ I did 10 practice swings with Samidare.
-[1546]About that last mail
+[1545]Scusa. I non so any ancient secrets. At least~ Non credo che our shrine has anything like quella. If you're interested in quella sort of thing~ you should go to Izumo o Ise invece... Ah~ I did 10 practice swings with Samidare.
+[1546]About quella ultima mail
 [1547]Lukako
-[1548]Um~ I asked Mayuri-chan riguardo what it is you're fighting against~ ma she just laughed e didn't answer...  [rubyBase]What[rubyTextEnd] should I do? I want to help~ Kyouma-san!
+[1548]Um~ I asked Mayuri-chan riguardo what it is you're fighting against~ ma she just laughed e didn't answer...  [rubyBase]Cosa[rubyTextEnd] dovrei fare? I want to help~ Kyouma-san!
 [1549]Re:Religious services
 [1550]Lukako
-[1551]The ceremonial miko dance? But according to the legend of Ama-no-Iwato~ that means... no! Don't dirmi your father intends to open the gate!? It's too presto!
-[1552]Re:About that last mail
+[1551]The ceremonial miko dance? But according to the legend of Ama-no-Iwato~ quella means... no! Don't dirmi your father intends to open the gate!? It's too presto!
+[1552]Re:About quella ultima mail
 [1553]Lukako
 [1554]Tu don't need to know. Not yet. Eventually~ if Steins Gate quindi chooses~ you will learn the truth whether you're ready o not.
 [1555]Re:Re:Religious services
 [1556]Lukako
-[1557]W-what? What??
+[1557]W-what? Cosa??
 [1558]I made sweets
 [1559]Lukako
-[1560]I baked [rubyBase]cookies[rubyTextEnd] today. I aveva everyone in my [rubyBase]family[rubyTextEnd] eat some~ e got their seal of approval. Would it be ok if I baked some per ter lab friends~ master? Oh~ e it would be great if you could teach me some di piu' techniques with Samidare whenever you have [rubyBase]time[rubyTextEnd]. P.S. I managed 10 practice swings today.
+[1560]I baked [rubyBase]cookies[rubyTextEnd] today. I aveva everyone in my [rubyBase]family[rubyTextEnd] eat some~ e got their seal of approval. Would it be ok if I baked some per ter lab amici~ master? Oh~ e it would be great if you could teach me some di piu' techniques with Samidare whenever you have [rubyBase]time[rubyTextEnd]. P.S. I managed 10 practice swings today.
 [1561]Re:I made sweets
 [1562]Lukako
 [1563]Bene done. We warmly welcome your refreshments. In fact~ you can come cook for us ogni giorno if you want. I'll even provide you with a maid uniform.
 [1564]Re:I made sweets
 [1565]Lukako
-[1566]Tu sure get along with your family. How many family members do you have anyway? Daru keeps insisting that shrine maidens should come in pairs.
+[1566]Tu sure get along with your family. Come molte family members do you have anyway? Daru keeps insisting quella shrine maidens should come in pairs.
 [1567]Re:I made sweets
 [1568]Lukako
 [1569]Tu mustn't depend on me. Remember~ all things come to an end. Every meeting heralds a parting. I can't hide from the Organization forever~ e the seal on my arm grows weaker by the day. When Sono gone~ you'll have to take care of yourself.
@@ -1573,16 +1573,16 @@
 [1572]I'd be happy to cook~ ma Ho paura it might interfere with my [rubyBase]shrine duties[rubyTextEnd]... Do you mind if I take some time to [rubyBase]think it over[rubyTextEnd]? P.S. I was quindi deep in thought I didn't do any practice swings with Samidare...
 [1573]My family
 [1574]Lukako
-[1575]There's my mom~ my dad~ my older sister~ e my grandpa. [rubyBase]My sister[rubyTextEnd]'s personality is the polar opposite of mine: she's really boyish. When we were small~ she always made me help prepare dinner invece of her. Because of that~ I started to love [rubyBase]cooking[rubyTextEnd]... P.S. I did 20 practice swings with Samidare
+[1575]There's my mom~ my dad~ my older sister~ e my grandpa. [rubyBase]My sister[rubyTextEnd]'s personality is the polar opposite of mine: she's really boyish. When we were small~ she always made me help prepare dinner invece of her. Because of quella~ I started to love [rubyBase]cooking[rubyTextEnd]... P.S. I did 20 practice swings with Samidare
 [1576]I've depended on you too much
 [1577]Lukako
-[1578]Mi dispiace. Whenever I talk to you~ I realize come far I still have to go. Forse it's perche' Sono still a minor~ ma that's no excuse. I need to learn to be [rubyBase]self-reliant[rubyTextEnd]. If I depend on you too much again~ per favore scold me... P.S. I did [rubyBase]20[rubyTextEnd] practice swings with Samidare. I feel Sono getting a little stronger. But I still can't do anything without you~ Okabe-san. Per favore teach me.
+[1578]Mi dispiace. Whenever I talk to you~ I realize come far I still have to go. Forse it's perche' Sono still a minor~ ma quella's no excuse. I need to learn to be [rubyBase]self-reliant[rubyTextEnd]. If I depend on you too much again~ per favore scold me... P.S. I did [rubyBase]20[rubyTextEnd] practice swings with Samidare. I feel Sono getting a little stronger. But I still can't do anything without you~ Okabe-san. Per favore teach me.
 [1579]Re:Per favore let me think
 [1580]Lukako
-[1581]Your true class is Miko. Tu must not forget that. Devote yourself to that for now. Of course~ that includes practice swings with Samidare.
+[1581]Your true class is Miko. Tu must not forget quella. Devote yourself to quella for now. Of course~ quella includes practice swings with Samidare.
 [1582]Re:Per favore let me think
 [1583]Lukako
-[1584]I was joking. Besides~ if you wore a maid outfit at the lab~ Daru would probably start hyperventilating e... well~ it wouldn't be pretty. Forget riguardo it.
+[1584]I was joking. Inoltre~ if you wore a maid outfit at the lab~ Daru would probably start hyperventilating e... well~ it wouldn't be pretty. Forget riguardo it.
 [1585]Re:About my family members
 [1586]Lukako
 [1587]Tu have a sister? I visit the shrine a lot~ ma I've never met her.
@@ -1591,7 +1591,7 @@
 [1590]Mayuri is always praising your cooking skills. In realta'~ can you teach her come to cook? Forse then she'll eat qualcosa besides junk food.
 [1591]Re:I've depended on you too much
 [1592]Lukako
-[1593]Everyone experiences that at your age~ quindi don't let it bother you. Cosa e' important is the determination~ the resolution~ born from the regret of not being able to protect those important to you....
+[1593]Everyone experiences quella at your age~ quindi don't let it bother you. Cosa e' important is the determination~ the resolution~ born from the regret of not being able to protect those important to you....
 [1594]Re:I've depended on you too much
 [1595]Lukako
 [1596]Fool! 20 is nothing! Do 100 swings~ then we'll talk!
@@ -1603,19 +1603,19 @@
 [1602]Oh... I wouldn't want Hashida-san to hyperventilate. I really want to cook per te~ Okabe-san~ ma it's probably best if I don't...
 [1603]About my older sister
 [1604]Lukako
-[1605]She's away at university~ quindi she's almost never home. Tu know come I hai detto she's boyish? Bene~ I've always aveva trouble saying no to her~ quindi she e my father used to make me do [rubyBase]things[rubyTextEnd]... I mean~ [rubyBase]sai[rubyTextEnd]. Just thinking riguardo it makes me want to cry... P.S. I was quindi deep in thought I didn't do any practice swings with Samidare...
+[1605]She's away at university~ quindi she's almost never home. Tu know come I hai detto she's boyish? Bene~ I've always aveva trouble saying no to her~ quindi she e my father used to make me do [rubyBase]things[rubyTextEnd]... Voglio dire~ [rubyBase]sai[rubyTextEnd]. Just thinking riguardo it makes me want to cry... P.S. I was quindi deep in thought I didn't do any practice swings with Samidare...
 [1606]About cooking
 [1607]Lukako
-[1608]It's weird for a guy to like cooking~ isn't it... But it makes me happy quando people I like eat my food e say it's delicious. I think that's why I don't mind cooking. Is that still ok? P.S. I was a little restless~ quindi I couldn't do any practice swings.
+[1608]It's weird for a guy to like cooking~ isn't it... But it makes me happy quando persone I like eat my food e say it's delicious. penso che quella's why I don't mind cooking. Is quella still ok? P.S. I was a little restless~ quindi I couldn't do any practice swings.
 [1609]Per favore let me cry
 [1610]Lukako
-[1611]So~ Kyouma-san~ there were times you couldn't protect those important to you~ weren't there. Mi dispiace~ ma even though I non so anything riguardo it~ imagining Kyouma-san in such pain made me cry... P.S. I was crying~ quindi I couldn't do any practice swings...
+[1611]Quindi~ Kyouma-san~ there were times you couldn't protect those important to you~ weren't there. Mi dispiace~ ma even though I non so anything riguardo it~ imagining Kyouma-san in such pain made me cry... P.S. I was crying~ quindi I couldn't do any practice swings...
 [1612]Re:About my older sister
 [1613]Lukako
-[1614]I need details! Was questa an ancient holy ritual that no man can observe lest he be blinded by the purity of the feminine essence!?
+[1614]I need details! Was questa an ancient holy ritual quella no man can observe lest he be blinded by the purity of the feminine essence!?
 [1615]Re:About my older sister
 [1616]Lukako
-[1617]Don't dirmi they defiled you!? In that case~ you may have lost your powers as a miko....
+[1617]Don't dirmi they defiled you!? In quella case~ you may have lost your powers as a miko....
 [1618]Re:Re:About my older sister
 [1619]Lukako
 [1620]They didn't defile me! They just made me wear girl's clothes ><
@@ -1624,40 +1624,40 @@
 [1623]Um~ Kyouma-san~ are you familiar with [rubyBase]Gero Froggies[rubyTextEnd]? They were a huge fad last year. We have a tons of them at the shrine~ quindi if you like~ could you take a few off our hands? [rubyBase]Dad[rubyTextEnd] brought a whole box home for some [rubyBase]reason[rubyTextEnd]. Then he hai detto they were for me... I non so what to do with them! P.S. I was quindi bewildered~ I couldn't do any practice swings with Samidare.
 [1624]Re:About frogs
 [1625]Lukako
-[1626]Those weird-looking frog things that were popular with teenage girls in Shibuya last year~ giusto? If Sono not mistaken~ they came out with a wide variety of them.
+[1626]Those weird-looking frog things quella were popular with teenage girls in Shibuya last year~ giusto? If Sono not mistaken~ they came out with a wide variety of them.
 [1627]Re:About frogs
 [1628]Lukako
 [1629]Tu know~ the stories you tell paint a very different picture of your father than the impression I got from meeting him. Which is the true him~ I wonder.
 [1630]Re:About frogs
 [1631]Lukako
-[1632]I suspect that last year's Gero Froggy boom was an Organization plot. Be careful~ Lukako. Those Gero Froggies may be responsible per ter father's strange behavior...
+[1632]I suspect quella last year's Gero Froggy boom was an Organization plot. Be careful~ Lukako. Those Gero Froggies may be responsible per ter father's strange behavior...
 [1633]More news riguardo the frogs
 [1634]Lukako
 [1635]Ci sono only two o three types in the box. I'll send you a picture. If you want any~ per favore dirmi. I'll bring them over. P.S. I did 10 practice swings.
 [1636]He's irresponsible...
 [1637]Lukako
-[1638]My dad usually acts normal~ ma he gets strange quando only family members are around. Come~ why I was raised [rubyBase]as a girl[rubyTextEnd] in the first place? Dad says that I was supposed to have another sister born before me~ ma quando I asked mom~ she hai detto he was [rubyBase]making it up.[rubyTextEnd] Sono kind of [rubyBase]fed up[rubyTextEnd] with him... P.S. I did 10 practice swings.
+[1638]My dad usually acts normal~ ma he gets strange quando only family members are around. Come~ why I was raised [rubyBase]as a girl[rubyTextEnd] in the first place? Dad says quella I was supposed to have another sister born prima me~ ma quando I asked mom~ she hai detto he was [rubyBase]making it up.[rubyTextEnd] Sono kind of [rubyBase]fed up[rubyTextEnd] with him... P.S. I did 10 practice swings.
 [1639]I'll be careful
 [1640]Lukako
-[1641]The Gero Froggies are responsible!? But he was acting strange way before Gero Froggy existed... sorry! I hai detto qualcosa impertinent. I'll be careful from now on... Um~ he'll be ok~ giusto? P.S. I didn't swing Samidare again...
+[1641]The Gero Froggies are responsible!? But he was acting strange way prima Gero Froggy existed... sorry! I hai detto qualcosa impertinent. I'll be careful from now on... Um~ he'll be ok~ giusto? P.S. I didn't swing Samidare again...
 [1642]Re:He's irresponsible...
 [1643]Lukako
-[1644]That's it! There~ without a doubt~ lies the key to that tragedy that occurred 15 to 20 years ago!
+[1644]That's it! There~ without a doubt~ lies the key to quella tragedy quella occurred 15 to 20 years ago!
 [1645]Re:He's irresponsible...
 [1646]Lukako
-[1647]How does she know he was lying? Your father may be embracing some darkness deep within his heart that he hides from everyone.
+[1647]Come does she know he was lying? Your father may be embracing some darkness deep within his heart quella he hides from everyone.
 [1648]Re:He's irresponsible...
 [1649]Lukako
-[1650]If you don't like crossdressing~ then say quindi! Otherwise he'll just keep having his fun. If you want to change the status quo~ then burn those miko robes in the courtyard!
+[1650]Se lo sain't like crossdressing~ then say quindi! Otherwise he'll just keep having his fun. If you want to change the status quo~ then burn those miko robes in the courtyard!
 [1651]Domanda riguardo the tragedy
 [1652]Lukako
-[1653]There was a tragedy? I non so what you mean~ ma if you say quindi~ then it must be true! Ah~ is that why you've been training me with Samidare? If quindi~ then I need to work even harder! I did 25 practice swings!
+[1653]There was a tragedy? I non so what you mean~ ma if you say quindi~ then it must be true! Ah~ is quella why you've been training me with Samidare? If quindi~ then I need to work even harder! I did 25 practice swings!
 [1654]About darkness within his heart
 [1655]Lukako
-[1656]The darkness in his heart? I already know riguardo the rock band he was in... ma Sono pretty sure that's not related...
+[1656]The darkness in his heart? I already know riguardo the rock band he was in... ma Sono pretty sure quella's not related...
 [1657]About miko clothes
 [1658]Lukako
-[1659]I can't burn these miko clothes. They're sacred. Besides~ I've been wearing them for almost as long as I can ricordi. They feel giusto. ...Ah! Was that dad's plan? Sono [rubyBase]strange[rubyTextEnd] too~ aren't I...
+[1659]I can't burn these miko clothes. They're sacred. Inoltre~ I've been wearing them for almost as long as I can ricordi. They feel giusto. ...Ah! Was quella dad's plan? Sono [rubyBase]strange[rubyTextEnd] too~ aren't I...
 [1660]Re:About miko clothes
 [1661]Lukako
 [1662]It's too late. Tu have no choice ma to give in...
@@ -1666,10 +1666,10 @@
 [1665]Mayuri-chan's obsessed with questa anime called [rubyBase]RaiNet[rubyTextEnd]~ quindi I rented it vedere what it was riguardo. I don't usually watch anime~ e quando I do~ I prefer [rubyBase]romance[rubyTextEnd]~ ma I found questa anime to be pretty deep~ even though it's aimed at children. I was surprised. P.S. I was quindi engrossed in RaiNet~ I couldn't do any practice swings with Samidare. Mi dispiace...
 [1666]Re:About RaiNet
 [1667]Lukako
-[1668]Now you're hooked on RaiNet? Everyone around me is buying into questa RaiNet craze. How can it be quindi popular? Don't dirmi it's an Organization plot!?
+[1668]Now you're hooked on RaiNet? Everyone around me is buying into questa RaiNet craze. Come can it be quindi popular? Don't dirmi it's an Organization plot!?
 [1669]Re:About RaiNet
 [1670]Lukako
-[1671]That's your problem giusto there. Tu can't waste your time with romance fluff. If you have that much free time~ then practice with Samidare.
+[1671]That's your problem giusto there. Tu can't waste your time with romance fluff. If you have quella much free time~ then practice with Samidare.
 [1672]That game was fun
 [1673]Lukako
 [1674]That pager number guessing game was fun! I'd love to do it again sometime. Afterwards~ I asked my mom riguardo what it was like quando she was young~ e she looked quindi nostalgic. I non so why she sighed quindi deeply~ though. ( ^ ^ * ) P.S. I did 10 practice swings with Samidare.
@@ -1684,10 +1684,10 @@
 [1683]Hmm... I non so Mayuri's plans~ ma Sono pretty sure she's busy preparing for a different sort of festival presto to take place in Ariake.
 [1684]About festivals
 [1685]Lukako
-[1686]I see... It's true festivals are very crowded. I was hoping I might run into you at one~ ma I guess the chances of that were pretty slim to begin with. Ah~ it's not like I go to every festival. Per favore don't misunderstand. P.S. I only did 5 practice swings with Samidare...
+[1686]I see... It's true festivals are very crowded. I was hoping I might run into you at one~ ma I guess the chances of quella were pretty slim to begin with. Ah~ it's not like I go to every festival. Per favore don't misunderstand. P.S. I only did 5 practice swings with Samidare...
 [1687]About Mayuri-chan
 [1688]Lukako
-[1689]Um... you e Mayuri-chan don't go places together? Tu're both lab members~ e I heard you were childhood friends~ quindi I thought... Mi dispiace if I misunderstood... P.S. I did 30 practice swings with Samidare.
+[1689]Um... you e Mayuri-chan don't go places together? Tu're both lab members~ e I heard you were childhood amici~ quindi I thought... Mi dispiace if I misunderstood... P.S. I did 30 practice swings with Samidare.
 [1690]Saluti
 [1691]skyclad2010@egweb.ne.jp
 [1692]This is Amane Suzuha. primo email! Grazie for [rubyBase]exchanging addresses[rubyTextEnd] with me yesterday. I finally made a friend [rubyBase]qui[rubyTextEnd]. Yay! Don't worry. I won't email you too much. And I might be [rubyBase]slow to reply[rubyTextEnd] too. Sono kinda new at questa email thing. It's ok to laugh at me!
@@ -1696,178 +1696,178 @@
 [1695]That wasn't an exchange. Tu took my address by force! I aveva no choice ma to submit.
 [1696]Re:Saluti
 [1697]skyclad2010@egweb.ne.jp
-[1698]Dove were you living before?
+[1698]Dove were you living prima?
 [1699]Re:Saluti
 [1700]skyclad2010@egweb.ne.jp
 [1701]Haven't used cellphones much?
 [1702]In realta'
-[1703]Part-Time Warrior
-[1704]In realta'~ it was [rubyBase]love at first sight[rubyTextEnd]. lol jk~ jk. In realta'~ I think that human beings [rubyBase]need relationships[rubyTextEnd]~ sai? It's a matter of life e death.
+[1703]Guerriera Part-Time
+[1704]In realta'~ it was [rubyBase]love at first sight[rubyTextEnd]. lol jk~ jk. In realta'~ penso che quella human beings [rubyBase]need relationships[rubyTextEnd]~ sai? It's a matter of life e death.
 [1705]Secret
-[1706]Part-Time Warrior
+[1706]Guerriera Part-Time
 [1707]That's a secret. Dove do you think? If you get it giusto~ I'll take you anywhere. (Anydove reachable by bicycle~ ecco.) Take a guess! Tra parentesi~ no hints.
 [1708]In the first place
-[1709]Part-Time Warrior
-[1710]I just got my first cellular phone [rubyBase]recently[rubyTextEnd]. When I arrived in Tokyo a few days ago~ I didn't even know [rubyBase]come to ride the train[rubyTextEnd]. So I just bought a [rubyBase]bike[rubyTextEnd] invece.
+[1709]Guerriera Part-Time
+[1710]I just got my first cellular phone [rubyBase]recently[rubyTextEnd]. When I arrived in Tokyo a few days ago~ I didn't even know [rubyBase]come to ride the train[rubyTextEnd]. Quindi I just bought a [rubyBase]bike[rubyTextEnd] invece.
 [1711]Re:In realta'
-[1712]Part-Time Warrior
+[1712]Guerriera Part-Time
 [1713]I understand. Women are always attracted to evil over good.
 [1714]Re:In realta'
-[1715]Part-Time Warrior
-[1716]Is that the rule you live by? It sounds like things haven't been easy per te~ Part-Time Warrior.
+[1715]Guerriera Part-Time
+[1716]Is quella the rule you live by? It sounds like things haven't been easy per te~ Guerriera Part-Time.
 [1717]Re:In the first place
-[1718]Part-Time Warrior
-[1719]I can't believe ci sono still people our age who've never used a cellphone.
+[1718]Guerriera Part-Time
+[1719]I can't believe ci sono still persone our age who've never used a cellphone.
 [1720]Re:In the first place
-[1721]Part-Time Warrior
+[1721]Guerriera Part-Time
 [1722]That has to be a joke. Tu're trolling me~ aren't you!
 [1723]Re:In the first place
-[1724]Part-Time Warrior
+[1724]Guerriera Part-Time
 [1725]Tu must be pretty fit.
 [1726]Tu're evil?
-[1727]Part-Time Warrior
-[1728]Tu're evil? The love at first sight thing was a joke~ ok? Tu sei by any chance a womanizer?
+[1727]Guerriera Part-Time
+[1728]Tu're evil? The love at first sight thing was a joke~ ok? Tu sei by any caso a womanizer?
 [1729]Words of wisdom?
-[1730]Part-Time Warrior
-[1731]Not really. I [rubyBase]don't like[rubyTextEnd] relying on people. I can handle myself! (lmao) I guess it's a pride thing.
+[1730]Guerriera Part-Time
+[1731]Not really. I [rubyBase]don't like[rubyTextEnd] relying on persone. I can handle myself! (lmao) I guess it's a pride thing.
 [1732]Directly
-[1733]Part-Time Warrior
-[1734]If you really want to talk to someone~ you should do it face-to-face. Too much is lost in an email. Honestly~ I'd rather be talking to you in person giusto now. Strange thing to say after demanding your address~ I know (lmao)
+[1733]Guerriera Part-Time
+[1734]If you really want to talk to someone~ you should do it face-to-face. Too much is lost in an email. Onestamente~ I'd rather be talking to you in person giusto now. Strange thing to say after demanding your address~ I know (lmao)
 [1735]In realta'
-[1736]Part-Time Warrior
-[1737]The train didn't run through dove I lived. I was astonished vedere come many train lines Tokyo aveva. It's like a big web!
+[1736]Guerriera Part-Time
+[1737]The train didn't run through dove I lived. I was astonished vedere come molte train lines Tokyo aveva. It's like a big web!
 [1738]Simple is best
-[1739]Part-Time Warrior
-[1740]Simple is best~ giusto? The bicycle's basic design hasn't changed for over 100 years. Tra parentesi~ Sono not that strong.
+[1739]Guerriera Part-Time
+[1740]Simple is best~ giusto? The bicycle's basic design hasn't changed for over 100 years. Tra parentesi~ Sono not quella strong.
 [1741]Re:Words of wisdom?
-[1742]Part-Time Warrior
-[1743]It's inconsistent to say that relationships are important ma you don't like relying on others.
+[1742]Guerriera Part-Time
+[1743]It's inconsistent to say quella relationships are important ma you don't like relying on others.
 [1744]Hungry
-[1745]Part-Time Warrior
+[1745]Guerriera Part-Time
 [1746]Sono quindi hungry! I aveva to skip breakfast again today. I don't have much money on hand. Are there any good places to find [rubyBase]insects o weeds[rubyTextEnd] around qui? I can get by using my [rubyBase]survival skills[rubyTextEnd] if I have to.
 [1747]Re:Hungry
-[1748]Part-Time Warrior
+[1748]Guerriera Part-Time
 [1749]Tu eat insects? Hardcore....
 [1750]Re:Hungry
-[1751]Part-Time Warrior
-[1752]What kind of childhood did you have?
+[1751]Guerriera Part-Time
+[1752]Cosa kind of childhood did you have?
 [1753]Re:Re:Hungry
-[1754]Part-Time Warrior
+[1754]Guerriera Part-Time
 [1755]If you cook them giusto~ they can taste surprisingly good.
 [1756]Re:Re:Hungry
-[1757]Part-Time Warrior
+[1757]Guerriera Part-Time
 [1758]Tu don't want to know (lmao)
 [1759]Akihabara's
-[1760]Part-Time Warrior
+[1760]Guerriera Part-Time
 [1761]Akihabara's such a strange town. Everydove I look~ I see [rubyBase]drawings of cute girls[rubyTextEnd]. Some of them even have their breasts fully exposed~ which startled me. Coming qui has been a real [rubyBase]culture shock[rubyTextEnd]. It's amazing come [rubyBase]peaceful[rubyTextEnd] Japan is now.
 [1762]Re:Akihabara's
-[1763]Part-Time Warrior
-[1764]Unfortunately~ moe has become the symbol of Akihabara e the caos that rules qui. Get used to it.
+[1763]Guerriera Part-Time
+[1764]Unfortunately~ moe has become the symbol of Akihabara e the caos quella rules qui. Get used to it.
 [1765]Re:Akihabara's
-[1766]Part-Time Warrior
-[1767]I can imagine come that would shock someone who isn't prepared.
+[1766]Guerriera Part-Time
+[1767]I can imagine come quella would shock someone who isn't prepared.
 [1768]Re:Akihabara's
-[1769]Part-Time Warrior
+[1769]Guerriera Part-Time
 [1770]I agree. It's all perche' of the Organization's efforts to stupidify Japan.
 [1771]Che succede?
-[1772]Part-Time Warrior
-[1773]It sounds like you're [rubyBase]having fun[rubyTextEnd] up there. Was that a girl's [rubyBase]scream[rubyTextEnd] I heard? Tu're not doing [rubyBase]qualcosa dirty[rubyTextEnd]~ are you? Do Tokyo people have loose sexual morals? I don't really understand that stuff.
+[1772]Guerriera Part-Time
+[1773]It sounds like you're [rubyBase]having fun[rubyTextEnd] up there. Was quella a girl's [rubyBase]scream[rubyTextEnd] I heard? Tu're not doing [rubyBase]qualcosa dirty[rubyTextEnd]~ are you? Do Tokyo persone have loose sexual morals? I don't really understand quella stuff.
 [1774]Too much free time
-[1775]Part-Time Warrior
-[1776]But Sono quindi [rubyBase]bored[rubyTextEnd]! There's nothing to do qui all day. At least the [rubyBase]pay[rubyTextEnd] is good... Ah~ don't [rubyBase]tell[rubyTextEnd] the boss that I've been polishing my bicycle at work~ ok? I'll get fired. I hope you understand. We're in questa together~ giusto?
+[1775]Guerriera Part-Time
+[1776]But Sono quindi [rubyBase]bored[rubyTextEnd]! There's nothing to do qui all day. At least the [rubyBase]pay[rubyTextEnd] is good... Ah~ don't [rubyBase]tell[rubyTextEnd] the boss quella I've been polishing my bicycle at work~ ok? I'll get fired. I hope you understand. We're in questa together~ giusto?
 [1777]Now~ on TV
-[1778]Part-Time Warrior
-[1779]Proprio ora~ I saw two guys fighting on TV. I think it was some kind of competition. It really got my blood pumping! Hey~ mind if I come over e put you in a [rubyBase]straight arm bar[rubyTextEnd]? It'll be fun!
+[1778]Guerriera Part-Time
+[1779]Proprio ora~ I saw two guys fighting on TV. penso che it was some kind of competition. It really got my blood pumping! Hey~ mind if I come over e put you in a [rubyBase]straight arm bar[rubyTextEnd]? It'll be fun!
 [1780]Re:From above
-[1781]Part-Time Warrior
-[1782]What~ do you want to join the lab? Something tells me you're just looking for an excuse to skip work.
+[1781]Guerriera Part-Time
+[1782]Cosa~ do you want to join the lab? Something tells me you're just looking for an excuse to skip work.
 [1783]Re:From above
-[1784]Part-Time Warrior
+[1784]Guerriera Part-Time
 [1785]Don't worry. That wasn't a girl screaming.
 [1786]Re:From above
-[1787]Part-Time Warrior
+[1787]Guerriera Part-Time
 [1788]It sounds like you have an overactive imagination. Or is it wishful thinking~ I wonder?
 [1789]Re:Too much free time
-[1790]Part-Time Warrior
-[1791]What do you mean ″ma?″ What are you talking riguardo?
+[1790]Guerriera Part-Time
+[1791]Cosa do you mean ″ma?″ Cosa are you talking riguardo?
 [1792]Re:Too much free time
-[1793]Part-Time Warrior
-[1794]What? The Braun Tube Workshop pays well? Forse I'll apply for a part time job in September.
+[1793]Guerriera Part-Time
+[1794]Cosa? The Braun Tube Workshop pays well? Forse I'll apply for a part time job in September.
 [1795]Re:Too much free time
-[1796]Part-Time Warrior
+[1796]Guerriera Part-Time
 [1797]Ha! Tu've made a fatal mistake! Tu exposed your own weakness to me! I'll be saving questa trump card for the critical moment.
 [1798]Re:Now~ on TV
-[1799]Part-Time Warrior
-[1800]Command sambo!? So you are an Organization assassin!
+[1799]Guerriera Part-Time
+[1800]Command sambo!? Quindi you are an Organization assassin!
 [1801]After
-[1802]Part-Time Warrior
+[1802]Guerriera Part-Time
 [1803]I might be [rubyBase]quitting[rubyTextEnd] in two days. Don't tell the boss~ ok? He'll kill me.
 [1804]Re:Re:Policeman
-[1805]Part-Time Warrior
+[1805]Guerriera Part-Time
 [1806]Oh... Tra parentesi~ what's a yakuza? Inoltre~ do sai dove I can find a gun? Just wondering.
 [1807]Re:Re:Nae
-[1808]Part-Time Warrior
+[1808]Guerriera Part-Time
 [1809]Nae says you're scary (lmao) She likes me~ though! It's nice~ like having a little sister. Gotta take care of her! Plus she's my excuse to skip work (lmao)
 [1810]Ciaostory
-[1811]Part-Time Warrior
+[1811]Guerriera Part-Time
 [1812]″Pivotal moments in history are rarely seen as such until long after they have occurred. Even the person responsible for the change may not realize what he has done.″ --Amane Suzuha~ 2010.
 [1813]Earlier quando I was working
-[1814]Part-Time Warrior
+[1814]Guerriera Part-Time
 [1815]The last time I fell addormentato at work~ the boss woke me up with his fist. Ow! Bene~ no one to blame ma myself.
 [1816]Riding a bicycle
-[1817]Part-Time Warrior
-[1818]I've hai detto that riding a bicycle is fun~ giusto? But I got muscle pain from it. Despite appearances~ I have a [rubyBase]weak constitution[rubyTextEnd].
+[1817]Guerriera Part-Time
+[1818]I've hai detto quella riding a bicycle is fun~ giusto? But I got muscle pain from it. Despite appearances~ I have a [rubyBase]weak constitution[rubyTextEnd].
 [1819]Re:Russia
-[1820]Part-Time Warrior
+[1820]Guerriera Part-Time
 [1821]That's from Russia~ giusto? All I know riguardo Russia are those cute dolls. I've never been.
 [1822]Re:After
-[1823]Part-Time Warrior
+[1823]Guerriera Part-Time
 [1824]Tu're quitting? Don't be hasty. He really will kill you!
 [1825]Re:Riding a bicycle
-[1826]Part-Time Warrior
+[1826]Guerriera Part-Time
 [1827]This is the taste of a liar.
 [1828]Oneself
-[1829]Part-Time Warrior
-[1830]It's easy to pretend to be someone you're not. Ultimately~ however~ there's no escaping the contradictions between your [rubyBase]false self[rubyTextEnd] e the real you. It's a paradox~ e paradoxes can't hold. I tried to tell myself that I didn't need anyone~ that forming bonds would only hurt~ ma somehow I ended up joining your circle of friends. I still non so if it was for the best. No~ Sono sure it was. Without you~ I would have given up on ever finding my dad. I non so why I wrote all questa. I guess what Sono trying to say is... thanks.
+[1829]Guerriera Part-Time
+[1830]It's easy to pretend to be someone you're not. Ultimately~ however~ there's no escaping the contradictions between your [rubyBase]false self[rubyTextEnd] e the real you. It's a paradox~ e paradoxes can't hold. I tried to tell myself quella I didn't need anyone~ quella forming bonds would only hurt~ ma somehow I ended up joining your circle of amici. I still non so if it was for the best. No~ Sono sure it was. Without you~ I would have given up on ever finding my dad. I non so why I wrote all questa. I guess what Sono trying to say is... thanks.
 [1831]Re:Oneself
-[1832]Part-Time Warrior
+[1832]Guerriera Part-Time
 [1833]Are we sharing confessions now? Be careful to whom you expose your innermost feelings. They may use them against you!
 [1834]Re:Re:Oneself
-[1835]Part-Time Warrior
+[1835]Guerriera Part-Time
 [1836]Don't forget what Titor hai detto.
 [1837]The final battle is close at hand nya
 [1838]Faris
-[1839]Tu're di piu' [rubyBase]purrceptive[rubyTextEnd] than I thought~ nya. So now you understand what's at stake. The [rubyBase]Red Southern Cross[rubyTextEnd] will presto [rubyBase]hatch[rubyTextEnd]~ nya. The time has come for Faris to journey to the Sanctuary e prepare for... I can say no di piu'~ nya...
+[1839]Tu're di piu' [rubyBase]purrceptive[rubyTextEnd] than I thought~ nya. Quindi now you understand what's at stake. The [rubyBase]Red Southern Cross[rubyTextEnd] will presto [rubyBase]hatch[rubyTextEnd]~ nya. The time has come for Faris to journey to the Sanctuary e prepare for... I can say no di piu'~ nya...
 [1840]Re:The decisive battle is close at hand nya
 [1841]Faris
-[1842]What are you talking riguardo? Will you quit testing me with questa mockery?
+[1842]Cosa are you talking riguardo? Will you quit testing me with questa mockery?
 [1843]Re:The decisive battle is close at hand nya
 [1844]Faris
-[1845]I see. So the Holders of Original Sin -- those who~ like me~ were born of Prototype 13 -- have begun to assemble in Akiba~ guided by the star that we alone can see. The time is giusto.
+[1845]I see. Quindi the Holders of Original Sin -- those who~ like me~ were born of Prototype 13 -- have begun to assemble in Akiba~ guided by the star quella we alone can see. The time is giusto.
 [1846]Re:The decisive battle is close at hand nya
 [1847]Faris
-[1848]Impossible. Tu mean it's already awakening? It's 50 years earlier than I predicted. What does questa mean!?
+[1848]Impossible. Tu mean it's already awakening? It's 50 years earlier than I predicted. Cosa does questa mean!?
 [1849]Tu can't fool me~ nya
 [1850]Faris
-[1851]Tu know esattamente what I mean~ nya. Why do you think I approached you~ Kyouma? The Story has already come to life~ nya. I must to prepare you for what you must face. That's my role as the Guide~ nya.
-[1852]So that was it after all nya
+[1851]Tu know esattamente what Voglio dire~ nya. Why do you think I approached you~ Kyouma? The Story has already come to life~ nya. I must to prepare you for what you must face. That's my role as the Guide~ nya.
+[1852]Quindi quella was it after all nya
 [1853]Faris
-[1854]The Holders of Original Sin~ also known as the Prophets~ nya. Among them is the girl known as ″the Fallen Angel who Accepted Caos~″ nya. I attached a picture of her face~ quindi rememburr it well~ nya. Oh~ e before I furrget~ looking at the picture without protection will cause Divine Eye to activate Original Sin Excitation (Mode 666: Compulsory Receptor Release) which will annihilate you at the subatomic level. So be careful~ nya!
+[1854]The Holders of Original Sin~ also known as the Prophets~ nya. Among them is the girl known as ″the Fallen Angel who Accepted Caos~″ nya. I attached a picture of her face~ quindi rememburr it well~ nya. Oh~ e prima I furrget~ looking at the picture without protection will cause Divine Eye to activate Original Sin Excitation (Mode 666: Compulsory Receptor Release) which will annihilate you at the subatomic level. Quindi be careful~ nya!
 [1855]It's already a state of emergency nya
 [1856]Faris
 [1857]That's why you need to locate ″the 14th man″ as presto as possible~ nya. He must be in the Hawk's Nest~ also known as Eagle Prison~ which exists somedove in Akiba.
 [1858]Original Sin level rising to 180%
 [1859]Faris
-[1860]Kyouma... quando operating in the [rubyBase]Mundane World[rubyTextEnd]~ you're supposed to be [rubyBase]discrete~[rubyTextEnd] nya. Tu don't want Them to notice you. Remember~ the summoning has taken [rubyBase]2000[rubyTextEnd] years to prepare. If it fails~ di tutto will be ruined... although I suppose that might make things [rubyBase]interesting[rubyTextEnd]~ nyahaha.
+[1860]Kyouma... quando operating in the [rubyBase]Mundane World[rubyTextEnd]~ you're supposed to be [rubyBase]discrete~[rubyTextEnd] nya. Tu don't want Them to notice you. Remember~ the summoning has taken [rubyBase]2000[rubyTextEnd] years to prepare. If it fails~ di tutto will be ruined... although I suppose quella might make things [rubyBase]interesting[rubyTextEnd]~ nyahaha.
 [1861]Re:Original Sin level rising to 180%
 [1862]Faris
 [1863]Akiba~ part of the Mundane World? Nonsense. This town has belonged to Caos for centuries. As it shall forevermore.
 [1864]Re:Original Sin level rising to 180%
 [1865]Faris
-[1866]Tu sei suggesting that I~ the great Hououin Kyouma~ run e hide? Tu risk my ire~ catgirl.
+[1866]Tu sei suggesting quella I~ the great Hououin Kyouma~ run e hide? Tu risk my ire~ catgirl.
 [1867]Re:Original Sin level rising to 180%
 [1868]Faris
-[1869]Is the Church still devoted to that fool's errand? Even if they manage to resurrect their Messiah~ humanity's faith is less than 17% of what it was in his time. Mankind doesn't need decrepit old gods to save them.
+[1869]Is the Church still devoted to quella fool's errand? Even if they manage to resurrect their Messia~ humanity's faith is less than 17% of what it was in his time. Mankind doesn't need decrepit old gods to save them.
 [1870]Re:Original Sin level rising to 180%
 [1871]Faris
 [1872]Tu... what are you scheming?
@@ -1876,7 +1876,7 @@
 [1875]I didn't say anything riguardo Akiba~ nya. If you want to learn the Truth of the World~ then come to me at once~ nya. It's time for the prelude to ruin~ the grand banquet to begin!
 [1876]Unreasonyable!
 [1877]Faris
-[1878]Don't dirmi you plan to face them head on? But that will turn Akiba into a sea of blood~ nyan! Restrain yourself~ Kyouma!
+[1878]Don't dirmi you plan to face them head on? But quella will turn Akiba into a sea of blood~ nyan! Restrain yourself~ Kyouma!
 [1879]Song of Prophecy
 [1880]Faris
 [1881]But the fallen angel~ FES~ prophesied Ciaos resurrection in her song Esoteric Choker~ nyan. This song is the cat's meow♪ I found a copy of the album she put out back in her indie days (aveva to pay through the whiskers for it)~ e faithfully decoded each song of prophecy regarding Judgment Day~ nya.
@@ -1894,7 +1894,7 @@
 [1893]Is questa another part of Operation Stupidify Humanity? Explain.
 [1894]Re:PHANTASM is the cat's meow♪
 [1895]Faris
-[1896]Sono aware. They are hai detto to contain directions to the Sanctuary~ as well as prophesies regarding the end of the world. Isn't that giusto?
+[1896]Sono aware. They are hai detto to contain directions to the Sanctuary~ as well as prophesies regarding the end of the world. Isn't quella giusto?
 [1897]The vocalist is a beautiful girl
 [1898]Faris
 [1899]The vocalist~ FES~ is also known as the ″Fallen Angel who Accepted [rubyBase]Caos[rubyTextEnd]″ e ″[rubyBase]Cocytus[rubyTextEnd] Force Raid.″ Her [rubyBase]atmospqui[rubyTextEnd] has changed a little since her indie days.
@@ -1909,13 +1909,13 @@
 [1908]Become caos. Bearing an endless pain.
 [1909]Re:The vocalist is a beautiful girl
 [1910]Faris
-[1911]Sounds like a power that could kill you dead.
+[1911]Sounds like a power quella could kill you dead.
 [1912]Re:The vocalist is a beautiful girl
 [1913]Faris
 [1914]Did society defile her e make her a literal fallen angel? Caos has lost a powerful ally.
 [1915]Re:RaiNet OP 2
 [1916]Faris
-[1917]Speaking of which~ Mayuri loves that show. Is it even popular with teenage girls?
+[1917]Speaking of which~ Mayuri loves quella show. Is it even popular with teenage girls?
 [1918]Re:RaiNet OP 2
 [1919]Faris
 [1920]That land... has provoked the wrath of god....
@@ -1936,7 +1936,7 @@
 [1935]Super dead~ nya.
 [1936]Human growth?
 [1937]Faris
-[1938]She used to be kinda scary~ nya. Cold as ice~ nyan. But I sentire that she sometimes smiles on stage now~ nya! FES-sama's smile! Voglio see her smile~ nya. But I don't want the media to defile her with their grubby paws~ nya.
+[1938]She used to be kinda scary~ nya. Cold as ice~ nyan. But I sentire quella she sometimes smiles on stage now~ nya! FES-sama's smile! Voglio see her smile~ nya. But I don't want the media to defile her with their grubby paws~ nya.
 [1939]RaiNet Ep 13
 [1940]Faris
 [1941]I sent you a rundown of episode 13 quindi you can see what it's like~ nya. I'll lend you the DVD sometime~ nya! Ah~ ma it might be quicker to prendere in prestito it from Mayushii~ nyan.
@@ -1948,19 +1948,19 @@
 [1947]I can't stop now~ nya. Judgment Day is near. I have to keep going~ nya. I must find the Sanctuary. That is dove Faris belongs~ nyan.
 [1948]Eternally exists
 [1949]Faris
-[1950]Cosa e' that supposed to mean~ nya!? The Sanctuary must be there! If it isn't... then what will happen to Faris's brother!?
+[1950]Cosa e' quello supposed to mean~ nya!? The Sanctuary must be there! If it isn't... then what will happen to Faris's brother!?
 [1951]Sign of increasing misfortune
 [1952]Faris
 [1953]Oh no! [rubyBase]He[rubyTextEnd] escaped~ nya! If we don't find him e kill him~ misfortune will fall upon Akiba~ nya! Ciaos name is ″The End of Chutorial.″ He's small~ e nimble~ e he cries ″chuu chuu~″ nya! Come qui quick! Faris needs your [rubyBase]help[rubyTextEnd]~ nyan!
 [1954]Re:Sign of increasing misfortune
 [1955]Faris
-[1956]A rat? What kind of catgirl is afraid of rats? Tu disappoint me~ Faris NyanNyan!
+[1956]A rat? Cosa kind of catgirl is afraid of rats? Tu disappoint me~ Faris NyanNyan!
 [1957]Re:Sign of increasing misfortune
 [1958]Faris
 [1959]I can help~ ma it won't be cheap.
 [1960]About abilities
 [1961]Faris
-[1962]There's a lot I non so riguardo myself~ nya.  Why does Faris have [rubyBase]cat ears[rubyTextEnd] quando other people have people ears? Why can Faris only speak in [rubyBase]NyanNyanian[rubyTextEnd]? Dove is my home~ the [rubyBase]Chinchilla Star[rubyTextEnd]? I want to know the truth. That's why I have to go~ nya! To dove all the answers can be found!
+[1962]There's a lot I non so riguardo myself~ nya.  Why does Faris have [rubyBase]cat ears[rubyTextEnd] quando other persone have persone ears? Why can Faris only speak in [rubyBase]NyanNyanian[rubyTextEnd]? Dove is my home~ the [rubyBase]Chinchilla Star[rubyTextEnd]? I want to know the truth. That's why I have to go~ nya! To dove all the answers can be found!
 [1963]Cat-astrophe nya...
 [1964]Faris
 [1965]I told you~ it's [rubyBase]too late[rubyTextEnd]~ nya!
@@ -1969,13 +1969,13 @@
 [1968]Half-human~ half-demon... I want to take you back to the lab e run some experiments. Do you mind?
 [1969]Re:About abilities
 [1970]Faris
-[1971]Quit talking like that. It's annoying.
+[1971]Quit talking like quella. It's annoying.
 [1972]Re:About abilities
 [1973]Faris
 [1974]Too bad. Your homeworld has already fallen to the great Hououin Kyouma. Muhahaha!
 [1975]Re:Cat-astrophe nya...
 [1976]Faris
-[1977]Too late? What are you talking riguardo? Tu haven't told me anything.
+[1977]Too late? Cosa are you talking riguardo? Tu haven't mi ha detto anything.
 [1978]29Q
 [1979]Faris
 [1980]A cat's paws are made of warmth e joy. Scusa I couldn't come today~ nya.
@@ -1987,7 +1987,7 @@
 [1986]Scusa I couldn't come today~ nya. Faris was practicing for the RaiNet AB grand championships~ nyan. I want to crush my enemies just like in [rubyBase]Ep 8[rubyTextEnd]~ nya.
 [1987]Re:Re:Re:Ep 8
 [1988]Faris
-[1989]Ep 8? What are you talking riguardo?
+[1989]Ep 8? Cosa are you talking riguardo?
 [1990]About Ep 8
 [1991]Faris
 [1992]RaiNet Kakeru~ of course~ nya!
@@ -1999,46 +1999,46 @@
 [1998]That's not like you. Pull yourself together. I need your help finding the IBN 5100.
 [1999]Re:ComiMa
 [2000]Faris
-[2001]What happened? Is the Organization attacking!?
+[2001]Cosa happened? Is the Organization attacking!?
 [2002]Re:ComiMa
 [2003]Faris
 [2004]Tu're messing with me again~ aren't you? Stop making me worry!
 [2005]Re:Re:ComiMa
 [2006]Faris
-[2007]I was forcing myself to be cheerful for that last phone call~ nya... I actually feel like I could die~ nya...
+[2007]I was forcing myself to be cheerful for quella last phone call~ nya... I actually feel like I could die~ nya...
 [2008]Re:Re:ComiMa
 [2009]Faris
-[2010]My life has no meaning. It's all gone now. No one will look at me. Not anymore. What posso do? Even if I shout~ no one can sentire. My voice can't reach the one most important to me. I walk alone through dusty gray streets~ forever pounded by lukewarm rain. Such is the fate of the defeated. Still... Faris is qui. [rubyBase]Someone find me[rubyTextEnd].
+[2010]My life has no meaning. It's all gone now. No one will look at me. Not anymore. Cosa posso do? Even if I shout~ no one can sentire. My voice can't reach the one most important to me. I walk alone through dusty gray streets~ forever pounded by lukewarm rain. Such is the destino of the defeated. Still... Faris is qui. [rubyBase]Someone find me[rubyTextEnd].
 [2011]Re:Re:ComiMa
 [2012]Faris
 [2013]When I listen to PHANTASM's songs at times like these~ I sink even deeper into the darkness~ nya... Join me~ Kyouma.
 [2014]Get a grip
 [2015]Faris
-[2016]What chuuni nonsense. If you want attention~ come to the lab. Mayuri e I are qui per te.
-[2017]Memory
+[2016]Cosa chuuni nonsense. If you want attention~ come to the lab. Mayuri e I are qui per te.
+[2017]Memoria
 [2018]John Titor
-[2019]I've confirmed that divergence is currently 0.523299%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[2020]Memory
+[2019]Ho confermato che la divergenza e' attualmente pari a 0.523299%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[2020]Memoria
 [2021]John Titor
-[2022]I've confirmed that divergence is currently 0.456903%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[2023]Memory
+[2022]Ho confermato che la divergenza e' attualmente pari a 0.456903%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[2023]Memoria
 [2024]John Titor
-[2025]I've confirmed that divergence is currently 0.409420%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[2026]Memory
+[2025]Ho confermato che la divergenza e' attualmente pari a 0.409420%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[2026]Memoria
 [2027]John Titor
-[2028]I've confirmed that divergence is currently 0.337187%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[2029]Memory
+[2028]Ho confermato che la divergenza e' attualmente pari a 0.337187%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[2029]Memoria
 [2030]John Titor
-[2031]I've confirmed that divergence is currently 0.409431%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[2032]Memory
+[2031]Ho confermato che la divergenza e' attualmente pari a 0.409431%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[2032]Memoria
 [2033]John Titor
-[2034]I②ve confirmed that divergence is currently 0.456914%. I cannot tell what the value was before hai cambiato il passato. This is perche' I② like your friends② have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel② memories are retained even if the linea di universo changes. That②s been proven by my own experience. But in the case of an email like the one you sent② the ″viaggiatore del tempo″ changes the past without actually traveling through time② a situation that scientists in my time never even considered. It wasn②t necessary② since the invention of the time machine in 2034 gave us a means of physical time travel. So I②m afraid that I have no idea come to explain the phenomenon you②ve been experiencing.
-[2035]Memory
+[2034]I②ve confirmed quella divergenza is currently 0.456914%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I② like your amici② non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel② le memorie are retained anche se the linea di universo cambia. That②s been proven by my own experience. Ma nel caso di una email come quella che hai inviato② the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo② una situazione che gli scienziati della mia epoca non hanno mai considerato. It wasn②t necessary② visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi I②m afraid quella I have no idea come to explain the phenomenon you②ve been experiencing.
+[2035]Memoria
 [2036]John Titor
-[2037]I've confirmed that divergence is currently 0.523307%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
-[2038]Memory
+[2037]Ho confermato che la divergenza e' attualmente pari a 0.523307%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
+[2038]Memoria
 [2039]John Titor
-[2040]I've confirmed that divergence is currently 0.571046%. I cannot tell what the value was before hai cambiato il passato. This is perche' I~ like your friends~ have no memories of the linea di universo before hai cambiato il passato. In the case of physical time travel~ memories are retained even if the linea di universo changes. That's been proven by my own experience. But in the case of an email like the one you sent~ the ″viaggiatore del tempo″ changes the past without actually traveling through time~ a situation that scientists in my time never even considered. It wasn't necessary~ since the invention of the time machine in 2034 gave us a means of physical time travel. So Ho paura that I have no idea come to explain the phenomenon you've been experiencing.
+[2040]Ho confermato che la divergenza e' attualmente pari a 0.571046%. Non posso dire quale era il valore prima che hai cambiato il passato. This is perche' I~ like your amici~ non ho memoria of the linea di universo prima hai cambiato il passato. Nel caso di un physical time travel~ le memorie are retained anche se the linea di universo cambia. Cio' e' stato dimostrato dalla mia esperienza. Ma nel caso di una email come quella che hai inviato~ the ″viaggiatore del tempo″ cambia il passato senza in realta' viaggiare nel tempo~ una situazione che gli scienziati della mia epoca non hanno mai considerato. Non serviva~ visto che l'invenzione della macchina del tempo nel 2034 ci ha dato un modo per viaggiare fisicamente nel tempo. Quindi Ho paura di non avere alcuna idea sul come spiegare il fenomeno che hai sperimentato.
 [2041]Re:Dove sei tu?
 [2042]Daru
 [2043]Sono at Kitchen Jiro. Che succede?
