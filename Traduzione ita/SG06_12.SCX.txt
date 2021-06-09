@@ -104,7 +104,7 @@ Kurisu’s tone is haughty. Is this how I sound when I’m playing Hououin Kyoum
 [name]Rintaro[line]“...I just don’t get it anymore.”[%p]
 [name]Kurisu[line]“What don’t you get?”[%p]
 [name]Rintaro[line]“How to save Mayuri.”[%p]
-[name]Kurisu[line]“Based on what you said, I guess the chronology protection conjecture is true.”[%p]
+[name]Kurisu[line]“Based on what you said, I guess the congettura di protezione cronologica is true.”[%p]
 [name]Rintaro[line]“No matter what I do, Mayuri dies.”[%p]
 [name]Kurisu[line]“And that’s why you keep time leaping...”[%p]
 [name]Kurisu[line]“There’s no guarantee that the machine is safe, you know.”[%p]

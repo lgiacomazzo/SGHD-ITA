@@ -139,7 +139,7 @@ We have shifted from a worldline where we failed to stop Suzuha from leaving to 
 [name]Suzuha[line]“Well, I was on my way home from the time machine meet when--”[%p]
 [name]Rintaro[line]“Woah, wait a second. Time machine meet!?”[%p]
 [name]Suzuha[line]“Yup.”[%p]
-That’s the same offline meet that Daru was going to...[%p]
+That’s the same incontro offline that Daru was going to...[%p]
 [name]Rintaro[line]“Was that where your father was supposed to appear?”[%p]
 [name]Suzuha[line]“I said so yesterday, didn’t I?”[%p]
 [name]Rintaro[line]“So you were going home, and then?”[%p]

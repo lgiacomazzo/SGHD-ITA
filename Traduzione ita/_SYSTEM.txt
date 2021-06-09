@@ -6,10 +6,10 @@
 [5]Dati corrotti
 [6]Niente dati
 [7]Tempo di gioco:
-[8]Ora del salvataggio:
+[8]Salvato il:
 [9]/
 [10]:
-[11]No .
+[11]N.
 [12]Tempo di gioco totale
 [13]m
 [14]s

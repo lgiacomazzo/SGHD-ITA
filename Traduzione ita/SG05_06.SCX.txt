@@ -81,7 +81,7 @@ If you sent your memories one week into the future, then the future you would lo
 [name]Rintaro[line]“For example, do you think you’ll have the same phone number for all eternity?”[%p]
 [name]Mayuri[line]“How should I know? Ehehe.”[%p]
 [name]Rintaro[line]“Exactly my point.”[%p]
-[name]Rintaro[line]“And remember, pagers became obsolete with the advent of cellphones. Similarly, our phones may be replaced by some other device in the future.”[%p]
+[name]Rintaro[line]“And remember, i cercapersone became obsolete with the advent of cellphones. Similarly, our phones may be replaced by some other device in the future.”[%p]
 In order for the time leap to succeed, the target “you” must have a phone whose number you know.[%p]
 As long as that condition is met, there should never be a problem with setting the destination.[%p]
 The real problem is what inside the PhoneWave (name subject to change) is acting as the lifter.[%p]

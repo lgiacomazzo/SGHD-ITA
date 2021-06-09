@@ -122,7 +122,7 @@ I failed I failed I failed I failed I failed I failed I failed I’m a failure[%
 [name]Suzuha[line]I finally figured it out.[%p]
 [name]Suzuha[line]If I hadn’t postponed my leap to 1975, this wouldn’t have happened.[%p]
 [name]Suzuha[line]Okabe Rintaro.[%p]
-[name]Suzuha[line]After the offline meet, you stopped me from going to 1975.[%p]
+[name]Suzuha[line]After the incontro offline, you stopped me from going to 1975.[%p]
 [name]Suzuha[line]I was really happy, but that’s where it all went wrong.[%p]
 [name]Suzuha[line]I should have left. I shouldn’t have waited. That was my last chance.[%p]
 [name]Suzuha[line]That night, there was a thunderstorm. My time machine was flooded.[%p]

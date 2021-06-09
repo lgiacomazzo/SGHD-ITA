@@ -65,7 +65,7 @@ If an outsider were to see us, they’d think we were a couple lost in our own w
 This is the closest I’ve ever been to Faris. I’m captivated by the beauty of her features.[%p]
 Wow... her eyelashes are really long.[%p]
 [name]Faris[line]“Nervous, nya?”[%p]
-[name]Rintaro[line]“O-of course not. I’m busy solving [color index="820000"]Fermat’s Last Theorem[color index="800000"] in my head.”[%p]
+[name]Rintaro[line]“O-of course not. I’m busy solving [color index="820000"]Ultimo Teorema di Fermat[color index="800000"] in my head.”[%p]
 [name]Faris[line]“In other words, you’re nervous, nya.”[%p]
 [name]Faris[line]“The truth is, Faris has only one power, nya.”[%p]
 [name]Rintaro[line]“Your power? Do you mean...”[%p]

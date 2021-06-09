@@ -63,9 +63,9 @@
 [62]anzai-sensei
 [63]Il coach di un famoso manga sul basket. Su internet, i postatori alcune volte esprimono un disperato desiderio citando il manga cosi’: “Anzai-sensei, voglio __.” Un’altra frase spesso citata, pronunciata da Anzai-sensei, e’: “Se ti arrendi, e’ game over.”
 [64]Internet
-[65]Contro
+[65]Anti
 [66]Hater
-[67]contro
+[67]anti
 [68]Persone che scrivono commenti negativi su qualcosa o qualcuno su internet. Appaiono in luoghi dove si riuniscono i fan di quelle cose o persone, e li provocano scrivendo cose offensive. Non e’ raro da parte loro causare una discussione accesa tra i fan.
 [69]Altro
 [70]Il Principio di Causalita’
@@ -73,9 +73,9 @@
 [72]il principio di causalita’
 [73]Un principio scientifico e filosofico che afferma che ogni singolo evento ha una causa, ed e’ da quella causa che viene prodotto un effetto. La teoria della relativita’ e’ fondata su questo principio. Tuttavia, i fisici quantistici hanno osservato fenomeni su micro-scala che non sembrano obbedire il principio di causalita’.
 [74]Internet
-[75]Wizard
-[76]Wizard
-[77]wizard
+[75]Mago
+[76]Mago
+[77]mago
 [78]Un hacker incredibilmente abile.
 [79]Scienza
 [80]Effetto Urashima
@@ -132,7 +132,7 @@
 [131]Ippocampo CA3
 [132]Hippocampus Cornu Ammonis Region 3
 [133]ippocampo ca3
-[134]L’ippocampo e’ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 -- “cornu Ammonis,” il corno di Amun.
+[134]L’ippocampo e’ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 -- “cornu Ammonis”, il corno di Amun.
 [135]Chuunibyou
 [136]Consiglio per lo Sviluppo
 [137]Consiglio per lo Sviluppo
@@ -162,7 +162,7 @@
 [161]L’Organizzazione
 [162]L’Organizzazione
 [163]l’organizzazione
-[164]L’Organizzazione e’ l’Organizzazione. Niente di piu’. Niente di meno. Il suo nome ufficiale e’ un altro, ma anche pronunciare quel nome equivale a voler morire. Per quel motivo, tutti coloro che sanno della sua esistenza la chiamano semplicemente l’Organizzazione.
+[164]L’Organizzazione e’ l’Organizzazione. Niente di piu’. Niente di meno. Il suo nome ufficiale e’ un altro, ma anche solo pronunciare quel nome equivale a voler morire. Per quel motivo, tutti coloro che sanno della sua esistenza la chiamano semplicemente l’Organizzazione.
 [165]Otaku
 [166]Antropomorfismo
 [167]Antropomorfismo
@@ -205,10 +205,10 @@
 [204]la petite mort
 [205]Una condizione di rilascio mentale e fisico unica della fisiologia maschile. Caratterizzata da una sensazione di calma e compostezza suprema. Entrare in questo stato equivale a sentirsi come un guscio vuoto. Conosciuto come iper saggio del tempo o santo del tempo.
 [206]Gadget Futuristico
-[207]Il Fantasma nella Palla
+[207]Ghost in the Ball
 [208]Mobile Armored Riot Camouflauge Ball
-[209]il fantasma nella palla
-[210]Gadget Futuristico No. 7. Un gadget creato organizzando dodici monitor CRT da 6 pollici in una sfera. Piccole telecamere C-MOS sono installate negli spazi tra i monitor, ognuno connesso al monitor sul lato opposto della sfera. Questo tentativo di camouflage ottico e’ il piu’ grande capolavoro tra i Gadget Futuristici completati, ma la sua enorme grandezza lo rende difficile da conservare.
+[209]ghost in the ball
+[210]Gadget Futuristico N. 7. Un gadget creato organizzando dodici monitor CRT da 6 pollici in una sfera. Piccole telecamere C-MOS sono installate negli spazi tra i monitor, ognuno connesso al monitor sul lato opposto della sfera. Questo tentativo di camouflage ottico e’ il piu’ grande capolavoro tra i Gadget Futuristici completati, ma la sua enorme grandezza lo rende difficile da conservare.
 [211]Il suo nome deriva dal manga scifi “Ghost in the Husk”, con un adattamento anime.
 [212]Otaku
 [213]Code Jeass
@@ -250,7 +250,7 @@
 [249]Cyalume Saber
 [250]Diphenyl oxalate Saber
 [251]cyalume saber
-[252]Gadget Futuristico No. 6. Un bastone luminoso rosso con un manico attaccato, permettendo ad uno di afferrarlo come una spada. Reso possibile non solo grazie all’hardware del Laboratorio dei Gadget Futuristici, ma anche grazie al sapere chimico! Ispirato da “Spark Wars,” una serie di film epici scifi.
+[252]Gadget Futuristico N. 6. Un bastone luminoso rosso con un manico attaccato, permettendo ad uno di afferrarlo come una spada. Reso possibile non solo grazie all’hardware del Laboratorio dei Gadget Futuristici, ma anche grazie al sapere chimico! Ispirato da “Spark Wars,” una serie di film epici scifi.
 [253]Altro
 [254]Survival Airsoft
 [255]survival game
@@ -289,11 +289,11 @@
 [288]Un gatto viene inserito in una scatola. La scatola contiene anche una fiala di gas velenoso e un campione di una sostanza radioattiva. Se la sostanza radioattiva emette una particella alfa, fa scattare un sensore, il quale rilascia il gas velenoso e uccide il gatto. Assumere che la sostanza radioattiva abbia il 50% di possibilita’ di emettere una particella alfa per ora. Dopo un’ora, apri la scatola.
 [289]Il gatto ha il 50% di possibilita’ di essere vivo oppure morto. La domanda e’, il gatto era vivo o morto prima di scoprirlo? In base ad Einstein, la tua osservazione delle condizioni del gatto e’ irrilevante. Il gatto era sia vivo che morto prima che tu aprissi la scatola.
 [290]Scienza
-[291]Acceleratore
-[292]Acceleratore
-[293]acceleratore
+[291]Collider
+[292]Collider
+[293]collider
 [294]Un dispositivo che accelera particelle cariche con l’obiettivo di studiare le reazioni che risultano dalle collisioni di queste particelle. Il tipo di particella accelerata determina anche il nome dell’apparecchiatura. Negli anni recenti, molti ad acceleratori ad alta energia sono stati sincrotoni ad anello.
-[295]Gli acceleratori ad anello sono molto costosi da costruire, ma possono performare gli esperimenti piu’ efficaci. Il motivo per la forma ad anello e’ che le particelle cariche possono essere trasmesse attraverso un campo elettromagnetico per piegare la loro traiettoria attraverso la forza di Lorentz. I piu’ grandi sincrotoni al mondo, oltre all’LHC del SERN, si trovano negli USA, nel Regno Unito, e in Giappone.
+[295]Gli acceleratori ad anello sono molto costosi da costruire, ma possono performare gli esperimenti piu’ efficaci. Il motivo per la forma ad anello e’ che le particelle cariche possono essere trasmesse attraverso un campo elettromagnetico per piegare la loro traiettoria attraverso la forza di Lorentz. I piu’ grandi sincrotoni al mondo, oltre al Large Hadron Collider del SERN, si trovano negli USA, nel Regno Unito, e in Giappone.
 [296]Otaku
 [297]Shota
 [298]Shota
@@ -401,7 +401,7 @@
 [400]Take-copter Camera
 [401]Takecop Camera
 [402]take-copter camera
-[403]Gadget Futuristico No. 2. Una telecamera CCD montata su un elicottero giocattolo di bambu’. La telecamera e’ collegata al fulcro dell’elicottero, permettendogli di registrare video riprese aeree senza alimentazione. Tuttavia, l’immagine ruota ad un’elevata velocita’, quindi potresti sentire un po’ di nausea se continui a guardarla. Il nome viene dal manga scifi “22 Emon”.
+[403]Gadget Futuristico N. 2. Una telecamera CCD montata su un elicottero giocattolo di bambu’. La telecamera e’ collegata al fulcro dell’elicottero, permettendogli di registrare video riprese aeree senza alimentazione. Tuttavia, l’immagine ruota ad un’elevata velocita’, quindi potresti sentire un po’ di nausea se continui a guardarla. Il nome viene dal manga scifi “22 Emon”.
 [404]Altro
 [405]Gatto del Cheshire
 [406]Gatto del Cheshire
@@ -542,7 +542,7 @@
 [541]Bit Particle Gun
 [542]Bit Particle Gun
 [543]bit particle gun
-[544]Gadget Futuristico No. 1. Il primissimo Gadget Futuristico, una pistola a raggi giocattolo con un telecomando TV incastrato all’interno. Puoi cambiare canale puntandolo alla TV e premendo il grilletto. Tuttavia, l’unico pulsante supportato e’ “Canale +”. Nessun altro pulsante, come “Volume”, e’ utilizzabile. Per accedendere la TV, devi manualmente premere l’interruttore sulla TV. Il suo nome e’ un riferimento al classico anime mecha Giapponese, “Mobile Jacket Gunbam”.
+[544]Gadget Futuristico N. 1. Il primissimo Gadget Futuristico, una pistola a raggi giocattolo con un telecomando TV incastrato all’interno. Puoi cambiare canale puntandolo alla TV e premendo il grilletto. Tuttavia, l’unico pulsante supportato e’ “Canale +”. Nessun altro pulsante, come “Volume”, e’ utilizzabile. Per accedendere la TV, devi manualmente premere l’interruttore sulla TV. Il suo nome e’ un riferimento al classico anime mecha Giapponese, “Mobile Jacket Gunbam”.
 [545]Altro
 [546]Ultimo Teorema di Fermat
 [547]Ultimo Teorema di Fermat
@@ -647,7 +647,7 @@
 [646]Ho costruito...
 [647]Ho costruito un altro oggetto inutile, firmato Goemon
 [648]Ho costruito...
-[649]Gadget Futuristico No. 5. Creato combinando un asciugacapelli e un aspirapolvere. L’asciugacapelli e’ operato usando lo scarico dell’aspirapolvere. Il suo nome e’ un riferimento al popolare anime, “Lupants the Third”.
+[649]Gadget Futuristico N. 5. Creato combinando un asciugacapelli e un aspirapolvere. L’asciugacapelli e’ operato usando lo scarico dell’aspirapolvere. Il suo nome e’ un riferimento al popolare anime, “Lupants the Third”.
 [650]Chuunibyou
 [651]Vero Nome
 [652]Vero Nome
@@ -692,12 +692,12 @@
 [691]Moad Snake
 [692]Moad Snake
 [693]moad snake
-[694]Gadget Futuristico No. 4. Un super-umidificatore istantaneo. Usa bobine di riscaldamento a induzione per riscaldare velocemente un grande volume di acqua. Questo genera abbastanza vapore da riempire una stanza di 12 metri quadri, anche se puo’ operare in maniera continua solo per pochi secondi. Sembra una mina claymore di terra, che fa piacere agli otaku militari. Il suo nome e’ un riferimento al gioco d’azione stealth, “Metal Moa Solid: Rising”.
+[694]Gadget Futuristico N. 4. Un super-umidificatore istantaneo. Usa bobine di riscaldamento a induzione per riscaldare velocemente un grande volume di acqua. Questo genera abbastanza vapore da riempire una stanza di 12 metri quadri, anche se puo’ operare in maniera continua solo per pochi secondi. Sembra una mina claymore di terra, che fa piacere agli otaku militari. Il suo nome e’ un riferimento al gioco d’azione stealth, “Metal Moa Solid: Rising”.
 [695]Gadget Futuristico
 [696]Che sia Ora Ora!?
 [697]Che sia Ora Ora!?
 [698]che sia ora ora!?
-[699]Gadget Futuristico No. 3. Una macchina della verita’ basata sulla sudorazione del pollice. Anche se dovrebbe essere piu’ appropriato chiamarlo un rilevatore di sudore, devi ammettere che e’ una invenzione abbastanza geniale. Il suo nome e’ un riferimento al manga classico, “JuJu’s Bizarre Adventure”.
+[699]Gadget Futuristico N. 3. Una macchina della verita’ basata sulla sudorazione del pollice. Anche se dovrebbe essere piu’ appropriato chiamarlo un rilevatore di sudore, devi ammettere che e’ una invenzione abbastanza geniale. Il suo nome e’ un riferimento al manga classico, “JuJu’s Bizarre Adventure”.
 [700]Internet
 [701]Video del Problema
 [702]Problem Video
