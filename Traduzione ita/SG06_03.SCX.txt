@@ -33,7 +33,7 @@ I’ve never remembered a dream this vividly before. I remember every word that 
 [name]Mayuri[line]“I can’t make something new, but I have a costume of Post-Awakening Seira from Blood Tune I made last year. I think the size is just right for you too.”[%p]
 [name]Kurisu[line]“Me, cosplay?”[%p]
 [name]Kurisu[line]“I’m sorta interested.”[%p]
-[name]Kurisu[line]“But I refuse to do it in public, though.”[%p]
+[name]Kurisu[line]“Ma mi rifiuto to do it in public, though.”[%p]
 [name]Mayuri[line]“You don’t have to show anyone, but eventually, you’ll want them to see. The cosplay demon compels you!”[%p]
 [name]Mayuri[line]“That reminds me. Chris-chan, you’re always wearing that cute uniform. What school is it from?”[%p]
 [name]Kurisu[line]“Oh, this?”[%p]

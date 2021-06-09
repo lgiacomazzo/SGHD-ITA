@@ -73,7 +73,7 @@ I’d ask for Suzuha’s opinion too, if she were here, but on this worldline, s
 [name]Kurisu[line]“W-what!? Don’t be ridiculous! Why should I care!?”[%p]
 [name]Kurisu[line]“I’m not worried about you, okay? Don’t get the wrong idea.”[%p]
 [name]Kurisu[line]“I just don’t want to lose a valuable test subject, that’s all. Yeah!”[%p]
-[name]Kurisu[line]“That brain of yours has accumulated memories spanning worldlines and time leaps. It’s a precious sample that can rewrite the history of neuroscience!”[%p]
+[name]Kurisu[line]“That brain of yours has accumulated memories spanning worldlines and time leaps. It’s a precious sample that can rewrite the history of neuroscienze!”[%p]
 [name]Kurisu[line]“I want to map your brain and find out just what’s going on in there.”[%p]
 [name]Kurisu[line]“In other words, your time leaping helps me, too! After all, the Time Leap Machine is the fruit of my research, so to speak, and I--”[%p]
 [name]Rintaro[line]“Calm down.”[%p]

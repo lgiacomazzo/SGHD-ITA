@@ -83,7 +83,7 @@ I guess she values her own life, even though she has no problem depriving other 
 [name]Moeka[line]“...By email.”[%p]
 [name]Rintaro[line]“No! Speak.”[%p]
 [name]Moeka[line]“The Rounders...”[%p]
-[name]Moeka[line]“...are an organization separate from SERN.”[%p]
+[name]Moeka[line]“...are an organizzazione separate from SERN.”[%p]
 [name]Moeka[line]“Covert operations.”[%p]
 [name]Moeka[line]“We don’t exist.”[%p]
 [name]Rintaro[line]“Like a private army?”[%p]

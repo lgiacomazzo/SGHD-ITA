@@ -277,7 +277,7 @@ Something tells me she won’t have backup this time. Moeka’s position in the 
 Moeka seems startled by this. I go in for the kill.[%p]
 [name]Rintaro[line]“I came here from the future, using the time machine SERN wants so badly. That’s how I know.”[%p]
 [name]Rintaro[line]“You kill yourself in this room, all alone.”[%p]
-[name]Rintaro[line]“Your precious FB doesn’t save you. No one does. Not the Rounders, not SERN, and not the Committee of 300.”[%p]
+[name]Rintaro[line]“Your precious FB doesn’t save you. No one does. Not the Rounders, not SERN, and not the Comitato dei 300.”[%p]
 [name]Moeka[line]“...”[%p]
 [name]Rintaro[line]“Your boss hasn’t replied to your mails, has he? You know why?”[%p]
 [name]Rintaro[line]“Because you’ve been abandoned.”[%p]

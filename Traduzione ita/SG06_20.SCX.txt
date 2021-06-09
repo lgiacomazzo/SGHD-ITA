@@ -109,7 +109,7 @@ I can change the method of Mayuri’s death, but never the fact that she dies.[%
 So is that why Reading Steiner didn’t react?[%p]
 [name]Suzuha[line]“It’s not like the previous worldline disappears. It keeps existing as another possible worldline.”[%p]
 [name]Kurisu[line]“That’s the many-worlds interpretation, right?”[%p]
-[name]Suzuha[line]“In any case, they’re not parallel worlds.”[%p]
+[name]Suzuha[line]“In any case, they’re not mondi paralleli.”[%p]
 [name]Rintaro[line]“So is the future reconstructed?”[%p]
 [name]Suzuha[line]“I guess you could say that.”[%p]
 I’m confused again. Maybe it’s impossible for me to fully understand the structure of the universe.[%p]
