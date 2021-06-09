@@ -157,7 +157,7 @@
 [156]Gunbam
 [157]Mobile Jacket Gunbam
 [158]gunbam
-[159](Non reale) Formalmente noto come “Mobile Jacket Gunbam”. Un’opera fondamentale degli anime mecha. La prima serie e’ andata in onda verso la fine degli anni 70, e si sono susseguiti molti sequel e spinoff da allora.
+[159](Non reale) Formalmente noto come “Mobile Jacket Gunbam”. Un’opera fondamentale degli anime mecha. La prima serie e’ andata in onda verso la fine degli anni ’70, e si sono susseguiti molti sequel e spinoff da allora.
 [160]Chuunibyou
 [161]L’Organizzazione
 [162]L’Organizzazione
@@ -438,7 +438,7 @@
 [437]Unita’ a nastro
 [438]Unita’ a nastro
 [439]unita’ a nastro
-[440]Prima dell’invenzione del floppy disk, i dati erano conservati su cassette con nastro magnetico. Unita’ specializzate per leggere quei nastri erano la norma per i computer negli anni 1970.
+[440]Prima dell’invenzione del floppy disk, i dati erano conservati su cassette con nastro magnetico. Unita’ specializzate per leggere quei nastri erano la norma per i computer negli anni ’70.
 [441]Altro
 [442]Cellulare Decorato
 [443]decoden
@@ -612,7 +612,7 @@
 [611]Cercapersone
 [612]Pocket Bell
 [613]cercapersone
-[614]Uno dei primi metodi per ricevere messaggi wireless. La loro attivita’ in Giappone e’ partita intorno al 1968. Dopo l’aggiunta del supporto ai dati testuali negli anni 90, i cercapersone sono diventati popolari tra le ragazze delle superiori. Tuttavia, i cercapersone sono poi stati rimpiazzati dai cellulari. L’attivita’ dei cercapersone e’ stata terminata nel 2007.
+[614]Uno dei primi metodi per ricevere messaggi wireless. La loro attivita’ in Giappone e’ partita intorno al 1968. Dopo l’aggiunta del supporto ai dati testuali negli anni ’90, i cercapersone sono diventati popolari tra le ragazze delle superiori. Tuttavia, i cercapersone sono poi stati rimpiazzati dai cellulari. L’attivita’ dei cercapersone e’ stata terminata nel 2007.
 [615]Altro
 [616]Paradiso dei Pedoni
 [617]Hokoten
@@ -699,308 +699,308 @@
 [698]che sia ora ora!?
 [699]Gadget Futuristico No. 3. Una macchina della verita’ basata sulla sudorazione del pollice. Anche se dovrebbe essere piu’ appropriato chiamarlo un rilevatore di sudore, devi ammettere che e’ una invenzione abbastanza geniale. Il suo nome e’ un riferimento al manga classico, “JuJu’s Bizarre Adventure”.
 [700]Internet
-[701]Problem Video
+[701]Video del Problema
 [702]Problem Video
-[703]problem video
-[704]A CG mockup of an LHC-generated mini buco nero swallowing the earth. Went viral quando it was uploaded to MewTube.
+[703]video del problema
+[704]Un mockup in CG di un mini buco nero generato dall’LHC che inghiotte la terra. E’ diventato virale quando e’ stato caricato su MewTube.
 [705]Otaku
 [706]Yuri
 [707]Yuri
 [708]yuri
-[709]Homosexual romance between donne, o works of fiction depicting such.
+[709]Una storia d’amore omosessuale tra donne, o opere di finzione che mostrano tale storia.
 [710]Akihabara
-[711]Canned Ramen
-[712]Canned Ramen
-[713]canned ramen
-[714]Ramen packaged in a can like a drink. Sold in distributori automatici. A differenza regular ramen, the noodles are made of konjac.
+[711]Ramen in Scatola
+[712]Ramen in Scatola
+[713]ramen in scatola
+[714]Ramen confezionato in una lattina come una bevanda. Venduto nei distributori automatici. A differenza del ramen normale, gli spaghetti sono fatti di konjac.
 [715]Otaku
 [716]RaiNet Kakeru
 [717]RaiNet Kakeru
 [718]raiNet Kakeru
-[719](Non reale) A popolare manga serialized in LocoLoco Comics. The third season of the anime adaptation e’ attualmente airing on ToTV. Although the series e’ ostensibly aimed at bambini, the realistic themes depicted also appeal to adults.
-[720]More e more bambini are learning about the internet through this anime. It has reached the point dove some scholars affermano that bambini are better informed than their parents with regard to internet issues. Some le persone are even calling this nuovo generation “RaiNet Children.”
-[721]Some politicians e organizations have strongly criticized the series for “encouraging bambini to become hikikomori” by idealizing boys e ragazze who are obsessed with computers. Tuttavia, a majority of adults praise the series for teaching bambini about the possibilities of the internet, internet morality, copyright infringement, e privacy protection. This has contributed to RaiNet’s success.
-[722]Although the series stimulates intellectual curiosity, it e’ not merely an educational program. As Kakeru battles terrorists in cyberspace, his techniques e programs are represented as virtual robots while his enemies’ viruses take the form of monsters. This makes the confrontations easy to visualize, with well-timed perspective changes depicting both the protagonista’s techniques inside the computer, e his friends’ teamwork outside the computer.
+[719](Non reale) Un manga popolare serializzato da LocoLoco Comics. La terza stagione dell’adattamento anime e’ attualmente in onda su ToTV. Anche se la serie e’ apparentemente mirata ai bambini, i temi realistici mostrati attraggono anche gli adulti.
+[720]Sempre piu’ bambini imparano a conoscere internet attraverso questo anime. Ha raggiunto il ponte dove alcuni studiosi affermano che i bambini sono meglio informati riguardo ai problemi di internet rispetto ai loro genitori. Alcune persone hanno anche chiamato questa nuova generazione “RaiNet Children”.
+[721]Alcuni politici e organizzazioni hanno fortemente criticizzato la serie per “incoraggiare i bambini a diventare hikikomori” idealizzando ragazzi e ragazze ossessionati con i computer. Tuttavia, una buona parte degli adulti loda la serie per aver insegnato ai bambini sulle possibilita’ di internet, moralita’ su internet, violazione del copyright, e protezione della privacy. Cio’ ha contribuito al successo di RaiNet.
+[722]Anche se la serie stimola la curiosita’ intellettuale, non e’ solamente un programma educativo. Mentre Kakeru combatte i terroristi nel cyberspazio, le sue tecniche e programmi sono rappresentati come robot virtuali mentre i virus dei suoi nemici assumono la forma di mostri. Questo rende i confronti facili da visualizzare, con tempestivi cambi di prospettiva che mostrano sia le tecniche del protagonista dentro il computer, sia il lavoro di squadra dei amici fuori dal computer.
 [723]Chuunibyou
 [724]Ragnarok
 [725]Ragnarok
 [726]ragnarok
-[727]In mitologia Norrena, the final war of the gods. “Twilight of the Gods”
+[727]Nella mitologia Norrena, la guerra finale degli dei. “Crepuscolo degli Dei”
 [728]Otaku
 [729]Light Novel
 [730]Ranobe
 [731]light novel
-[732]Illustrated novels targeted primarily at teenage e giovani adult males. Cover artwork spesso depicts carina ragazze. Although light novels can deal with just about any subject matter, recent anni have seen a trend towards stories about teenage boys meeting carina ragazze e winding up in extraordinary situations.
+[732]Racconti illustrati mirati principalmente a un pubblico maschile di teenager e giovani adulti. Le copertine spesso mostrano ragazze carine. Anche se le light novel possono trattare piu’ o meno ogni argomento, recentemente si e’ visto un trend verso storie riguardanti ragazzi teenager che incontrano ragazze carine e ritrovarsi in situazioni straordinarie.
 [733]Internet
-[734]Normal
+[734]Normali
 [735]Riajuu
-[736]normal
-[737]Persone who find happiness e fulfillment in the real world. Normies. Markers of normalcy include having a girlfriend/boyfriend, participating in club e/o school attivita’, going to parties regularly, vacationing overseas, e displaying a lack of interesse in 2D (anime) entertainment.
+[736]normali
+[737]Persone che trovano felicita’ e soddisfazione nel mondo reale. Normies. Indicatori di normalita’ includono avere una fidanzata/o, partecipare a club e/o attivita’ scolastiche, andare regolarmente alle feste, andare in vacanza oltremare, e mostrare una mancanza di interesse nel intrattenimento 2D (anime).
 [738]Scienza
-[739]Quantum Teleportation
-[740]Quantum Teleportation
-[741]quantum teleportation
-[742]Does not refer to actual teleportation. In 2004, Giapponese researchers performed the first successful “complete quantum leap” experiment. Suppose we have twin particles (photons in this case), A e B. Because they are twins, they have the property of symmetry -- if una exhibits up-spin, the other will exhibit down-spin. This means that observing either particella allows una to know the state of the other. This e’ called entanglement.
-[743]The state of an particella elementare (photon) cannot be confirmed until osservato. For the experiment, we attach Data C, the informazioni we want to teleport, to Photon A. We are now observing photon A-C. Based on the property of symmetry, we know that, no matter how far away it may be, Photon B will change to match, effectively becoming B-C. (Note that Photon B has not yet been osservato.)
-[744]Successivamente, we send Photon A-C’s informazioni from A’s osservazione equipment to B’s osservazione equipment through standard transmission. Ora, observing Photon B will change it to “Photon B-C.” This process e’ called quantum teleportation perche’ Data C changes position instantly.
-[745]Tuttavia, since una step requires using standard data transmission, it e’ impossibile for the informazioni to exceed the velocita’ della luce. Finally, Photon BC’s “teleported” Data C e’ actually a copy of Photon AC’s Data C. The whereabouts of the original Photon C become unknown. This point differentiates quantum teleportation from actual teleportation.
+[739]Teletrasporto Quantistico
+[740]Teletrasporto Quantistico
+[741]teletrasporto quantistico
+[742]Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiche’ sono una coppia, godono della proprieta’ di simmetria -- se una mostra up-spin, l’altra mostrera’ down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e’ chiamato entanglement.
+[743]Lo stato di una particella elementare (fotone) non puo’ essere confermato fino a quando non viene osservato. Per l’esperimento, colleghiamo i dati C, l’informazione da teletrasportare, al Fotone A. Ora stiamo osservando il fotone A-C. In base alla proprieta’ di simmetria, sappiamo che, non importa quanto distanti, il Fotone B cambiera’, diventando effettivamente B-C. (Notare che il Fotone B non e’ stato ancora osservato).
+[744]Successivamente, trasmettiamo le informazioni del Fotone A-C dall’equipaggiamento di osservazione di A all’equipaggiamento di osservazione di B attraverso una trasmissione standard. Ora, osservare il Fotone B lo fara’ diventare il “Fotone B-C”. Questo processo e’ chiamato teletrasporto quantistico perche’ i dati C cambiano posizione istantaneamente.
+[745]Tuttavia, visto che un passo richiede mezzi standard per la trasmissione dei dati, e’ impossibile superare la velocita’ della luce. Infine, i dati C del Fotone B-C “teletrasportati” sono in realta’ una copia dei dati C del Fotone A-C. La posizione dell’originale Fotone C diventa sconosciuta. Questo punto separa il teletrasporto quantistico da quello idealizzato.
 [746]Otaku
 [747]Louise-chan
 [748]Louise-chan
 [749]louise-chan
-[750](Non reale) The main heroine of the anime “The Familiar of Ten”. A tsundere. Her voice actress e’ the Queen of Tsundere, Sugimiya Rie (nicknamed Sugyuu).
+[750](Non reale) La principale eroina dell’anime “The Familiar of Ten”. Una tsundere. La sua doppiatrice e’ la Regina delle Tsundere, Sugimiya Rie (soprannominata Sugyuu).
 [751]Chuunibyou
-[752]Laegjarn’s Chest
-[753]Laegjarn’s Chest
-[754]laegjarn’s chest
-[755]In mitologia Norrena, the gigantic chest, protected by 9 locks, that contains the cursed spada, Laevateinn.
+[752]Forziere di Laegjarn
+[753]Forziere di Laegjarn
+[754]forziere di laegjarn
+[755]Nella mitologia Norrena, l’enorme forziere, protetto da 9 lucchetti, che contiene la spada maledetta, Laevateinn.
 [756]Chuunibyou
-[757]Alchemy
-[758]Alchemy
+[757]Alchimia
+[758]Alchimia
 [759]alchimia
-[760]The art of taking una thing e transmuting it into another. In fiction, even human bodies e souls can be transmuted. Equivalent exchange e’ a fundamental law of alchimia. In the Middle Ages, alchemists attempted to use chemical processes to transmute comuni metals, such as lead, into precious metals, such as gold. Their efforts paved the way for modern chemistry.
+[760]L’arte di prendere una cosa e trasmutarla in un’altra. Nella finzione, anche corpi umani e anime possono essere trasmutate. Lo scambio equivalente e’ una legge fondamentale dell’alchimia. Nel Medioevo, gli alchemisti hanno provato ad usare processi chimici per trasmutare metalli comuni, come piombo, in metalli preziosi, come l’oro. I loro sforzi hanno pavimentato la strada per la chimica moderna.
 [761]Akihabara
 [762]Low Angler
 [763]Low Angler
 [764]low angler
-[765]Cameramen who photograph femmine cosplayers e idols from a low angle. Can be found dove cosplayers congregate, such as ComiMa o Akihabara’s paradiso dei pedoni.
+[765]Fotografo che fa foto alle cosplayer e idol da un angolo basso. Si puo’ trovare dove si riuniscono i cosplayers, come il ComiMa o il paradiso dei pedoni di Akihabara.
 [766]Altro
-[767]Lobotomy
-[768]Lobotomy
-[769]lobotomy
-[770]A surgical cervello treatment for mental disorders. A small buco e’ made in the skull, e the frontal lobe e’ severed with a long scalpel. There are cases dove this technique has cured mental disorders, enough to earn the inventor a Nobel prize. Tuttavia, the technique has also caused serious side effects including loss of humanity. By the 1970s, many countries had banned the process.
+[767]Lobotomia
+[768]Lobotomia
+[769]lobotomia
+[770]Una operazione chirurgica al cervello per disordini mentali. Viene fatto un piccolo buco nel cranio, e il lobo frontale viene tagliato con un lungo bisturi. Esistono casi dove questa tecnica ha curato disordini mentali, al punto di far guadagnare al suo inventore un premio Nobel. Tuttavia, la tecnica puo’ anche causare effetti collaterali seri come la perdita di umanita’. Negli anni ’70, molti paese hanno proibito il processo.
 [771]Altro
 [772]ACTH
-[773]Corticotropin
+[773]Corticotropina
 [774]acth
-[775]Adrenocorticotropic hormone. Secreted in response to stress.
+[775]Ormone adrenocorticotropo. Secreto come risposta allo stress.
 [776]Altro
 [777]APL
 [778]APL
 [779]apl
-[780]Short for “A Programming Language.” A programming language introduced in 1964.
+[780]Abbreviazione di “A Programming Language”. Un linguaggio di programmazione implementato nel 1966.
 [781]Akihabara
 [782]ATF
 [783]ATF
 [784]atf
-[785](Non reale) Short for “Akihabara Techno Forum.” A meeting hall located inside Daibiru. Several universities e research institutions hold speciale seminars here.
+[785](Non reale) Abbreviazione di “Akihabara Techno Forum”. Una sala riunioni localizzata dentro Daibiru. Diverse universita’ e istituti di ricerca tengono seminari speciali qui.
 [786]Altro
 [787]BASIC
 [788]BASIC
 [789]basic
-[790]Short for “Beginner’s All-purpose Symbolic Instruction Code.” A beginner’s programming language frequently used in the 1970s.
+[790]Abbreviazione di “Beginner’s All-purpose Symbolic Instruction Code”. Un linguaggio di programmazione per principianti frequentemente usato negli anni ’70.
 [791]Altro
-[792]Braun tube
-[793]Braun tube
-[794]braun tube
-[795]Another nome for the cathode ray tube (CRT). This nome e’ used more commonly in Germania e Giappone. It comes from the nome of the inventor of the cathode ray tube, Karl Ferdinand Braun.
+[792]Tubo di Braun
+[793]Tubo di Braun
+[794]tubo di braun
+[795]Un altro nome per il tubo a raggi catodici (CRT). Questo nome e’ usato comunemente in Germania e Giappone. Deriva dal nome dell’inventore del tubo a raggi catodici, Karl Ferdinand Braun.
 [796]Altro
 [797]DOS
 [798]DOS
 [799]dos
-[800]Short for “Disk Operating System.” An early 16-bit operating system.
+[800]Abbreviazione di “Disk Operating Sistema”. Un vecchio sistema operativo a 16-bit.
 [801]Internet
-[802]Final Answer
-[803]Final Answer
-[804]final answer
-[805]Abbreviated as FA in Giapponese. Used in the question “Is that your final answer?” Internet slang. Originates from a popolare quiz show with contestants who want to be millionaires.
+[802]Risposta Definitiva
+[803]Risposta Definitiva
+[804]risposta definitiva
+[805]Abbreviato in FA (Final Answer) in Giapponese. Usato nella domanda “E’ la tua risposta definitiva?”. Nasce da un popolare telequiz con partecipanti che volevano essere milionari.
 [806]Internet
 [807]HTML
 [808]HTML
 [809]html
-[810]“HyperText Markup Language.” A language used to design web page documents. Allows the embedding of images, videos, sound, e hyperlinks.
+[810]“HyperText Markup Language”. Un linguaggio usato per progettare pagine web. Permette di includere immagini, video, suoni, e collegamenti ipertestuali.
 [811]Internet
 [812]HTTP
 [813]HTTP
 [814]http
-[815]“HyperText Transfer Protocol.” The communication protocol used to transfer data like HTML between a browser e a web server.
+[815]“HyperText Transfer Protocol”. Il protocollo di comunicazione usato per trasferire dati come pagine HTML tra un browser e un server web.
 [816]Altro
 [817]IBN
 [818]IBN
 [819]ibn
-[820](Non reale) An Americana computer company. Not only do they develop e sell hardware e software, they also offer service e consultation to enterprises. In recent anni, they have made the latter their main focus. IBN invented floppy disks e hard disk drives.
+[820](Non reale) Una compagnia di computer americana. Non solo sviluppano e vendono hardware e software, offrono anche servizi e consulenza per le aziende. Recentemente, quest’ultimo e’ stato il principale servizio. La IBN ha inventato i floppy disk e gli hard disk drive (HDD).
 [821]Altro
 [822]MI6
 [823]MI6
 [824]mi6
-[825]In the United Kingdom, the government organization responsible for foreign intelligence operations. MI6 stands for Military Intelligence, Section 6. Tuttavia, its nome ufficiale e’ the Secret Intelligence Service (SIS).
+[825]Nel Regno Unito, l’organizzazione governativa responsabile per le operazioni di intelligence all’estero. MI6 sta per Military Intelligence, Sezione 6. Tuttavia, il suo nome ufficiale e’ Secret Intelligence Service (SIS).
 [826]Internet
 [827]Mindorz
 [828]Mindorz
 [829]mindorz
-[830](Non reale) The molte widely-used operating system in the world.
+[830](Non reale) Il sistema operativo piu’ utilizzato al mondo.
 [831]Internet
 [832]orz
 [833]orz
 [834]orz
-[835]An ideograph depicting a person on all fours. ’o’ e’ the testa, ’r’ e’ the arms e torso, e ’z’ e’ the feet. Typically used to express despair, dejection o frustration. There’s no set way to pronounce it. Persone may pronounce it as “ortz”, “oars”, o “orse.”
+[835]Un ideogramma raffigurante una persona su quattro zampe. ’o’ rappresenta la testa, ’r’ rappresenta le braccia e il torso, e ’z’ rappresenta i piedi. Spesso usato per esprimere disperazione, sconforto o frustazione. Non esiste alcuna pronuncia particolare. Le persone possono pronunciarlo come “ortz”, “oars”, o “orse”.
 [836]Altro
 [837]PTSD
-[838]Post-traumatic stress disorder
+[838]Disturbo da stress post-traumatico
 [839]ptsd
-[840]Short for post-traumatic stress disorder. From DSM-IV (The fourth edition of the Diagnostic e Statistical Manual of Mental Disorders published by the Americana Psychiactric Association in 1994): A mental disorder inducing various stress sintomi, causato da the shock of an accident, disaster, o crime. Symptoms include emotional instabilita’, insomnia, confusion, e flashback memories. Diagnose if sintomi continue for over a month.
+[840]Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del ’Diagnostic e Statistical Manual of Mental Disorders’ pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilita’ emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu’ di un mese.
 [841]Scienza
 [842]SERN
 [843]SERN
 [844]sern
-[845](Non reale) A French acronym for “Societe Europeenne pour la Recherche Nucleaire,” o “europee Society for Nuclear Research.” The world’s largest particella elementare fisica laboratory, located on the Franco-Swiss border near Geneva. Has a bank, a library, a post office, e a dorm on the premises. Gli scienziati from around the world gather at SERN to research particella fisica.
+[845](Non reale) Acronimo francese che sta per “Societe Europeenne pour la Recherche Nucleaire,” o “Societa’ europea per la ricerca nucleare”. Il piu’ grande laboratorio di fisica sulle particelle elementari al mondo, situato sul confine Franco-Svizzero vicino Ginevra. Ha una banca, una biblioteca, un ufficio postale, e un dormitorio sul posto. Scienziati da tutto il mondo si riuniscono al SERN per studiare la fisica delle particelle.
 [846]Akihabara
 [847]UPX
 [848]UPX
 [849]upx
-[850](Non reale) A major office building in Akihabara.
+[850](Non reale) Un importante palazzo pieno di uffici ad Akihabara.
 [851]Internet
 [852]VIP
 [853]VIP
 [854]vip
-[855]@channel’s “Newsflash VIP Board”. Although ostensibly for the discussion of news stories, it e’ attualmente dominated by idle chat threads.
+[855]Il “Newsflash VIP Board” di @channel. Anche se apparentemente per le discussioni di notizie, e’ attualmente dominato da thread di chat non attive.
 [856]Internet
 [857]Wiki
 [858]Wiki
 [859]wiki
-[860]An online system for the creation e compilation of hypertext documents on a web server.
+[860]Un sistema online per la creazione e raccolta documenti ipertestuali su un server web.
 [861]Internet
 [862]World Wide Web
 [863]World Wide Web
-[864]world wide web
-[865]Abbreviated as WWW. Also simply called the “web.” The standardized document system used on the internet.
+[864]mondo wide web
+[865]Abbreviato come WWW. Chiamato semplicemente il “web”. Il sistema di documenti standardizzato usato nella rete Internet.
 [866]Altro
-[867]X-Ray
-[868]X-Ray
-[869]x-ray
-[870]A tipo of onda elettromagnetica discovered by Wilhelm Rontgen in 1895. Famous for its applications in medicina.
+[867]Raggi X
+[868]Raggi X
+[869]raggi X
+[870]Un tipo di onda elettromagnetica scoperta da Wilhelm Rontgen nel 1895. Famosa per le sue applicazioni nel campo della medicina.
 [871]Altro
 [872]X68000
 [873]X68000
 [874]x68000
-[875]A 16-bit PC sold in Giappone in the late 1980s. Its peculiar twin tower case was dubbed “Manhattan shaped.”
+[875]Un PC a 16-bit venduto in Giappone alla fine degli anni ’80. Il suo particolare case a torri gemelle e’ stato soprannominato “a forma di Manhattan”.
 [876]Altro
 [877]1.21 Jigowatts
 [878]1.21 Jigowatts
 [879]1.21 jigowatts
-[880]Originates from a 1980s trilogy of Hollywood movies about tempo machines e tempo paradoxes. In the first movie, the inventor of the macchina del tempo said that it needed “1.21 jigowatts” of power to travel through tempo. In la realta’, the unit “jigowatt” does not exist. The scriptwriter made a spelling mistake. The correct unit e’ gigawatt.
+[880]Deriva da una trilogia di film di Hollywood degli anni ’80 riguardanti le macchine del tempo e i paradossi temporali. Nel primo film, l’inventore della macchina del tempo ha detto che servivano “1.21 jigowatts” di potenza per poter viaggiare nel tempo. In realta’, l’unita’ “jigowatt” non esiste. Lo sceneggiatore ha commesso un errore di spelling. La corretta unita’ e’ gigawatt.
 [881]Altro
-[882]Year 2000 Problem
+[882]Millennium Bug
 [883]Y2K
 [884]y2k
-[885]Popularly known as the Y2K bug. At the turn of the 21st Century, there was concern over the possibility of widespread computer failure quando the year turned 2000. In order to save memoria spazio, old operating systems almost always abbreviated anni to the final due digits. Hence, quando 1999 changed to 2000, the last due digits would change from 99 to 00.
-[886]If its programming didn’t anticipate that change, the computer could erroneously assume that the year was 1900. It was rumored that computers in the militari, financial, e government sectors might malfunction e cause worldwide catastrophe. To address this issue, countermeasures were taken in the mid 1990s to manually update every program. As a result of these countermeasures, the Year 2000 problem was averted.
+[885]Popolarmente conosciuto come Y2K bug. Al volgere del 21-esimo secolo, c’era preoccupazione sulla possibilita’ di un fallimento di massa dei computer quando sarebbe arrivato l’anno 2000. Con l’obiettivo di risparmiare spazio, i vecchi sistemi operativi quasi sempre abbreviavano gli anni alle ultime due cifre. Quindi, quando 1999 e’ diventato 2000, le ultime due cifre sarebbero passate da 99 a 00.
+[886]Se il comportamento non fosse stato risolto con la programmazione, il computer potrebbe erroneamente assumere che l’anno sarebbe 1900. Si diceva che i computer nel campo militare, finanziario, e governativo potevano malfunzionare e causare una catastrofe globale. Per risolvere il problema, sono state prese delle contromisure nella meta’ degli anni ’90 per aggiornare manualmente ogni programma. Come risultato, il problema dell’anno 2000 era stato risolto.
 [887]Otaku
-[888]2D Girl
-[889]2D Girl
-[890]2d ragazza
-[891]A femmine personaggio in an anime, game, o manga.
+[888]Ragazza 2D
+[889]Ragazza 2D
+[890]ragazza 2d
+[891]Un personaggio femminile in un anime, videogioco, o manga.
 [892]Chuunibyou
-[893]Committee of 300
-[894]Committee of 300
-[895]committee of 300
-[896]The Unseen Masters. A segreta organization rumored to manipulate the world behind the scenes. Some believe that the many segreta societies spoken of by conspiracy theorists are all merely puppets of the Committee of 300.
-[897]One teoria states that the Committee of 300’s ultimate goal e’ to establish a One World Government. With the exception of the elites, the world’s population will be reduced to una billion, e that remaining una billion will be enslaved.
+[893]Comitato dei 300
+[894]Comitato dei 300
+[895]comitato dei 300
+[896]I padroni invisibili. Una organizzazione segreta che si dice manipoli il mondo da dietro le quinte. Alcuni credono che le tante societa’ segrete di cui parlano i complottisti siano solo marionette del Comitato dei 300.
+[897]Una teoria afferma che l’obiettivo finale del Comitato dei 300 e’ di stabilire un governo totalitario globale. Tralasciando gli elite, la popolazione del mondo sara’ ridotta a un miliardo, e che quel miliardo sara’ schiavizzato.
 [898]Scienza
 [899]4D
 [900]4D
 [901]4d
-[902]Four-dimensional spazio-tempo e’ comprised of the tre spatial dimensioni plus the fourth dimension, Time. Three-dimensional beings, like humans, can only move in the tre spatial dimensioni. A quattro-dimensional being would be able to move through tempo as easily as humans can move through air.
+[902]Lo spazio-tempo quadri-dimensionale e’ formato dalle tre dimensioni spaziali piu’ la quarta dimensione, Tempo. Esseri tri-dimensionali, come gli umani, possono muoversi nelle tre dimensioni spaziali. Un essere quadri-dimensionale sarebbe in grado di muoversi nel tempo cosi’ come gli umani possono muoversi attraverso l’aria.
 [903]Altro
 [904]98
 [905]98
 [906]98
-[907]A Giapponese PC series sold from the mid 1980s to the mid 1990s. It sold so well that at una point, it was called “the national computer.”
+[907]Una serie di PC giapponesi venduta dalla meta’ degli anni ’80 fino alla meta’ degli anni ’90. Ha venduto cosi’ bene che ad un certo punto, e’ stato chiamato “il computer nazionale”.
 [908]Internet
 [909]@channel
 [910]At Channel
 [911]@channel
-[912](Non reale) Giappone’s molte popolare message board. Covers a wide variety of topics from hacking to cooking to anime to current eventi.
+[912](Non reale) Una bacheca di messaggi online molto popolare in Giappone. Copre un’ampia varieta’ di argomenti dall’hacking alla cucina, dagli anime fino agli eventi attuali.
 [913]Altro
-[914]Beta-endorphin
-[915]Beta-endorphin
-[916]beta-endorphin
-[917]A neurotrasmettitore secreted by the cervello. Effectively suppresses pain e stress, producing euphoria. The effect known as “runner’s high” can be explained by the secretion of these beta endorphins.
+[914]Beta-endorfina
+[915]Beta-endorfina
+[916]beta-endorfina
+[917]Un neurotrasmettitore secreto dal cervello. Sopprime in maniera efficace dolore e stress, producendo euforia. L’effetto noto come “sballo del corridore” puo’ essere spiegato dalla secrezione di questa beta endorfina.
 [918]Otaku
-[919]But I refuse
+[919]Ma mi rifiuto
 [920]daga kotowaru
-[921]but i refuse
-[922]A quotation from the popolare manga, Juju’s Bizarre Adventures. On the internet, it e’ used frequently as a cool way to turn qualcuno down.
+[921]ma mi rifiuto
+[922]Una citazione dal popolare manga, Juju’s Bizarre Adventures. Su internet, e’ usato frequentemente come un modo figo per rifiutare qualcosa.
 [923]Altro
 [924]Dori
 [925]Dori
 [926]dori
-[927]Word, used here as a suffix, meaning “street.”
+[927]Parola, usata come suffisso, significa “via” o “strada”.
 [928]Otaku
 [929]Doujinshi
 [930]Doujinshi
 [931]doujinshi
-[932]Fan-created amateur manga, which are spesso but not always adult in nature. These are sold at speciale doujinshi eventi, the biggest of which e’ the twice-annual Comic Giga Market, known by fans as ComiMa.
+[932]Manga amatoriale creato da un fan, che spesso ma non sempre sono per adulti. Sono venduti ad eventi speciali per i doujinshi, dei quali il piu’ grande e’ il semestrale Comic Giga Market, conosciuto dai fan come ComiMa.
 [933]Altro
-[934]Honorifics (Giapponese)
-[935]Honorifics (Giapponese)
-[936]honorifics (japanese)
-[937]Giapponese employs a system of nome suffixes that define the speaker’s relationship to the addressee. The comuni honorifics are as follows. SAN: The molte comuni honorific. Used with strangers, le persone of equal status, e in generale quando una needs to be polite. Quando used dopo the given nome (Kyouma-san), it indicates a closer relationship.
-[938]KUN: An informal nome suffix generally used for male friends o male subordinates. Also used by males towards femmine subordinates in professional environments. CHAN: A diminutive suffix that indicates high affection, tipicamente used for small bambini, giovani ragazze, o between vicino femmine friends.
-[939]TAN: An even more diminutive version of the -chan suffix. Most spesso used for fittizio personaggi, soprattutto anthropomorphizations, for added cuteness. SHI: A literary honorific generally used by ufficiale publications such as newspapers. Some otaku, such as Daru, use -shi regularly.
+[934]Onorifici (Giapponese)
+[935]Onorifici (Giapponese)
+[936]onorifici (japanese)
+[937]I giapponesi usano un sistema di suffissi che definiscono la relazione della persona che sta parlando verso il destinatario. Gli onorifici piu’ comuni sono i seguenti. SAN: L’onorifico piu’ comune. Usato con gli stranieri, le persone di status uguale, e in generale bisogna essere gentili. Se usato dopo un nome (Kyouma-san), indica una relazione piu’ stretta.
+[938]KUN: Un suffisso informale solitamente usato per amici o subordinati maschi. Usato anche dai maschi verso donne subordinate in ambienti professionali. CHAN: Un suffisso diminuitivo che indica un elevato affetto, tipicamente usato per i bambini, giovani ragazze, o tra amiche strette.
+[939]TAN: Una versione ancora piu’ diminuitiva del suffisso -chan. Molto spesso usato per personaggi fittizi, soprattutto antropomorfizzazioni, per una maggiore tenerezza. SHI: Un onorifico letterario usato tipicamente dalle pubblicazioni ufficiali come i giornali. Alcuni otaku, come Daru, usano -shi regolarmente.
 [940]Altro
 [941]Miko
 [942]Miko
 [943]miko
-[944]Shrine maidens (priestesses) in the Shinto religion. Miko typically dress in a white kimono with a red 『hakama』 o skirt. Their role e’ to assist priests with performing rituals e eventi.
+[944]Le fanciulle del santuario (sacerdotesse) nella religione Shinto. Le Miko tipicamente indossano un kimono bianco con un 『hakama』 o gonna rossa. Il loro ruolo e’ quello di assistere i sacerdoti nell’esecuzione di rituali ed eventi.
 [945]Altro
-[946]Mongolian Spot
-[947]Mongolian Spot
-[948]mongolian spot
-[949]A bluish birthmark commonly found on Asian bambini. Usually disappears by the age of cinque.
+[946]Macchia mongolica
+[947]Macchia mongolica
+[948]macchia mongolica
+[949]Una voglia bluastra trovata comunemente sui bambini asiatici. Tipicamente scompare entro i cinque anni.
 [950]Altro
 [951]Obon
 [952]Obon
 [953]obon
-[954]A Giapponese holiday durante which le persone return to their hometown to see parents e relatives. This includes paying respect to family members who have passed away by visiting e cleaning their graves.
+[954]Una festa giapponese durante la quale le persone ritornano nelle loro citta’ natali per vedere genitori e parenti. Cio’ include anche rispettare i membri della famiglia morti, visitando e ripulendo le loro tombe.
 [955]Otaku
 [956]Otaku
 [957]Otaku
 [958]otaku
-[959]A termine for le persone with an obsessive interesse in a particolare topic. Hobbyists. Most spesso refers to fans of anime, manga, e video games, but there are also train otaku, militari otaku, electronics otaku, etc.
+[959]Un termine per le persone che hanno un interesse ossessivo per un particolare argomento. Hobbisti. Molto spesso e’ riferito verso i fan di anime, manga, e videogiochi, ma esistono anche otaku dei treni, otaku militari, otaku dell’elettronica, etc.
 [960]Altro
 [961]Oonusa
 [962]Oonusa
 [963]oonusa
-[964]A wand that e’ carried by a Shinto priest, adorned with 『shide』 paper. It e’ used in blessing rituals to ward off evil spirits.
+[964]Una bacchetta che e’ trasportata da un sacerdote Shinto, adornato con carta 『shide』. E’ usato nei rituali di benedizione per scacciare gli spiriti maligni.
 [965]Chuunibyou
-[966]The System
-[967]The System
-[968]the system
-[969]The System e’ the means by which l’Organizzazione maintains its grip on humanity. Its full scope e’ too vast to comprehend, but suffice it to say that the System gives l’Organizzazione influenza over government, religion, media, cultura, e science worldwide. Most le persone do not even know that their vite are controlled by the System.
-[970]It e’ so deeply embedded in the fabric of societa’ that modern civilization would not be able to funzione without it. Destroying the System, therefore, would plunge the world into chaos.
+[966]Il Sistema
+[967]Il Sistema
+[968]il sistema
+[969]Il Sistema e’ il modo con il quale l’Organizzazione mantiene la sua presa sull’umanita’. La sua portata e’ troppo enorme per essere compresa, ma e’ sufficiente dire che il Sistema fornisce all’Organizzazione potere su governo, religione, media, cultura, e scienza in tutto il mondo. Molte persone non sanno neanche che le loro vite sono controllate dal Sistema.
+[970]E’ cosi’ profondamente integrato nel tessuto della societa’ che la moderna civilta’ non sarebbe in grado di funzionare senza di esso. Distruggere il Sistema, di conseguenza, affonderebbe il mondo nel caos.
 [971]Internet
-[972]Thank you very much
+[972]Grazie mille
 [973]hontou ni arigatou gozaimashita
-[974]thank you very much
-[975]This frase e’ commonly used on the internet as a way of punctuating a statement. It originates from a story, posted on @channel, in which a man tries to pass his bodily fluids off as a popolare soft drink. “It was ovviamente      , thank you very much.”
+[974]grazie mille
+[975]Questa frase e’ comunemente usata su internet come modo per punteggiare una affermazione. Nasce da una storia, postata su @channel, in cui un uomo ha provato a passare i suoi fluidi corporei come una bevanda popolare. “Ovviamente era       , grazie mille”.
 [976]Otaku
-[977]That’s why we love you
+[977]Ecco perche’ ti adoriamo
 [978]soko ni shibireru akogareru
-[979]that’s why we love you
-[980]Full quote: “That’s why we love you! That’s why we admire you!” A quotation from the popolare manga, Juju’s Bizarre Adventures. Used to express awe at qualcuno’s capabilita’. Often used sarcasticamente in riferimento to negative personaggio traits such as pettiness.
+[979]ecco perche’ ti adoriamo
+[980]Citazione completa: “Ecco perche’ ti adoriamo! Ecco perche’ ti ammiriamo!” Una citazione dal popolare manga, Juju’s Bizarre Adventures. Usato per esprimere stupore per le capacita’ di qualcuno. Spesso usato sarcasticamente con riferimento a tratti negativi di un personaggio come la meschinita’.
 [981]Otaku
-[982]This guy’s hopeless
+[982]Questo ragazzo e’ senza speranza
 [983]dame da koitsu, hayaku nantoka shinai to
-[984]this guy’s hopeless
-[985]A quotation from a popolare manga about death notes. Spoken by the protagonista in riferimento to his femmine accomplice. Original quote: “This ragazza’s hopeless. I’d better do qualcosa quick.” Used to express exasperation.
+[984]questo ragazzo e’ senza speranza
+[985]Una citazione da un popolare manga sui quaderni della morte. Pronunciata dal protagonista in riferimento alla sua complice. Frase originale: “Questa ragazza e’ senza speranza. Meglio che faccia qualcosa alla svelta”. Usato per esprimere esasperazione.
 [986]Otaku
-[987]What a monster!
+[987]Che persona terrificante!
 [988]osoroshii ko
-[989]what a monster!
-[990]A quotation from a classic manga about glass masks. Used to express amazement at qualcuno’s incredible skills.
+[989]che persona terrificante!
+[990]Una citazione da un manga classico sulle maschere di vetro. Usato per esprimere stupore per le abilita’ incredibili di qualcuno.
 [991]Otaku
 [992]Moe
 [993]Moe
 [994]moe
-[995]A word used to describe personaggio traits that are carina o endearing. Includes flaws such as glasses, clumsiness, o ditziness. Also used to refer to the cultura of entertainment centered around personaggi who possess such traits. Pronounced “mo-eh.”
+[995]Una parola usata per descrivere tratti di un personaggio che sono carini o accattivanti. Sono inclusi difetti come occhiali, goffaggine, o sfrontatezza. Usato anche per riferirsi alla cultura dell’intrattenimento che ruota intorno a personaggi che possiedono questi tratti. Pronunciato “mo-eh”.
 [996]Otaku
 [997]Eroge
 [998]Eroge
 [999]eroge
-[1000]Short for “erotic game.” Games with erotic content.
+[1000]Abbreviazione di “erotic game”. Giochi con contenuti erotici.
 [1001]Chuunibyou
 [1002]Esper
 [1003]Esper
 [1004]esper
-[1005]A generale termine for humans who possess soprannaturali powers. Common powers include telepathy, telekinesis, e precognition, anche se more exotic powers exist. It e’ rumored that some espers even possess the ability to reshape la realta’ with pure forza of will. Derives from the termine ESP, which stands for “extrasensory perception.”
+[1005]Un termine generale per gli umani che possiedono poteri soprannaturali. Poteri comuni includono la telepatia, telecinesi, e premonizioni, anche se esistono poteri piu’ esotici. Si dice che alcuni esper abbiano addirittura l’abilita’ di rimodellare la realta’ con la semplice forza di volonta’. Deriva dal termine ESP, che sta per “percezione extrasensoriale”.
