@@ -127,7 +127,7 @@
 [126]I membri dello staff ci guidano tutti all’ottavo piano.[%p]
 [127]Mayuri non si vede da nessuna parte. Non e’ piu’ neppure nella sala conferenze.[%p]
 [128]La trovo al settimo piano.[%p]
-[129]Diversi distributori di [color index="820000"]capsule giocattolo[color index="800000"] sono allineati accanto ad un cartello che recita “Terra natia dei PC Giapponesi”.[%p]
+[129]Diversi distributori di [color index="820000"]giocattoli a capsule[color index="800000"] sono allineati accanto ad un cartello che recita “Terra natia dei PC Giapponesi”.[%p]
 [130]Continua a fissarli con sguardo malinconico.[%p]
 [131]Esalo un sospiro di sollievo e prendo il cellulare.[%p]
 [132][name]Rintaro[line]“Sono io. Ho una brutta sensazione. Sta succedendo qualcosa, ma non ho idea di cosa sia.”[%p]
