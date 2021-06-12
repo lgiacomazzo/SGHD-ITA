@@ -871,10 +871,10 @@
 [870]JK su riscattoTi lovvo papaA presto
 [871]
 [872]Lukako
-[873]Okabe-san~ Ho qualcosa di importante da discutere con te. Per favore vieni al santuario quando puoi. Aspettero’. Per favore.
+[873]Okabe-san~ Ho qualcosa di importante da discutere con te. Per favore vieni al tempio quando puoi. Aspettero’. Per favore.
 [874]
 [875]Lukako
-[876]Okabe-san~ Ho qualcosa di importante da discutere con te. Per favore vieni al santuario quando puoi. Aspettero’. Per favore.
+[876]Okabe-san~ Ho qualcosa di importante da discutere con te. Per favore vieni al tempio quando puoi. Aspettero’. Per favore.
 [877]Per favore dimmelo
 [878]Lukako
 [879]Ti va davvero bene?
@@ -931,10 +931,10 @@
 [930]
 [931]
 [932]
-[933]NON andare!! No @santuario!E’ una trappola!
+[933]NON andare!! No @tempio!E’ una trappola!
 [934]
 [935]future-gadget8@hardbank.ne.jp
-[936]NON andare!! No @santuario!E’ una trappola!
+[936]NON andare!! No @tempio!E’ una trappola!
 [937]Favore da chiedere
 [938]Daru
 [939]Conosci il coin locker davanti a Daibiru? Devi controllare se il grande armadietto in basso a destra e’ utilizzato. Per favore. Cio’ e’ molto importante.
@@ -1543,7 +1543,7 @@
 [1542]Papa’ non vuole insegnarmi come essere un sacerdote. Continua a dire che gli sono rimasti ″trenta anni di lavoro″~ quindi non gli serve il mio aiuto. Quello non spiega perche’ continua a provare a insegnarmi la [rubyBase]danza cerimoniale miko[rubyTextEnd]~ pero’... P.S. Ho fatto 10 colpi con la Samidare.
 [1543]Riguardo le cerimonie
 [1544]Lukako
-[1545]Scusa. Non conosco nessun antico segreto. Almeno~ non credo che il nostro santuario abbia qualcosa del genere. Se sei interessato in quel genere di cose~ dovresti andare al santuario di Izumo o Ise invece... Ah~ ho completato 10 colpi con la Samidare.
+[1545]Scusa. Non conosco nessun antico segreto. Almeno~ non credo che il nostro tempio abbia qualcosa del genere. Se sei interessato in quel genere di cose~ dovresti andare al santuario di Izumo o Ise invece... Ah~ ho completato 10 colpi con la Samidare.
 [1546]Riguardo l’ultima email
 [1547]Lukako
 [1548]Um~ ho chiesto a Mayuri-chan piu’ informazioni su che cosa stai affrontando ~ ma si e’ messa a ridere senza rispondere...  [rubyBase]Cosa[rubyTextEnd] dovrei fare? Voglio aiutarti~ Kyouma-san!
@@ -1570,7 +1570,7 @@
 [1569]Non devi dipendere da me. Ricorda~ tutte le cose devono terminare. Ogni incontro annuncia una partenza. Non posso nascondermi per sempre dalla Organizzazione~ e il sigillo sul mio braccio diventa sempre piu’ debole. Quando non saro’ piu’ qui~ dovrai prenderti cura di te stesso.
 [1570]Fammi pensare per favore
 [1571]Lukako
-[1572]Mi piacerebbe cucinare per voi~ ma ho paura che possa interferire con i miei [rubyBase]doveri al santuario[rubyTextEnd]... Ti dispiace se mi prendo del tempo [rubyBase]per pensarci su[rubyTextEnd]? P.S. Ero cosi’ assorto nei miei pensieri che non ho completato nessun colpo con la Samidare...
+[1572]Mi piacerebbe cucinare per voi~ ma ho paura che possa interferire con i miei [rubyBase]doveri al tempio[rubyTextEnd]... Ti dispiace se mi prendo del tempo [rubyBase]per pensarci su[rubyTextEnd]? P.S. Ero cosi’ assorto nei miei pensieri che non ho completato nessun colpo con la Samidare...
 [1573]La mia famiglia
 [1574]Lukako
 [1575]C’e’ mia madre~ mio padre~ mia sorella maggiore~ e mio nonno. [rubyBase]Mia sorella[rubyTextEnd] ha una personalita’ opposta alla mia: sembra un maschiaccio. Quando eravamo piccoli~ mi spingeva sempre a preparare la cena anziche’ farlo lei. A causa di cio’~ ho iniziato ad amare [rubyBase]la cucina[rubyTextEnd]... P.S. Ho fatto 20 colpi con la Samidare
@@ -1585,7 +1585,7 @@
 [1584]Stavo scherzando. Inoltre~ se indossi un abito da maid al lab~ Daru probabilmente inizierebbe a iperventilare e... be’~ non sarebbe un bello spettacolo. Dimenticatene.
 [1585]Re:Riguardo i membri della mia famiglia
 [1586]Lukako
-[1587]Hai una sorella? Visito spesso il santuario~ ma non l’ho mai vista.
+[1587]Hai una sorella? Visito spesso il tempio~ ma non l’ho mai vista.
 [1588]Re:Riguardo i membri della mia famiglia
 [1589]Lukako
 [1590]Mayuri loda sempre le tue abilita’ culinarie. In realta’~ puoi insegnarle a cucinare? Allora forse mangera’ qualcosa che non sia cibo spazzatura.
@@ -1621,7 +1621,7 @@
 [1620]Non mi hanno profanato! Mi hanno solo fatto indossare abiti da ragazza ><
 [1621]Sulle rane
 [1622]Lukako
-[1623]Um~ Kyouma-san~ sei familiare con i [rubyBase]Gero Froggies[rubyTextEnd]? Erano molto popolari l’anno scorso. Ne abbiamo davvero troppi al santuario~ quindi se ti va~ potresti venire a prenderne un po’? [rubyBase]Papa’[rubyTextEnd] ne ha portato una scatola intera a casa per qualche [rubyBase]motivo[rubyTextEnd]. Poi ha detto che erano per me... ma io non so che cosa farmene! P.S. Ero cosi’ disorientato~ non ho potuto allenarmi con la Samidare.
+[1623]Um~ Kyouma-san~ sei familiare con i [rubyBase]Gero Froggies[rubyTextEnd]? Erano molto popolari l’anno scorso. Ne abbiamo davvero troppi al tempio~ quindi se ti va~ potresti venire a prenderne un po’? [rubyBase]Papa’[rubyTextEnd] ne ha portato una scatola intera a casa per qualche [rubyBase]motivo[rubyTextEnd]. Poi ha detto che erano per me... ma io non so che cosa farmene! P.S. Ero cosi’ disorientato~ non ho potuto allenarmi con la Samidare.
 [1624]Re:Sulle rane
 [1625]Lukako
 [1626]Quelle cose a forma di rana dall’aspetto strano erano molto popolare con le teenager a Shibuya l’anno scorso~ giusto? Se non mi sbaglio~ ce n’erano in grande varieta’.
@@ -1639,7 +1639,7 @@
 [1638]Mio padre tipicamente agisce normalmente~ ma quando siamo in famiglia diventa strano. Per esempio~ perche’ sono stato cresciuto [rubyBase]come una ragazza[rubyTextEnd] in primo luogo? Papa’ diceva che avrei dovuto avere un’altra sorella prima di avere me~ ma quando chiesto alla mamma~ ha detto che se l’era [rubyBase]inventato[rubyTextEnd]. Mi sto davvero [rubyBase]stufando[rubyTextEnd] di lui... P.S. Ho fatto 10 colpi.
 [1639]Faro’ attenzione
 [1640]Lukako
-[1641]E’ colpa dei Gero Froggies!? Ma lui agiva in maniera strana fin da prima che esistessero i Gero Froggy... scusa! Ho detto qualcosa di impertinente. Faro’ attenzione da qui in poi... Um~ stara’ bene~ giusto? P.S. Non ho usato Samidare di nuovo...
+[1641]E’ colpa dei Gero Froggies!? Ma lui agiva in maniera strana fin da prima che esistessero i Gero Froggy... scusa! Ho detto qualcosa di impertinente. Faro’ attenzione da qui in poi... Um~ stara’ bene~ giusto? P.S. Non ho usato la Samidare di nuovo...
 [1642]Re:E’ irresponsabile...
 [1643]Lukako
 [1644]E’ fatta! Li’~ senza alcun dubbio~ giace la chiave della tragedia che si e’ verificata tra i 15 e i 20 anni fa!
@@ -1837,7 +1837,7 @@
 [1836]Non dimenticare che cosa ha detto Titor.
 [1837]La battaglia finale e’ davvero vicina nya
 [1838]Faris
-[1839]Sei piu’ [rubyBase]purrspicace[rubyTextEnd] di quanto pensassi~ nya. Quindi ora hai capito cosa c’e’ in gioco. La [rubyBase]Croce Rossa del Sud[rubyTextEnd] presto si [rubyBase]schiudera’[rubyTextEnd]~ nya. E’ arrivato il momento per Faris di viaggiare verso il Santuarioto e prepararsi per... non posso dire di piu’~ nya...
+[1839]Sei piu’ [rubyBase]purrspicace[rubyTextEnd] di quanto pensassi~ nya. Quindi ora hai capito cosa c’e’ in gioco. La [rubyBase]Croce Rossa del Sud[rubyTextEnd] presto si [rubyBase]schiudera’[rubyTextEnd]~ nya. E’ arrivato il momento per Faris di viaggiare verso il Santuario e prepararsi per... non posso dire di piu’~ nya...
 [1840]Re:La battaglia decisiva e’ molto vicina nya
 [1841]Faris
 [1842]Di che cosa stai parlando? La smetti di mettermi alla prova con questa farsa?
