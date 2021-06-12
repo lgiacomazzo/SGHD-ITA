@@ -1,4 +1,4 @@
-It’s early evening, but the roof of Radi-Kan is still hotter than hell.[%p]
+It’s early evening, but the roof of Radio Kaikan is still hotter than hell.[%p]
 When I provide Daru with the refreshing gift of Dr P, a frown appears on his sweaty face.[%p]
 [name]Itaru[line]“You’re supposed to give me an ice cold zero calorie cola. Common sense, man...”[%p]
 I forgot he’s a cola guy.[%p]

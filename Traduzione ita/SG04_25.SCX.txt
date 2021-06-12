@@ -60,7 +60,7 @@ But the run from the station has left me exhausted. I drop to my knees, gasping 
 My sides ache. I can’t take another step.[%p]
 Even after searching the entire area around the station, I couldn’t find Suzuha.[%p]
 I guess this, too, is the choice of Steins Gate.[%p]
-As I rest, I look up at the night sky. The satellite remains buried in Radi-Kan’s wall.[%p]
+As I rest, I look up at the night sky. The satellite remains buried in Radio Kaikan’s wall.[%p]
 I wipe the sweat off my brow and head back to the lab.[%p]
 [name]Mayuri[line]“Okarin! Did you find Suzu-san?”[%p]
 Everyone’s still there when I return.[%p]
