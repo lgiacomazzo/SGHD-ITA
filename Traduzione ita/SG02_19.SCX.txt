@@ -1,5 +1,5 @@
 It’s past midnight.[%p]
-At 8 o’clock, the two of us silently ate cup noodles and warm bananas -- Daru said he didn’t want any -- and ever since then, we’ve been examining the PhoneWave (name subject to change).[%p]
+At 8 o’clock, the two of us silently ate cup noodles and warm bananas -- Daru said he didn’t want any -- and ever since then, we’ve been examining the Microonde Telefonico (Nome Provvisorio).[%p]
 I’ve mainly focused on the modalita’ terminale settings through the X68000.[%p]
 The programs Daru wrote are all di livello [color index="820000"]Mago[color index="800000"] though, so I can’t understand most of them.[%p]
 Kurisu’s been examining the AC adapter and the lab’s electrical switchboard for a while. Though we stopped her when she tried to disassemble them.[%p]
