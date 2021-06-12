@@ -1,5 +1,5 @@
 [0]Ok. Mi sbagliavo.[%p]
-[1]Questa ragazza geniale non e’ venuta per ascoltare il seminario.[%p]
+[1]Questa ragazza geniale non e’ venuta per ascoltare la conferenza.[%p]
 [2][name]Kurisu[line]“Buongiorno a tutti. Ehm, prima di tutto, vorrei ringraziarvi per essere qui oggi ad ascoltare la mia esposizione.”[%p]
 [3][name]Rintaro[line]“E’ lei la relatrice...”[%p]
 [4]La famosa ragazza prodigio del Giappone, Makise Kurisu, la cui tesi e’ stata pubblicata sulla rivista SCIENCY alla tenera eta’ di 17 anni.[%p]
