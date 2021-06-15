@@ -1,6 +1,6 @@
 [0]Ho finito per seguire l’intero seminario di Kurisu all’ATF.[%p]
 [1]Dopo le due teorie sui viaggi nel tempo che ha introdotto all’inizio, ha spiegato il resto con uguale eloquenza.[%p]
-[2]Sembrava un po’ nervosa all’inizio, ma continuando a relazionarsi con il pubblico la situazione e’ migliorata. Alla fine, E’ stata una conferenza impressionante. Cosi’ impressionante che non penseresti mai che fosse la prima volta di una diciottenne.[%p]
+[2]Sembrava un po’ nervosa all’inizio, ma continuando a relazionarsi con il pubblico la situazione e’ migliorata. Alla fine, e’ stata una conferenza impressionante. Cosi’ impressionante che non penseresti mai che fosse la prima volta di una diciottenne.[%p]
 [3]E’ stata brava a rispondere alle mie domande maliziose con sarcasmo. Ha del fegato la ragazza.[%p]
 [4]U-Un attimo, perche’ la sto elogiando!?[%p]
 [5]A parte questo...[%p]

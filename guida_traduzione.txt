@@ -47,6 +47,7 @@ cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea 
 - CONTROLLARE SEMPRE CHE I CARATTERI " rimasti siano quelli giusti (non violano le regole di sopra)
 - NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’)
 	à -> a’
+	È -> E’
 	è -> e’
 	é -> e’
 	ì -> i’
