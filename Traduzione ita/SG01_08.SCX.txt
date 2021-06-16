@@ -35,7 +35,7 @@
 [34]Gente, potreste arrivarci se faceste un po’ di ricerca![%p]
 [35]C’e’ l’archivio dei thread originali di John Titor in inglese, e un sacco di blog di Titor in giapponese.[%p]
 [36]Inserisco il nome di John Titor in un motore di ricerca.[%p]
-[37][margin top="-7168"][center]12 risultati.[%e][%p]
+[37][margin top="7168"][center]12 risultati.[%e]
 [38]Aspetta... solo 12?[%p]
 [39]Inoltre, tutti e 12 riguardano gli attuali post di Titor su @channel.[%p]
 [40]Non riesco a trovare una sola traccia del Titor di 10 anni fa.[%p]

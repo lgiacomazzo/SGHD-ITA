@@ -370,7 +370,7 @@
 [369]Teoria della Relativita’
 [370]Teoria della Relativita’
 [371]teoria della relativita’
-[372]Si riferisce sia teoria della relativita’ speciale di Einstein pubblicata nel 1905, sia alla sua teoria della relativita’ generale pubblicata nel 1916. Rappresentata dalla famosa equazione, E=mc[キリ]2. La teoria della relativita’ speciale e’ definita dai seguenti assiomi: “Gli oggetti non possono viaggiare a una velocita’ maggiore della velocita’ della luce.” “Quando la velocita’ si avvicina alla velocita’ della luce, il passaggio del tempo tende a zero.”
+[372]Si riferisce sia teoria della relativita’ speciale di Einstein pubblicata nel 1905, sia alla sua teoria della relativita’ generale pubblicata nel 1916. Rappresentata dalla famosa equazione, E=mc². La teoria della relativita’ speciale e’ definita dai seguenti assiomi: “Gli oggetti non possono viaggiare a una velocita’ maggiore della velocita’ della luce.” “Quando la velocita’ si avvicina alla velocita’ della luce, il passaggio del tempo tende a zero.”
 [373]“Quando la velocita’ si avvicina alla velocita’ della luce, la lunghezza tende a zero.” “Quando la velocita’ si avvicina alla velocita’ della luce, la massa tende all’infinito.” La teoria della relativita’ generale aggiunge i seguenti assiomi: “In presenza di grandi campi gravitazionali, il passaggio del tempo rallenta.” “In presenza di grandi campi gravitazionali, lo spazio curva.” “In presenza di grandi campi gravitazionali, la massa aumenta.”
 [374]Scienza
 [375]Transizione di Fase

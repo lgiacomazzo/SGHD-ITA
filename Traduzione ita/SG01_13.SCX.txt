@@ -1,513 +1,513 @@
-[name]???[line]"Oh?"
-Sento la voce di una ragazza provenire dal salone.
-[name]???[line]"Sembra un esperimento interessante."
-[nome]Rintaro[linea]"Chi va là!?"
-Il mio cuore ha appena saltato un battito.
-Mi giro con stupore verso la voce.
-E vengo trafitto da uno sguardo tagliente.
-[name]Rintaro[line]"Impossibile! Cosa ci fai [color index="A0140000"]tu[color index="800000"] qui!?"
-[name]Rintaro[line]"La ragazza geniale di 18 anni! Una sadica che umilia gli uomini in pubblico! Conosciuta anche come Zombie!"
-[name]Rintaro[line]"Makise... Kurisu!"
-[nome]Itaru[line]"Bella esposizione, amico." 
-[nome]Kurisu[line]"Chi hai chiamato zombie?"
-[nome]Rintaro[line]"Qual'è il significato di tutto ciò!? Perché sei qui?"
-[nome]Kurisu[line]"Sono qui per vederti, Okabe Rintaro-san. O è Hououin Kyouma-san?"
-Aspetta, come diavolo fa a sapere il mio vero nome?
-Non l'ho mai pronunciato davanti a lei!
-[nome]Rintaro[line]"Avevo ragione! Sei uno dei migliori agenti dell'Organizzazione, un esper dai poteri sovrumani!"
-[nome]Rintaro[line]"Non c'è da stupirsi che tu sia risorta dalla morte!"
-[nome]Kurisu[line]"Non sono morta, ok? Per favore smettila di uccidermi."
-[nome]Kurisu[line]"Hashida-san, puoi fare qualcosa per questo tizio?"
-[nome]Itaru[line]"Sei arrivata in un brutto momento, Makise-shi, con Okarin che sta dando di matto."
-Daru non sembra essere sconvolto dall'ingresso di questa ragazza. Perché?
-[nome]Rintaro[line]"Mi hai tradito, Daru!?"
-[nome]Itaru[line]"Calmati, amico."
-[nome]Rintaro[line]"Sei stato ricattato? Oppure e' riuscita a sedurti?"
-Fisso Kurisu.
-E' il mio braccio destro! Come ti permetti!?
-[nome]Rintaro[line]"HAI OLTREPASSATO IL LIMITE, STROOONNZA!"
-[nome]Kurisu[line]"Datti una calmata."
-Gli occhi di Kurisu lampeggiano minacciosamente... credo.
-Una tale intensità da una diciottenne.
-Forse non è risorta dopo la sua prima morte. Forse è una macchina assassina robotica, costruita per sostituire la Kurisu morta. Sarà così?
-Per ora, farò come mi è stato detto.
-[nome]Kurisu[line]"Hashida-san mi ha dato l'indirizzo dopo il seminario di ieri. Mi ha anche detto il tuo nome".
-Tutto qui? La verità è... un po' deludente.
-[nome]Rintaro[line]"Quindi sei qui per vedermi, è così?"
-[nome]Kurisu[line]"Sì. Hai affermato di avermi visto morire. Sono venuta qui per capire se era la verità o solo una patetica scusa per palpeggiarmi. Sono venuta per la risposta a questa domanda".
-Ora che ci penso, in effetti ieri mi aveva trattato come se fossi un pervertito.
-Beh... Suppongo che dovrei esserle grato che non abbia chiamato la polizia dopo quello che ho fatto.
-Ma quali alternative potevo avere? Chiunque avrebbe reagito allo stesso modo se avesse visto riapparire una persona morta. No?
-[nome]Kurisu[line]"Ma il tuo atteggiamento è la risposta che cercavo. Era tutta una recita per palpeggiarmi. La mia ipotesi iniziale era corretta."
-[nome]Rintaro[line]"Non così in fretta. In questa storia c'è più di quanto tu sappia."
-Devo ripulire il mio nome, o sarò etichettato come un pervertito per sempre!
-[nome]Kurisu[line]"Comunque, mettiamo da parte la questione per ora."
-[nome]Rintaro[line]"Davvero?"
-Questo è un sollievo. Ero sicuro che avrebbe chiamato la polizia.
-Ma quel "per ora" mi preoccupa.
-Kurisu entra nell'area di sviluppo con un passo veloce e sicuro.
-Anche se ha solo 18 anni, ha un bel fisico e una buona postura.
-Non c'è molto nel petto, però!
-La sua presenza sembra riempire questa stanza angusta, spingendo me e Daru agli angoli.
-Non si è accorta che quest'area è off limits!?
-[nome]Kurisu[line]"Non mi sono ancora presentata come si deve, vero? Sono Makise Kurisu. Piacere di conoscerti."
-Mi porge la mano.
-Cosa sta cercando di fare?
-Sparare fulmini dalla punta delle dita?
-[nome]Kurisu[line]"Non riesci nemmeno a stringere la mano? Gli uomini giapponesi sono tutti così difficili?"
-Stringere la mano?
-Questa ragazza prodigio sta chiedendo una stretta di mano? Ci siamo incontrati solo ieri, e proprio qualche momento fa era sul punto di chiamare la polizia.
-[nome]Rintaro[line]"Non sei giapponese!?"
-[nome]Kurisu[line]"Ho vissuto in America per sette anni. Che c'entra?"
-[nome]Rintaro[line]"America..."
-Abbasso lo sguardo sulle sue dita sottili.
-Unghie lucide e sane. Niente smalto inutile.
-Rimango a fissarle, immobile.
-Lentamente, allungo la mano, assicurandomi di tenere abbastanza peso sui talloni per poter fuggire in un attimo.
-Afferro leggermente la punta dell'indice di Kurisu tra il mio pollice e l'indice, poi lascio immediatamente la presa.
-[nome]Kurisu[line]"Qual è il tuo problema?"
-[nome]Rintaro[line]"Posso sentire la tua aura di malvagità. Devi essere un potente maestro di kung-fu."
-[nome]Kurisu[line]"Non essere ridicolo."
-[nome]Rintaro[linea]"E allora devi essere un NINJA..."
-[nome]Kurisu[linea]"Dacci un taglio."
-Dannazione. Sembra proprio fatta di ghiaccio.
-Anche il suo tono diventa spaventoso a volte.
-[name]Rintaro[line]"Se sei cresciuta in America, non dovresti dire "HAHAHA! NICE TO MEET YOU!" con un sorriso stampato su tutta la faccia quando devi chiedere una stretta di mano?"
-[name]Rintaro[line]"No, aspetta, dovresti chiedere un abbraccio, giusto?
-Forse questo è troppo impegnativo per una macchina assassina.
-[name]Kurisu[line]"Che razza di stereotipo è questo?"
-Kurisu sospira.
-Non mi sta neanche guardando.
-Invece, sta fissando le banane accanto al Microonde Telefonico (Nome Provvisorio).
-Le banane che hanno appena mostrato un fenomeno molto insolito.
-Tra tutte le banane del casco, una è stata completamente gelificata.
-[nome]Kurisu[line]"...Affascinante".
-Kurisu avvicina il viso per vedere meglio.
-[name]Kurisu[line]"Avete delle pinze?"
-[nome]Rintaro[linea]"No!"
-[nome]Kurisu[line]"Oh."
-E poi, Kurisu trafigge la banana gelatinosa con il suo dito indice.
-Seppellisce la sua splendida punta del dito nella banana viscida fino alle nocche.
-[name]Rintaro[line]"Cosa stai facendo!? Quelli sono dati preziosi!"
-[name]Kurisu[line]"E' molliccia."
-Kurisu estrae il suo dito. Pezzi di gel si aggrappano alla punta del dito.
-Senza alcuna esitazione, si mette il dito in bocca.
-[name]Kurisu[line]"...Nessun sapore. Che schifo."
-Lo dice con una espressione seria.
-[name]Rintaro[line]"Vedo che hai un certo appetito. Un effetto collaterale della resurrezione, forse? Se sei così affamata, immagino che potrei darti una banana o due!"
-[nome]Kurisu[linea]"No grazie."
-[nome]Itaru[line]"In ogni caso, quelle banane sono di Mayushii."
-[nome]Rintaro[line]"Avanti, non essere timida. Questa è un'offerta. Prendila!"
-[nome]Kurisu[line]"Come no. Chi mangerebbe la banana di un pervertito?"
-[nome]Itaru[linea]"La banana di un pervertito...!"
-Daru inizia a tremare come se fosse stato fulminato.
-Cosa c'è? Cosa c'è che non va?
-[name]Itaru[line]"Mangia... la banana di un pervertito... molliccia... dito in bocca... 'Che schifo!' con un'espressione acida..."
-Sembra che il suo processore cranico da pervertito sia andato in overclock.
-[nome]Itaru[line]"Um, puoi ripeterla un'altra volta? Con un'espressione più da umiliata, se non ti dispiace."
-[nome]Kurisu[line]"Huh?"
-[nome]Itaru[line]"Andiamo. Dì, 'Chi mangerebbe la banana di un pervertito?' ma se potessi aggiungere un, 'Ahh, ma è così...' dopo, sarebbe super delizioso!"
-[name]Kurisu[line] "Huh? ...huh?"
-[name]Kurisu[line]"...Ah!!"
-Improvvisamente, il viso di Kurisu diventa rosso fuoco.
-[name]Rintaro[line]"Muhaha! Oh, Daru. Sarai anche un inutile, disgustoso pervertito, ma lasciami dire, ben fatto, signore!"
-La vendetta è dolce!
-E adesso per l'attacco finale!
-Mostriamo a questa ragazzina presuntuosa come combattono i veri adulti!
-[nome]Rintaro[line]"Allora, Makise Kurisu. Hai appena immaginato qualcosa, vero? Per favore, dicci cosa. Non essere timida. Muhahaha!"
-[nome]Kurisu[linea]"Perché tu..."
-[nome]Rintaro[line]"Andiamo! Dillo, ragazza geniale! Com'è l'immaginazione di un genio? Mi piacerebbe sentirlo da te!"
-[nome]Kurisu[linea]"Che... idiota!"
-Kurisu ci volta le spalle e si mette con le spalle conserte.
-Sembra che sia capace di esprimere emozioni umane, dopo tutto.
-Questo esclude la macchina robotica assassina.
-Ah! Mi sento rinvigorito.
-Non mi sentivo così bene da anni.
-Ben fatto, Daru. Ecco il mio braccio destro! Porta sempre a termine il suo lavoro.
-[name]Kurisu[line]“I get it. You’re [color index="A0140000"]both[color index="800000"] pervs.”
-[name]Itaru[line]“Well... you [color index="A0140000"]could[color index="800000"] say that.”
-Don’t admit it, you idiot.
-[name]Rintaro[line]“I don’t want to hear that from you.”
-[name]Kurisu[line]“Okay! If I came off as a little rude, I apologize.”
-Kurisu sighs deeply and turns back to us.
-Her composure has already returned.
-[name]Kurisu[line]“I was only acting that way because you molested me, but I’ll ignore that for now.”
-I wish she would stop saying “for now.” It’s like she’s gonna call the cops on me later.
-[name]Kurisu[line]“Please tell me what happened to this banana. I’d also like to hear about that...”
-Kurisu glances at the Microonde Telefonico (Nome Provvisorio).
-[name]Kurisu[line]“That microwave thing.”
-[name]Rintaro[line]“That’s top secret. The one thing I’m cleared to share with unauthorized individuals is that its name is the Microonde Telefonico (Nome Provvisorio).”
-[name]Kurisu[line]“Name subject to change? What’s that about?”
-[name]Rintaro[line]“PhoneWave is weak. It needs a better name.”
-[name]Kurisu[line]“I couldn’t care less about its name.”
-[name]Rintaro[line]“I’m afraid that’s the only information you’re cleared for.”
-[name]Itaru[line]“Hold on, Okarin. Makise-shi might be able to explain what’s going on.”
-[name]Rintaro[line]“Hmm... well...”
-She is a genius.
-She would have to be to defeat my sharp wit. We can trust her intellect, at least.
-But it’s hard to stomach her attitude.
-Plus, she has danger written on her face.
-Not to mention, she’s a little scary too.
-Then, I get a great idea.
-[name]Kurisu[line]“That creepy grin... are you thinking perverted thoughts again?”
-[name]Rintaro[line]“You said your name’s Christina, right?”
-[name]Kurisu[line]“Who the hell’s Christina!? I never said that!”
-‘Christina’ sounds like the name of a Hollywood film star. It definitely has more flavor than her real name.
-[name]Rintaro[line]“If you wish to learn the secrets of this microwave, then you must meet my conditions.”
-[name]Kurisu[line]“...Which are?”
-[name]Rintaro[line]“Condition One: You must become a [color index="A0140000"]lab mem[color index="800000"].”
-[name]Kurisu[line]“Ramen?”
-[name]Rintaro[line]“No! Lab mem, stupid! Short for laboratory member!”
-[name]Kurisu[line]“You mean you want me to join your research team? I’m supposed to return to America in August.”
-[name]Rintaro[line]“I’ll have you sign a non-disclosure agreement so you won’t betray our secrets. Break the agreement, and I’ll report your steamy, perverted acts to Science Magazine.”
-[name]Kurisu[line]“Gh...”
-[name]Itaru[line]“You’re a monster, Okarin. I’ll take five copies.”
-[name]Rintaro[line]“From the moment you become a lab mem to the moment of your departure, your brain shall be used for the benefit of our lab.”
-[name]Kurisu[line]“You’re so full of it. Let’s see the contract, then.”
-[name]Rintaro[line]“What contract? This is a lab, not a corporation!”
-[name]Kurisu[line]“I don’t mind lending you my knowledge, but if there is more pervy nonsense involved, the answer is NO.”
-[name]Rintaro[line]“Don’t worry, we don’t bite.”
-[name]Kurisu[line]“No more molestation?”
-[name]Rintaro[line]“No, alright!?”
-[name]Kurisu[line]“You said that was condition one. So there’s gotta be a second one, right? It better not be--”
-[name]Rintaro[line]“The second condition is...”
-[name]Rintaro[line]“That you’ll overlook all past acts of molestation I may or may not have committed!”
-[name]Kurisu[line]“...”
-[name]Itaru[line]“Okarin, you’re so petty! You’re the pettiest person I’ve ever met! [color index="820000"]Ecco perche’ ti adoriamo! Ecco perche’ ti ammiriamo![color index="800000"]”
-[name]Rintaro[line]“Shut up, Daru. You have no right to talk. By the way, Daru’s perverted acts aren’t included. You two can work it out yourselves.”
-[name]Itaru[line]“What the hell, man!”
-[name]Rintaro[line]“Those are the conditions! If you can’t accept them, then you must leave at once!”
-[name]Rintaro[line]“Heh heh heh. So what’ll it be? I don’t think it’s a bad deal at all.”
-[name]Kurisu[line]“You mean for you.”
-Kurisu puts her fingers to her brow and shakes her head in an exaggerated gesture.
-[name]Kurisu[line]“Geez... I feel like I’m hypersecreting [color index="820000"]noradrenalina[color index="800000"]. Let me pick my jaw up off the floor.”
-[name]Rintaro[line]“I don’t care about your dislocated jaw! Do you accept the conditions or not? Answer me, Christina!”
-[name]Kurisu[line]“Stop adding -tina! My name’s Kurisu!”
-Kurisu looks up at the ceiling to calm herself down.
-Does everyone in America make such exaggerated gestures?
-Sooner or later, she’ll say “Dayumn!” or “Oh mah gah!” or “Muthafucka!”.
-[name]Kurisu[line]“...Okay. I accept.”
-[name]Rintaro[line]“Hehehe, good answer. From this moment forth, you are Lab Mem Number 004.”
-[name]Rintaro[line]“Welcome, Christina -- codename, The Zombie!”
-[name]Kurisu[line]“I won’t answer to either. Use my real name, Hououin.”
-[name]Rintaro[line]“...”
-[name]Kurisu[line]“...”
-We spend a minute staring each other down.
-Kurisu’s the first to look away.
-She does so in a way that says “good grief.”
-[name]Kurisu[line]“You’re such a child.”
-[name]Rintaro[line]“You say something? Genius [color index="A0140000"]perv[color index="800000"] girl?”
-[name]Kurisu[line]“Come on! No more saying ’perv’! I won’t treat you like a perv either! So let’s drop it already!”
-[name]Rintaro[line]“As long as you understand. Now for the issue at hand. Daru, give Christina--”
-[name]Kurisu[line]“No ’-tina’ either.”
-[name]Rintaro[line]“Give Kurisu-kun an explanation on our experiments so far.”
-[name]Itaru[line]“[color index="820000"]Ma mi rifiuto.[color index="800000"]”
-[name]Rintaro[line]“...”
-In the end, I’m the one who has to explain. Along the way, I also relate the tale of my heroic deeds -- which enrages Kurisu, of course -- but I finally tell her everything about the bananas and the Microonde Telefonico (Nome Provvisorio).
-Kurisu doesn’t ask any questions. She’s quick to understand, as expected of a genius.
-[name]Kurisu[line]“Fascinating.”
-[name]Rintaro[line]“Let’s hear your opinion.”
-[name]Kurisu[line]“I think we can at least throw out [color index="A0140000"]completely worthless[color index="800000"] theories like electromagnetic weaponry and teleportation.”
-The lady doth protest too much.
-[name]Kurisu[line]“Can we run the experiment one more time? I want to see it for myself.”
-Without waiting for our approval, Kurisu plucks an untouched banana and sticks it in the microwave, then starts entering the commands on her phone.
-It’s strange.
-She’s still wearing her usual frown, but I can’t shake the feeling that she’s really enjoying herself.
-I can’t put my finger on why. Call it a hunch.
-But I mean, she is a scientist. Why shouldn’t she enjoy experimenting?
-[name]Kurisu[line]“Okabe-san, Hashida-san, please watch the bananas.”
-[name]Rintaro[line]“Who are you to give me orders? I am the mad scientist, Houou--”
-[name]Kurisu[line]“Whatever. Just keep your eye on the bananas!”
-Okay, so she’s a little snippy.
-Daru and I do as we’re told and stare at the bananas.
-Truth be told, we were planning to watch the bananas anyway. After missing it the first time, we’re determined to witness what transpired with our own eyes.
-[name]Kurisu[line]“Sixty seconds have passed. Any change?”
-[name]Itaru[line]“Nope.”
-Any second now, the gelified banana should reappear on the stem.
-If it only happens once, we can just call it an accident and be done with it. But if it happens twice, then that’s proof that something’s actually going on. 
-And then, Kurisu will have to admit that I, the great Hououin Kyouma, have invented humanity’s first teleporter!
-I keep staring at the bananas in anticipation.
-[name]Kurisu[line]“100 seconds.”
-A few moments after Kurisu’s report--
-[name]Itaru[line]“Ah!”
-A gelbana suddenly “appears” without a sound.
-Now there are two of them on the bunch.
-It happened faster than the blink of an eye.
-[name]Itaru[line]“It appeared!”
-[name]Rintaro[line]“...”
-I’m at a loss for words.
-I just witnessed the unthinkable.
-This phenomenon is clearly teleportation.
-The microwave timer chimes.
-[name]Kurisu[line]“...”
-Kurisu peeks into the microwave, stumped.
-[name]Rintaro[line]“How does it look?”
-[name]Kurisu[line]“Huh? Oh... uh...”
-[name]Kurisu[line]“A-at 104 seconds, it d-disappeared. Abruptly. Yeah.”
-She’s quite flustered.
-I don’t think many people could remain calm after witnessing such a phenomenon.
-[name]Rintaro[line]“So it is a teleporter! The first in human history!”
-[name]Kurisu[line]“...”
-Kurisu quickly calms down.
-She furrows her brow and crosses her arms, tapping her right foot as she mutters to herself.
-[name]Kurisu[line]“Teleportation... is that even possible?”
-[name]Kurisu[line]“It did move... No matter how unbelievable that may be...”
-[name]Kurisu[line]“Could it be [color index="820000"]teletrasporto quantistico[color index="800000"]... no, that only occurs on the quantum level...”
-[name]Rintaro[line]“Don’t avert your eyes from the truth! What you’ve seen with your own eyes is everything!”
-She gives me a sharp look.
-Her eyes are like a sniper’s, hard and keen.
-[name]Kurisu[line]“Did it really teleport? It’s dangerous to reason from the conclusion.”
-[name]Rintaro[line]“Well then, genius girl, what do you call this phenomenon?”
-[name]Kurisu[line]“...”
-[name]Kurisu[line]“Let’s sort this out.”
-[name]Kurisu[line]“Neither the banana bunch nor the frozen chicken teleported. Correct?”
-[name]Rintaro[line]“...So, maybe there’s a size limit for objects that can teleport.”
-[name]Kurisu[line]“But aren’t those chicken pieces smaller than bananas?”
-[name]Rintaro[line]“We used the same chicken for each experiment. They come in 12-packs.”
-Mayuri only buys her favorite: Juicy Chicken Number One.
-[name]Itaru[line]“That’s quite a lot, then.”
-[name]Kurisu[line]“What about salt? You experimented with salt too, right?”
-We used a handful of table salt on a plate for one experiment.
-Nothing happened.
-[name]Kurisu[line]“Maybe the plate was in the way.”
-[name]Rintaro[line]“Of course we tried it without the plate, but that didn’t change anything.”
-[name]Kurisu[line]“Then, maybe each individual grain of salt was too small... or something?”
-[name]Kurisu[line]“Hmm... I need a clue...”
-Looks like our genius girl’s fighting a hard battle. She starts pacing the room, looking a little annoyed.
-[name]Kurisu[line]“Anything else? Have you noticed anything else about the PhoneWave?”
-[name]Rintaro[line]“Not PhoneWave. Microonde Telefonico (Nome Provvisorio).”
-[name]Kurisu[line]“Forget about that.”
-[name]Kurisu[line]“So? Have you noticed anything or not?”
-Kurisu’s looking at Daru. Looks like she’s asking him, not me.
-True, he should know more about the Microonde Telefonico (Nome Provvisorio) than I do. He’s done all the maintenance on it, after all.
-[name]Itaru[line]“Oh, right!”
-[name]Itaru[line]“One time, it shot off a huge electrical discharge.”
-[name]Rintaro[line]“What!? I don’t know anything about that!”
-[name]Itaru[line]“That’s because you weren’t around when it happened.”
-[name]Kurisu[line]“Discharge? How much?”
-[name]Itaru[line]“It was like a fluorescent light lit up the development room. It lasted about two seconds, I guess.”
-[name]Kurisu[line]“What were the circumstances?”
-[name]Itaru[line]“I was adjusting the cellphone attached to it. I unhooked it and put my own in.”
-[name]Itaru[line]“A little bit later, sparky sparky.”
-[name]Rintaro[line]“When was that?”
-[name]Itaru[line]“Around noon yesterday. When you went to see Doctor Nakabachi’s presentation.”
-[name]Kurisu[line]“Doctor Nakabachi...”
-That’s right. I went to see Doctor Nakabachi’s conference yesterday.
-Come to think of it, he stole his time travel theory from John Titor.
-Maybe the current John Titor is actually Nakabachi.
-[name]Rintaro[line]“But wait, Daru. Didn’t you say that Doctor Nakabachi’s presentation was cancelled?”
-[name]Itaru[line]“Yeah, but you went with Mayu-shi anyway, remember?”
-...No, I don’t remember that.
-After all, Nakabachi’s presentation wasn’t canceled, the way I remember it.
-I still don’t understand why my memories seem to disagree with everyone else’s.
-[name]Rintaro[line]“That reminds me. I sent you an email back then. Did you get it?”
-[name]Itaru[line]“An email?”
-[name]Kurisu[line]“That email you showed me at ATF yesterday?”
-When I nod, Kurisu comes closer.
-[name]Kurisu[line]“It said someone stabbed me at the presentation, didn’t it?”
-[name]Rintaro[line]“Yeah. But for some reason, Daru’s phone received it a week ago...”
-[name]Itaru[line]“Huh? Wasn’t that one of your stories? If it wasn’t, then that would make the timestamp weird.”
-[name]Rintaro[line]“I always speak the truth! If you don’t trust me, I’ll show you my send history.”
-I whip out my phone and call up the history.
-But--
-[name]Rintaro[line]“It’s gone...”
-Not a trace of that mail remains.
-According to my memory, I think it was about 30 minutes after Doctor Nakabachi’s conference.
-About ten people including me saw Kurisu’s body, panicked, and fled Radio Kaikan. That’s when I sent that mail.
-But no matter how many times I check, there’s no record of it.
-It should be there, but it isn’t.
-Just like the banana inside the Microonde Telefonico (Nome Provvisorio).
-[name]Rintaro[line]“Where did it go? I could’ve sworn I sent it just before 1 PM.”
-[name]Itaru[line]“Oh yeah! That’s when the discharge phenomenon happened! The show I was watching was about to end.”
-Suddenly, a flash of inspiration strikes.
-Inspiration! Edison would be proud. This isn’t something you can accomplish with effort. Basically, I’m a genius!
-I turn to Daru and Kurisu with a huge grin on my face.
-[name]Rintaro[line]“I get it... So that’s what happened.”
-[name]Kurisu[line]“Uh, what?”
-[name]Itaru[line]“Oh, this is one of Okarin’s usual habits, so don’t mind it. Seriously.”
-[name]Rintaro[line]“Silence! I’ve reached the answer, and now the world will tremble!”
-I slap the top of the Microonde Telefonico (Nome Provvisorio).
-[name]Rintaro[line]“The disappearance of my mail, the strange timestamp, and the sudden electrical discharge must be...”
-[name]Rintaro[line]“Related somehow!”
-[name]Itaru[line]“...”
-[name]Kurisu[line]“...”
-[name]Rintaro[line]“...”
-[name]Kurisu[line]“...And?”
-[name]Rintaro[line]“Huh?”
-[name]Kurisu[line]“I understand that they’re related somehow. But how?”
-[name]Rintaro[line]“It’s your job to figure that out, Christina.”
-[name]Kurisu[line]“Hashida-san, talking to this guy’s so tiring.”
-[name]Itaru[line]“Everyone’s like that at first. The trick is to not take him seriously.”
-[name]Rintaro[line]“And you call yourself my right-hand man!?”
-Whatever. I’ll prove that I’m right.
-If we can reproduce the electrical discharge phenomenon, it should bring us closer to understanding the timestamp mystery.
-[name]Rintaro[line]“Daru, describe the Microonde Telefonico (Nome Provvisorio)’s status when the discharge phenomenon occurred.”
-[name]Itaru[line]“It was kind of a mess. I’d connected my phone to the PhoneWave, and I was testing to see if I could control it with the X68000.”
-I disconnect the phone plugged into the Microonde Telefonico (Nome Provvisorio) and replace it with mine.
-And then I hear the door open in the lounge.
-[name]Mayuri[line]“I’m home! So hungry...”
-Mayuri comes in carrying a convenience store bag.
-Looks like she’s done with work.
-[name]Mayuri[line]“Time to eat some chicken! Juicy Chicken Number One♪”
-[name]Mayuri[line]“Okarin, did you buy the bananas? Okarin?”
-When she enters the development room, her eyes go wide.
-[name]Mayuri[line]“Huh? We have a guest?”
-Once she notices Kurisu, Mayuri bows her head with her usual smile.
-[name]Mayuri[line]“I’m Mayushii. Nice to meet you!”
-[name]Kurisu[line]“I’m Makise. Apparently, I’m a lab mem now.”
-[name]Mayuri[line]“Really? That’s great! Another girl lab mem!”
-[name]Rintaro[line]“Daru, what were you doing with the X68000?”
-[name]Itaru[line]“Like I said, I was adjusting the incoming mail settings. I was monitoring the moment it received mail for remote control.”
-[name]Itaru[line]“That’s why I put it on ’freezing mode’ for 120 seconds too.”
-[name]Itaru[line]“I made it so that you can start freezing mode by computer. I tested that out yesterday too.”
-[name]Rintaro[line]“Mayuri! Insert the Juicy Chicken Number One into the Microonde Telefonico (Nome Provvisorio)!”
-[name]Mayuri[line]“You all want some? I can give you one each.”
-With her usual ditziness, Mayuri puts the chicken inside the microwave.
-Daru explains what everything on the computer monitor means.
-Doesn’t look that different from using [color index="820000"]DOS[color index="800000"].
-I enter “120#” on the keyboard and strike the enter key.
-The Microonde Telefonico (Nome Provvisorio) starts up.
-The Juicy Chicken Number One starts spinning backwards on the turntable.
-Kurisu stares hard at the Microonde Telefonico (Nome Provvisorio), as if to not let any anomaly, no matter how slight, escape her notice.
-[name]Rintaro[line]“So, we’ve reproduced the conditions that existed when the discharge phenomenon occurred. Right?”
-[name]Itaru[line]“Uhh, how was it again...”
-[name]Rintaro[line]“You there. Assistant!”
-[name]Kurisu[line]“Huh? Me?”
-[name]Rintaro[line]“Who else!?”
-[name]Kurisu[line]“When did I become your assistant!?”
-[name]Rintaro[line]“Just send something to my phone!”
-If we’ve reproduced the conditions correctly, then if she sends something to my phone while it’s connected to the Microonde Telefonico (Nome Provvisorio), it should arrive with a timestamp from the past, not the present.
-But my assistant -- Kurisu -- just scowls.
-[name]Kurisu[line]“I don’t even know your email address.”
-[name]Rintaro[line]“What a useless assistant.”
-[name]Kurisu[line]“Don’t call me your assistant!”
-[name]Rintaro[line]“Daru, send an email from your phone!”
-[name]Itaru[line]“Uh, sure... but what?”
-[name]Rintaro[line]“Anything!”
-[name]Itaru[line]“Uhh, umm...”
-[name]Rintaro[line]“Send ’Christina’s a perv’!”
-[name]Kurisu[line]“I thought we agreed to stop saying that!”
-[name]Itaru[line]“Well, let’s compromise and go with ’Okarin’s a perv’.”
-[name]Rintaro[line]“You traitor!”
-[name]Kurisu[line]“Good job, Hashida-san!”
-Kurisu grins and gives Daru a thumbs up.
-I really don’t like this.
-[name]Mayuri[line]“Oh no! Mayushii’s bananas!”
-It sounds like Mayuri has found the results of our latest experiment.
-[name]Mayuri[line]“They became gelbanas...”
-[name]Kurisu[line]“We experimented on them.”
-[name]Mayuri[line]“But they were Mayushii’s...”
-[name]Itaru[line]“Want me to send the mail now?”
-[name]Kurisu[line]“You’ll be reimbursed later. By Hououin-san, that is.”
-[name]Rintaro[line]“Why me!?”
-[name]Mayuri[line]“Geez! Why do you always have to experiment on Mayushii’s food?”
-[name]Mayuri[line]“Ah! Don’t tell me you’re experimenting on the chicken too?”
-[name]Rintaro[line]“We are.”
-[name]Itaru[line]“’Kay, sending it now. Sending, sending, click.”
-Mayuri slips past me and steps up to the active Microonde Telefonico (Nome Provvisorio).
-Before anyone can react, she grabs the handle--
-[name]Rintaro[line]“Wait! Don’t open that!”
-[name]Mayuri[line]“Huh?”
-But it’s too late.
-[name]Mayuri[line]“Wawah!”
-Blue-white light fills the room, crackling angrily like the heart of a storm.
-[name]Kurisu[line]“An electrical discharge!”
-A violent sparking sound.
-I grab Mayuri and pull her away from the Microonde Telefonico (Nome Provvisorio).
-[name]Itaru[line]“Are we gonna die!?”
-A thin cloud of smoke fills the room.
-It smells like something’s burning.
-My eyes are numb from all the flashing light.
-I try blinking several times to regain my sight.
-I can hear Kurisu and Daru coughing.
-[name]Rintaro[line]“E-everyone okay?”
-[name]Itaru[line]“S-somehow.”
-[name]Kurisu[line]“That was definitely more than two seconds.”
-Mayuri squeezes my upper arm with her slender fingers.
-[name]Mayuri[line]“O-Okarin? Umm, what just happened?”
-My vision gradually returns.
-Mayuri looks perplexed.
-[name]Rintaro[line]“Are you okay? No burns or anything?”
-[name]Mayuri[line]“Hmm... It doesn’t hurt anywhere, so I think I’m okay...”
-Looks like covering Mayuri was the right choice.
-I may be an insane mad scientist, but I still risk life and limb for the safety of my comrades.
-I gently let Mayuri out of my embrace.
-Whew. Well, that was something.
-I wipe the sweat off my brow.
-[name]Kurisu[line]“H-hey! Look at this!”
-Kurisu voice is strained.
-With my vision finally restored, I take another look around the room.
-And what I see strikes me speechless.
-The large table in the center of the room is made of thick, solid wood. It can hold about five or six people without breaking. That’s why we placed the Microonde Telefonico (Nome Provvisorio) and the X68000 on it.
-That table has been split in two, as if by a woodcutter’s axe.
-The computer and other parts connected to the microwave are scattered across the floor.
-And the microwave itself...
-Has broken through the table.
-It’s literally stuck in the floor.
-[name]Itaru[line]“What the hell? How did that... Yeah, it’s a microwave, but it’s not heavy enough to make a hole in the floor...”
-[name]Kurisu[line]“This can’t be caused by electrical discharge. Some other phenomenon?”
-I shake off my surprise. This is no time to be standing with jaw agape, Hououin Kyouma.
-Seize the moment!
-[name]Rintaro[line]“Heh... heh heh heh... MUHAHAHA! Just as my calculations predicted!”
-First, some maniacal laughter.
-Next, I try to take out my phone and do the usual, but unfortunately, it’s still plugged into the Microonde Telefonico (Nome Provvisorio).
-El Psy Kongroo.
-I whisper the words.
-Words that have no meaning.
-Words I use simply because they sound cool.
-These words have meaning [color index="A0140000"]because[color index="800000"] they have no meaning.
-After years of repeated use, just speaking them is enough to calm my heart.
-[name]Itaru[line]“...So, about Mayu-shi’s chicken.”
-[name]Mayuri[line]“Eh?”
-Mayuri stands up and looks inside the Microonde Telefonico (Nome Provvisorio).
-It’s embedded in the floor, but she somehow manages to pry the door open.
-[name]Mayuri[line]“Ahh! M-Mayushii’s chicken is all burnt black...”
-I pat Mayuri’s shoulders to cheer her up.
-[name]Rintaro[line]“Juicy Chicken Number One made a noble sacrifice for the progress of science. Let us pray for his happiness in the next life.”
-[name]Kurisu[line]“The chicken doesn’t matter! Right now, we need to determine what happened with the Phonewa--”
-[name]Mayuri[line]“It doesn’t matter? That’s so mean, uh, Christina-chan...”
-[name]Kurisu[line]“Hey, Hououin Kyouma! Do something about this! Mayushii-san learned my name wrong!”
-[name]Itaru[line]“More importantly, we need ventilation. *cough cough*”
-[name]Rintaro[line]“Silence, all of you!”
-I affix everyone with an overpowering stare.
-This shall be remembered as the moment that the greatest experiment of the century succeeded and brought humanity a step forward in a new direction.
-These guys have no right to ruin that with their foolish talk.
-My heart pounding, I detach my phone from the Microonde Telefonico (Nome Provvisorio).
-Luckily, it’s completely unharmed.
-I open it. It still works.
-I bring up the list of received emails.
-New emails should come at the top.
-However...
-My heart beats even faster.
-The topmost email isn’t the one Daru sent before the discharge occurred.
-This “impossible” phenomenon is exactly what I was hoping for.
-I look back through my email history.
-And there...
-I find it.
-[name]Rintaro[line]“Muhaha! Muhahaha! MUHAHAHAHA!”
-Success. I don’t know why, but it was a success!
-The timestamp proves it.
-I received this email on July 24th -- five days ago.
-This is the same exact thing that happened to my “someone stabbed Kurisu” email.
-A mail sent on the 29th arrived on the 24th.
-And just now, the truth was revealed to me in a flash of inspiration.
-[name]Rintaro[line]“It all connects. There’s a meaning behind this series of events, and only one true answer.”
-[name]Rintaro[line]“I’ve discovered the Microonde Telefonico (Nome Provvisorio)’s true hidden function!”
-[name]Rintaro[line]“This isn’t intuition. That’s right. This is conviction!”
-[name]Kurisu[line]“Just spit it out. What do you think it is?”
-I feel my lips twist into a grin.
-I meet Kurisu’s glare head on.
-[name]Rintaro[line]“First, let me say one thing. The greatest inventions are created by accident. This we call serendipita’.”
-[name]Kurisu[line]“Get on with it.”
-How dare she ruin my speech?
-Oh well. Let’s get to the point.
-[name]Rintaro[line]“The mail was sent to the [color index="A0140000"]past[color index="800000"].”
-[name]Rintaro[line]“The chicken [color index="A0140000"]returned[color index="800000"] to its frozen state.”
-[name]Rintaro[line]“The plucked banana [color index="A0140000"]returned[color index="800000"] to the bunch.”
-[name]Kurisu[line]“...No way.”
-Kurisu seems to get it now.
-As expected of my genius assistant.
-[name]Rintaro[line]“Yes way!”
-This is the choice of Steins Gate.
-[name]Rintaro[line]“The Microonde Telefonico (Nome Provvisorio)...”
-[name]Rintaro[line]“Is a time machine!”
+[0][name]???[line]“Oh?”[%p]
+[1]Sento la voce di una ragazza provenire dal salone.[%p]
+[2][name]???[line]“Sembra un esperimento interessante.”[%p]
+[3][name]Rintaro[line]“Chi va la’!?”[%p]
+[4]Il mio cuore ha appena saltato un battito.[%p]
+[5]Mi giro con stupore verso la voce.[%p]
+[6]E vengo trafitto da uno sguardo tagliente.[%p]
+[7][name]Rintaro[line]“Impossibile! Cosa ci fai [color index="A0140000"]tu[color index="800000"] qui!?”[%p]
+[8][name]Rintaro[line]“La ragazza geniale di 18 anni! Una sadica che umilia gli uomini in pubblico! Conosciuta anche come Zombie!”[%p]
+[9][name]Rintaro[line]“Makise... Kurisu!”[%p]
+[10][name]Itaru[line]“Bella esposizione, amico.”[%p]
+[11][name]Kurisu[line]“Chi hai chiamato zombie?”[%p]
+[12][name]Rintaro[line]“Qual’e’ il significato di tutto cio’!? Perche’ sei qui?”[%p]
+[13][name]Kurisu[line]“Sono qui per vederti, Okabe Rintaro-san. Oppure Hououin Kyouma-san?”[%p]
+[14]Aspetta, come diavolo fa a sapere il mio vero nome?[%p]
+[15]Non l’ho mai pronunciato davanti a lei![%p]
+[16][name]Rintaro[line]“Avevo ragione! Sei uno dei migliori agenti dell’Organizzazione, un esper dai poteri sovrumani!”[%p]
+[17][name]Rintaro[line]“Non c’e’ da stupirsi che tu sia risorta dalla morte!”[%p]
+[18][name]Kurisu[line]“Non sono morta, ok? Per favore smettila di uccidermi.”[%p]
+[19][name]Kurisu[line]“Hashida-san, puoi fare qualcosa per questo tizio?”[%p]
+[20][name]Itaru[line]“Sei arrivata in un brutto momento, Makise-shi, con Okarin che sta dando di matto.”[%p]
+[21]Daru non sembra essere sconvolto dall’ingresso di questa ragazza. Perche’?[%p]
+[22][name]Rintaro[line]“Mi hai tradito, Daru!?”[%p]
+[23][name]Itaru[line]“Calmati, amico.”[%p]
+[24][name]Rintaro[line]“Sei stato ricattato? Oppure e’ riuscita a sedurti?”[%p]
+[25]Fisso Kurisu.[%p]
+[26]E’ il mio braccio destro! Come ti permetti!?[%p]
+[27][name]Rintaro[line]“HAI OLTREPASSATO IL LIMITE, STROOONNZA!”[%p]
+[28][name]Kurisu[line]“Datti una calmata.”[%p]
+[29]Gli occhi di Kurisu lampeggiano minacciosamente... credo.[%p]
+[30]Una tale intensita’ da una diciottenne.[%p]
+[31]Forse non e’ risorta dopo la sua prima morte. Forse e’ una macchina assassina robotica, costruita per sostituire la Kurisu morta. Sara’ cosi’?[%p]
+[32]Per ora, faro’ come mi e’ stato detto.[%p]
+[33][name]Kurisu[line]“Hashida-san mi ha dato l’indirizzo dopo il seminario di ieri. Mi ha anche detto il tuo nome.”[%p]
+[34]Tutto qui? La verita’ e’... un po’ deludente.[%p]
+[35][name]Rintaro[line]“Quindi sei qui per vedermi, e’ cosi’?”[%p]
+[36][name]Kurisu[line]“Si’. Hai affermato di avermi visto morire. Sono venuta qui per capire se era la verita’ o solo una patetica scusa per palpeggiarmi. Sono venuta per la risposta a questa domanda.”[%p]
+[37]Ora che ci penso, in effetti ieri mi aveva trattato come se fossi un pervertito.[%p]
+[38]Beh... Suppongo che dovrei esserle grato che non abbia chiamato la polizia dopo quello che ho fatto.[%p]
+[39]Ma quali alternative potevo avere? Chiunque avrebbe reagito allo stesso modo se avesse visto riapparire una persona morta. No?[%p]
+[40][name]Kurisu[line]“Ma il tuo atteggiamento e’ la risposta che cercavo. Era tutta una recita per palpeggiarmi. La mia ipotesi iniziale era corretta.”[%p]
+[41][name]Rintaro[line]“Non cosi’ in fretta. In questa storia c’e’ piu’ di quanto tu sappia.”[%p]
+[42]Devo ripulire il mio nome, o saro’ etichettato come un pervertito per sempre![%p]
+[43][name]Kurisu[line]“Comunque, mettiamo da parte la questione per ora.”[%p]
+[44][name]Rintaro[line]“Davvero?”[%p]
+[45]Questo e’ un sollievo. Ero sicuro che avrebbe chiamato la polizia.[%p]
+[46]Ma quel “per ora” mi preoccupa.[%p]
+[47]Kurisu entra nell’area di sviluppo con un passo veloce e sicuro.[%p]
+[48]Anche se ha solo 18 anni, ha un bel fisico e una buona postura.[%p]
+[49]Non c’e’ molto nel petto, pero’![%p]
+[50]La sua presenza sembra riempire questa stanza angusta, spingendo me e Daru agli angoli.[%p]
+[51]Non si e’ accorta che quest’area e’ off limits!?[%p]
+[52][name]Kurisu[line]“Non mi sono ancora presentata come si deve, vero? Sono Makise Kurisu. Piacere di conoscerti.”[%p]
+[53]Mi porge la mano.[%p]
+[54]Cosa sta cercando di fare?[%p]
+[55]Sparare fulmini dalla punta delle dita?[%p]
+[56][name]Kurisu[line]“Non riesci nemmeno a stringere la mano? Gli uomini giapponesi sono tutti cosi’ difficili?”[%p]
+[57]Stringere la mano?[%p]
+[58]Questa ragazza prodigio sta chiedendo una stretta di mano? Ci siamo incontrati solo ieri, e proprio qualche momento fa era sul punto di chiamare la polizia.[%p]
+[59][name]Rintaro[line]“Non sei giapponese!?”[%p]
+[60][name]Kurisu[line]“Ho vissuto in America per sette anni. Che c’entra?”[%p]
+[61][name]Rintaro[line]“America...”[%p]
+[62]Abbasso lo sguardo sulle sue dita sottili.[%p]
+[63]Unghie lucide e sane. Niente smalto inutile.[%p]
+[64]Rimango a fissarle, immobile.[%p]
+[65]Lentamente, allungo la mano, assicurandomi di tenere abbastanza peso sui talloni per poter fuggire in un attimo.[%p]
+[66]Afferro leggermente la punta dell’indice di Kurisu tra il mio pollice e l’indice, poi lascio immediatamente la presa.[%p]
+[67][name]Kurisu[line]“Qual e’ il tuo problema?”[%p]
+[68][name]Rintaro[line]“Posso sentire la tua aura di malvagita’. Devi essere un potente maestro di kung-fu.”[%p]
+[69][name]Kurisu[line]“Non essere ridicolo.”[%p]
+[70][name]Rintaro[line]“E allora devi essere un NINJA...”[%p]
+[71][name]Kurisu[line]“Dacci un taglio.”[%p]
+[72]Dannazione. Sembra proprio fatta di ghiaccio.[%p]
+[73]Anche il suo tono diventa spaventoso a volte.[%p]
+[74][name]Rintaro[line]“Se sei cresciuta in America, non dovresti dire “HAHAHA! NICE TO MEET YOU!” con un sorriso stampato su tutta la faccia quando devi chiedere una stretta di mano?”[%p]
+[75][name]Rintaro[line]“No, aspetta, dovresti chiedere un abbraccio, giusto?[%p]
+[76]Forse questo e’ troppo impegnativo per una macchina assassina.[%p]
+[77][name]Kurisu[line]“Che razza di stereotipo e’ questo?”[%p]
+[78]Kurisu sospira.[%p]
+[79]Non mi sta neanche guardando.[%p]
+[80]Invece, sta fissando le banane accanto al Microonde Telefonico (Nome Provvisorio).[%p]
+[81]Le banane che hanno appena mostrato un fenomeno molto insolito.[%p]
+[82]Tra tutte le banane del casco, una e’ stata completamente gelificata.[%p]
+[83][name]Kurisu[line]“...Affascinante.”[%p]
+[84]Kurisu avvicina il viso per vedere meglio.[%p]
+[85][name]Kurisu[line]“Avete delle pinze?”[%p]
+[86][name]Rintaro[line]“No!”[%p]
+[87][name]Kurisu[line]“Oh.”[%p]
+[88]E poi, Kurisu trafigge la banana gelatinosa con il suo dito indice.[%p]
+[89]Seppellisce la sua splendida punta del dito nella banana viscida fino alle nocche.[%p]
+[90][name]Rintaro[line]“Cosa stai facendo!? Quelli sono dati preziosi!”[%p]
+[91][name]Kurisu[line]“E’ molliccia.”[%p]
+[92]Kurisu estrae il suo dito. Pezzi di gel si aggrappano alla punta del dito.[%p]
+[93]Senza alcuna esitazione, si mette il dito in bocca.[%p]
+[94][name]Kurisu[line]“...Nessun sapore. Che schifo.”[%p]
+[95]Lo dice con una espressione seria.[%p]
+[96][name]Rintaro[line]“Vedo che hai un certo appetito. Un effetto collaterale della resurrezione, forse? Se sei cosi’ affamata, immagino che potrei darti una banana o due!”[%p]
+[97][name]Kurisu[line]“No grazie.”[%p]
+[98][name]Itaru[line]“In ogni caso, quelle banane sono di Mayushii.”[%p]
+[99][name]Rintaro[line]“Avanti, non essere timida. Questa e’ un’offerta. Prendila!”[%p]
+[100][name]Kurisu[line]“Come no. Chi mangerebbe la banana di un pervertito?”[%p]
+[101][name]Itaru[line]“La banana di un pervertito...!”[%p]
+[102]Daru inizia a tremare come se fosse stato fulminato.[%p]
+[103]Cosa c’e’? Cosa c’e’ che non va?[%p]
+[104][name]Itaru[line]“Mangia... la banana di un pervertito... molliccia... dito in bocca... ’Che schifo!’ con un’espressione acida...”[%p]
+[105]Sembra che il suo processore cranico da pervertito sia andato in overclock.[%p]
+[106][name]Itaru[line]“Um, puoi ripeterla un’altra volta? Con un’espressione piu’ da umiliata, se non ti dispiace.”[%p]
+[107][name]Kurisu[line]“Huh?”[%p]
+[108][name]Itaru[line]“Andiamo. Di’, ’Chi mangerebbe la banana di un pervertito?’ ma se potessi aggiungere un, ’Ahh, ma e’ cosi’...’ dopo, sarebbe super delizioso!”[%p]
+[109][name]Kurisu[line]“Huh? ...huh?”[%p]
+[110][name]Kurisu[line]“...Ah!!”[%p]
+[111]Improvvisamente, il viso di Kurisu diventa rosso fuoco.[%p]
+[112][name]Rintaro[line]“Muhaha! Oh, Daru. Sarai anche un inutile, disgustoso pervertito, ma lasciami dire, ben fatto, signore!”[%p]
+[113]La vendetta e’ dolce![%p]
+[114]E adesso per l’attacco finale![%p]
+[115]Mostriamo a questa ragazzina presuntuosa come combattono i veri adulti![%p]
+[116][name]Rintaro[line]“Allora, Makise Kurisu. Hai appena immaginato qualcosa, vero? Per favore, dicci cosa. Non essere timida. Muhahaha!”[%p]
+[117][name]Kurisu[line]“Perche’ tu...”[%p]
+[118][name]Rintaro[line]“Andiamo! Dillo, ragazza geniale! Com’e’ l’immaginazione di un genio? Mi piacerebbe sentirlo da te!”[%p]
+[119][name]Kurisu[line]“Che... idiota!”[%p]
+[120]Kurisu ci volta le spalle e si mette con le spalle conserte.[%p]
+[121]Sembra che sia capace di esprimere emozioni umane, dopo tutto.[%p]
+[122]Questo esclude la macchina robotica assassina.[%p]
+[123]Ah! Mi sento rinvigorito.[%p]
+[124]Non mi sentivo cosi’ bene da anni.[%p]
+[125]Ben fatto, Daru. Ecco il mio braccio destro! Porta sempre a termine il suo lavoro.[%p]
+[126][name]Kurisu[line]“Ho capito. Siete [color index="A0140000"]entrambi[color index="800000"] pervertiti.”[%p]
+[127][name]Itaru[line]“Beh... puoi [color index="A0140000"]dirlo[color index="800000"] forte.”[%p]
+[128]Non ammetterlo, idiota.[%p]
+[129][name]Rintaro[line]“Non voglio sentirlo da te.”[%p]
+[130][name]Kurisu[line]“Ok! Vi chiedo scusa se sono sembrata un po’ maleducata.”[%p]
+[131]Kurisu sospira profondamente e si gira verso di noi.[%p]
+[132]Ha gia’ ritrovato la sua compostezza.[%p]
+[133][name]Kurisu[line]“Mi sono comportata cosi’ solo perche’ mi hai molestato, ma per ora lo lascero’ perdere.”[%p]
+[134]Vorrei che la smettesse di dire “per ora”. E’ come se volesse chiamare la polizia piu’ tardi.[%p]
+[135][name]Kurisu[line]“Per favore dimmi cosa e’ successo a questa banana. Mi piacerebbe sapere come e’ andata...”[%p]
+[136]Kurisu da’ un’occhiata al Microonde Telefonico (Nome Provvisorio).[%p]
+[137][name]Kurisu[line]“Quel forno a microonde.”[%p]
+[138][name]Rintaro[line]“E’ top secret. L’unica cosa che sono autorizzato a condividere con individui non autorizzati e’ che il suo nome e’ il Microonde Telefonico (Nome Provvisorio).”[%p]
+[139][name]Kurisu[line]“Nome provvisorio? Perche’?”[%p]
+[140][name]Rintaro[line]“Microonde Telefonico non va bene. Serve un nome migliore.”[%p]
+[141][name]Kurisu[line]“Non me ne puo’ fregare di meno del nome.”[%p]
+[142][name]Rintaro[line]“Temo che questa sia l’unica informazione alla quale sei autorizzata.”[%p]
+[143][name]Itaru[line]“Aspetta, Okarin. Makise-shi potrebbe essere in grado di spiegare cosa sta succedendo.”[%p]
+[144][name]Rintaro[line]“Hmm... ecco...”[%p]
+[145]Lei e’ un genio.[%p]
+[146]Lo deve essere per poter sconfiggere il mio acume. Per lo meno possiamo fidarci del suo intelletto.[%p]
+[147]Ma il suo atteggiamento e’ difficile da digerire.[%p]
+[148]Oltretutto, ha proprio scritto pericolo sulla sua faccia.[%p]
+[149]Per non parlare del fatto che fa anche un po’ paura.[%p]
+[150]Poi, mi viene una grande idea.[%p]
+[151][name]Kurisu[line]“Quel sorriso inquietante... stai di nuovo facendo pensieri perversi?”[%p]
+[152][name]Rintaro[line]“Hai detto che ti chiami Christina, giusto?”[%p]
+[153][name]Kurisu[line]“Chi diavolo e’ Christina!? Non l’ho mai detto!”[%p]
+[154]“Christina” sembra il nome di una star di Hollywood. Ha sicuramente piu’ fascino del suo vero nome.[%p]
+[155][name]Rintaro[line]“Se vuoi imparare i segreti di questo microonde, allora devi sottostare alle mie condizioni.”[%p]
+[156][name]Kurisu[line]“...Quali sono?”[%p]
+[157][name]Rintaro[line]“Numero Uno: Dovrai diventare un [color index="A0140000"]lab mem[color index="800000"].”[%p]
+[158][name]Kurisu[line]“Ramen?”[%p]
+[159][name]Rintaro[line]“No! Lab mem, sciocca! Abbreviazione di ’laboratory member’, ovvero ’membro del laboratorio’!”[%p]
+[160][name]Kurisu[line]“Intendi dire che vuoi che mi unisca al tuo team di ricerca? Dovrei tornare in America ad agosto.”[%p]
+[161][name]Rintaro[line]“Ti faro’ firmare un accordo di non divulgazione in modo da non rivelare i nostri segreti. Rompi l’accordo, e riferiro’ i tuoi comportamenti da perversa alla rivista Science.”[%p]
+[162][name]Kurisu[line]“Gh...”[%p]
+[163][name]Itaru[line]“Sei un mostro, Okarin. Ne voglio cinque copie.”[%p]
+[164][name]Rintaro[line]“Dal momento in cui diventerai un membro del laboratorio fino al momento della tua partenza, il tuo cervello sara’ usato a beneficio del nostro laboratorio.”[%p]
+[165][name]Kurisu[line]“Ti sei bevuto il cervello. Vediamo il contratto, allora.”[%p]
+[166][name]Rintaro[line]“Quale contratto? Questo e’ un laboratorio, non una societa’!”[%p]
+[167][name]Kurisu[line]“Non mi dispiace prestarti le mie conoscenze, ma se ci sono altre stupidaggini da pervertiti, la risposta e’ NO.”[%p]
+[168][name]Rintaro[line]“Non ti preoccupare, non mordiamo mica.”[%p]
+[169][name]Kurisu[line]“Niente piu’ molestie?”[%p]
+[170][name]Rintaro[line]“No, va bene!?”[%p]
+[171][name]Kurisu[line]“Hai detto che quella era la condizione numero uno. Quindi ce ne deve essere una seconda, giusto? Sara’ meglio che non sia...”[%p]
+[172][name]Rintaro[line]“La seconda condizione e’...”[%p]
+[173][name]Rintaro[line]“Che tu trascuri tutti gli atti di molestia che posso aver commesso o meno nel passato!”[%p]
+[174][name]Kurisu[line]“...”[%p]
+[175][name]Itaru[line]“Okarin, sei cosi’ meschino! Sei la persona piu’ meschina che abbia mai incontrato! [color index="820000"]Ecco perche’ ti adoriamo! Ecco perche’ ti ammiriamo![color index="800000"]”[%p]
+[176][name]Rintaro[line]“Taci, Daru. Non hai il diritto di parlare. A proposito, gli atti perversi di Daru non sono inclusi. Voi due potete cavarvela da soli.”[%p]
+[177][name]Itaru[line]“Che cavolo, amico!”[%p]
+[178][name]Rintaro[line]“Queste sono le condizioni! Se non riesci ad accettarle, allora devi andartene subito!”[%p]
+[179][name]Rintaro[line]“Heh heh heh. Allora, che cosa farai? Non penso che sia un cattivo affare.”[%p]
+[180][name]Kurisu[line]“Vorrai dire per te.”[%p]
+[181]Kurisu si porta le dita alla fronte e scuote la testa in modo esagerato.[%p]
+[182][name]Kurisu[line]“Accidenti... Mi sento come se stessi secernendo enormi quantita’ di [color index="820000"]noradrenalina[color index="800000"]. Lasciami almeno raccogliere la mascella da terra.”[%p]
+[183][name]Rintaro[line]“Non mi interessa la tua mascella slogata! Accetti le condizioni o no? Rispondimi, Christina!”[%p]
+[184][name]Kurisu[line]“Smettila di aggiungere -tina! Il mio nome e’ Kurisu! (ndt: in giapponese Christina viene pronunciato come Kurisutina, da cui la battuta su -tina)”[%p]
+[185]Kurisu alza gli occhi al soffitto per calmarsi.[%p]
+[186]In America fanno tutti gesti cosi’ esagerati?[%p]
+[187]Prima o poi dira’ “Dayumn!” o “Oh mah gah!” o “Muthafucka!”.[%p]
+[188][name]Kurisu[line]“...Ok. Accetto.”[%p]
+[189][name]Rintaro[line]“Hehehe, ottima risposta. Da questo momento in poi, tu sarai il Lab Mem numero 004.”[%p]
+[190][name]Rintaro[line]“Benvenuta, Christina -- nome in codice, Zombie!”[%p]
+[191][name]Kurisu[line]“Non rispondero’ a nessuno dei due. Usa il mio vero nome, Hououin.”[%p]
+[192][name]Rintaro[line]“...”[%p]
+[193][name]Kurisu[line]“...”[%p]
+[194]Passiamo un minuto a fissarci a vicenda.[%p]
+[195]Kurisu e’ la prima a distogliere lo sguardo.[%p]
+[196]Lo fa in un modo che sembra dire “buon dio”.[%p]
+[197][name]Kurisu[line]“Sei proprio un bambino.”[%p]
+[198][name]Rintaro[line]“Hai detto qualcosa? Piccolo genio [color index="A0140000"]perverso[color index="800000"]?”[%p]
+[199][name]Kurisu[line]“Eddai! Smettila di dire ’perverso’! Non ti trattero’ neanche io come un pervertito! Quindi lasciamo perdere!”[%p]
+[200][name]Rintaro[line]“L’importante e’ che tu abbia capito. Ora passiamo al problema principale. Daru, dai a Christina...”[%p]
+[201][name]Kurisu[line]“Neanche ’-tina’.”[%p]
+[202][name]Rintaro[line]“Dai a Kurisu-kun una spiegazione sui nostri esperimenti finora.”[%p]
+[203][name]Itaru[line]“[color index="820000"]Ma mi rifiuto.[color index="800000"]”[%p]
+[204][name]Rintaro[line]“...”[%p]
+[205]Alla fine, sono io che devo spiegare. Durante la spiegazione, racconto anche la storia delle mie gesta eroiche -- il che fa infuriare Kurisu, ovviamente -- ma alla fine le racconto tutto sulle banane e sul Microonde Telefonico (Nome Provvisorio).[%p]
+[206]Kurisu non fa domande. E’ veloce a capire, come ci si aspetterebbe da un genio.[%p]
+[207][name]Kurisu[line]“Affascinante.”[%p]
+[208][name]Rintaro[line]“Sentiamo la tua opinione.”[%p]
+[209][name]Kurisu[line]“Penso che possiamo almeno scartare teorie [color index="A0140000"]completamente inutili[color index="800000"] come le armi elettromagnetiche e il teletrasporto.”[%p]
+[210]La signora protesta un po’ troppo.[%p]
+[211][name]Kurisu[line]“Possiamo fare l’esperimento ancora una volta? Voglio vederlo con i miei occhi.”[%p]
+[212]Senza aspettare il nostro consenso, Kurisu strappa una banana intatta e la infila nel microonde, poi inizia a inserire i comandi sul suo telefono.[%p]
+[213]E’ strano.[%p]
+[214]Ha ancora il suo solito sguardo imbronciato, ma non riesco a scrollarmi di dosso la sensazione che si stia davvero divertendo.[%p]
+[215]Non riesco a capire perche’. Si puo’ dire che sia un presentimento.[%p]
+[216]Voglio dire, lei e’ una scienziata. Perche’ non dovrebbe divertirsi a sperimentare?[%p]
+[217][name]Kurisu[line]“Okabe-san, Hashida-san, per favore state attenti alle banane.”[%p]
+[218][name]Rintaro[line]“Chi sei tu per darmi ordini? Io sono lo scienziato pazzo, Hou--”[%p]
+[219][name]Kurisu[line]“Come vuoi. Basta che tieni d’occhio le banane!”[%p]
+[220]Ok, quindi e’ un po’ impertinente.[%p]
+[221]Io e Daru facciamo come ci viene detto e guardiamo le banane.[%p]
+[222]A dire il vero, avevamo comunque intenzione di guardare le banane. Visto che ce lo siamo persi la prima volta, siamo determinati ad assistere alla scena con i nostri occhi.[%p]
+[223][name]Kurisu[line]“Sono passati sessanta secondi. Qualche cambiamento?”[%p]
+[224][name]Itaru[line]“No.”[%p]
+[225]Da un momento all’altro la banagel dovrebbe riapparire nel casco.[%p]
+[226]Finche’ si verifica una volta sola, potremmo considerarlo un incidente e chiudere la questione. Ma se capita una seconda volta, allora questa e’ la prova che sta davvero succedendo qualcosa.[%p]
+[227]E allora Kurisu dovra’ ammettere che io, il grande Hououin Kyouma, ho inventato il primo teletrasportatore che l’umanita’ abbia mai visto![%p]
+[228]Continuo a fissare le banane con trepidazione.[%p]
+[229][name]Kurisu[line]“100 secondi.”[%p]
+[230]Pochi istanti dopo il rapporto di Kurisu--[%p]
+[231][name]Itaru[line]“Ah!”[%p]
+[232]Una banagel “appare” improvvisamente senza fare alcun rumore.[%p]
+[233]Adesso ce ne sono due nel casco.[%p]
+[234]E’ accaduto in un batter d’occhio.[%p]
+[235][name]Itaru[line]“E’ apparsa!”[%p]
+[236][name]Rintaro[line]“...”[%p]
+[237]Sono senza parole.[%p]
+[238]Ho appena assistito all’impensabile.[%p]
+[239]Questo e’ chiaramente un fenomeno di teletrasporto.[%p]
+[240]Il timer del microonde si mette a suonare.[%p]
+[241][name]Kurisu[line]“...”[%p]
+[242]Kurisu sbircia nel microonde, sbalordita.[%p]
+[243][name]Rintaro[line]“Che cosa ne pensi?”[%p]
+[244][name]Kurisu[line]“Huh? Oh... uh...”[%p]
+[245][name]Kurisu[line]“A- a 104 secondi, e’ s-scomparsa. Improvvisamente. Gia’.”[%p]
+[246]Sembra piuttosto agitata.[%p]
+[247]Non credo che molte persone possano rimanere calme dopo aver assistito ad un tale fenomeno.[%p]
+[248][name]Rintaro[line]“E quindi e’ un teletrasportatore! Il primo nella storia dell’umanita’!”[%p]
+[249][name]Kurisu[line]“...”[%p]
+[250]Kurisu si calma velocemente.[%p]
+[251]Aggrotta la fronte e incrocia le braccia, battendo il piede destro mentre borbotta tra se’ e se’.[%p]
+[252][name]Kurisu[line]“Il teletrasporto... ma e’ davvero possibile?”[%p]
+[253][name]Kurisu[line]“Si e’ spostata... Non importa quanto possa essere incredibile...”[%p]
+[254][name]Kurisu[line]“Potrebbe essere un [color index="820000"]teletrasporto quantistico[color index="800000"]... no, quello avviene solo a livello quantistico...”[%p]
+[255][name]Rintaro[line]“Non distogliere lo sguardo dalla verita’! Quello che hai visto con i tuoi occhi e’ la realta’!”[%p]
+[256]Mi lancia uno sguardo tagliente.[%p]
+[257]I suoi occhi sono come quelli di un cecchino, duri e acuti.[%p]
+[258][name]Kurisu[line]“Si e’ davvero teletrasportata? E’ pericoloso ragionare partendo dalle conclusioni.”[%p]
+[259][name]Rintaro[line]“E allora, ragazza geniale, come chiameresti questo fenomeno?”[%p]
+[260][name]Kurisu[line]“...”[%p]
+[261][name]Kurisu[line]“Facciamo il punto della situazione.”[%p]
+[262][name]Kurisu[line]“Ne’ il casco di banane ne’ il pollo congelato si sono teletrasportati. Giusto?”[%p]
+[263][name]Rintaro[line]“...Quindi, forse c’e’ un limite alle dimensioni degli oggetti che possono essere teletrasportati.”[%p]
+[264][name]Kurisu[line]“Ma quei pezzi di pollo non sono piu’ piccoli delle banane?”[%p]
+[265][name]Rintaro[line]“Abbiamo usato lo stesso tipo di pollo per ogni esperimento. Sono disponibili in confezioni da 12.”[%p]
+[266]Mayuri compra solo il suo preferito: Succulento Pollo Fritto Number One.[%p]
+[267][name]Itaru[line]“Sono un bel po’, allora.”[%p]
+[268][name]Kurisu[line]“Che mi dite del sale? Avete sperimentato anche con il sale, giusto?”[%p]
+[269]Abbiamo gia’ usato una manciata di sale da tavola su un piatto per un esperimento.[%p]
+[270]Non e’ successo niente.[%p]
+[271][name]Kurisu[line]“Forse il piatto era d’intralcio.”[%p]
+[272][name]Rintaro[line]“Naturalmente abbiamo provato senza il piatto, ma non e’ cambiato nulla.”[%p]
+[273][name]Kurisu[line]“Allora, forse ogni singolo granello di sale era troppo piccolo... o qualcosa del genere?”[%p]
+[274][name]Kurisu[line]“Hmm... Ho bisogno di un indizio...”[%p]
+[275]Sembra che la nostra ragazza geniale stia combattendo una dura battaglia. Comincia a camminare per la stanza, con un’aria un po’ seccata.[%p]
+[276][name]Kurisu[line]“Qualcos’altro? Hai notato qualche altro dettaglio riguardo al Microonde Telefonico?”[%p]
+[277][name]Rintaro[line]“Non e’ il Microonde Telefonico. Si chiama Microonde Telefonico (Nome Provvisorio).”[%p]
+[278][name]Kurisu[line]“Lascia perdere.”[%p]
+[279][name]Kurisu[line]“Allora? Hai notato qualcosa o no?”[%p]
+[280]Kurisu sta guardando Daru. Sembra che lo stia chiedendo a lui, non a me.[%p]
+[281]E’ vero, lui dovrebbe saperne piu’ di me sul Microonde Telefonico (Nome Provvisorio). Ha svolto lui tutta la manutenzione, dopotutto.[%p]
+[282][name]Itaru[line]“Oh, giusto!”[%p]
+[283][name]Itaru[line]“Una volta, ha rilasciato un’enorme scarica elettrica.”[%p]
+[284][name]Rintaro[line]“Cosa? Non ne sapevo nulla!”[%p]
+[285][name]Itaru[line]“Questo perche’ non c’eri quando e’ successo.”[%p]
+[286][name]Kurisu[line]“Una scarica? In che misura?”[%p]
+[287][name]Itaru[line]“Era come se una luce fluorescente avesse illuminato tutta l’area di sviluppo. E’ durata circa due secondi, credo.”[%p]
+[288][name]Kurisu[line]“Quali erano le circostanze?”[%p]
+[289][name]Itaru[line]“Stavo sistemando il cellulare che era connesso al microonde. L’ho staccato e ci ho messo il mio.”[%p]
+[290][name]Itaru[line]“Poco dopo, scintille.”[%p]
+[291][name]Rintaro[line]“Quando e’ successo?”[%p]
+[292][name]Itaru[line]“Circa ieri a mezzogiorno. Quando sei andato a vedere la presentazione del dottor Nakabachi.”[%p]
+[293][name]Kurisu[line]“Il dottor Nakabachi...”[%p]
+[294]Proprio cosi’. Ieri ho assistito alla conferenza del dottor Nakabachi.[%p]
+[295]Ora che ci penso, ha rubato la sua teoria sui viaggi nel tempo da John Titor.[%p]
+[296]Forse l’attuale John Titor e’ in realta’ Nakabachi.[%p]
+[297][name]Rintaro[line]“Aspetta, Daru. Non avevi detto che la presentazione del dottor Nakabachi era stata cancellata?”[%p]
+[298][name]Itaru[line]“Si’, ma tu sei andato comunque con Mayu-shi, ricordi?”[%p]
+[299]...No, non me lo ricordo.[%p]
+[300]Dopo tutto, la presentazione di Nakabachi non e’ stata cancellata, per come la ricordo io.[%p]
+[301]Ancora non capisco perche’ i miei ricordi sembrano essere in disaccordo con quelli degli altri.[%p]
+[302][name]Rintaro[line]“Il che mi fa venire in mente. Ti avevo spedito un’email all’epoca. L’hai mai ricevuta?”[%p]
+[303][name]Itaru[line]“Una mail?”[%p]
+[304][name]Kurisu[line]“Quella email che mi hai mostrato ieri all’ATF?”[%p]
+[305]Quando annuisco, Kurisu si avvicina.[%p]
+[306][name]Kurisu[line]“Diceva che qualcuno mi ha pugnalato alla presentazione, vero?”[%p]
+[307][name]Rintaro[line]“Si’. Ma per qualche motivo, il telefono di Daru l’ha ricevuto una settimana fa...”[%p]
+[308][name]Itaru[line]“Eh? Ma non era una delle tue storie? Se non lo e’, allora questo renderebbe il timestamp molto strano.”[%p]
+[309][name]Rintaro[line]“Io dico sempre la verita’! Se non ti fidi di me, ti mostrero’ la mia cronologia di invio.”[%p]
+[310]Tiro fuori il mio telefono e recupero la cronologia.[%p]
+[311]Ma...[%p]
+[312][name]Rintaro[line]“Non c’e’ piu’...”[%p]
+[313]Non rimane una traccia di quella mail.[%p]
+[314]In base alla mia memoria, credo che fosse successo circa 30 minuti dopo la conferenza del dottor Nakabachi.[%p]
+[315]Una decina di persone, tra le quali il sottoscritto, hanno visto il corpo di Kurisu, si sono fatte prendere dal panico e sono fuggite da Radio Kaikan. E’ stato allora che ho inviato quella mail.[%p]
+[316]Ma per quante volte io controlli, non c’e’ traccia di essa.[%p]
+[317]Dovrebbe esserci, ma non c’e’.[%p]
+[318]Proprio come la banana dentro il Microonde Telefonico (Nome Provvisorio).[%p]
+[319][name]Rintaro[line]“Dov’e’ finita? Avrei giurato di averla inviata poco prima delle 13.”[%p]
+[320][name]Itaru[line]“Ah giusto! E’ stato allora che e’ successo il fenomeno della scarica! Il programma che stavo guardando stava per finire.”[%p]
+[321]Improvvisamente, mi colpisce un lampo d’ispirazione.[%p]
+[322]Ispirazione! Edison sarebbe orgoglioso. Questa non e’ una cosa che si puo’ realizzare con l’impegno. In pratica, sono un genio![%p]
+[323]Mi giro verso Daru e Kurisu con un enorme sorriso sulla faccia.[%p]
+[324][name]Rintaro[line]“Ci sono... Allora e’ cosi’ che e’ andata.”[%p]
+[325][name]Kurisu[line]“Uh, cosa?”[%p]
+[326][name]Itaru[line]“Oh, questa e’ una delle solite abitudini di Okarin, quindi non farci caso. Seriamente.”[%p]
+[327][name]Rintaro[line]“Silenzio! Sono giunto alla risposta, e adesso il mondo tremera’!”[%p]
+[328]Do uno schiaffo alla parte superiore del Microonde Telefonico (Nome Provvisorio).[%p]
+[329][name]Rintaro[line]“La sparizione della mia email, lo strano timestamp, e l’improvvisa scarica elettrica devono essere...”[%p]
+[330][name]Rintaro[line]“Collegati in qualche modo!”[%p]
+[331][name]Itaru[line]“...”[%p]
+[332][name]Kurisu[line]“...”[%p]
+[333][name]Rintaro[line]“...”[%p]
+[334][name]Kurisu[line]“...E?”[%p]
+[335][name]Rintaro[line]“Eh?”[%p]
+[336][name]Kurisu[line]“Ho capito che sono collegati in qualche modo. Ma come?”[%p]
+[337][name]Rintaro[line]“E’ compito tuo scoprirlo, Christina.”[%p]
+[338][name]Kurisu[line]“Hashida-san, parlare con questo tipo e’ cosi’ stancante.”[%p]
+[339][name]Itaru[line]“Sono tutti cosi’ all’inizio. Il trucco e’ di non prenderlo seriamente.”[%p]
+[340][name]Rintaro[line]“E tu ti definisci il mio braccio destro!?”[%p]
+[341]Non importa. Dimostrero’ che ho ragione.[%p]
+[342]Se riuscissimo a riprodurre il fenomeno della scarica elettrica, potremmo riuscire a comprendere meglio il mistero del timestamp.[%p]
+[343][name]Rintaro[line]“Daru, descrivi lo stato del Microonde Telefonico (Nome Provvisorio) quando si e’ verificato il fenomeno della scarica.”[%p]
+[344][name]Itaru[line]“C’era molto disordine. Avevo appena collegato il mio telefono al Microonde Telefonico, e stavo provando a vedere se potevo controllarlo con l’X68000.”[%p]
+[345]Stacco il telefono collegato al Microonde Telefonico (Nome Provvisorio) e lo sostituisco con il mio.[%p]
+[346]Poi sento aprirsi la porta del salone.[%p]
+[347][name]Mayuri[line]“Sono a casa! Che fame...”[%p]
+[348]Mayuri entra portando con se’ una borsa del supermercato.[%p]
+[349]Sembra che abbia finito di lavorare.[%p]
+[350][name]Mayuri[line]“E’ ora di mangiare del pollo! Succulento Pollo Fritto Number One♪”[%p]
+[351][name]Mayuri[line]“Okarin, hai comprato le banane? Okarin?”[%p]
+[352]Quando entra nell’area di sviluppo, i suoi occhi si spalancano.[%p]
+[353][name]Mayuri[line]“Eh? Abbiamo un ospite?”[%p]
+[354]Quando nota Kurisu, Mayuri china la testa con il suo solito sorriso.[%p]
+[355][name]Mayuri[line]“Sono Mayushii. Piacere di conoscerti!”[%p]
+[356][name]Kurisu[line]“Sono Makise. A quanto pare, sono un lab mem ora.”[%p]
+[357][name]Mayuri[line]“Davvero? Ma e’ fantastico! Un’altra ragazza lab mem!”[%p]
+[358][name]Rintaro[line]“Daru, cosa stavi facendo con la X68000?”[%p]
+[359][name]Itaru[line]“Come ho gia’ detto, stavo regolando le impostazioni della posta in arrivo. Stavo aspettando il momento in cui avrebbe ricevuto la mail per il controllo remoto.”[%p]
+[360][name]Itaru[line]“Ecco perche’ avevo messo anche la modalita’ “congelamento” per 120 secondi.”[%p]
+[361][name]Itaru[line]“Ho fatto in modo che si possa avviare la modalita’ congelamento dal computer. L’ho testato anche ieri.”[%p]
+[362][name]Rintaro[line]“Mayuri! Inserisci il Succulento Pollo Fritto Number One nel Microonde Telefonico (Nome Provvisorio)!”[%p]
+[363][name]Mayuri[line]“Ne volete un po’? Posso darvene uno a testa.”[%p]
+[364]Con la sua solita leggerezza, Mayuri mette il pollo nel microonde.[%p]
+[365]Daru spiega il significato di ogni singola cosa che appare sul monitor del computer.[%p]
+[366]Non sembra molto diverso dal [color index="820000"] DOS[color index="800000"].[%p]
+[367]Inserisco “120#” sulla tastiera e premo il tasto invio.[%p]
+[368]Il Microonde Telefonico (Nome Provvisorio) si avvia.[%p]
+[369]Il piatto girevole con sopra il Succulento Pollo Fritto Number One inizia a ruotare al contrario.[%p]
+[370]Kurisu guarda intensamente il Microonde Telefonico (Nome Provvisorio), in modo da non lasciarsi sfuggire nessuna anomalia, per quanto piccola.[%p]
+[371][name]Rintaro[line]“Quindi, siamo riusciti a riprodurre le condizioni che esistevano quando si e’ verificato il fenomeno della scarica. Giusto?”[%p]
+[372][name]Itaru[line]“Uhh, come si faceva...”[%p]
+[373][name]Rintaro[line]“Tu li’. Assistente!”[%p]
+[374][name]Kurisu[line]“Eh? Io?”[%p]
+[375][name]Rintaro[line]“E chi altri?!”[%p]
+[376][name]Kurisu[line]“Quand’e’ che sarei diventata la tua assistente?!”[%p]
+[377][name]Rintaro[line]“Manda una mail al mio telefono!”[%p]
+[378]Se abbiamo riprodotto correttamente tutte le condizioni, allora se lei manda qualcosa al mio telefono mentre e’ collegato al Microonde Telefonico (Nome Provvisorio), dovrebbe arrivare con una data e ora passate, non attuali.[%p]
+[379]Ma la mia assistente, Kurisu, si acciglia e basta.[%p]
+[380][name]Kurisu[line]“Non conosco nemmeno il tuo indirizzo email.”[%p]
+[381][name]Rintaro[line]“Che assistente inutile.”[%p]
+[382][name]Kurisu[line]“Non chiamarmi assistente!”[%p]
+[383][name]Rintaro[line]“Daru, manda una mail dal tuo telefono!”[%p]
+[384][name]Itaru[line]“Uh, certo... cosa scrivo?”[%p]
+[385][name]Rintaro[line]“Qualsiasi cosa!”[%p]
+[386][name]Itaru[line]“Uhh, umm...”[%p]
+[387][name]Rintaro[line]“Manda ’Christina e’ una pervertita’!”[%p]
+[388][name]Kurisu[line]“Pensavo fossimo d’accordo sul non dirlo piu’!”[%p]
+[389][name]Itaru[line]“Bene, facciamo un compromesso e andiamo con ’Okarin e’ un pervertito’.”[%p]
+[390][name]Rintaro[line]“Traditore!”[%p]
+[391][name]Kurisu[line]“Ottimo lavoro, Hashida-san!”[%p]
+[392]Kurisu sorride e da’ un pollice in su a Daru.[%p]
+[393]Non mi piace affatto.[%p]
+[394][name]Mayuri[line]“Oh no! Le banane di Mayushii!”[%p]
+[395]Sembra che Mayuri abbia scoperto i risultati del nostro ultimo esperimento.[%p]
+[396][name]Mayuri[line]“Sono diventate banagel...”[%p]
+[397][name]Kurisu[line]“Le abbiamo usate per gli esperimenti.”[%p]
+[398][name]Mayuri[line]“Ma erano di Mayushii...”[%p]
+[399][name]Itaru[line]“Vuoi che ti invii ora la mail?”[%p]
+[400][name]Kurisu[line]“Sarai rimborsata piu’ tardi. Ovviamente da Hououin-san.”[%p]
+[401][name]Rintaro[line]“Perche’ io!?”[%p]
+[402][name]Mayuri[line]“Accidenti! Perche’ devi sempre fare esperimenti sul cibo di Mayushii?”[%p]
+[403][name]Mayuri[line]“Ah! Non dirmi che stai facendo esperimenti anche sul pollo?”[%p]
+[404][name]Rintaro[line]“Proprio cosi’.”[%p]
+[405][name]Itaru[line]“Ok, la sto inviando ora. Sto inviando, invio, click.”[%p]
+[406]Mayuri mi sfugge e si avvicina al Microonde Telefonico (Nome Provvisorio) gia’ in funzione.[%p]
+[407]Prima che qualcuno possa reagire, afferra la maniglia--[%p]
+[408][name]Rintaro[line]“Ferma! Non aprirlo!”[%p]
+[409][name]Mayuri[line]“Eh?”[%p]
+[410]Ma e’ troppo tardi.[%p]
+[411][name]Mayuri[line]“Wawah!”[%p]
+[412]Una luce blu-bianca riempie la stanza, crepitando rabbiosamente come se fosse il cuore di una tempesta.[%p]
+[413][name]Kurisu[line]“Una scarica elettrica!”[%p]
+[414]Un violento suono di scintille.[%p]
+[415]Afferro Mayuri e la strappo via dal Microonde Telefonico (Nome Provvisorio).[%p]
+[416][name]Itaru[line]“Stiamo per morire!?”[%p]
+[417]Una sottile nuvola di fumo riempie la stanza.[%p]
+[418]L’odore e’ quello di qualcosa che sta bruciando.[%p]
+[419]I miei occhi sono intorpiditi da tutta quella luce lampeggiante.[%p]
+[420]Cerco di sbattere le palpebre piu’ volte per riacquistare la vista.[%p]
+[421]Posso sentire Kurisu e Daru tossire.[%p]
+[422][name]Rintaro[line]“State tutti bene?”[%p]
+[423][name]Itaru[line]“P-piu’ o meno.”[%p]
+[424][name]Kurisu[line]“Sono passati sicuramente piu’ di due secondi.”[%p]
+[425]Mayuri stringe il mio braccio con le sue dita sottili.[%p]
+[426][name]Mayuri[line]“O-Okarin? Umm, che cosa e’ successo?”[%p]
+[427]La mia vista ritorna gradualmente.[%p]
+[428]Mayuri sembra perplessa.[%p]
+[429][name]Rintaro[line]“Stai bene? Nessuna bruciatura o altro?”[%p]
+[430][name]Mayuri[line]“Hmm... Non mi fa male da nessuna parte, quindi penso di stare bene...”[%p]
+[431]Sembra che coprire Mayuri sia stata la scelta giusta.[%p]
+[432]Posso anche essere un folle scienziato pazzo, ma sono comunque disposto a rischiare la vita e gli arti per la sicurezza dei miei compagni.[%p]
+[433]Lascio delicatamente Mayuri dal mio abbraccio.[%p]
+[434]Phew. Beh, e’ stato interessante.[%p]
+[435]Mi asciugo il sudore dalla fronte.[%p]
+[436][name]Kurisu[line]“E-ehi! Guardate!”[%p]
+[437]La voce di Kurisu e’ tesa.[%p]
+[438]Con la mia vista finalmente ripristinata, do un’altra occhiata alla stanza.[%p]
+[439]E quello che vedo mi lascia senza parole.[%p]
+[440]Il grande tavolo al centro della stanza e’ fatto di legno spesso e solido. Puo’ reggere circa cinque o sei persone senza rompersi. Per questo ci abbiamo messo sopra il Microonde Telefonico (Nome Provvisorio) e l’X68000.[%p]
+[441]Quel tavolo e’ stato spaccato in due, come se fosse stato colpito dall’ascia di un taglialegna.[%p]
+[442]Il computer e le altre parti collegate al microonde sono sparse sul pavimento.[%p]
+[443]E il microonde stesso...[%p]
+[444]Ha sfondato il tavolo.[%p]
+[445]E’ letteralmente incastrato nel pavimento.[%p]
+[446][name]Itaru[line]“Ma che diavolo? Come ha fatto a... Certo, e’ un microonde, ma non e’ abbastanza pesante da fare un buco nel pavimento...”[%p]
+[447][name]Kurisu[line]“E’ impossibile che sia stato causato da una scarica elettrica. Che sia qualche altro fenomeno?”[%p]
+[448]Abbandono la sorpresa iniziale. Non e’ il momento di stare a bocca aperta, Hououin Kyouma.[%p]
+[449]Cogli l’attimo![%p]
+[450][name]Rintaro[line]“Heh... heh heh heh... MUHAHAHAHA! Esattamente come avevano previsto i miei calcoli!”[%p]
+[451]Prima, una risata maniacale.[%p]
+[452]Poi, cerco di tirare fuori il mio telefono e fare il solito, ma purtroppo e’ ancora collegato al Microonde Telefonico (Nome Provvisorio).[%p]
+[453]El Psy Kongroo.[%p]
+[454]Sussurro le parole.[%p]
+[455]Parole che non hanno significato.[%p]
+[456]Parole che uso semplicemente perche’ suonano bene.[%p]
+[457]Queste parole hanno significato [color index="A0140000"]perche’[color index="800000"] non hanno significato.[%p]
+[458]Dopo anni di uso ripetuto, il solo pronunciarle e’ sufficiente a calmare il mio cuore.[%p]
+[459][name]Itaru[line]“...Allora, a proposito del pollo di Mayu-shi.”[%p]
+[460][name]Mayuri[line]“Eh?”[%p]
+[461]Mayuri si alza e guarda dentro il Microonde Telefonico (Nome Provvisorio).[%p]
+[462]E’ incastrato nel pavimento, ma in qualche modo riesce ad aprire lo sportello con la forza.[%p]
+[463][name]Mayuri[line]“Ahh! Il pollo fritto di Mayushii e’ tutto bruciato...”[%p]
+[464]Do una pacca sulle spalle di Mayuri per tirarla su.[%p]
+[465][name]Rintaro[line]“Il Succulento Pollo Fritto Number One ha compiuto un nobile sacrificio per il progresso della scienza. Preghiamo per la sua felicita’ nella prossima vita.”[%p]
+[466][name]Kurisu[line]“Il pollo non ha importanza! Adesso, dobbiamo determinare cosa e’ successo con il Microonde T--”[%p]
+[467][name]Mayuri[line]“Non ha importanza? Sei cosi’ cattiva, uh, Christina-chan...”[%p]
+[468][name]Kurisu[line]“Ehi, Hououin Kyouma! Fai qualcosa al riguardo! Mayushii-san ha imparato male il mio nome!”[%p]
+[469][name]Itaru[line]“Piu’ che altro, abbiamo bisogno di far circolare un po’ d’aria. *tosse tosse*”[%p]
+[470][name]Rintaro[line]“Silenzio, tutti voi!”[%p]
+[471]Fisso tutti con uno sguardo prepotente.[%p]
+[472]Questo istante sara’ ricordato come il momento in cui il piu’ grande esperimento del secolo e’ stato realizzato con successo e ha portato l’umanita’ a fare un passo avanti in una nuova direzione.[%p]
+[473]Questi individui non hanno il diritto di rovinare questo momento con i loro stupidi discorsi.[%p]
+[474]Con il cuore a mille, stacco il telefono dal Microonde Telefonico (Nome Provvisorio).[%p]
+[475]Per fortuna, e’ completamente illeso.[%p]
+[476]Lo apro. Funziona ancora.[%p]
+[477]Faccio apparire la lista delle email ricevute.[%p]
+[478]Le nuove email dovrebbero arrivare in cima.[%p]
+[479]Tuttavia...[%p]
+[480]Il mio cuore batte ancora piu’ forte.[%p]
+[481]L’email piu’ in alto non e’ quella che Daru ha inviato prima che avvenisse la scarica.[%p]
+[482]Questo fenomeno “impossibile” e’ esattamente quello che speravo.[%p]
+[483]Guardo indietro nella mia cronologia delle email.[%p]
+[484]E li’...[%p]
+[485]la trovo.[%p]
+[486][name]Rintaro[line]“Muhaha! Muhahaha! MUHAHAHAHA!”[%p]
+[487]Un successo. Non so perche’, ma e’ stato un successo![%p]
+[488]La data e l’ora di ricezione lo dimostrano.[%p]
+[489]Ho ricevuto questa email il 24 luglio - cinque giorni fa.[%p]
+[490]E’ la stessa identica cosa che e’ successa alla email con il messaggio “qualcuno ha accoltellato Kurisu.”[%p]
+[491]Una mail che e’ stata inviata il 29 e’ arrivata il 24.[%p]
+[492]E proprio adesso, la verita’ mi e’ stata rivelata in un lampo di ispirazione.[%p]
+[493][name]Rintaro[line]“Adesso tutto torna. C’e’ un significato dietro questa serie di eventi, e solo una vera risposta.”[%p]
+[494][name]Rintaro[line]“Ho scoperto la vera funzione nascosta del Microonde Telefonico (Nome Provvisorio)!”[%p]
+[495][name]Rintaro[line]“Questa non e’ un’intuizione. Proprio cosi’. Questa e’ una convinzione!”[%p]
+[496][name]Kurisu[line]“Sputa il rospo. Cosa pensi che sia?”[%p]
+[497]Sento le mie labbra trasformarsi in un sorriso.[%p]
+[498]Affronto lo sguardo di Kurisu a testa alta.[%p]
+[499][name]Rintaro[line]“Prima di tutto, lasciami dire una cosa. Le piu’ grandi invenzioni sono create per caso. E’ cio’ che noi chiamiamo serendipita’.”[%p]
+[500][name]Kurisu[line]“Vai avanti.”[%p]
+[501]Come osa rovinare il mio discorso?[%p]
+[502]Oh beh... Arriviamo al punto.[%p]
+[503][name]Rintaro[line]“La mail e’ stata inviata nel [color index="A0140000"]passato[color index="800000"].”[%p]
+[504][name]Rintaro[line]“Il pollo fritto [color index="A0140000"]e’ tornato[color index="800000"] a essere congelato.”[%p]
+[505][name]Rintaro[line]“La banana staccata dal casco [color index="A0140000"]e’ tornata[color index="800000"] al suo posto.”[%p]
+[506][name]Kurisu[line]“...Non e’ possibile.”[%p]
+[507]Kurisu sembra aver capito ora.[%p]
+[508]Come ci si puo’ aspettare dalla mia geniale assistente.[%p]
+[509][name]Rintaro[line]“Si’!”[%p]
+[510]Questa e’ la scelta di Steins Gate.[%p]
+[511][name]Rintaro[line]“Il Microonde Telefonico (Nome Provvisorio)...”[%p]
+[512][name]Rintaro[line]“E’ una macchina del tempo!”[%p]
