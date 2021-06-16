@@ -40,6 +40,9 @@ cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea 
  (no regex)	[line]" -> [line]“
 - sostituire tutti i caratteri " alla fine della stringa con il carattere ”
  (no regex)	"[%p] -> ”[%p]
+- NON INSERIRE [%p] IN FONDO ALLE LINEE CHE HANNO UN TAG [%e]
+- Se i tag margin hanno come valore associato un valore negativo, togliere il carattere - dal numero
+- Sembra che due o piu' tag margin non possano coesistere (magari inserire [center] al posto del margin orizzontale)
 - lasciare intatti tutti i caratteri " nei tag [color]
 - Rimuovere tutti i caratteri ⑰
 - Sostituire ' con ’

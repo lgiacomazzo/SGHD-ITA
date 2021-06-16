@@ -715,7 +715,7 @@
 [714]Cosa c’e’ che non va? Sono abbastanza impegnata. Scusa. Ti mandero’ una email piu’ tardi. Moeka
 [715]Piani per sabato
 [716]Assistente
-[717]Dobbiamo tenere un incontro urgente domani~ quindi tutti i membri del lab si devono riunire al lab per le 13. Questo incontro e’ obbligatorio. Dovete venire!
+[717]Dobbiamo tenere un incontro urgente domani~ quindi tutti i lab mem si devono riunire al lab per le 13. Questo incontro e’ obbligatorio. Dovete venire!
 [718]Urgente
 [719]Shining Finger
 [720]Ho un IBN 5100. Lo sai?
@@ -1045,7 +1045,7 @@
 [1044]La mia assistente ama davvero i suoi cup noodles. Da questo momento in poi ti chiamero’ Koike-san.
 [1045]Re:A casa da sola
 [1046]Assistente
-[1047]Tu non sei una straniera. Tu... sei un membro del lab!
+[1047]Tu non sei una straniera. Tu... sei un lab mem!
 [1048]Re:A casa da sola
 [1049]Assistente
 [1050]Se ne vuoi davvero una~ prendila pure. Pagando un prezzo~ ovviamente.
@@ -1063,7 +1063,7 @@
 [1062]Se dovessi scegliere~ credo che prenderei questa specie di palla fantasma. Non ha un qualcosa di artistico? Ma mi [rubyBase]rifiuto[rubyTextEnd].
 [1063]Re:Ehhh?
 [1064]Assistente
-[1065]Allora perche’ continui a tornare al lab? In verita’~ sei cosi’ felice di essere un membro del lab che non puoi farne a meno! Non e’ cosi’!?
+[1065]Allora perche’ continui a tornare al lab? In verita’~ sei cosi’ felice di essere un lab mem che non puoi farne a meno! Non e’ cosi’!?
 [1066]Re:Futuro Gadget
 [1067]Assistente
 [1068]Tu sei davvero un @channeler.
@@ -1117,7 +1117,7 @@
 [1116]Andare da Tokyo ad Aomori con un treno ad alta velocita’ costa piu’ di 15~000 yen a persona~ ma l’autobus notturno costa solo 5~000 yen. Quale preferisci? Voglio coprire le [rubyBase]spese per il viaggio[rubyTextEnd]~ ma non ho cosi’ tanto in tasca. Posso stare in un hotel~ non sono una celebrita’. Mamma e’ abbastanza rigorosa sui soldi. Senza menzionare che mi ucciderebbe se sapesse che dovevo vedere mio padre. Quindi forse dovremmo prendere il [rubyBase]bus notturno[rubyTextEnd] per rientrare nel budget?
 [1117]Re:Piani
 [1118]Assistente
-[1119]Che sono queste sciocchezze? Non dimenticare i tuoi doveri come membro del lab!
+[1119]Che sono queste sciocchezze? Non dimenticare i tuoi doveri come lab mem!
 [1120]Re:Piani
 [1121]Assistente
 [1122]Per me va bene uguale.
@@ -1126,7 +1126,7 @@
 [1125]Cosa intendi per sciocchezze!? Va all’inferno! E che diamine~ Okabe!
 [1126]Bus notturno
 [1127]Assistente
-[1128]Grazie~ e’ qualcosa. Continuero’ a lavorare a questa Macchina per il Salto nel Tempo. Dopotutto~ io sono membro del laboratorio lol
+[1128]Grazie~ e’ qualcosa. Continuero’ a lavorare a questa Macchina per il Salto nel Tempo. Dopotutto~ io sono lab memoratorio lol
 [1129](⌐・ω・` )
 [1130]Assistente
 [1131]Scusa per essermi arrabbiata (⌐・ω・` )Ma Okabe~ dovevi per forza parlare in quel modo?
@@ -1687,7 +1687,7 @@
 [1686]Capisco... E’ vero che i festival sono molto affollati. Speravo di trovarti per caso in uno di questi~ ma posso immaginare che le possibilita’ siano molto basse. Ah~ non e’ che vado ad ogni festival. Per favore non fraintendere. P.S. Ho fatto solo 5 colpi con la Samidare...
 [1687]Riguardo Mayuri-chan
 [1688]Lukako
-[1689]Um... tu e Mayuri-chan non uscite insieme? Siete entrambi membri del lab~ e ho sentito che siete amici d’infanzia~ quindi pensavo che... Mi dispiace se ho frainteso... P.S. Ho fatto 30 colpi con la Samidare.
+[1689]Um... tu e Mayuri-chan non uscite insieme? Siete entrambi lab mem~ e ho sentito che siete amici d’infanzia~ quindi pensavo che... Mi dispiace se ho frainteso... P.S. Ho fatto 30 colpi con la Samidare.
 [1690]Saluti
 [1691]skyclad2010@egweb.ne.jp
 [1692]Sono Amane Suzuha. Prima email! Grazie per [rubyBase]scambiato gli indirizzi[rubyTextEnd] con me ieri. Finalmente mi sono fatta un amico [rubyBase]qui[rubyTextEnd]. Yay! Non preoccuparti. Non ti mandero’ troppe email. E potrei essere [rubyBase]lenta a rispondere[rubyTextEnd]. Per me questa storia delle email e’ una cosa nuova. Mi va bene se ti metti a ridere!
