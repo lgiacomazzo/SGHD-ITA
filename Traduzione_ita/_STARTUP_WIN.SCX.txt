@@ -1,0 +1,109 @@
+Tutti i progressi di gioco non salvati saranno perduti.
+Vuoi uscire dal gioco?
+OK
+Annulla
+セーブデータの触宜虎です。
+セーブデータの南み移みに頃[八八]しました。
+もう限臆南み移みますか?
+はい
+いいえ
+セーブデータを鬼紹しますか?
+はい
+いいえ
+アクティブユーザーを。仕すると、。轟されていない
+プレイ処崩は頃われます。
+ 
+アクティブユーザーを。仕しますか?
+はい
+いいえ
+このコンテンツはインストールが器。するまで
+好領することができません。
+インストールが器。するまでお軸ちください。
+ロードしない
+このコンテンツはインストールが器。するまで
+好領することができません。
+インストールが器。するまでお軸ちください。
+ロードしない
+このコンテンツはインストールが器。するまで
+好領することができません。
+インストールが器。するまでお軸ちください。
+ロードしない
+Tutti i progressi di gioco non salvati saranno perduti.
+Vuoi uscire dal gioco?
+OK
+Annulla
+Tutti i progressi di gioco non salvati saranno perduti.
+Vuoi uscire dal gioco?
+OK
+Annulla
+Tutti i progressi di gioco non salvati saranno perduti.
+Vuoi tornare al menu’ principale?
+OK
+Annulla
+Tutti i progressi di gioco non salvati saranno perduti.
+Vuoi tornare al menu’ principale?
+OK
+Annulla
+Vuoi tornare al menu’ principale?
+OK
+Annulla
+シーン念愁を虎浄しますか?
+はい
+いいえ
+Vuoi tornare alle impostazioni default?
+OK
+Annulla
+Ritorno alle impostazioni default.
+Caricare questi dati?
+OK
+Annulla
+このセーブファイルはインストールが器。するまで
+好領することができません。
+インストールが器。するまでお軸ちください。
+ロードしない
+Caricare questi dati?
+Tutti i progressi di gioco non salvati saranno perduti.
+OK
+Annulla
+Tutti i dati salvati sono bloccati.
+Se i dati salvati sono bloccati, non puoi usare il QUICK SAVE.
+Se vuoi selezionare il QUICK SAVE.
+Per favore sblocca i dati salvati non necessari.
+Tutti i dati salvati sono bloccati.
+Se i dati salvati sono bloccati, non puoi usare il QUICK SAVE.
+Se vuoi selezionare il QUICK SAVE.
+Per favore sblocca i dati salvati non necessari.
+Sono gia’ presenti dati salvati.
+Se sovrascrivi questi dati, il salvataggio precedente sara’ perduto.
+Sovrascrivere i dati?
+Sovrascrivi
+Annulla
+Questi dati sono bloccati.
+Se vuoi sovrascrivere i dati salvati, per favore sbloccali.
+Esistono dati di salvataggio corrotti.
+Se sovrascrivi, il salvataggio precedente sara’ perduto.
+Sovrascrivere i dati corrotti?
+Sovrascrivi
+Annulla
+Salvataggio dei dati.
+Per favore non spegnere il sistema.
+Salvataggio dati di sistema.
+Per favore non spegnere il sistema.
+Controllo dati di sistema.
+Caricamento dati di sistema.
+Dati di sistema non trovati.
+Dati di sistema creati.
+Creazione dati di sistema.
+Per favore non spegnere il sistema.
+Dati di sistema corrotti.
+Dati di sistema riparati.
+Riparazione dati di sistema.
+Per favore non spegnere il sistema.
+Questi dati di sistema sono di un altro utente.
+Per favore chiudi il gioco e rimuovi i dati di sistema.
+Dati di sistema corrotti.
+Caricamento dei dati di sistema fallito.
+Caricamento dei dati di sistema fallito.
+Per favore esci dal gioco e riprova.
+Creazione dei dati di sistema fallito.
+Per favore esci dal gioco e riprova.
