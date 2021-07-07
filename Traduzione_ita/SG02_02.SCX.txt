@@ -1,6 +1,6 @@
 Mi sveglio con il sole del crepuscolo che entra dalla finestra.[%p]
 Una brezza rinfrescante soffia dentro, sfiorandomi dolcemente la guancia.[%p]
-Daru e’ esattamente dove l’ho lasciato prima di addormentarmi. È seduto esattamente nella stessa posizione.[%p]
+Daru e’ esattamente dove l’ho lasciato prima di addormentarmi. E’ seduto esattamente nella stessa posizione.[%p]
 Non e’ cambiato molto, a parte la sua velocita’ di battitura.[%p]
 Oh, e ora sta borbottando tra se’ e se’.[%p]
 Immagino che non abbia ancora avuto successo nell’hacking.[%p]

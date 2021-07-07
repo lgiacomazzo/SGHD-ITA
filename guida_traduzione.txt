@@ -49,7 +49,8 @@ cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea 
 	È -> E’
 	è -> e’
 	é -> e’
+	Ì -> I’
 	ì -> i’
 	ò -> o’
 	ù -> u’
-	
+- Controllo regex: [àÈèéìÌòù] deve restituire 0 risultati
