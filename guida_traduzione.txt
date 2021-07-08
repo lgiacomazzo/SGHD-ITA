@@ -1,3 +1,4 @@
+------------- file nsb -------------------------
 notepad++ Con espressione regolare (rimpiazzare con niente)
 ^<voice.*$
 ^</PRE>.*\R
@@ -14,9 +15,6 @@ Rimuovere le prime righe (tipo header del file)
 Esaminare il file per trovare altra roba che non va bene
 
 
-mettere in fondo ad ogni riga di testo [%p]
- (regex)	\s+$ -> (niente)
- (regex)	$ -> [%p]
 mettere all'inizio della riga [name]1321[line] in base al file scx corrispondente
 cercare i <FONT tag e rimpiazzarli con [color ,,,] in base al file e linea corrispondente:
 
@@ -33,8 +31,18 @@ cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea 
 <I>
 -->
 
+---------------------- file txt -------------------------
+prima di tradurre: 
+togliere i [%p] per poter tradurre in maniera migliore (io uso DeepL, bel software)
 
-
+dopo la traduzione:
+ (regex)	\s+$ -> (niente)
+ (regex)	$ -> [%p]
+ (no regex) [nome] -> [name]
+ (no regex) [linea] -> [line]
+ 
+poi:
+- [line] " -> [line]“
 - sostituire tutti i caratteri " all'inizio della stringa con il carattere “
  (no regex)	[line]" -> [line]“
 - sostituire tutti i caratteri " alla fine della stringa con il carattere ”
