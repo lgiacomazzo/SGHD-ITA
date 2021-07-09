@@ -59,6 +59,6 @@ poi:
 	ì -> i’
 	ò -> o’
 	ù -> u’
-- Controllo regex: [àÈèéìÌòù] deve restituire 0 risultati
+- Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
 
 - le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö
