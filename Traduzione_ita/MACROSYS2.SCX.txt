@@ -1,8 +1,8 @@
 Premiamo il pulsante [color index="840000"]“Phone triggers”[color index="800000"] e chiamiamo il cellulare,
 facendo partire la chiamata verso il [color index="820000"]“Microonde Telefonico (Nome Provvisorio)”[color index="800000"].
-[color index="800000"]E' possibile confermare le impostazioni del controller da “CONFIG” del
-menu' di sistema.
+[color index="800000"]E’ possibile confermare le impostazioni del controller da “CONFIG” del
+menu’ di sistema.
 Premiamo il pulsante [color index="A0280000"]“Phone triggers”[color index="800000"] e chiamiamo il cellulare,
 facendo partire la chiamata verso il [color index="820000"]“Microonde Telefonico (Nome Provvisorio)”[color index="800000"].
-[color index="800000"]E' possibile confermare le impostazioni del controller da “CONFIG” del
-menu' di sistema.
+[color index="800000"]E’ possibile confermare le impostazioni del controller da “CONFIG” del
+menu’ di sistema.

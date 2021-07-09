@@ -53,12 +53,12 @@ poi:
  (no regex) ' -> ’
 - CONTROLLARE SEMPRE CHE I CARATTERI " rimasti siano quelli giusti (non violano le regole di sopra)
 - NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’)
-	à -> a’
 	È -> E’
 	è -> e’
-	é -> e’
 	Ì -> I’
 	ì -> i’
 	ò -> o’
 	ù -> u’
 - Controllo regex: [àÈèéìÌòù] deve restituire 0 risultati
+
+- le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö

@@ -17,10 +17,10 @@
 [color index="A01F0000"]【Open the STEINS GATE】[color index="800000"] completato
 
 [color index="A01F0000"]RIPULISCI LISTA
-[color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[color index="800000"]e’ stato aggiunto al menu’ “EXTRA”.
 [color index="A01F0000"]LIBRERIA CG
-[color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[color index="800000"]e’ stato aggiunto al menu’ “EXTRA”.
 [color index="A01F0000"]LIBRERIA MUSICA
-[color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[color index="800000"]e’ stato aggiunto al menu’ “EXTRA”.
 [color index="A01F0000"]LIBRARY FILMATI
-[color index="800000"]e' stato aggiunto al menu' “EXTRA”.
+[color index="800000"]e’ stato aggiunto al menu’ “EXTRA”.

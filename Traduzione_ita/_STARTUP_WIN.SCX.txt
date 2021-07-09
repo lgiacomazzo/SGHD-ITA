@@ -73,15 +73,15 @@ Tutti i dati salvati sono bloccati.
 Se i dati salvati sono bloccati, non puoi usare il QUICK SAVE.
 Se vuoi selezionare il QUICK SAVE.
 Per favore sblocca i dati salvati non necessari.
-Sono gia’ presenti dati salvati.
-Se sovrascrivi questi dati, il salvataggio precedente sara’ perduto.
+Sono già presenti dati salvati.
+Se sovrascrivi questi dati, il salvataggio precedente sarà perduto.
 Sovrascrivere i dati?
 Sovrascrivi
 Annulla
 Questi dati sono bloccati.
 Se vuoi sovrascrivere i dati salvati, per favore sbloccali.
 Esistono dati di salvataggio corrotti.
-Se sovrascrivi, il salvataggio precedente sara’ perduto.
+Se sovrascrivi, il salvataggio precedente sarà perduto.
 Sovrascrivere i dati corrotti?
 Sovrascrivi
 Annulla
