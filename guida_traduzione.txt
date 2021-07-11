@@ -33,12 +33,13 @@ cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea 
 
 ---------------------- file txt -------------------------
 prima di tradurre: 
-togliere i [%p] per poter tradurre in maniera migliore (io uso DeepL, bel software)
+togliere i [%p] per poter tradurre in maniera migliore (io uso DeepL per la traduzione, bel software)
 
 visual studio code:
-(regex) ^(\[name\].*\[line\]) -> $1\t\t\t\t\t\t\t\t
+(regex) ^(\[name\].*\[line\]) -> \t$1\t\t\t\t\t\t\t
 (regex) ^(\S) -> \t\t\t\t\t\t\t\t$1
 prendo tutti i pezzi di riga dall'inizio fino alla stringa da tradurre, e porto tutto in un altro file (dovrebbe essere più semplice tradurre così)
+usare SHIFT+TAB dopo aver selezionato tutte le righe con pulsante centrale del mouse (multiline) per togliere tutti i tab (file originale e nuovo) all'inizio delle righe
 
 dopo la traduzione:
  (regex)	\s+$ -> (niente)
@@ -67,3 +68,34 @@ poi:
 - Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
 
 - le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö
+
+- IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
+
+
+
+per applicare la traduzione a script mpk
+prima lanciare sc3tools per tradurre i testi nei singoli SCX
+.\sc3tools.exe replace-text ..\script\SG*.SCX ..\Traduzione_ita\SG*.SCX.txt sghd
+.\sc3tools.exe replace-text ..\script\_*.SCX ..\Traduzione_ita\_*.SCX.txt sghd
+.\sc3tools.exe replace-text ..\script\MACROSYS2.SCX. ..\Traduzione_ita\MACROSYS2.SCX.txt sghd
+.\sc3tools.exe replace-text ..\script\CLRFLG.SCX.SCX ..\Traduzione_ita\CLRFLG.SCX.txt sghd
+Poi copiare script.mpk in /script e lanciare Ungelify
+.\Ungelify.exe
+cd ..
+cd script
+e poi bisogna eseguire 3 azioni a ripetizione per ogni file modificato
+open script.mpk
+replace FILE.SCX
+close
+(no, non posso fare replace più volte)
+
+lanciare queste istruzioni python per generare l'intera lista dei comandi per ogni file
+
+lista=["CLRFLG.SCX","MACROSYS2.SCX","SG00_01.SCX","SG01_01.SCX","SG01_02.SCX","SG01_03.SCX","SG01_04.SCX","SG01_05.SCX","SG01_06.SCX","SG01_07.SCX","SG01_08.SCX","SG01_09.SCX","SG01_10.SCX","SG01_11.SCX","SG01_12.SCX","SG01_13.SCX","SG02_01.SCX","SG02_02.SCX","SG02_03.SCX","SG02_04.SCX","SG02_05.SCX","SG02_06.SCX","SG02_07.SCX","SG02_08.SCX","SG02_09.SCX","SG02_10.SCX","SG02_11.SCX","SG02_12.SCX","SG02_13.SCX","SG02_14.SCX","SG02_15.SCX","SG02_16.SCX","SG02_17.SCX","SG02_18.SCX","SG02_19.SCX","SG03_01.SCX","SG03_02.SCX","SG03_03.SCX","SG03_04.SCX","SG03_05.SCX","SG03_06.SCX","SG03_07.SCX","SG03_08.SCX","SG03_09.SCX","SG03_10.SCX","SG03_11.SCX","SG03_12.SCX","SG03_13.SCX","SG03_14.SCX","SG04_01.SCX","SG04_02.SCX","SG04_03.SCX","SG04_04.SCX","SG04_05.SCX","SG04_06.SCX","SG04_07.SCX","SG04_08.SCX","SG04_09.SCX","SG04_10.SCX","SG04_11.SCX","SG04_12.SCX","SG04_13.SCX","SG04_14.SCX","SG04_15.SCX","SG04_16.SCX","SG04_17.SCX","SG04_18.SCX","SG04_19.SCX","SG04_20.SCX","SG04_21.SCX","SG04_22.SCX","SG04_23.SCX","SG04_24.SCX","SG04_25.SCX","SG05_01.SCX","SG05_02.SCX","SG05_03.SCX","SG05_04.SCX","SG05_05.SCX","SG05_06.SCX","SG05_07.SCX","SG05_08.SCX","SG05_09.SCX","SG05_10.SCX","SG05_11.SCX","SG05_12.SCX","SG05_13.SCX","SG05_14.SCX","SG05_15.SCX","SG05_16.SCX","SG05_17.SCX","SG06_01.SCX","SG06_02.SCX","SG06_03.SCX","SG06_04.SCX","SG06_05.SCX","SG06_06.SCX","SG06_07.SCX","SG06_08.SCX","SG06_09.SCX","SG06_10.SCX","SG06_11.SCX","SG06_12.SCX","SG06_13.SCX","SG06_14.SCX","SG06_15.SCX","SG06_16.SCX","SG06_17.SCX","SG06_18.SCX","SG06_19.SCX","SG06_20.SCX","SG06_21.SCX","SG06_22.SCX","SG06_23.SCX","SG06_24S.SCX","SG06_25S.SCX","SG07_01.SCX","SG07_02.SCX","SG07_03.SCX","SG07_04.SCX","SG07_05.SCX","SG07_06.SCX","SG07_07.SCX","SG07_08.SCX","SG07_09.SCX","SG07_10.SCX","SG07_11.SCX","SG07_12.SCX","SG07_13.SCX","SG07_14F.SCX","SG07_15F.SCX","SG07_16F.SCX","SG08_01.SCX","SG08_02.SCX","SG08_03.SCX","SG08_04.SCX","SG08_05.SCX","SG08_06.SCX","SG08_07.SCX","SG08_08.SCX","SG08_09.SCX","SG08_10.SCX","SG08_11.SCX","SG08_12.SCX","SG08_13R.SCX","SG08_14R.SCX","SG09_01.SCX","SG09_02.SCX","SG09_03.SCX","SG09_04.SCX","SG09_05.SCX","SG09_06.SCX","SG09_07.SCX","SG09_08.SCX","SG09_09.SCX","SG09_10.SCX","SG09_11.SCX","SG09_12.SCX","SG10_01.SCX","SG10_02.SCX","SG10_03.SCX","SG10_04.SCX","SG10_05M.SCX","SG10_06M.SCX","SG10_07M.SCX","SG10_08M.SCX","SG10_09M.SCX","SG10_10C.SCX","SG10_11C.SCX","SG10_12C.SCX","SG11_01.SCX","SG11_02.SCX","SG11_03.SCX","SG11_04.SCX","SG11_05.SCX","SG11_06.SCX","SG11_07.SCX","SG11_08.SCX","_ATCH.SCX","_MAIL.SCX","_STARTUP_WIN.SCX","_SYSTEM.SCX","_TIPS.SCX"]
+for file in lista:
+	print("open script.mpk")
+	print(f"replace {file}")
+	print("close")
+print("\n")
+
+poi il file script.mpk viene spostato nella dir principale ed è pronto per l'utlizzo (quindi, si può copiare nella dir del gioco/USRDIR)

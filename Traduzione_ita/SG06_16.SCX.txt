@@ -272,7 +272,7 @@ In other words, deleting that data will take us to the attractor field where SER
 [name]Itaru[line]“Hmm... there wasn’t any data like that when we hacked SERN’s database.”[%p]
 [name]Suzuha[line]“The IBN 5100.”[%p]
 [name]Itaru[line]“Oh!”[%p]
-[name]Rintaro[line]“Of course! SERN’s IBN 5100 database!”[%p]
+[name]Rintaro[line]“Of course! SERN’s database dell’IBN 5100!”[%p]
 [name]Suzuha[line]“That’s probably where they store the data from Echelon.”[%p]
 So that’s what it is![%p]
 [name]Rintaro[line]“Dammit, Daru! Why didn’t we use the IBN 5100 earlier!?”[%p]
