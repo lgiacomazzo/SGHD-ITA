@@ -289,7 +289,7 @@ It may not sound like much, but in that time, we forged a definite bond with Suz
 To send this D-Mail is to sever that bond.[%p]
 I know that. I know that![%p]
 But this is the only choice I have.[%p]
-I set the PhoneWave to 97 hours ago. This D-Mail should arrive a few hours after the first.[%p]
+I set the Microonde Telefonico to 97 hours ago. This D-Mail should arrive a few hours after the first.[%p]
 Now I just need to send it.[%p]
 Save Mayuri -- [color index="A0140000"]that[color index="800000"] is my purpose.[%p]
 That is what drove me to leap through time.[%p]

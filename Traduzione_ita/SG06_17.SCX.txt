@@ -109,7 +109,7 @@ It’s been two weeks since the satellite appeared, but Akiba still has tourists
 The time machine is balanced precariously on the ledge, but the police have hooked up support wires, so Daru probably has nothing to worry about.[%p]
 [name]Suzuha[line]“Can it be fixed?”[%p]
 [name]Itaru[line]“Well, I still don’t know for sure. But there is one thing I noticed just now.”[%p]
-[name]Itaru[line]“It’s built kind of like the PhoneWave.”[%p]
+[name]Itaru[line]“It’s built kind of like the Microonde Telefonico.”[%p]
 [name]Rintaro[line]“That means there’s a chance, right!?”[%p]
 [name]Itaru[line]“I said I’m not sure. I need to poke around some more.”[%p]
 [name]Rintaro[line]“Daru. Super Hacka. Everything depends on your skills now.”[%p]

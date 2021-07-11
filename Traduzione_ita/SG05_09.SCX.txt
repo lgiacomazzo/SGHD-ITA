@@ -23,7 +23,7 @@ She’s been tinkering with the Microonde Telefonico (Nome Provvisorio), but I g
 [name]Kurisu[line]“Yeah, yeah, chuunibyou, whatever.”[%p]
 [name]Mayuri[line]“Um, I told Mom and Dad that Chris-chan would be here. Then they said okay.”[%p]
 [name]Kurisu[line]“Wait, so I have to stay too?”[%p]
-[name]Mayuri[line]“Yup♪ Don’t you have to work on the PhoneWave?”[%p]
+[name]Mayuri[line]“Yup♪ Don’t you have to work on the Microonde Telefonico?”[%p]
 [name]Kurisu[line]“I guess... but I don’t relish the thought of spending the night here. At least, not with a certain somebody around.”[%p]
 [name]Rintaro[line]“Environment matters, Christina. This is a place of science and research, so you should have no trouble concentrating on your work. Trust the great Hououin Kyouma.”[%p]
 [name]Rintaro[line]“Also, it may surprise you to learn that I have equipped this lab with a system that stimulates brain function.”[%p]

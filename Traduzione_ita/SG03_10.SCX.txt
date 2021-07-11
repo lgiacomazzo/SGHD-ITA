@@ -56,7 +56,7 @@ Such weakness is unbefitting of an insane mad scientist. I need to calm down.[%p
 [name]Rintaro[line]“When hypotheses pile up, and theories are verified, they become reality. That’s how modern physics comes to understand the truth of the universe.”[%p]
 [name]Rintaro[line]“You’re contradicting yourself.”[%p]
 [name]Kurisu[line]“No, I’m not.”[%p]
-[name]Kurisu[line]“We don’t even have a hypothesis for how the PhoneWave works.”[%p]
+[name]Kurisu[line]“We don’t even have a hypothesis for how the Microonde Telefonico works.”[%p]
 [name]Kurisu[line]“We’re just fumbling around in the dark here. There are still too many risks to try changing the past.”[%p]
 [name]Kurisu[line]“We should wait until we know more.”[%p]
 Oh? So she’s not unconditionally opposed?[%p]

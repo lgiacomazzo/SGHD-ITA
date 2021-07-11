@@ -1,4 +1,4 @@
-We return empty-handed to Yanabayashi Shrine, which is dyed scarlet by the setting sun.[%p]
+We return empty-handed to Tempio Yanabayashi, which is dyed scarlet by the setting sun.[%p]
 Lukako lets go of my hand after we arrive. We spent the whole walk hand-in-hand.[%p]
 Then she turns to me.[%p]
 [name]Luka[line]“So this is goodbye...”[%p]
