@@ -207,7 +207,7 @@ I guess it’s because I’ve had nothing but crappy hospital food for a month, 
 [name]Rintaro[line]“Where did you get that microwave?”[%p]
 We disassembled the Microonde Telefonico (Nome Provvisorio) weeks ago.[%p]
 [name]Itaru[line]“Oh, that was me.”[%p]
-Daru pops out of the development room in all his rotund glory.[%p]
+Daru pops out of the area di sviluppo in all his rotund glory.[%p]
 I wonder if he’s making a new Future Gadget.[%p]
 [name]Rintaro[line]“You bought it?”[%p]
 [name]Itaru[line]“I found it, duh. It was a pain to repair.”[%p]

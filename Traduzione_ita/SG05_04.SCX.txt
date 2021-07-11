@@ -1,5 +1,5 @@
 Mayuri and Daru go home, leaving me with Kurisu.[%p]
-She’s sitting in the development room chair, endlessly twirling a pen in her fingers.[%p]
+She’s sitting in the area di sviluppo chair, endlessly twirling a pen in her fingers.[%p]
 [name]Rintaro[line]“What are you doing?”[%p]
 [name]Kurisu[line]“Thinking about the time leap machine.”[%p]
 [name]Kurisu[line]“I know we can make it, but I’m wondering what will happen if we actually use it.”[%p]

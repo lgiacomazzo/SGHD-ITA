@@ -94,7 +94,7 @@ The 42-inch CRT is right under the hole, so if I point the remote at the hole an
 Now, should things go wrong, I can time leap at a moment’s notice.[%p]
 And I also have Future Gadget No. 4: Moad Snake on hand, in case of emergency.[%p]
 [name]Kurisu[line]“Okabe.”[%p]
-Kurisu enters the development room.[%p]
+Kurisu enters the area di sviluppo.[%p]
 [name]Kurisu[line]“Didn’t you say we weren’t going to experiment with the Time Leap Machine?”[%p]
 [name]Rintaro[line]“This is just in case.”[%p]
 [name]Kurisu[line]“In case what?”[%p]

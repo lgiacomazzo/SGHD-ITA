@@ -139,7 +139,7 @@ We check every one we can find, but come up empty-handed. None of the store empl
 We even check nearby neighborhoods like Ueno and Asakusa. Nothing.[%p]
 Suzuha and I return to the lab with heavy hearts.[%p]
 [name]Kurisu[line]“Welcome back.”[%p]
-Kurisu emerges from the development room to greet us. She’s alone.[%p]
+Kurisu emerges from the area di sviluppo to greet us. She’s alone.[%p]
 [name]Kurisu[line]“From the looks on your faces, I guess you didn’t find anything.”[%p]
 [name]Rintaro[line]“Where’s Daru?”[%p]
 [name]Kurisu[line]“He hasn’t come back yet. It’s already dark, so maybe he went straight home?”[%p]

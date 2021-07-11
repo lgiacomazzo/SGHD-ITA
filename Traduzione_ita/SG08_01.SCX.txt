@@ -1,6 +1,6 @@
 My head spins. I feel faint.[%p]
 Slowly, the world reasserts itself.[%p]
-I have teleported to the lab development room.[%p]
+I have teleported to the lab area di sviluppo.[%p]
 Faris is standing next to me.[%p]
 Reading Steiner is telling me that the worldline has changed.[%p]
 Additionally, the injuries the Viral Attackers inflicted on my body have vanished. So has the pain.[%p]

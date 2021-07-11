@@ -186,7 +186,7 @@ So in other words, there are worlds where it [color index="A0140000"]did[color i
 [name]Suzuha[line]“And that brings us to 2010.”[%p]
 [name]Mayuri[line]“Did something big happen this year?”[%p]
 [name]Suzuha[line]“What else could it be...”[%p]
-Suzuha looks towards the development room.[%p]
+Suzuha looks towards the area di sviluppo.[%p]
 [name]Suzuha[line]“But the creation of humanity’s first time machine?”[%p]
 [name]Mayuri[line]“Oh yeah! Wow!”[%p]
 [name]Kurisu[line]“One more question.”[%p]
