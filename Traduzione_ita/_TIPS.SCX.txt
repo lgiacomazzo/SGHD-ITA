@@ -51,7 +51,7 @@ Altro
 Alpaca
 Alpaca
 alpaca
-Un mammifero. Legato al cammello. Peso medio: 50-55kg Lunghezza media: Circa 2m Habitat: Peru, Bolivia, Chile. Recentemente, gli alpaca possono essere trovati anche in America e Nuova Zelanda. A differenza dei cammelli, gli alpaca non hanno gobbe. I loro corpi sono coperti da un pelo morbido. A causa dei loro strani colli lunghi e volti affascinanti, hanno un po’ di popolarità come un animale brutto-ma-carino (uglycute).
+Un mammifero. Legato al cammello. Peso medio: 50-55kg Lunghezza media: Circa 2m Habitat: Peru’, Bolivia, Cile. Recentemente, gli alpaca possono essere trovati anche in America e Nuova Zelanda. A differenza dei cammelli, gli alpaca non hanno gobbe. I loro corpi sono coperti da un pelo morbido. A causa dei loro strani colli lunghi e volti affascinanti, hanno un po’ di popolarità come un animale brutto-ma-carino (uglycute).
 Internet
 Ancora
 Ancora
@@ -81,7 +81,7 @@ Scienza
 Effetto Urashima
 Effetto Urashima
 effetto urashima
-Nella Relatività Ristretta, a fenomeno che nasce dal fatto che il tempo rallenta mentre un oggetto si avvicina alla velocità della luce. Per esempio, immagina che un astronautaa viaggi facendo andata e ritorno da una stella vicino alla velocità della luce. Questo viaggio potrebbe richiedere qualche anno dal punto di vista dell’astronauta, ma nel momento in cui tornerà sulla Terra saranno passati migliaia di anni senza la sua assenza.
+Nella Relatività Ristretta, a fenomeno che nasce dal fatto che il tempo rallenta mentre un oggetto si avvicina alla velocità della luce. Per esempio, immagina che un astronauta viaggi facendo andata e ritorno da una stella vicino alla velocità della luce. Questo viaggio potrebbe richiedere qualche anno dal punto di vista dell’astronauta, ma nel momento in cui tornerà sulla Terra saranno passati migliaia di anni senza la sua assenza.
 Chuunibyou
 Urd
 Urd
@@ -127,7 +127,7 @@ Altro
 Ippocampo
 kaiba
 ippocampo
-Una parte importante del cervelo. L’ippocampo governa la memoria e la navigazione spaziale.
+Una parte importante del cervello. L’ippocampo governa la memoria e la navigazione spaziale.
 Altro
 Ippocampo CA3
 Hippocampus Cornu Ammonis Region 3
@@ -157,7 +157,7 @@ Otaku
 Gunbam
 Mobile Jacket Gunbam
 gunbam
-(Non reale) Formalmente noto come “Mobile Jacket Gunbam”. Un’opera fondamentale degli anime mecha. La prima serie e’ andata in onda verso la fine degli anni ’70, e si sono susseguiti molti sequel e spinoff da allora.
+(Non reale) Formalmente noto come “Mobile Jacket Gunbam”. Un’opera fondamentale degli anime mecha. La prima serie e’ andata in onda verso la fine degli anni ’70, e si sono susseguiti molti sequel e spin-off da allora.
 Chuunibyou
 L’Organizzazione
 L’Organizzazione
@@ -206,7 +206,7 @@ la petite mort
 Una condizione di rilascio mentale e fisico unica della fisiologia maschile. Caratterizzata da una sensazione di calma e compostezza suprema. Entrare in questo stato equivale a sentirsi come un guscio vuoto. Conosciuto come iper saggio del tempo o santo del tempo.
 Gadget Futuristico
 Ghost in the Ball
-Mobile Armored Riot Camouflauge Ball
+Mobile Armored Riot Camouflage Ball
 ghost in the ball
 Gadget Futuristico N. 7.[linebreak]Un gadget creato organizzando dodici monitor CRT da 6 pollici in una sfera. Piccole telecamere C-MOS sono installate negli spazi tra i monitor, ognuno connesso al monitor sul lato opposto della sfera. Questo tentativo di camouflage ottico e’ il piu’ grande capolavoro tra i Gadget Futuristici completati, ma la sua enorme grandezza lo rende difficile da conservare.
 Il suo nome deriva dal manga scifi “Ghost in the Husk”, con un adattamento anime.
@@ -229,13 +229,13 @@ Scienza
 Interpretazione di Copenaghen
 Interpretazione di Copenaghen
 interpretazione di copenaghen
-Un approccio molto noto all’esperimento mentale del gatto di Schrodinger. In questa interpretazione, prima che venga aperta la scatola, il gatto esiste come combinazione di due funzioni d’onda, una dove e’ “vivo” e l’altra dove e’ “morto”. L’istante in cui la scatola viene aperta e il gatto osservato, la funzione d’onda collassa ad una delle due. Se il gatto e’ vivo alla apertura della scatola, la funzione d’onda collassa per diventare “gatto vivo”. Similmente, se il gatto e’ morto, la funzione d’onda collassa per diventare “gatto morto”.
+Un approccio molto noto all’esperimento mentale del gatto di Schrödinger. In questa interpretazione, prima che venga aperta la scatola, il gatto esiste come combinazione di due funzioni d’onda, una dove e’ “vivo” e l’altra dove e’ “morto”. L’istante in cui la scatola viene aperta e il gatto osservato, la funzione d’onda collassa ad una delle due. Se il gatto e’ vivo alla apertura della scatola, la funzione d’onda collassa per diventare “gatto vivo”. Similmente, se il gatto e’ morto, la funzione d’onda collassa per diventare “gatto morto”.
 Un altro approccio quantistico per questo esperimento e’ l’interpretazione a molti mondi. In questo caso, l’osservatore che trova il gatto vivo e l’osservatore che trova il gatto morto esistono due universi separati che divergono nel momento in cui la scatola viene aperta. L’Interpretazione di Copenaghen e’ attualmente la teoria dominante.
 Otaku
 ComiMa
 ComiMa
 comiMa
-(Non reale) Comic Giga Market. Un enorme evento per otaku tenuto due volte all’anno al Tokyo Big Sight. Ad ogni ComiMa, migliaia di artisti si riuniscono per vendere le proprie creazioni, che variano da manga erotici basati su anime popolari a action figures, musica, e giochi. Il prossimo ComiMa sarà il 15 di Agosto.
+(Non reale) Comic Giga Market. Un enorme evento per otaku tenuto due volte all’anno al Tokyo Big Sight. Ad ogni ComiMa, migliaia di artisti si riuniscono per vendere le proprie creazioni, che variano da manga erotici basati su anime popolari ad action figures, musica, e giochi. Il prossimo ComiMa sarà il 15 di Agosto.
 Chuunibyou
 Spazio di Singolarità
 Spazio di Singolarità
@@ -250,7 +250,7 @@ Gadget Futuristico
 Cyalume Saber
 Diphenyl oxalate Saber
 cyalume saber
-Gadget Futuristico N. 6.[linebreak]Un bastone luminoso rosso con un manico attaccato, permettendo ad uno di afferrarlo come una spada. Reso possibile non solo grazie all’hardware del Laboratorio dei Gadget Futuristici, ma anche grazie al sapere chimico! Ispirato da “Spark Wars,” una serie di film epici scifi.
+Gadget Futuristico N. 6.[linebreak]Un bastone luminoso rosso con un manico attaccato, permettendo ad uno di afferrarlo come una spada. Reso possibile non solo grazie all’hardware del Laboratorio dei Gadget Futuristici, ma anche grazie al sapere chimico! Ispirato da “Spark Wars”, una serie di film epici scifi.
 Altro
 Survival Airsoft
 survival game
@@ -280,20 +280,20 @@ Altro
 Legge di Janet
 Legge di Janet
 legge di janet
-Una prospettiva sul passaggio del tempo proposta dallo psicologo Pierre Janet. Per qualche motivo, mentre una persona invecchia, il tempo sembra passare sempre piu’ velocemente. Per esempio, un anno e’ un settimo della vita di ragazzo di 7 anni, ma solo un settantesimo di una persona di 70 anni. Con questo ragionamente, la lunghezza soggettiva del tempo e’ inversamente proporzionale all’età.
+Una prospettiva sul passaggio del tempo proposta dallo psicologo Pierre Janet. Per qualche motivo, mentre una persona invecchia, il tempo sembra passare sempre piu’ velocemente. Per esempio, un anno e’ un settimo della vita di ragazzo di 7 anni, ma solo un settantesimo di una persona di 70 anni. Con questo ragionamento, la lunghezza soggettiva del tempo e’ inversamente proporzionale all’età.
 Scienza
-Gatto di Schrodinger
-Gatto di Schrodinger
-gatto di schrodinger
-Un esperimento mentale proposto dal fisico Erwin Schrodinger. Schrodinger l’aveva pensato come un paradosso per rifiutare la teoria quantistica, but e’ stato dimostrato da allora di non essere un paradosso. Viene spesso riferito nella finzione come esempio della complessità della meccanica quantistica.
+Gatto di Schrödinger
+Gatto di Schrödinger
+gatto di schrödinger
+Un esperimento mentale proposto dal fisico Erwin Schrödinger. Schrödinger l’aveva pensato come un paradosso per rifiutare la teoria quantistica, ma e’ stato dimostrato da allora di non essere un paradosso. Viene spesso riferito nella finzione come esempio della complessità della meccanica quantistica.
 Un gatto viene inserito in una scatola. La scatola contiene anche una fiala di gas velenoso e un campione di una sostanza radioattiva. Se la sostanza radioattiva emette una particella alfa, fa scattare un sensore, il quale rilascia il gas velenoso e uccide il gatto. Assumere che la sostanza radioattiva abbia il 50% di possibilità di emettere una particella alfa per ora. Dopo un’ora, apri la scatola.
 Il gatto ha il 50% di possibilità di essere vivo oppure morto. La domanda e’, il gatto era vivo o morto prima di scoprirlo? In base ad Einstein, la tua osservazione delle condizioni del gatto e’ irrilevante. Il gatto era sia vivo che morto prima che tu aprissi la scatola.
 Scienza
 Collider
 Collider
 collider
-Un dispositivo che accelera particelle cariche con l’obiettivo di studiare le reazioni che risultano dalle collisioni di queste particelle. Il tipo di particella accelerata determina anche il nome dell’apparecchiatura. Negli anni recenti, molti ad acceleratori ad alta energia sono stati sincrotoni ad anello.
-Gli acceleratori ad anello sono molto costosi da costruire, ma possono performare gli esperimenti piu’ efficaci. Il motivo per la forma ad anello e’ che le particelle cariche possono essere trasmesse attraverso un campo elettromagnetico per piegare la loro traiettoria attraverso la forza di Lorentz. I piu’ grandi sincrotoni al mondo, oltre al Large Hadron Collider del SERN, si trovano negli USA, nel Regno Unito, e in Giappone.
+Un dispositivo che accelera particelle cariche con l’obiettivo di studiare le reazioni che risultano dalle collisioni di queste particelle. Il tipo di particella accelerata determina anche il nome dell’apparecchiatura. Negli anni recenti, molti ad acceleratori ad alta energia sono stati sincrotroni ad anello.
+Gli acceleratori ad anello sono molto costosi da costruire, ma possono realizzare gli esperimenti piu’ efficaci. Il motivo per la forma ad anello e’ che le particelle cariche possono essere trasmesse attraverso un campo elettromagnetico per piegare la loro traiettoria attraverso la forza di Lorentz. I piu’ grandi sincrotroni al mondo, oltre al Large Hadron Collider del SERN, si trovano negli USA, nel Regno Unito, e in Giappone.
 Otaku
 Shota
 Shota
@@ -304,7 +304,7 @@ John Titor
 John Titor
 john titor
 Un autoproclamato viaggiatore del tempo dal 2036 che e’ apparso in un forum Americano su internet nel Novembre del 2000. L’internet e’ andata in tumulto, riempiendo la bacheca di domande e dibattiti. Titor ha postato immagini della sua macchina del tempo e il suo manuale di controllo, cosi’ come diagrammi che illustravano le meccaniche della macchina del tempo.
-Ha anche diffuso informazioni su eventi nell’immediato futuro, la fisica per il viaggio nel tempo, interventi storici, il multiverso, le linee temporali, e le linee di universo. E poi, quattro mesi dopo la sua apparizione, ha lasciato un commento dicendo “Io lasciero’ questa linea di universo a breve e questo sarà il mio post finale” e poi e’ scomparso.
+Ha anche diffuso informazioni su eventi nell’immediato futuro, la fisica per il viaggio nel tempo, interventi storici, il multiverso, le linee temporali, e le linee di universo. E poi, quattro mesi dopo la sua apparizione, ha lasciato un commento dicendo “Io lascero’ questa linea di universo a breve e questo sarà il mio post finale” e poi e’ scomparso.
 Altro
 Sincronicità
 Sincronicità
@@ -333,7 +333,7 @@ starbecks
 (Non reale) Una catena di caffe’.
 Otaku
 The World
-Za Waarudo
+Za Warudo
 the world
 Il potere di poter fermare il tempo. Una delle soprannaturali abilità delle entità chiamate “stand”, che appaiono nel popolare manga Juju’s Bizarre Adventures. Coloro che hanno la capacità di poter usare uno stand sono chiamati “portatori di stand”.
 Internet
@@ -412,7 +412,7 @@ Chuunibyou
 Chuunibyou
 chuunibyou
 Letteralmente, “sindrome della seconda media”. Un termine che si riferisce a una mentalità esibita principalmente dai teenager maschi. Usato anche come termine offensivo per riferirsi a persone anziane che mostrano ancora questa mentalità.
-Caratterizzato da un’atteggiamento di nichilismo o cinismo, estremo egocentrismo, deliri di potere o superiorità, e una costante paura di essere trattato come un bambino. La persona che mostra questi sintomi crede di essere “figo”, ma molti osservatori li trovano patetici.
+Caratterizzato da un atteggiamento di nichilismo o cinismo, estremo egocentrismo, deliri di potere o superiorità, e una costante paura di essere trattato come un bambino. La persona che mostra questi sintomi crede di essere “figo”, ma molti osservatori li trovano patetici.
 Chuunibyou, spesso abbreviato con “chuuni”, si riferisce anche ai tropi dei mondi di finzione che piacciano ad alcuni teenager maschi, come antiche cospirazioni, superpoteri (specialmente poteri sigillati in un occhio o braccio del personaggio), mitologia norrena, scontri per il destino del multiverso, eccetera. L’abile chuunibyou sfrutterà questi elementi per creare la sua personale “backstory”. Okarin e’ un esempio da manuale.
 Scienza
 Teoria delle superstringhe
@@ -505,7 +505,7 @@ Una frase usata come sfotto’ nelle bacheche online per dire ad un postatore in
 Altro
 Incidenti New-Gen
 Incidenti New-Gen
-incidenti nuovo-gen
+incidenti new-gen
 (Non reale) Il nome dato ad una serie di strani omicidi seriali verificatisi a Shibuya un anno fa. 14  persone in totale sono morte in 7 incidenti. I metodi usati per gli omicidi erano davvero poco ortodossi, portando ad una popolarità di culto tra i giovani di Shibuya.
 I mass media l’hanno soprannominata “Follia della Nuova Generazione”. Un uomo di 25 anni e’ stato arrestato come colpevole, ma e’ morto nel Terremoto di Shibuya immediatamente dopo. Ad oggi, voci su internet dicono che lui non era il vero colpevole.
 Internet
@@ -517,7 +517,7 @@ Internet
 Nullpo
 Nurupo
 nullpo
-Un vecchio termine di @channel. Visto la prima volta su una bacheca di programmazione nel 2003. “Nullpo” e’ un’abbrevazione di “NullPointerException”, un errore visto nel linguaggio di progammazione Java. Quando qualcuno annuncia “nullpo”, la risposta giusta e’ di colpirli sulla testa e dire “Gah!”.
+Un vecchio termine di @channel. Visto la prima volta su una bacheca di programmazione nel 2003. “Nullpo” e’ un’abbrevazione di “NullPointerException”, un errore visto nel linguaggio di programmazione Java. Quando qualcuno annuncia “nullpo”, la risposta giusta e’ di colpirli sulla testa e dire “Gah!”.
 Scienza
 Neuroscienze
 Neuroscienze
@@ -542,7 +542,7 @@ Gadget Futuristico
 Bit Particle Gun
 Bit Particle Gun
 bit particle gun
-Gadget Futuristico N. 1.[linebreak]Il primissimo Gadget Futuristico, una pistola a raggi giocattolo con un telecomando TV incastrato all’interno. Puoi cambiare canale puntandolo alla TV e premendo il grilletto. Tuttavia, l’unico pulsante supportato e’ “Canale +”. Nessun altro pulsante, come “Volume”, e’ utilizzabile. Per accedendere la TV, devi manualmente premere l’interruttore sulla TV. Il suo nome e’ un riferimento al classico anime mecha Giapponese, “Mobile Jacket Gunbam”.
+Gadget Futuristico N. 1.[linebreak]Il primissimo Gadget Futuristico, una pistola a raggi giocattolo con un telecomando TV incastrato all’interno. Puoi cambiare canale puntandolo alla TV e premendo il grilletto. Tuttavia, l’unico pulsante supportato e’ “Canale +”. Nessun altro pulsante, come “Volume”, e’ utilizzabile. Per accendere la TV, devi manualmente premere l’interruttore sulla TV. Il suo nome e’ un riferimento al classico anime mecha Giapponese, “Mobile Jacket Gunbam”.
 Altro
 Ultimo Teorema di Fermat
 Ultimo Teorema di Fermat
@@ -622,7 +622,7 @@ Scienza
 Buco Bianco
 Buco Bianco
 buco bianco
-L’opposto di un buco nero. Mentre niente puo’ scappare ad un buco nero, tutto e’ esplulso da un buco bianco. L’esistenza dei buchi bianchi e’ teoricamente possibile, ma e’ impossibile avere una dimostrazione. Non sono mai stati osservati.
+L’opposto di un buco nero. Mentre niente puo’ scappare ad un buco nero, tutto e’ espulso da un buco bianco. L’esistenza dei buchi bianchi e’ teoricamente possibile, ma e’ impossibile avere una dimostrazione. Non sono mai stati osservati.
 Otaku
 MacDyver
 MacDyver
@@ -674,10 +674,10 @@ Minmei Shobou
 minmei shobou
 Una casa editrice fittizia da un certo manga. In questo manga, Minmei Shobou pubblica libri su (fittizie) arti marziali. Su internet, “quotare” Minmei Shobou e’ un modo scherzoso per fare in modo che delle affermazioni sembrino reali.
 Otaku
-Maid Cafe
-Maid Cafe
-maid cafe
-Un tipo di bar dove le cameriere indossano uniformi da maid, tipicamente nello stile francese. Solitamente chiamano i loro clienti “Padrone”. I padroni possono parlare alle cameriere e giocare con loro, ma alla fine dei conti i maid cafe sono ristoranti, non bordelli.
+Maid Café
+Maid Café
+maid café
+Un tipo di bar dove le cameriere indossano uniformi da maid, tipicamente nello stile francese. Solitamente chiamano i loro clienti “Padrone”. I padroni possono parlare alle cameriere e giocare con loro, ma alla fine dei conti i maid café sono ristoranti, non bordelli.
 Altro
 Calca Mediatica
 Calca Mediatica
@@ -716,7 +716,7 @@ Ramen confezionato in una lattina come una bevanda. Venduto nei distributori aut
 Otaku
 RaiNet Kakeru
 RaiNet Kakeru
-raiNet Kakeru
+rainet kakeru
 (Non reale) Un manga popolare serializzato da LocoLoco Comics. La terza stagione dell’adattamento anime e’ attualmente in onda su ToTV. Anche se la serie e’ apparentemente mirata ai bambini, i temi realistici mostrati attraggono anche gli adulti.
 Sempre piu’ bambini imparano a conoscere internet attraverso questo anime. Ha raggiunto il ponte dove alcuni studiosi affermano che i bambini sono meglio informati riguardo ai problemi di internet rispetto ai loro genitori. Alcune persone hanno anche chiamato questa nuova generazione “RaiNet Children”.
 Alcuni politici e organizzazioni hanno fortemente criticizzato la serie per “incoraggiare i bambini a diventare hikikomori” idealizzando ragazzi e ragazze ossessionati con i computer. Tuttavia, una buona parte degli adulti loda la serie per aver insegnato ai bambini sulle possibilità di internet, moralità su internet, violazione del copyright, e protezione della privacy. Cio’ ha contribuito al successo di RaiNet.
@@ -758,12 +758,12 @@ Chuunibyou
 Alchimia
 Alchimia
 alchimia
-L’arte di prendere una cosa e trasmutarla in un’altra. Nella finzione, anche corpi umani e anime possono essere trasmutate. Lo scambio equivalente e’ una legge fondamentale dell’alchimia. Nel Medioevo, gli alchemisti hanno provato ad usare processi chimici per trasmutare metalli comuni, come piombo, in metalli preziosi, come l’oro. I loro sforzi hanno pavimentato la strada per la chimica moderna.
+L’arte di prendere una cosa e trasmutarla in un’altra. Nella finzione, anche corpi umani e anime possono essere trasmutate. Lo scambio equivalente e’ una legge fondamentale dell’alchimia. Nel Medioevo, gli alchimisti hanno provato ad usare processi chimici per trasmutare metalli comuni, come piombo, in metalli preziosi, come l’oro. I loro sforzi hanno pavimentato la strada per la chimica moderna.
 Akihabara
 Low Angler
 Low Angler
 low angler
-Fotografo che fa foto alle cosplayer e idol da un angolo basso. Si puo’ trovare dove si riuniscono i cosplayers, come il ComiMa o il paradiso dei pedoni di Akihabara.
+Fotografo che fa foto alle cosplayer e idol da un angolo basso. Si puo’ trovare dove si riuniscono i cosplayer, come il ComiMa o il paradiso dei pedoni di Akihabara.
 Altro
 Lobotomia
 Lobotomia
@@ -838,12 +838,12 @@ Altro
 PTSD
 Disturbo da stress post-traumatico
 ptsd
-Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del ’Diagnostic e Statistical Manual of Mental Disorders’ pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilità emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu’ di un mese.
+Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del ’Diagnostic and Statistical Manual of Mental Disorders’ pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilità emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu’ di un mese.
 Scienza
 SERN
 SERN
 sern
-(Non reale) Acronimo francese che sta per “Societe Europeenne pour la Recherche Nucleaire,” o “Società europea per la ricerca nucleare”. Il piu’ grande laboratorio di fisica sulle particelle elementari al mondo, situato sul confine Franco-Svizzero vicino Ginevra. Ha una banca, una biblioteca, un ufficio postale, e un dormitorio sul posto. Scienziati da tutto il mondo si riuniscono al SERN per studiare la fisica delle particelle.
+(Non reale) Acronimo francese che sta per “Societé Européenne pour la Recherche Nucléaire”, o “Società europea per la ricerca nucleare”. Il piu’ grande laboratorio di fisica sulle particelle elementari al mondo, situato sul confine Franco-Svizzero vicino Ginevra. Ha una banca, una biblioteca, un ufficio postale, e un dormitorio sul posto. Scienziati da tutto il mondo si riuniscono al SERN per studiare la fisica delle particelle.
 Akihabara
 UPX
 UPX
@@ -936,8 +936,8 @@ Onorifici (Giapponese)
 Onorifici (Giapponese)
 onorifici (japanese)
 I giapponesi usano un sistema di suffissi che definiscono la relazione della persona che sta parlando verso il destinatario. Gli onorifici piu’ comuni sono i seguenti.[linebreak]SAN: L’onorifico piu’ comune. Usato con gli stranieri, le persone di status uguale, e in generale bisogna essere gentili. Se usato dopo un nome (Kyouma-san), indica una relazione piu’ stretta.
-KUN: Un suffisso informale solitamente usato per amici o subordinati maschi. Usato anche dai maschi verso donne subordinate in ambienti professionali.[linebreak]CHAN: Un suffisso diminuitivo che indica un elevato affetto, tipicamente usato per i bambini, giovani ragazze, o tra amiche strette.
-TAN: Una versione ancora piu’ diminuitiva del suffisso -chan. Molto spesso usato per personaggi fittizi, soprattutto antropomorfizzazioni, per una maggiore tenerezza.[linebreak]SHI: Un onorifico letterario usato tipicamente dalle pubblicazioni ufficiali come i giornali. Alcuni otaku, come Daru, usano -shi regolarmente.
+KUN: Un suffisso informale solitamente usato per amici o subordinati maschi. Usato anche dai maschi verso donne subordinate in ambienti professionali.[linebreak]CHAN: Un suffisso diminutivo che indica un elevato affetto, tipicamente usato per i bambini, giovani ragazze, o tra amiche strette.
+TAN: Una versione ancora piu’ diminutiva del suffisso -chan. Molto spesso usato per personaggi fittizi, soprattutto antropomorfizzazioni, per una maggiore tenerezza.[linebreak]SHI: Un onorifico letterario usato tipicamente dalle pubblicazioni ufficiali come i giornali. Alcuni otaku, come Daru, usano -shi regolarmente.
 Altro
 Miko
 Miko

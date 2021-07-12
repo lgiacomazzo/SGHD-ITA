@@ -36,7 +36,7 @@ Just think of it this way. I sacrificed our memories in order to save Mayuri.[%p
 ...That does little to alleviate the sadness.[%p]
 [name]Rintaro[line]“Hahaha...”[%p]
 [name]Faris[line]“Kyouma? What’s with this chuunibyou aura, nya!? We’re in the middle of an important conversation, nyan!”[%p]
-[name]Rintaro[line]“Hey, Faris... It looks like I have amnesia now...”[%p]
+[name]Rintaro[line]“Ehi, Faris... It looks like I have amnesia now...”[%p]
 It’s not a lie.[%p]
 I have no memories of this worldline.[%p]
 [name]Faris[line]“That’s the world famous mad scientist for you, nya. Did the Organyaization land a headshot and make you lose your memories, nya?”[%p]

@@ -197,7 +197,7 @@ But that’s the chuuni name I pulled out of my ass! It doesn’t even mean anyt
 [name]Rintaro[line]“Why Kurisu? I mean, I know she’s a genius, but are you telling me she’s the hero who’ll save 5.7 billion people?”[%p]
 [name]Suzuha[line]“...I don’t know.”[%p]
 [name]Rintaro[line]“You don’t know? And you expect me to go along with this!?”[%p]
-[name]Suzuha[line]“Hey, I’m just following Dad’s plan.”[%p]
+[name]Suzuha[line]“Ehi, I’m just following Dad’s plan.”[%p]
 [name]Suzuha[line]“And apparently, you’re the one who came up with it in the first place.”[%p]
 [name]Suzuha[line]“If there’s a flaw in your plan, then we’re all in trouble.”[%p]
 [name]Rintaro[line]“It sounds like you didn’t hear it from me. Is that right?”[%p]

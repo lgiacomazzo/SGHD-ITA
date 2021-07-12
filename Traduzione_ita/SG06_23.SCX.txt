@@ -32,7 +32,7 @@ Everyone looks at me. With a strange mixture of anticipation and anxiety, I slow
 Instead of an old woman, we get a wall of muscle instead.[%p]
 Our disappointment is palpable.[%p]
 [name]Rintaro[line]“Oh, it’s you...”[%p]
-[name]Tennouji[line]“Hey, have you seen my part-timer?”[%p]
+[name]Tennouji[line]“Ehi, have you seen my part-timer?”[%p]
 Mister Braun peeks into the lab.[%p]
 [name]Mayuri[line]“If you’re looking for Suzu-san, she went 35 years--”[%p]
 [name]Kurisu[line]“Shaddup, Mayuri!”[%p]

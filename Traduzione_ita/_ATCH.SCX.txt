@@ -213,7 +213,7 @@ ID:QA4nAofm0
 690 Nome:[ruby-base]Anonymous[ruby-text-end] :2010/07/28(Wed) 23:32:29
 ID:JBL5mm180
 
- se sei davero un viagiatore nel tempo allora provalo
+ se sei davvero un viaggiatore nel tempo allora provalo
 
  posta le immagini della macchina del tempo o gtfo
 
@@ -299,7 +299,7 @@ ID:DBCLLiE0
  Per favore cercatelo per apprendere di piu’.
 
  Sembra che siate tutti ancorati ai preconcetti sulle
- notioni del tempo.
+ nozioni del tempo.
 
  Il tempo non si muove linearmente dal passato al futuro come un
  auto su una strada a senso unico.
@@ -598,15 +598,15 @@ ID:JqAkKre70
 644 Nome:[color index="8E0000"]JOHN TITOR◆f8VuYnoyWU[color index="800000"] :2010/07/31(Sat) 
 07:14:31  ID:/p3RJYvh0
 
- Life in 2036 is  La vita nel 2036 e’ molto diversa da quella di questa epoca.
+ La vita nel 2036 e’ molto diversa da quella di questa epoca.
 
  Molte persone vivono nelle fattorie~ coltivando il proprio cibo.
  Tutte le forme di commercio e comunicazione sono
  limitate.
  Non si puo’ viaggiare~ niente internet~ niente ferrovie.
 
- Molte persone non vedranno mai un altro villaggio~ figuriamoci una città.
-
+ Molte persone non vedranno mai un altro villaggio~ figuriamoci una
+ città.
  La scienza avanza~ ovviamente~ ma la grande
  maggioranza delle persone non beneficiano di quel
  progresso.
@@ -803,7 +803,7 @@ ID:D8ksLazcO
 RaiNet Kakeru ■Access No. 1
 ″Il tizio di cui si vocifera e’ inutile!? Misterioso Studente Trasferito″
 
-Un net cafe a New York City. Qualcuno scrive una email.
+Un net café a New York City. Qualcuno scrive una email.
 ″Tra un’ora~ avvia l’attacco informatico contro il
 Dipartimento della Difesa...″
 
@@ -813,7 +813,7 @@ sia nel campo accademico che sportivo~ non si fa notare dagli
 altri.
 
 I suoi compagni di classe~ Kirari e Tamaru~ sono membri del piccolo
-club informatico~ e provano a convicere Kakeru a
+club informatico~ e provano a convincere Kakeru a
 unirsi con il motivo che hanno necessità di
 aumentare i propri numeri.
 
@@ -843,7 +843,7 @@ come se dovesse confermare ogni singola pressione.
 
 Ed e’ in quel momento che un debole ronzio si senti’
 dallo zaino di Kakeru.
-Mentre tutti guardavano con stupore on in amazement~ tira fuori dallo
+Mentre tutti guardavano con stupore~ tira fuori dallo
 zaino un mini portatile che renderebbe ogni bambino
 geloso.
 
@@ -884,7 +884,7 @@ identità usando server distribuiti nel mondo. Superando
 facilmente ostacoli come i virus trappola~ si avvicina sempre di
 piu’ al suo avversario.
 
-Il net cafe a New York City. Una finestra si apre nel
+Il net café a New York City. Una finestra si apre nel
 monitor.
 Kakeru finalmente trova il colpevole. Piu’ veloce delle
 unita di sicurezza informatica nel mondo~ e della CIA~ Kakeru
@@ -936,14 +936,14 @@ Questo e’ uno stato di emergenza globale.
 In risposta~ Nagaya-san mostra una scheda abbastanza
 vistosa.
 
-″Non rimarrero semplicemente qui a guardare. Abbiamo
+″Non rimarremo semplicemente qui a guardare. Abbiamo
 appena finito di sviluppare una nuova RaiNet Card.″
 
 Che cosa e’ questa RaiNet Card?
 E quale e’ la vera identità di Kakeru?
 
 Nel frattempo~ a New York City--
-La porta del net cafe si apre~ ed esce fuori un ragazzo carino.
+La porta del net café si apre~ ed esce fuori un ragazzo carino.
 ″Kakeru~ ah... che persona interessante″
 Mentre conserva un CD-ROM dalla forma strana~ ride
 come se avesse vissuto il momento migliore della sua vita.
@@ -1022,7 +1022,7 @@ un membro della Net Police.
 Questo fa arrabbiare Kakeru e gli altri. Sanno che le proprie
 abilità di hacking sono alla pari di qualunque adulto.
 
-E proprio in quel momento~ la mascot del Dipartimento di
+E proprio in quel momento~ la mascotte del Dipartimento di
 Polizia~ Pipo-kun~ appare sui loro schermi dicendo ″Ho
 sentito tutto!″ Improvvisamente~ Pipo-kun li sfida ad una
 gara.
@@ -1054,11 +1054,11 @@ con Kirari e Tamaru.
 
 Con il loro aiuto~ Kakeru riesce ad infiltrarsi con successo
 nel Dipartimento di Polizia. Collegando il suo mini portatile
-attraverso il loro telefono pubblicp~ con grande conoscenza e
+attraverso il loro telefono pubblico~ con grande conoscenza e
 incredibile tecnica~ riesce con sicurezza a raggiungere le profondità~
 e raggiungere con successo il server!
 
-Pipo-kun dichiara Kakeru il victor. Come promesso~ loro
+Pipo-kun dichiara Kakeru il vincitore. Come promesso~ loro
 riceveranno supporto completo dalla polizia. Kakeru
 e i suoi amici sono felicissimi. Tuttavia~ Red protesta dicendo
 ″Quale diritto ha Pipo-kun di fare quello che fatto!? Non e’
@@ -1099,7 +1099,7 @@ lui non puo’ essere visto in una battaglia online~
 imbroglia mandando un virus verso il PC della Kaigyou
 Elementary~ rallentando la sua velocità di calcolo.
 
-Senza accorgesene~ Kazuma inizia a perdere. Kakeru~
+Senza accorgersene~ Kazuma inizia a perdere. Kakeru~
 avendo notato che il suo avversario sta imbrogliando con uno sporco
 virus~ chiede di scambiarsi di posto con lui.
 
@@ -1146,7 +1146,7 @@ L’attuale avversario~ ″Bishop″ e’ un temibile avversario~
 craccando tramite una connessione mobile e mentre guida per
 mascherare la sua posizione.
 
-Ma Kakeru riesce a leggere le mosse del suo avversiario una alla
+Ma Kakeru riesce a leggere le mosse del suo avversario una alla
 volta e gradualmente lo mette alle strette. Per potersi avvicinare~
 Kakeru e amici usano dei rollerblades~ spostandosi tra gli
 hotspot e le linee di telefoni pubblici in città!
@@ -1182,7 +1182,7 @@ Monster.
 Ma non ha subito ferite. E cosa piu’ importante~ ha
 divorato l’attacco stesso.
 
-Kakeru riesce quindi a contrattacare contro Bishop grazie
+Kakeru riesce quindi a contrattaccare contro Bishop grazie
 al grande sforzo di Upa. Oltre a cio’~ e’ riuscito a ottenere
 il Monster Program di Bishop, ″Terios.″
 
@@ -1203,7 +1203,7 @@ Per poter ottenere l’URL del sito di Cyber Dragon~ sembra che
 dovranno completare il videogioco online~ ″Cyber
 Dragon Trial.″
 
-E’ una battaglia di scrittura con attachi virali sempre piu’ forti~
+E’ una battaglia di scrittura con attacchi virali sempre piu’ forti~
 questo sfianca Kakeru.
 
 Ma continua lo stesso~ con il sostegno dei suoi amici. Dopo una
@@ -1283,7 +1283,7 @@ Tuttavia~ considerando altre possibilità~ Kakeru pensa
 ad un’altra idea: tramite un satellite.
 
 ″Bingo!″ Kakeru aveva ragione. La base terrena era collegata
-al satellite atraverso una linea esterna.
+al satellite attraverso una linea esterna.
 
 Il colpevole ha bucato il firewall del satellite per connettersi
 al sistema di controllo dell’aereo. Sia un satellite che un aereo
@@ -1331,7 +1331,7 @@ E tra questi c’e’ anche il nome dell’avversario scelto dal destino~
 ″J.″ Ancora non si sono incontrati di persona.
 
 [Tamaru]
-″Scometto che assomiglia ad una canaglia.″
+″Scommetto che assomiglia ad una canaglia.″
 
 Gli scontri sono trasmessi in streaming in tutto il mondo
 della rete internet~ dove sono popolari quasi come le Olimpiadi!
@@ -1477,7 +1477,7 @@ Persone da tutto il mondo che hanno saputo che cosa e’ successo
 hanno deciso di mandare messaggi di incoraggiamento ad Ayumi.
 
 La rete Internet non e’ solo piena di malizia.
-Esiste anche un’illimitata gentilezza~ too.
+Esiste anche un’illimitata gentilezza.
 Ayumi decide di riaprire il suo sito~ e loro scoprono
 che lei e’ anche una studentessa della Kaigyou.
 
@@ -1553,7 +1553,7 @@ Mentre in inferiorità numerica~ Kakeru realizza qualcosa.
 Il modo per risvegliare Upa... Suo padre ha menzionato qualcosa
 al riguardo una volta.
 
-[Kakeru’s Father]
+[Padre di Kakeru]
 ″Non affidarti a tecniche subdole.
 La vera forza sta nelle carte.″
 
@@ -1586,7 +1586,7 @@ Kakeru e i suoi amici sono cresciuti. Quale e’ la vera identità
 di Cyber Dragon!?
 
 
-(Prossimo episodia)
+(Prossimo episodio)
 
 Esistono ancora molti hacker che puntano al mondo di
 Internet.
@@ -1725,7 +1725,7 @@ Alla prossima volta~ Dual Access!
 
 268 :[ruby-base]Anonymous[ruby-text-end]:2010/07/29(Thu) 15:23:17 ID:K483z8/c0
 
-     Wtf? Che sono i buchi neri di keer?
+     Wtf? Che sono i buchi neri di kerr?
      Spiegalo usando le tette o personaggio erotico!
 
 
@@ -1739,7 +1739,7 @@ Alla prossima volta~ Dual Access!
 
      [ruby-base]>>268[ruby-text-end]
 
-     La fonte e’ l’insieme dei deliri di Houou-san lol
+     La fonte e’ l’insieme dei deliri di Hououin-san lol
      Verità
 
 
@@ -1754,13 +1754,13 @@ Alla prossima volta~ Dual Access!
      1. Come fai a far ruotare i buchi neri? Non dirmi che vuoi aspettare fino a quando non
      ne trovi uno che gira naturalmente. E’ ridicolo.
 
-     2. Come riesci a passare attraverso la [color index="8C0000"]singularità[color index="800000"]?
+     2. Come riesci a passare attraverso la [color index="8C0000"]singolarità[color index="800000"]?
      Non e’ possibile che una Chevy possa sopportare la pressione.
 
 
 272 :[ruby-base]Anonymous[ruby-text-end]:2010/07/29(Thu) 15:26:00 ID:jPm+ uqabO
 
-     Perche’ queste brevi spiegazioni~ John? Sei stupido? Vuoi morire?
+     Perché queste brevi spiegazioni~ John? Sei stupido? Vuoi morire?
 
 
 273 :[color index="8E0000"]Anonymous[color index="800000"]:2010/07/29(Thu) 15:26:08 ID:ZPjtoV5f0
@@ -1836,7 +1836,7 @@ Alla prossima volta~ Dual Access!
      VGL sta per Variable Gravity Lock.
      Funziona leggendo la gravità locale della destinazione e bloccando
      la sinusoide di Tipler in quella posizione.
-     Bloccandolo sulla gravità della Terra~ si assicura che non finisca a gallegiare nel vuoto
+     Bloccandolo sulla gravità della Terra~ si assicura che non finisca a galleggiare nel vuoto
      dello spazio.
      Usa quattro orologi al cesio per realizzare i calcoli necessari~ cosi’ il margine di errore
      e’ trascurabile.

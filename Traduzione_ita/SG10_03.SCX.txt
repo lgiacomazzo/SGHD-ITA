@@ -22,7 +22,7 @@ As I get closer to Mayuri’s grandmother’s grave, I begin to hear a voice.[%p
 It’s Mayuri. I’d recognize her voice anywhere.[%p]
 It sounds like she’s talking to someone.[%p]
 I approach quietly.[%p]
-[name]Mayuri[line]“Hey, Granny.”[%p]
+[name]Mayuri[line]“Ehi, Granny.”[%p]
 Mayuri is standing there, talking to the grave.[%p]
 What a relief. She hasn’t disappeared.[%p]
 I decide to watch silently from a short distance away.[%p]

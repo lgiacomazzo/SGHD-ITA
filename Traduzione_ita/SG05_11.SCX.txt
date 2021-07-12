@@ -39,7 +39,7 @@ Anyway, I came here to explain that the building’s about to shake. How do I av
 No, that’s way too obvious.[%p]
 “An earthquake is coming! My magic eye, Reading Steiner, has seen it in the future. Escape while you still can!”[%p]
 Yeah, that might work.[%p]
-[name]Suzuha[line]“Hey, did Shiina Mayuri stay over yesterday?”[%p]
+[name]Suzuha[line]“Ehi, did Shiina Mayuri stay over yesterday?”[%p]
 [name]Rintaro[line]“Yeah.”[%p]
 [name]Suzuha[line]“So... Makise Kurisu stayed too?”[%p]
 [name]Rintaro[line]“Yeah. They’re both upstairs.”[%p]

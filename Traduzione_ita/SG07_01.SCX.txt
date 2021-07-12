@@ -103,7 +103,7 @@ Suzuha no longer exists in this time, but I hope my feelings will reach her all 
 Where in Akiba could the 54-year-old Suzuha be?[%p]
 I’ll try asking Tennouji tomorrow. He probably knows Suzuha on this worldline too.[%p]
 I wonder if Suzuha remembers me.[%p]
-[name]Mayuri[line]“...Hey, Okarin?”[%p]
+[name]Mayuri[line]“...Ehi, Okarin?”[%p]
 Mayuri suddenly lifts her head.[%p]
 She looks at me hesitantly. Her cheeks are slightly pink.[%p]
 [name]Rintaro[line]“What?”[%p]

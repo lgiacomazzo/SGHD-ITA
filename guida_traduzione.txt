@@ -71,7 +71,7 @@ poi:
 
 - IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
 
-
+- Controllare possibili errori grammaticali con Word oppure LibreOffice
 
 per applicare la traduzione a script mpk
 prima lanciare sc3tools per tradurre i testi nei singoli SCX
@@ -99,3 +99,4 @@ for file in lista:
 print("\n")
 
 poi il file script.mpk viene spostato nella dir principale ed è pronto per l'utlizzo (quindi, si può copiare nella dir del gioco/USRDIR)
+

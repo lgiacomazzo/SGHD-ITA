@@ -121,7 +121,7 @@ Maybe Mayuri wants a taste of normalcy again, now that the chaos of ComiMa has e
 I can’t begrudge her that.[%p]
 I stifle a groan and shrug my shoulders.[%p]
 [name]Rintaro[line]“Back to the lab, then.”[%p]
-[name]Mayuri[line]“Hey, Okarin. Why did you come with Mayushii today?”[%p]
+[name]Mayuri[line]“Ehi, Okarin. Why did you come with Mayushii today?”[%p]
 [name]Mayuri[line]“You’ve never come with me to ComiMa before. You’re not interested in moe, right?”[%p]
 [name]Rintaro[line]“I like robot anime.”[%p]
 But not so much that I’d line up early in the morning for ComiMa each year, like Daru and Mayuri do.[%p]

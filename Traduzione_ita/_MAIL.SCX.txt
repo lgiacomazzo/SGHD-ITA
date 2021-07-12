@@ -1,24 +1,24 @@
-Mail in ingresso
-Mail in uscita
-No Mail
+Email in ingresso
+Email in uscita
+No Email
 Non registrato
 Cambia Wallpaper
 Suoneria cellulare
-Suoneria mail
+Suoneria email
 Vibrazione per Chiamate
-Vibrazione per Mail
-Hai ricevuto una mail.
+Vibrazione per Email
+Hai ricevuto una email.
 Rispondi
 Allegati
-Email spedita.
+Email inviata.
 Chiamata in corso
-Spedizione mail
+Invio email
 Chiamata in corso
 Chiamata in arrivo
 In uscita
 In ingresso
 .
-Hai ricevuto una mail.
+Hai ricevuto una email.
 Anteprima
 Impostazioni
 OFF
@@ -33,25 +33,25 @@ Over the sky
 Reunion
 GATE OF STEINER
 Suoneria cambiata.
-Apri Mailbox
+Apri casella di posta
 Apri lista contatti
 Connessione alla rete
 Cambia Impostazioni
-Manda mail
-Ricevi mail
+Manda email
+Ricevi email
 Lista contatti
 Apri posta in ingresso
 Apri posta in uscita
 In uscita
 Cambio Wallpaper.
 Cambio suoneria telefono.
-Cambio suoneria mail.
+Cambio suoneria email.
 Questa impostazione cambia la[linebreak]Vibrazione per le Chiamate.
-Questa impostazione cambia la[linebreak]Vibrazione per le Mail.
+Questa impostazione cambia la[linebreak]Vibrazione per le Email.
 Conferma Vibrazione
-Suoneria mail cambiata.
+Suoneria email cambiata.
 Hai cambiato la[linebreak]impostazione della[linebreak]vibrazione per le chiamate.
-Hai cambiato la[linebreak]impostazione della[linebreak]vibrazione per le mail.
+Hai cambiato la[linebreak]impostazione della[linebreak]vibrazione per le email.
 Manda
 Salva
 La collana di cabala
@@ -78,7 +78,7 @@ Anteprima
 Wallpaper 2
 Wallpaper 3
 Test Vibrazione
-Ricevuta mail
+Ricevuta email
 Chiamata in arrivo..
 0123456789#*X
 Mayuri
@@ -160,7 +160,7 @@ Shining Finger
 
 Per favore rispondi
 Shining Finger
-Okabe-san~ Ti ho mandato una mail il prima possibile. Il mio nome e’ Kiryu Moeka. Sono una editrice freelance di 20 anni. Credo di aver menzionato di lavorare come part time all’Arc Rewrite. Scusami per averti scattato una foto. Non l’ho fatto apposta. Avevo bisogno di qualche foto di Akihabara per lavoro~ e per caso ti sei ritrovato in una di queste. In realtà~ per dirti la verità~ speravo di scattare qualche foto del satellite (lmao). Tra parentesi~ la foto che ho scattato era solo un test~ non la foto finale. Ecco perché stavo usando il mio telefono. Anche se mi avessi pregato di rimuoverla~ non l’avrei comunque usata~ quindi non preoccuparti![linebreak][linebreak]Comunque~ vado dritto al punto. Mi dispiace chiedertelo in questo modo~ Okabe-kun~ ma sarebbe davvero fantastico se potessi chiedere al tuo amico~ il super hacker~ riguardo l’IBN 5100. Non quindi molto riguardante i computer~ soprattutto computer vecchi. Tutto cio’ che ho e’ quella foto che ti ho mostrato. (Ah~ Allego l’immagine.)[linebreak]Sii assolutamente~ positivamente sicuro di rispondere ok? Aspettero’! E se puoi~ sarei super felice se mi potessi dare l’indirizzo email del tuo amico super hacker. Ti mandero’ un’altra email. Ti va bene se ti mando un’altra mail~ no? Certo che si’! Bye♪ Moeka
+Okabe-san~ Ti ho mandato una email il prima possibile. Il mio nome e’ Kiryu Moeka. Sono una editrice freelance di 20 anni. Credo di aver menzionato di lavorare come part-time all’Arc Rewrite. Scusami per averti scattato una foto. Non l’ho fatto apposta. Avevo bisogno di qualche foto di Akihabara per lavoro~ e per caso ti sei ritrovato in una di queste. In realtà~ per dirti la verità~ speravo di scattare qualche foto del satellite (lmao). Tra parentesi~ la foto che ho scattato era solo un test~ non la foto finale. Ecco perché stavo usando il mio telefono. Anche se mi avessi pregato di rimuoverla~ non l’avrei comunque usata~ quindi non preoccuparti![linebreak][linebreak]Comunque~ vado dritto al punto. Mi dispiace chiedertelo in questo modo~ Okabe-kun~ ma sarebbe davvero fantastico se potessi chiedere al tuo amico~ il super hacker~ riguardo l’IBN 5100. Non quindi molto riguardante i computer~ soprattutto computer vecchi. Tutto cio’ che ho e’ quella foto che ti ho mostrato. (Ah~ Allego l’immagine.)[linebreak]Sii assolutamente~ positivamente sicuro di rispondere ok? Aspettero’! E se puoi~ sarei super felice se mi potessi dare l’indirizzo email del tuo amico super hacker. Ti mandero’ un’altra email. Ti va bene se ti mando un’altra email~ no? Certo che si’! Bye♪ Moeka
 Re:Per favore rispondi
 Shining Finger
 
@@ -193,11 +193,11 @@ Shining Finger
 Moeka qui. Sei uno studente~ Okabe-kun? Sei in vacanza estiva? Moeka
 Schedule
 Shining Finger
-Sei una persona mattiniera o notturna? Se preferisci che ti mandi le mail ad una certa ora~ fammi sapere. Vorrei che tu rispondessi il prima possibile~ ma non vorrei darti fastidio~ quindi fammi sapere~ ok? Moeka
-Phone
+Sei una persona mattiniera o notturna? Se preferisci che ti mandi le email ad una certa ora~ fammi sapere. Vorrei che tu rispondessi il prima possibile~ ma non vorrei darti fastidio~ quindi fammi sapere~ ok? Moeka
+Telefono
 Shining Finger
 Tra parentesi! Non mi piace parlare al telefono~ quindi per favore non chiamarmi( ^ ^ ;) Byebye♪ Moeka
-Phone 2
+Telefono 2
 Shining Finger
 Mi sono appena ricordata che non ti ho detto il mio numero di telefono.[linebreak]( ^ ^ ;)Va bene. Sono molto piu’ a mio agio a comunicare tramite email. Cosa mi dici di te~ Okabe-kun? Moeka
 Addormentato?
@@ -205,7 +205,7 @@ Shining Finger
 Sei ancora addormentato? E’ ora di alzarsi! Hai già parlato con il super hacker? Oh~ vorrei anche sentire di piu’ al riguardo di John Qualeelasuafaccia. Sono davvero curiosa! Moeka
 Sveglia!
 Shining Finger
-Sono notturna~ quindi tipicamente non vado a letto fino a quando non sorge il sole. Non e’ cosi male quando ti abitui. Mandami una mail quando ti svegli~ ok?♪ Moeka
+Sono notturna~ quindi tipicamente non vado a letto fino a quando non sorge il sole. Non e’ cosi male quando ti abitui. Mandami una email quando ti svegli~ ok?♪ Moeka
 Tu dormi troppo
 Shining Finger
 Non ho ancora ricevuto alcuna risposta. Sei ancora addormentato? Tu dormi troppo~ Okabe-kun. Vivi come una persona anziana. Bé~ proprio io non dovrei parlare (lmao) Comunque~ fammi sapere quando avrai qualcosa sull’IBN 5100. Per favore♪ Moeka
@@ -235,25 +235,25 @@ John Titor
 ・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.
 
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.
 
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.[linebreak]・Sei americano.
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.[linebreak]・Sei americano.
 
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??
 
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere.
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere.
 
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere. Se vieni dal futuro~ allora perché le previsioni non si sono avverate??
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere. Se vieni dal futuro~ allora perché le previsioni non si sono avverate??
 
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere. Se vieni dal futuro~ allora perché le previsioni non si sono avverate??[linebreak]Vorrei una spiegazione soddisfacente.
-Scusa per la mail improvvisa.
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere. Se vieni dal futuro~ allora perché le previsioni non si sono avverate??[linebreak]Vorrei una spiegazione soddisfacente.
+Scusa per la email improvvisa.
 John Titor
-・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere. Se vieni dal futuro~ allora perché le previsioni non si sono avverate??[linebreak]Vorrei una spiegazione soddisfacente.
+・Nel 2015~ scoppierà la III Guerra Mondiale[linebreak]・Nel 2036~ il mondo e’ contaminato dalla guerra nucleare[linebreak]・Hai viaggiato dal 2036 al 1975 per ottenere un IBN 5100.[linebreak]・L’IBN 5100 ha una funzione nascosta.[linebreak]・Solo in pochi tra gli ingegneri dell’IBN sanno al riguardo.[linebreak]・Nel 1998~ sei andato in America a vedere il te stesso giovane e i tuoi genitori.[linebreak]・Eri un soldato prima di proporti come volontario per diventare un viaggiatore del tempo.[linebreak]・Sei americano.[linebreak]Questo e’ il modo in cui ti sei descritto dieci anni fa. Perché hai cambiato la tua storia??[linebreak][linebreak]Inoltre~ molte delle tue previsioni dell’epoca non sono diventate vere. Se vieni dal futuro~ allora perché le previsioni non si sono avverate??[linebreak]Vorrei una spiegazione soddisfacente.
 Stai dicendo la verità?
 John Titor
 Se quello che hai scritto e’ la verità~ allora abbiamo molto di cui parlare. In particolare riguardo la funzione nascosta dell’IBN 5100~ che io non ho menzionato ancora a nessuno. Sono davvero sorpreso che tu ne sappia al riguardo. Tuttavia~ non sono andato nell’anno 2000~ anche se e’ possibile che io possa andare li’. Ci sono tre possibili spiegazioni:[linebreak][linebreak]Primo~ il John Titor che e’ apparso nel 2000 e’ il me stesso del futuro. In altre parole~ andro’ dopo nel 2000 e scrivero’ le cose che tu mi hai detto. Ma cio’ causerebbe il paradosso dell’uovo e della gallina~ no.[linebreak][linebreak]Secondo~ sei delirante o ti stai inventando le cose. Per il bene di una discussione seria~ ignoriamo questa possibilità.[linebreak][linebreak]Terzo. Potresti aver visto qualcosa che ho scritto in un’altra linea di universo. Questo vuol dire anche che 10 anni fa~ tu esistevi su una diversa linea di universo rispetto a quella attuale. Tuttavia~ cio’ solleva un altro problema. Quando la linea di universo cambia~ l’intera linea temporale viene ricostruita dal passato al futuro in modo che non ci sia alcun paradosso. Cio’ e’ stato dimostrato nel 2036. In altre parole~ dovrebbe essere impossibile per te mantenere le memorie di una precedente linea di universo. A meno che tu non sia un viaggiatore del tempo~ ecco. Hai qualche idea di quale possa essere la causa?
@@ -292,7 +292,7 @@ Shining Finger
 Smettila di mandarmi tutte queste piccole email! Ti sto pregando~ prendi tutti i tuoi pensieri e manda tutto insieme!
 Scusa.
 Shining Finger
-Ti ho dato fastidio? Mi dispiace. Ma ho davvero bisogno di informazioni sull’IBN 5100~ e tu sei l’unica traccia che ho al momento. Mi affido a te~ Okabe-kun. Giuro che non ti mandero’ piu’ mail brevi~ quindi per favore non abbandonarmi. Ho bisogno che tu mi aiuti a trovare un IBN 5100. Prometto di lasciarti sapere il prima possibile cio’ che trovo~ quindi lavoriamo insieme~ ok? Moeka
+Ti ho dato fastidio? Mi dispiace. Ma ho davvero bisogno di informazioni sull’IBN 5100~ e tu sei l’unica traccia che ho al momento. Mi affido a te~ Okabe-kun. Giuro che non ti mandero’ piu’ email brevi~ quindi per favore non abbandonarmi. Ho bisogno che tu mi aiuti a trovare un IBN 5100. Prometto di lasciarti sapere il prima possibile cio’ che trovo~ quindi lavoriamo insieme~ ok? Moeka
 Re:Scusa.
 Shining Finger
 Scuse accettate. Sto cercando un IBN 5100 anche io. Sono d’accordo sul doverci scambiare le informazioni. Ti lascero’ sapere quando avro’ qualcosa. Non devi rispondere a questa email.
@@ -673,7 +673,7 @@ John Titor
 Cosa c’e’ oltre il muro? Cosa succederà quando lo attraverseremo?
 Il futuro
 John Titor
-Se attraverseremo il muro~ avremo la verà libertà. Se non lo faremo~ allora la distopia da cui provengo sarà il vostro futuro. In cambio della false pace e gioia~ i vostri padroni elimineranno ogni singola traccia di libero arbitrio. Come ho detto su @channel~ il mio obiettivo e’ cambiare quel futuro. E tu potresti essere colui che renderà possibile questo obiettivo.
+Se attraverseremo il muro~ avremo la vera libertà. Se non lo faremo~ allora la distopia da cui provengo sarà il vostro futuro. In cambio della false pace e gioia~ i vostri padroni elimineranno ogni singola traccia di libero arbitrio. Come ho detto su @channel~ il mio obiettivo e’ cambiare quel futuro. E tu potresti essere colui che renderà possibile questo obiettivo.
 Futuro 2
 John Titor
 Kyouma~ Voglio che tu[linebreak][linebreak][linebreak][linebreak][linebreak][linebreak]sia il Messia.[linebreak][linebreak][linebreak]Se quello che ti e’ successo si verificherà di nuovo~ per favore contattami di nuovo.[linebreak]Quel momento proverà che tu sei il Messia.
@@ -805,16 +805,16 @@ Microonde Telefonico
 Ferma ricerca
 
 Microonde Telefonico
-Ferma ricerca ultima mail
+Ferma ricerca ultima email
 
 Microonde Telefonico
-Ferma ricerca ultima mail trappola SERN
+Ferma ricerca ultima email trappola SERN
 
 Hououin Kyouma
 trappola SERN
 
 Hououin Kyouma
- ultima mail 
+ ultima email 
 
 Hououin Kyouma
 Ferma ricerca
@@ -835,7 +835,7 @@ Faris
 Sono Okabe! E’ urgente! Contattami! Non c’e’ tempo!
 Per favore contattami
 Faris
-Faris! Per favore rispondi o mandami una mail!
+Faris! Per favore rispondi o mandami una email!
 Hai ricevuto la mia email?
 Faris
 Dobbiamo parlare ASAP. E’ urgente!
@@ -1000,7 +1000,7 @@ sg-epk@jtk93.x29.jp
 
 L’hai scritto?
 Assistente
-Hai già scritto quel [ruby-base]report[ruby-text-end]? Per tua informazione~ non stavo scherzando ieri. Se non riesci a farlo~ allora non hai alcun diritto di chiamarti uno [ruby-base]scienziato[ruby-text-end]. Forse questo e’ troppo per una matricola come te da [ruby-base]comprendere[ruby-text-end]~ ma scrivere articoli e’ parte di essere uno scienziato!
+Hai già scritto quel [ruby-base]rapporto[ruby-text-end]? Per tua informazione~ non stavo scherzando ieri. Se non riesci a farlo~ allora non hai alcun diritto di chiamarti uno [ruby-base]scienziato[ruby-text-end]. Forse questo e’ troppo per una matricola come te da [ruby-base]comprendere[ruby-text-end]~ ma scrivere articoli e’ parte di essere uno scienziato!
 Re:L’hai scritto?
 Assistente
 Lascia agli uomini inferiori di preoccuparsi di queste cose! Ho invenzioni da costruire e scoperte da fare!
@@ -1082,10 +1082,10 @@ Sto prendendo una bottiglia dal frigo~ ok?
 Guardando la mia mano
 Assistente
 Seriamente~ pero’~ [ruby-base]perché sono ancora qui?[ruby-text-end] Sarei dovuta tornare in [ruby-base]America[ruby-text-end] da tempo.
-Re:It’s too umido
+Re:E’ troppo umido
 Assistente
 Dovrai resistere fino a quando non avro’ completato il mio Controllore del Meteo.
-Re:It’s too umido
+Re:E’ troppo umido
 Assistente
 Non e’ un errore~ vero? Sei un @channeler nel profondo.
 Re:Favore da chiedere
@@ -1126,7 +1126,7 @@ Assistente
 Cosa intendi per sciocchezze!? Va all’inferno! E che diamine~ Okabe!
 Bus notturno
 Assistente
-Grazie~ e’ qualcosa. Continuero’ a lavorare a questa Macchina per il Salto nel Tempo. Dopotutto~ io sono lab memoratorio lol
+Grazie~ e’ qualcosa. Continuero’ a lavorare a questa Macchina per il Salto nel Tempo. Dopotutto~ io sono un lab mem lol
 (⌐・ω・` )
 Assistente
 Scusa per essermi arrabbiata (⌐・ω・` )Ma Okabe~ dovevi per forza parlare in quel modo?
@@ -1216,13 +1216,13 @@ Assistente
 Ora mi hai fatto arrabbiare.
 Impronta
 Assistente
-Il mio lab negli US ha tessere magnetiche e scanner per le impronte. Sono fantastici. Non credo che puoi permetterteli~ pero’.
+Il mio lab negli USA ha tessere magnetiche e scanner per le impronte. Sono fantastici. Non credo che puoi permetterteli~ pero’.
 Soldi
 Assistente
 Non essere idiota. Non mi pagano per quella. Infatti~ il mio budget e’ abbastanza ristretto. Cosi’ ristretto che devo passare tutto il giorno rinchiusa nel lab. Dovrei iniziare a dormire qui. Non hai un problema con cio’~ giusto? Voglio dire~ tu sei il motivo per cui sto ancora in Giappone.
 Realtà
 Assistente
-Non capisco se e’ la verità o se siano altre cazzte. Okabe~ questa e’ una situazione seria. Ti stai trasformando nel ragazzo che gridava al lupo. Quindi dovrai dirmi la verità da questo punto in poi. Per favore.
+Non capisco se e’ la verità o se siano altre cazzate. Okabe~ questa e’ una situazione seria. Ti stai trasformando nel ragazzo che gridava al lupo. Quindi dovrai dirmi la verità da questo punto in poi. Per favore.
 Montagne russe
 Assistente
 Non sono interessato nelle case infestate~ e non credo nei fantasmi. Cio’ di cui ho paura sono le macchine. Lo sapevi che una pessima guida e’ la causa numero uno di morti accidentali?
@@ -1372,7 +1372,7 @@ Mayuri
 Una festa dopo solo tre mesi? E’ ridicolo. Non capisco come questo evento puo’ meritare una festa. Voi ragazze siete pazze.
 Re:Esperienza da maid
 Mayuri
-Non riesco ancora a credere che tu lavori ad un maid cafe. Voglio dire~ non fai mai cosplay al di fuori del lavoro.
+Non riesco ancora a credere che tu lavori ad un maid café. Voglio dire~ non fai mai cosplay al di fuori del lavoro.
 Salario
 Mayuri
 Non e’ che sono sempre affamata. E’ solo per la maggior parte del tempo. Inoltre~ spendo il mio salario con rapporto 6:4 tra materiali per il cosplay e snack.
@@ -1447,7 +1447,7 @@ Mayuri
 Ti piace davvero realizzare costumi~ vero? Comunque che cosa ti rende cosi’ appassionata per il cosplay?
 Huh?
 Mayuri
-Te l’ho già detto prima~ ricordi? Ci siamo incontrate ad un evento~ e ora siamo amiche di cosplay. Kaede-chan e’ una studentessa universitaria che studia il periodo Sengoku. Ha una figura super stupenda. Fubuki-chan ha la stessa età di Mayushii~ ed e’ abbastanza maschiaccia~ ma era davvero sexy lo scorso anno nel suo cosplay di Seira.
+Te l’ho già detto prima~ ricordi? Ci siamo incontrate ad un evento~ e ora siamo amiche di cosplay. Kaede-chan e’ una studentessa universitaria che studia il periodo Sengoku. Ha una figura super stupenda. Fubuki-chan ha la stessa età di Mayushii~ ed e’ abbastanza maschiaccio~ ma era davvero sexy lo scorso anno nel suo cosplay di Seira.
 Il motivo
 Mayuri
 Lo hai dimenticato? Tutto e’ iniziato quando hai chiesto un costume di Kyoujiro~ l’utente della fiamma da King of Histories. Ricordi? Pensavo che sembrasse fantastico su di te~ ma l’hai indossato solo una volta... che spreco (⌐・ω・` )
@@ -1792,7 +1792,7 @@ Guerriera Part-Time
 Cosa intendi con ″ma?″ Di che cosa stai parlando?
 Re:Troppo tempo libero
 Guerriera Part-Time
-Cosa? Il Braun Tube Workshop ti paga bene? Forse potrei fare domanda per un lavoro part time a Settembre.
+Cosa? Il Braun Tube Workshop ti paga bene? Forse potrei fare domanda per un lavoro part-time a Settembre.
 Re:Troppo tempo libero
 Guerriera Part-Time
 Ha! Hai commesso un errore fatale! Tu mi hai esposto la tua debolezza! Conservero’ questo asso nella manica per un momento critico.
@@ -1876,7 +1876,7 @@ Faris
 Non ho detto niente riguardo Akiba~ nya. Se vuoi apprendere la Verità del Mondo~ allora vieni da me~ nya. E’ ora che il preludio termini~ e che il grande banchetto abbia inizio!
 Inyaccettabile!
 Faris
-Non dirmi you vuoi affrontarli a testa bassa? Ma questo trasformerà Akiba in un mare di sangue~ nyan! Trattieniti~ Kyouma!
+Non dirmi che vuoi affrontarli a testa bassa? Ma questo trasformerà Akiba in un mare di sangue~ nyan! Trattieniti~ Kyouma!
 Canzone della Profezia
 Faris
 Ma l’angelo caduto~ FES~ ha profetizzato la Sua resurrezione nella sua canzone Esoteric Choker~ nyan. Questa canzone e’ ingattevole♪ Ho trovato una copia del suo album che ha rilasciato nei suoi giorni da indie (ho dovuto pagare una fortuna per averlo)~ e ho fedelmente decodificato ogni canzone della profezia riguardante il Giorno del Giudizio~ nya.
@@ -1960,7 +1960,7 @@ Faris
 Posso aiutarti~ ma ti costerà caro.
 Riguardo le abilità
 Faris
-C’e’ ancora molto che non conosco di me stessa~ nya. Perché Faris ha delle [ruby-base]orecchie da gatto[ruby-text-end] quando le altre persone hanno orecchie da persone? Perché Faris puo’ parlare solamente in [ruby-base]NyanNyanian[ruby-text-end]? Dove e’ la mia casa~ la [ruby-base]Stella Chinchilla[ruby-text-end]? Voglio sapere la verità. Ecco perché devo andare~ nya! Dove tutte le risposte possono essere trovate!
+C’e’ ancora molto che non conosco di me stessa~ nya. Perché Faris ha delle [ruby-base]orecchie da gatto[ruby-text-end] quando le altre persone hanno orecchie da persone? Perché Faris puo’ parlare solamente in [ruby-base]NyanNyan-iano[ruby-text-end]? Dove e’ la mia casa~ la [ruby-base]Stella Chinchilla[ruby-text-end]? Voglio sapere la verità. Ecco perché devo andare~ nya! Dove tutte le risposte possono essere trovate!
 Gatt-astrofe nya...
 Faris
 Te l’ho detto~ e’ [ruby-base]troppo tardi[ruby-text-end]~ nya!
@@ -1988,7 +1988,7 @@ Scusa se non sono potuta venire oggi~ nya. Faris si stava allenando per i RaiNet
 Re:Re:Re:Ep 8
 Faris
 Ep 8? Di che cosa stai parlando?
-About Ep 8
+Riguardo l’ep 8
 Faris
 RaiNet Kakeru~ ovviamente~ nya!
 ComiMa
