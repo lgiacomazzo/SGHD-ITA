@@ -42,10 +42,14 @@ prendo tutti i pezzi di riga dall'inizio fino alla stringa da tradurre, e porto 
 usare SHIFT+TAB dopo aver selezionato tutte le righe con pulsante centrale del mouse (multiline) per togliere tutti i tab (file originale e nuovo) all'inizio delle righe
 
 dopo la traduzione:
+
+- Controllare possibili errori grammaticali con Word oppure LibreOffice
+
  (regex)	\s+$ -> (niente)
  (regex)	$ -> [%p]
  (no regex) [nome] -> [name]
  (no regex) [linea] -> [line]
+ (no regex) ".[%p] -> ."[%p] (solo dove parlano però, niente pensieri)
 ricopio dal file altro nel file giusto 
 poi:
 - [line] " -> [line]“
@@ -60,18 +64,21 @@ poi:
 - CONTROLLARE SEMPRE CHE I CARATTERI " rimasti siano quelli giusti (non violano le regole di sopra)
 - NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’)
 	È -> E’
+	e’ -> é ["e’" solo per quelli che sono grammaticamente corretti in quel caso]
 	è -> e’
 	Ì -> I’
 	ì -> i’
 	ò -> o’
 	ù -> u’
+	a’ -> à
+	
 - Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
 
 - le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö
 
 - IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
 
-- Controllare possibili errori grammaticali con Word oppure LibreOffice
+
 
 per applicare la traduzione a script mpk
 prima lanciare sc3tools per tradurre i testi nei singoli SCX

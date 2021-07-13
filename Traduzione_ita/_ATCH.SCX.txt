@@ -1833,7 +1833,7 @@ Alla prossima volta~ Dual Access!
 379 :[color index="8E0000"]JOHN TITOR◆f8VuYnoyWU[color index="800000"]:2010/07/29(Thu) 16:01:20 ID:4Co5c6io0
 
      Imposto la destinazione con il sistema VGL.
-     VGL sta per Variable Gravity Lock.
+     VGL sta per Variable Gravity Lock (sistema di aggancio a gravità variabile).
      Funziona leggendo la gravità locale della destinazione e bloccando
      la sinusoide di Tipler in quella posizione.
      Bloccandolo sulla gravità della Terra~ si assicura che non finisca a galleggiare nel vuoto

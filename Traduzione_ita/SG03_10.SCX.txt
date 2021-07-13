@@ -1,6 +1,6 @@
 [name]Rintaro[line]“Now then, lab mems.”[%p]
 I assemble all the lab members, including Moeka, for a meeting.[%p]
-[name]Rintaro[line]“The 73rd Round Table Conference will come to order.”[%p]
+[name]Rintaro[line]“The 73rd Conferenza della Tavola Rotonda will come to order.”[%p]
 [name]Kurisu[line]“Yesterday was the 66th. Where’d the other six go?”[%p]
 [name]Rintaro[line]“Only anal retentive bastards care about the minor details. That’s why you’ll never be more than an assistant, Christina!”[%p]
 [name]Kurisu[line]“Like I keep saying, I’m neither your assistant nor Christina.”[%p]
