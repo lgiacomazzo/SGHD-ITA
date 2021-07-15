@@ -61,7 +61,7 @@ She squats down on the spot, just as we found her. She seems entirely drained of
 [name]Moeka[line]“...”[%p]
 [name]Rintaro[line]“I can’t be sure. There are still several problems remaining. If they don’t give us too much trouble, I guess we’ll have it done in a week.”[%p]
 [name]Rintaro[line]“On the other hand, we can’t do anything until they’re solved.”[%p]
-[name]Rintaro[line]“Everything is the choice of Steins Gate. I have faith there exists a path to success.”[%p]
+[name]Rintaro[line]“Everything is the scelta di Steins Gate. I have faith there exists a path to success.”[%p]
 [name]Rintaro[line]“And once the door is opened, the chaos for which I have so longed shall at last descend upon the Earth. Trumpets will sound from the highest heaven, and the final battle, Ragnarok, will begin!”[%p]
 [name]Mayuri[line]“Who are you fighting, Okarin?”[%p]
 [name]Rintaro[line]“L’Organizzazione, of course. Their rule must end once and for all.”[%p]

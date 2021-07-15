@@ -74,7 +74,7 @@ I firmly grip my coat at the shoulder, where it has been stitched together with 
 [name]Rintaro[line]“The coming world... is the world I wished for!”[%p]
 I wished for Mayuri to live, and Kurisu to die.[%p]
 That is the truth. And I must never forget it.[%p]
-[name]Rintaro[line]“This is the choice of Steins Gate!”[%p]
+[name]Rintaro[line]“This is the scelta di Steins Gate!”[%p]
 This is the choice of Okabe Rintaro.[%p]
 [name]Rintaro[line]“Let the world be reborn!”[%p]
 I swing down my index finger.[%p]

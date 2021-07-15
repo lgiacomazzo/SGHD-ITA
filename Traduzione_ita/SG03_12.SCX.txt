@@ -129,7 +129,7 @@ And come to think of it, it was Titor’s advice that led me to the IBN 5100.[%p
 He should be able to give me a hint this time too.[%p]
 I quickly take out my phone.[%p]
 [name]Rintaro[line]“It’s me. John Titor may have come from the future to guide me.”[%p]
-[name]Rintaro[line]“Yeah, that’s right. His arrival here in 2010 must be the choice of Steins Gate. El Psy Kongroo.”[%p]
+[name]Rintaro[line]“Yeah, that’s right. His arrival here in 2010 must be the scelta di Steins Gate. El Psy Kongroo.”[%p]
 [name]Nae[line]“Who is he talking to?”[%p]
 [name]Suzuha[line]“Dunno. Who could it be? Maybe it’s someone from the future.”[%p]
 [name]Nae[line]“From the future...!”[%p]

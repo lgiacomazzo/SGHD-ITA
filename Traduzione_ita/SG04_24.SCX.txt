@@ -168,4 +168,4 @@ In less than an hour, the girls have transformed the lab into a class five disas
 I take out my phone and put it to my ear.[%p]
 [name]Rintaro[line]“It’s me. Looks like the Evil One is free. If you haven’t heard from me in an hour... tell my parents I love them.”[%p]
 [name]Itaru[line]“Okarin, that’s a [color index="820000"]death flag[color index="800000"]...”[%p]
-[name]Rintaro[line]“Is this the choice of Steins Gate? El Psy Kongroo...”[%p]
+[name]Rintaro[line]“Is this the scelta di Steins Gate? El Psy Kongroo...”[%p]

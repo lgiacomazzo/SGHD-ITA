@@ -537,7 +537,7 @@ Chuunibyou
 Ordine della Rosa-Croce
 Ordine della Rosa-Croce
 ordine della rosa-croce
-Una società segreta fondata nella Germania del 17-esimo secolo da Christian Rosenkreuz. Rosenkreuz era presumibilmente un praticante di alchimia e magia nera.
+Una società segreta fondata nella Germania del 17esimo secolo da Christian Rosenkreuz. Rosenkreuz era presumibilmente un praticante di alchimia e magia nera.
 Gadget Futuristico
 Bit Particle Gun
 Bit Particle Gun
@@ -883,7 +883,7 @@ Altro
 Millennium Bug
 Y2K
 y2k
-Popolarmente conosciuto come Y2K bug. Al volgere del 21-esimo secolo, c’era preoccupazione sulla possibilità di un fallimento di massa dei computer quando sarebbe arrivato l’anno 2000. Con l’obiettivo di risparmiare spazio, i vecchi sistemi operativi quasi sempre abbreviavano gli anni alle ultime due cifre. Quindi, quando 1999 e’ diventato 2000, le ultime due cifre sarebbero passate da 99 a 00.
+Popolarmente conosciuto come Y2K bug. Al volgere del 21esimo secolo, c’era preoccupazione sulla possibilità di un fallimento di massa dei computer quando sarebbe arrivato l’anno 2000. Con l’obiettivo di risparmiare spazio, i vecchi sistemi operativi quasi sempre abbreviavano gli anni alle ultime due cifre. Quindi, quando 1999 e’ diventato 2000, le ultime due cifre sarebbero passate da 99 a 00.
 Se il comportamento non fosse stato risolto con la programmazione, il computer potrebbe erroneamente assumere che l’anno sarebbe 1900. Si diceva che i computer nel campo militare, finanziario, e governativo potevano malfunzionare e causare una catastrofe globale. Per risolvere il problema, sono state prese delle contromisure nella metà degli anni ’90 per aggiornare manualmente ogni programma. Come risultato, il problema dell’anno 2000 era stato risolto.
 Otaku
 Ragazza 2D

@@ -42,7 +42,7 @@ By freak coincidence, the 42-inch CRT’s electron gun appears to have exactly t
 That’s the only explanation.[%p]
 [name]Kurisu[line]“Somehow, the conditions here were perfect to create a time machine. Frankly, it’s a miracle.”[%p]
 [name]Rintaro[line]“No, Christina! Not a miracle!”[%p]
-[name]Rintaro[line]“This is the choice of Steins Gate!”[%p]
+[name]Rintaro[line]“This is the scelta di Steins Gate!”[%p]
 Rather than glare at me as she has so many times in the past, Kurisu shoots me an exasperated smile.[%p]
 [name]Kurisu[line]“Whatever it is, it worked.”[%p]
 [name]Mayuri[line]“Umm...”[%p]

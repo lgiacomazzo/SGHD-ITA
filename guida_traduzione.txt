@@ -32,27 +32,36 @@ cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea 
 -->
 
 ---------------------- file txt -------------------------
+note:
+[%p] stanno in fondo alle righe normali
+[%e] stanno in fondo alle righe con [margin] all'inizio
+
 prima di tradurre: 
-togliere i [%p] per poter tradurre in maniera migliore (io uso DeepL per la traduzione, bel software)
+- togliere i [%p] per poter tradurre in maniera migliore e anche [%e] (io uso DeepL per la traduzione, bel software)
 
 visual studio code:
 (regex) ^(\[name\].*\[line\]) -> \t$1\t\t\t\t\t\t\t
 (regex) ^(\S) -> \t\t\t\t\t\t\t\t$1
-prendo tutti i pezzi di riga dall'inizio fino alla stringa da tradurre, e porto tutto in un altro file (dovrebbe essere più semplice tradurre così)
-usare SHIFT+TAB dopo aver selezionato tutte le righe con pulsante centrale del mouse (multiline) per togliere tutti i tab (file originale e nuovo) all'inizio delle righe
+- prendo tutti i pezzi di riga dall'inizio fino alla stringa da tradurre, e porto tutto in un altro file (dovrebbe essere più semplice tradurre così)
+- usare SHIFT+TAB dopo aver selezionato tutte le righe con pulsante centrale del mouse (multiline) per togliere tutti i tab (file originale e nuovo) all'inizio delle righe 
+- sul file temporaneo
+ (regex)	^\s+|\s+$ -> (niente)
+per togliere tutti gli spazi
+- nel file originale inserire una riga vuota in fondo (che con la procedura di prima dovrebbe essere sparita), visto che non farà casini per l'operazione opposta
+
+TRADUZIONE FILE
 
 dopo la traduzione:
-
 - Controllare possibili errori grammaticali con Word oppure LibreOffice
 
  (regex)	\s+$ -> (niente)
- (regex)	$ -> [%p]
- (no regex) [nome] -> [name]
- (no regex) [linea] -> [line]
- (regex) (\[name\].*)"\.\[%p\] -> $1."[%p]
-ricopio dal file altro nel file giusto 
+ (regex)	$ -> [%p] (togliere [%p] dall'ultima riga. L'ultima riga non ha mai un tag [%p])
+ 
+- Ricopiare dal file temporaneo al file originale con il multiline, poi:
+ (regex) 	(\[name\].*)"\.\[%p\] -> $1."[%p]
+ (regex)	(\[margin.*)\[%p\] -> $1[%e]
+ 
 poi:
-- [line] " -> [line]“
 - sostituire tutti i caratteri " all'inizio della stringa con il carattere “
  (no regex)	[line]" -> [line]“
 - sostituire tutti i caratteri " alla fine della stringa con il carattere ”
@@ -62,15 +71,15 @@ poi:
 - Sostituire ' con ’
  (no regex) ' -> ’
 - CONTROLLARE SEMPRE CHE I CARATTERI " rimasti siano quelli giusti (non violano le regole di sopra)
-- NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’)
+- NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’, LA RICERCA NON E' CASE INSENSITIVE)
 	È -> E’
-	e’ -> é ["e’" solo per quelli che sono grammaticamente corretti in quel caso]
+	e’ -> é ["e’" solo per quelli che sono grammaticamente corretti in quel caso] (valutare caso per caso)
 	è -> e’
 	Ì -> I’
 	ì -> i’
 	ò -> o’
 	ù -> u’
-	a’ -> à
+	a’ -> à (valutare caso per caso)
 	
 - Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
 

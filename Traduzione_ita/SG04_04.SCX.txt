@@ -47,6 +47,6 @@ Realizing that I have no reason to deny Moeka her request, I put my phone to my 
 [name]Rintaro[line]“So, about whether or not I should include Shining Finger in the Microonde Telefonico (Nome Provvisorio) experiments...”[%p]
 [name]Rintaro[line]“...What? Nonsense. You want me to offer her as a sacrifice? True, I am prepared to make sacrifices in order to bring chaos to the world, but...”[%p]
 [name]Rintaro[line]“...No, there’s no problem. I shouldn’t have hesitated. Pathetic. Maybe I’m not cut out to be a mad scientist.”[%p]
-[name]Rintaro[line]“...Yeah, you might say her offer was a message. No doubt this too is the choice of Steins Gate. El Psy Kongroo.”[%p]
+[name]Rintaro[line]“...Yeah, you might say her offer was a message. No doubt this too is the scelta di Steins Gate. El Psy Kongroo.”[%p]
 It’s decided. I type a reply to Moeka’s mail.[%p]
 After sending it off, I hurry back to the lab.[%p]
