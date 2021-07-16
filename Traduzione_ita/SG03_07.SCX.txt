@@ -39,7 +39,7 @@ Forse la verità degli esperimenti del SERN mi ha sconvolto piu’ di quanto pen
 In ogni caso, sono ancora assonnato.[%p]
 Anche la mia vista e’ un po’ offuscata.[%p]
 Ho voglia di sbadigliare di nuovo. Questa volta non riesco a trattenerlo.[%p]
-[name]Rintaro[line]“Cosi’ sei venuta a vedere l’IBN 5100?.”[%p]
+[name]Rintaro[line]“Cosi’ sei venuta a vedere l’IBN 5100?”[%p]
 Moeka annuisce.[%p]
 Poi inizia a scrivere qualcosa sul suo telefono.[%p]
 Siamo faccia a faccia. Perché mi sta mandando delle mail?[%p]

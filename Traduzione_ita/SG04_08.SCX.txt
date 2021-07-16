@@ -338,7 +338,7 @@ Some way to receive the email... in an era when cellphones weren’t yet widespr
 [name]Rintaro[line]“Furthermore, genius girl, you just contradicted relativity.”[%p]
 [name]Kurisu[line]“It was just a joke. Don’t take it seriously.”[%p]
 [name]Rintaro[line]“Useless, all of you! This lab is a disgrace!”[%p]
-[name]Kurisu[line]“Fine then. Let’s hear from Hououin Kyouma, the insane mad scientist with an IQ over 170 whose brain cells are coveted the world over. What’s your genius plan?”[%p]
+[name]Kurisu[line]“Fine then. Let’s hear from Hououin Kyouma, the folle scienziato pazzo with an IQ over 170 whose brain cells are coveted the world over. What’s your genius plan?”[%p]
 [name]Rintaro[line]“Hmm... Inspiration flashes in the corners of my brain.”[%p]
 [name]Itaru[line]“That Edison thing again?”[%p]
 This sensation... yes! My natural mad scientist inspiration is about to explode![%p]

@@ -132,7 +132,7 @@ Her time machine was different, of course, but something similar could happen wi
 Considering the Time Leap Machine’s low budget and rushed schedule, it wouldn’t be surprising if it broke somehow.[%p]
 And there’s one more thing.[%p]
 I shouldn’t allow anyone else to change the past.[%p]
-My goal is to return to the worldline with the IBN 5100, then use it to escape from the Alpha Attractor Field.[%p]
+My goal is to return to the linea di universo with the IBN 5100, then use it to escape from the Alpha Attractor Field.[%p]
 The fewer changes made, the better.[%p]
 [name]Rintaro[line]“I’ll be the one responsible for changing the past.”[%p]
 [name]Rintaro[line]“Trust me, Faris.”[%p]

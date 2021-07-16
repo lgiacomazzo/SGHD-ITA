@@ -238,7 +238,7 @@ Kurisu ignora la mia risata orgogliosa e inizia a scrivere una mail in maniera e
 [name]Kurisu[line]“Aiutatemi, voi due! Okabe, sto mandando un’email al tuo telefono.”[%p]
 Quando sono diventato il suo assistente?[%p]
 Digrigno i denti per la frustrazione, ma faccio come mi viene detto e inserisco il telefono nella fessura del Microonde Telefonico (Nome Provvisorio).[%p]
-[name]Mayuri[line]“Cosa vuoi mandare, Chris-chan?.”[%p]
+[name]Mayuri[line]“Cosa vuoi mandare, Chris-chan?”[%p]
 Mayuri si stringe a Kurisu e sbircia di nascosto il telefono di Kurisu.[%p]
 [name]Kurisu[line]“Non importa cosa dice. Quello che importa e’ se possiamo inviarlo o no.”[%p]
 [name]Mayuri[line]“Hmm? Vediamo... Okabe is an airhe...?”[%p]

@@ -81,7 +81,7 @@ Scienza
 Effetto Urashima
 Effetto Urashima
 effetto urashima
-Nella Relatività Ristretta, a fenomeno che nasce dal fatto che il tempo rallenta mentre un oggetto si avvicina alla velocità della luce. Per esempio, immagina che un astronauta viaggi facendo andata e ritorno da una stella vicino alla velocità della luce. Questo viaggio potrebbe richiedere qualche anno dal punto di vista dell’astronauta, ma nel momento in cui tornerà sulla Terra saranno passati migliaia di anni senza la sua assenza.
+Nella Relatività Ristretta, un fenomeno che nasce dal fatto che il tempo rallenta mentre un oggetto si avvicina alla velocità della luce. Per esempio, immagina che un astronauta viaggi facendo andata e ritorno da una stella vicino alla velocità della luce. Questo viaggio potrebbe richiedere qualche anno dal punto di vista dell’astronauta, ma nel momento in cui tornerà sulla Terra saranno passati migliaia di anni senza la sua assenza.
 Chuunibyou
 Urd
 Urd
@@ -96,7 +96,7 @@ Altro
 Exa-
 Exa-
 exa-
-10[E01C]. I prefissi sono Kilo -> Mega -> Giga -> Tera -> Peta -> Exa in ordine crescente di grandezza. 1 exa = 1 quintilione.
+10. I prefissi sono Kilo -> Mega -> Giga -> Tera -> Peta -> Exa in ordine crescente di grandezza. 1 exa = 1 quintilione.
 Chuunibyou
 ECHELON
 ECHELON

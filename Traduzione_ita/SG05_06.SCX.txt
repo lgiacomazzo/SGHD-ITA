@@ -22,7 +22,7 @@ Just memories. No personality or consciousness included, although Kurisu did men
 [name]Mayuri[line]“Oh...”[%p]
 [name]Mayuri[line]“Does that mean you can do things with time leaps that you can’t do with D-Mails?”[%p]
 [name]Rintaro[line]“D-Mails can only send instructions to the past. The past may change, or it may not. The results are unpredictable, and depend on the recipient.”[%p]
-[name]Rintaro[line]“And when the past does change, the worldline is reconfigured. Everyone loses their old memories.”[%p]
+[name]Rintaro[line]“And when the past does change, the linea di universo is reconfigured. Everyone loses their old memories.”[%p]
 I am the exception, thanks to Reading Steiner.[%p]
 [name]Rintaro[line]“With a time leap, on the other hand, you can give your past self not just instructions, but all of the memories you have right now... or at least, that’s the idea.”[%p]
 We won’t know for sure if it works until the machine is built.[%p]
