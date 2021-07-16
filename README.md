@@ -1,9 +1,12 @@
 # SGHD-ITA
  
-Questo repository mira a colmare il buco nella traduzione tra la VN originale di Jastusa, e la traduzione di Steins;Gate Elite pubblicato su Steam. Quindi, l'obiettivo è quello di tradurre (almeno i testi) dell'edizione HD della VN di Steins;Gate rilasciata su Steam.
+Questo repository mira a colmare il buco nella traduzione tra la VN originale di Jastusa, e la traduzione di Steins;Gate Elite pubblicato su Steam. Quindi, l'obiettivo è quello di tradurre (almeno i testi) dell'edizione Steins;Gate STEAM HD EDITION rilasciata su Steam.
 
-Le directory SC3Tools e Ungelify sono il risultato della compilazione dei file del branch transition di questo repository: https://github.com/CommitteeOfZero/SciAdv.Net. Senza il loro lavoro, difficilmente avrei avuto voglia e tempo da dedicare a questa attività. So che esiste la nuova versione di SC3Tools su un altro repository, ma non è ancora compatibile con SGHD.
-Ho usato come base di paragone la traduzione originale accessibile da questo link: https://openthesteinsgate.it/media/steinsgate-vn/?cn-reloaded=1#sg. Voglio aggiungere che la mia traduzione non è una copia 1:1 di questi file, ma la traduzione assistita da una traduzione già fatta, quindi voglio realizzare il meglio tra i due mondi.
+Le directory SC3Tools e Ungelify sono il risultato della compilazione dei file del branch transition di questo repository: https://github.com/CommitteeOfZero/SciAdv.Net. Senza il loro lavoro, difficilmente avrei avuto voglia e tempo da dedicare a questa attività.
+
+Questa traduzione è interamente compatibile con la patch scaricabile qui: http://sonome.dareno.me/projects/sghd.html , a patto di disabilitare l'opzione delle "mistranslations" (dall'eseguibile LBConfig.exe della patch stessa), altrimenti pochi testi esterni alla VN rimarranno in inglese (la VN in sé dovrebbe essere tradotta senza problemi).
+
+Se installate la patch, una nota: se dopo aver applicato la patch di cui sopra il gioco crasha, allora prendete il file signatures.json a questo link: https://github.com/lgiacomazzo/SGHD-patch-v11-fix , e copiatelo nella directory "languagebarrier" del gioco (questo ovviamente presuppone l'installazione della patch dei CommitteeOfZero).
 
 Attualmente ho intenzione di tradurre solo il testo (né immagini né altro).
 
