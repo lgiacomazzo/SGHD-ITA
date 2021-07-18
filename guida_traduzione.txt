@@ -1,36 +1,3 @@
-------------- file nsb -------------------------
-notepad++ Con espressione regolare (rimpiazzare con niente)
-^<voice.*$
-^</PRE>.*\R
-^\0.*$
-^.*$
-^\h*\R
-
-Questa espressione può essere presente. Toglierla
-"  DrawTransitionSG"
-. CreateClipTextureZoomEX
-Cambiare Congroo con Kongroo
-
-Rimuovere le prime righe (tipo header del file)
-Esaminare il file per trovare altra roba che non va bene
-
-
-mettere all'inizio della riga [name]1321[line] in base al file scx corrispondente
-cercare i <FONT tag e rimpiazzarli con [color ,,,] in base al file e linea corrispondente:
-
-<FONT incolor="#ff7080" outcolor="#000000">   
---> 
-[color index="820000"]
-
-</FONT>
--->
-[color index="800000"]
-
-cercare i <I> e </i> tag e rimpiazzarli con [color ,,,] in base al file e linea corrispondente:
-
-<I>
--->
-
 ---------------------- file txt -------------------------
 note:
 [%p] stanno in fondo alle righe normali
@@ -83,11 +50,24 @@ poi:
 	
 - Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
 
-- le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö
+- Controllare anche questo:
+	(no regex) ?. -> ? (controllare caso per caso credo)
+	(no regex) !. -> ! (controllare caso per caso credo)
+	
+NOTE:
+	- le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö
+	- IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
 
-- IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
+------------------------- USANDO checks.py -------------------------
+- Lanciare da shell "python checks.py Traduzione_ita/file.txt.da.tradurre"
+- Modificare nell'editor il testo (con traduzione)
+- Tornare sulla shell e premere invio (su windows l'editor è un processo spawnato, quindi la join l'ho implementata così)
+- Aprire il file e controllare il carattere '"', esattamente come nel controllo manuale (visto che dipende da dove si trova). Quindi:
+	" -> “
+oppure:
+	" -> ”
 
-
+------------------------- APPLICARE LE TRADUZIONI -------------------------
 
 per applicare la traduzione a script mpk
 prima lanciare sc3tools per tradurre i testi nei singoli SCX
