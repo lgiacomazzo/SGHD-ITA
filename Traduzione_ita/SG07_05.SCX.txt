@@ -63,7 +63,7 @@ I’d ask for Suzuha’s opinion too, if she were here, but on this linea di uni
 [name]Kurisu[line]“Figure that out, and you’re well on your way to finding the solution.”[%p]
 [name]Rintaro[line]“What I don’t understand is how we delayed the timing of Mayuri’s death exactly 24 hours.”[%p]
 [name]Kurisu[line]“True, that is interesting. Maybe it’s related to the change in divergence.”[%p]
-[name]Kurisu[line]“It could be the Butterfly Effect. If that’s the case, any trivial change could produce a significantly deviant result.”[%p]
+[name]Kurisu[line]“It could be the Effetto Farfalla. If that’s the case, any trivial change could produce a significantly deviant result.”[%p]
 [name]Rintaro[line]“...”[%p]
 [name]Kurisu[line]”Anyway, it’s important to act with discretion. Don’t do anything careless.” [%p]
 [name]Kurisu[line]“Your death, Okabe, is the worst thing that could possibly happen.”[%p]

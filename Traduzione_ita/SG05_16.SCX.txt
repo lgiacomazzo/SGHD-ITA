@@ -31,7 +31,7 @@ There are some pipe chairs in the area di sviluppo, but they need to stay there.
 [name]Rintaro[line]“New chairs will take all my savings.”[%p]
 Then I’d need to get a part-time job again.[%p]
 [name]Mayuri[line]“I guess you can use some of my salary.”[%p]
-[name]Mayuri[line]“We need a new microwave too. Otherwise, I can’t warm up my Juicy Chicken Number One.”[%p]
+[name]Mayuri[line]“We need a new microwave too. Otherwise, I can’t warm up my Succulento Pollo Number One.”[%p]
 [name]Rintaro[line]“Yeah, sorry about that.”[%p]
 Cutting off Mayuri’s chicken supply might actually kill her.[%p]
 [name]Rintaro[line]“But Mayuri. When we turn over the Time Leap Machine, the reward money will solve all of our problems.”[%p]

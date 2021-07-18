@@ -11,7 +11,7 @@ After she realizes that I’m telling the truth, I take her back to the lab and 
 We come to the conclusion that all we can do right now is try our best to repair Suzuha’s time machine.[%p]
 [name]Itaru[line]“Let’s go take a look!”[%p]
 Daru is unusually enthusiastic.[%p]
-I guess Suzuha’s talk of attractor fields and divergence and correcting history’s mistakes got his blood pumping.[%p]
+I guess Suzuha’s talk of campi attrattori and divergence and correcting history’s mistakes got his blood pumping.[%p]
 [name]Mayuri[line]“H-hold on, everyone!”[%p]
 Mayuri stops us as we’re about to leave the lab.[%p]
 [name]Mayuri[line]“Um, guys? Aren’t we forgetting something?”[%p]

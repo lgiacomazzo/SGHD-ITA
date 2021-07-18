@@ -72,7 +72,7 @@ We’re at an overwhelming disadvantage. I was a fool to believe the direct appr
 Now my recklessness is going to get both of us killed.[%p]
 ...No, not both of us. I don’t die here.[%p]
 I’m here because I time leap on the 16th. That fact is written on the fabric of this linea di universo. [%p]
-So if the attractor field model is right, I can’t possibly die now, on the morning of the 15th. [%p]
+So if the campo attrattore model is right, I can’t possibly die now, on the morning of the 15th. [%p]
 My survival is guaranteed by the same force that keeps killing Mayuri.[%p]
 However...[%p]
 Moeka has no such protection.[%p]

@@ -80,7 +80,7 @@ Era solito mettere un cartello “Torno presto” sulla porta ogni volta che se 
 [name]Suzuha[line]“Allora, ecco la TV riparata.”[%p]
 Suzuha appoggia delicatamente la TV sul bancone.[%p]
 [name]Suzuha[line]“Ha detto di far pagare 1000 yen.”[%p]
-Dannato manager. Scommetto che ce l’ha dato solo per poter addebitare le spese di riparazione.[%p]
+Dannato proprietario. Scommetto che ce l’ha dato solo per poter addebitare le spese di riparazione.[%p]
 A malincuore tiro fuori una banconota dal mio portafoglio e la porgo a Suzuha.[%p]
 Lei tira fuori una ricevuta. A quanto pare, era già stata scritta.[%p]
 [name]Suzuha[line]“Grazie per il tuo patrocinio. Beh, portala via e basta.”[%p]

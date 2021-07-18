@@ -1,5 +1,5 @@
 When I get downstairs, Suzuha and the chipmunk are sitting side by side on the bench outside.[%p]
-[name]Suzuha[line]“’Sup.”[%p]
+[name]Suzuha[line]“’Come butta.”[%p]
 [name]Nae[line]“...”[%p]
 Nae gives me a quick bow, then hides behind Suzuha.[%p]
 [name]Suzuha[line]“That shaking upstairs put the boss in a bad mood. Nae and I are waiting it out.”[%p]

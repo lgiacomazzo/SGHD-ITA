@@ -226,7 +226,7 @@ It has to be at 8am that day, so we use an online calculator to factor in leap y
 [name]Rintaro[line]“It doesn’t actually have to run the entire duration.”[%p]
 Our previous experiments have confirmed that.[%p]
 [name]Rintaro[line]“The mail reaches the past if you send it as soon as the discharge begins.”[%p]
-[name]Rintaro[line]“In accordance with the Butterfly Effect, the remaining seconds should be canceled out. The experiment never happened.”[%p]
+[name]Rintaro[line]“In accordance with the Effetto Farfalla, the remaining seconds should be canceled out. The experiment never happened.”[%p]
 The fact that the D-Mail was sent is erased, leaving behind only the mail in the recipient’s phone.[%p]
 At least, that’s what our experiments have shown so far.[%p]
 Now, let’s call Kurisu.[%p]

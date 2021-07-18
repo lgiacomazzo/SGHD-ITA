@@ -31,7 +31,7 @@ Kurisu, sdraiata sul divano, alza lo sguardo dal manuale tecnico che stava legge
 [name]Kurisu[line]“Allora riprendiamo gli esperimenti.”[%p]
 [name]Mayuri[line]“Ma il capo non ci sgriderà di nuovo?”[%p]
 [name]Rintaro[line]“Heh, non preoccuparti. Ieri ho fatto questa promessa a Mister Braun. ’Giuro che oggi non ci saranno piu’ scosse’.”[%p]
-[name]Rintaro[line]“In altre parole, la promessa di niente scosse valeva solo per ieri, quindi visto che oggi e’ il domani di ieri, possiamo scuoterlo quanto vogliamo!.”[%p]
+[name]Rintaro[line]“In altre parole, la promessa di niente scosse valeva solo per ieri, quindi visto che oggi e’ il domani di ieri, possiamo scuoterlo quanto vogliamo!”[%p]
 [name]Kurisu[line]“Questo non risolve nulla. Il perché tu sia cosi’ sicuro di te e’ un mistero per me.”[%p]
 [name]Rintaro[line]“In altre parole, Christina, tu vuoi che io [color index="A0140000"]cancelli[color index="800000"] Mister Braun.”[%p]
 [name]Kurisu[line]“No!”[%p]

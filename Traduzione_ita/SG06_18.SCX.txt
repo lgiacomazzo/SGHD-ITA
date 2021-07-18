@@ -33,7 +33,7 @@ Just in case, I give him my contact information and ask him to get in touch if h
 [name]Suzuha[line]“Okabe Rintaro.”[%p]
 Suzuha’s standing a short distance away.[%p]
 She’s holding a drink. It’s my favorite, Dr P -- no, wait, that’s cola.[%p]
-[name]Suzuha[line]“’Sup. Want a drink?”[%p]
+[name]Suzuha[line]“’Come butta. Want a drink?”[%p]
 I accept the offer, and quench my thirst while leaning on the roadside fence.[%p]
 Last time I saw her, Suzuha was on her way to Kanda to continue the search. How long has she been standing here?[%p]
 [name]Rintaro[line]“Anything?”[%p]

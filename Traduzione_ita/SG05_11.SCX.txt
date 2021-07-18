@@ -1,6 +1,6 @@
 When I step into the store, Mister Braun, Suzuha, and the chipmunk are watching some comedy show on the massive 42-inch CRT.[%p]
 Watching TV at noon without a customer in sight. Looks like business as usual at the Braun Tube Workshop.[%p]
-[name]Suzuha[line]“’Sup, Okabe Rintaro.”[%p]
+[name]Suzuha[line]“’Come butta, Okabe Rintaro.”[%p]
 I raise my hand in response to Suzuha’s greeting.[%p]
 The chipmunk -- Nae -- quickly hides behind her father when she sees me.[%p]
 [name]Rintaro[line]“I see you’re as busy as ever.”[%p]

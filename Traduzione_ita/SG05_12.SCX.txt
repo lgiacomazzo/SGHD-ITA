@@ -30,7 +30,7 @@ The electron beam striking the TV screen’s phosphor layer is what generates th
 An electron gun could certainly work as a lifter.[%p]
 [name]Kurisu[line]“We’ve found the answer.”[%p]
 [name]Kurisu[line]“The electrons emitted by the 42-inch CRT are holding the Microonde Telefonico’s black hole open.”[%p]
-[name]Kurisu[line]“And the discharge phenomenon is the result.”[%p]
+[name]Kurisu[line]“And the fenomeno della scarica is the result.”[%p]
 [name]Itaru[line]“So the reason we can’t use the Microonde Telefonico at night is because the Braun Tube Workshop’s closed?”[%p]
 The Braun Tube Workshop doesn’t have especially strict business hours, but it’s usually open from around 11 AM to 7 PM.[%p]
 That matches up perfectly with my observation that the Microonde Telefonico (Nome Provvisorio) only works between noon and 6 PM.[%p]

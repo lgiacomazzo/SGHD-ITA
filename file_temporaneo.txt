@@ -1,0 +1,123 @@
+Sono passate circa 22 ore da quando ho fatto la mia strabiliante proclamazione.
+"S-salve..."
+Luka entra timidamente nel laboratorio, proprio come ieri.
+Mi fa un sorriso timido quando i nostri occhi si incontrano.
+"Mamma ha avuto un cercapersone".
+"Evviva! È fantastico, Luka-kun!".
+"Ora possiamo procedere con l'esperimento".
+"La versione femminile di Luka-shi... sarà sicuramente moe".
+Mayuri, Kurisu e Daru sono già in attesa.
+Inviare una D-Mail ad un cercapersone.
+Ieri, abbiamo discusso se fosse possibile o meno. Alla fine, ci siamo accordati su "probabilmente".
+I dati sono dati, dopo tutto.
+Il resto dipende dalle stazioni radio per i cercapersone di 8 anni fa, ma dovrebbe andare bene finché i nostri dati passano senza problemi.
+Abbiamo già cercato su Google come inviare dati ad un cercapersone.
+Per i cercapersone di allora, bisognava prima inserire il numero di cercapersone dell'altra persona, poi, se si era nella regione di Kanto, inserire "*2*2".
+Dopodiché, si inserivano i numeri da inviare. Questo è il modo in cui funzionava, apparentemente.
+I cercapersone nel 1992 potevano ancora inviare solo numeri. Anche le funzioni di visualizzazione del numero di telefono dovevano ancora essere implementate, quindi il tuo numero era nascosto all'altra persona di default.
+Pochi anni dopo, hanno iniziato a implementare la visualizzazione dei caratteri giapponesi, consentendo una funzionalità simile a quella della posta elettronica.
+Pertanto, la D-Mail che Lukako sta per inviare -- tecnicamente non è una mail, però -- deve essere inviata in forma numerica.
+Naturalmente, ho a portata di mano una tabella di conversione per questo.
+Puoi trovare informazioni anche di 18 anni fa se cerchi su Google.
+All'inizio ero abbastanza preoccupato dalla mancanza di informazioni sui cercapersone, ma questo è il mio piccolo segreto.
+"Urushibara-san, devi pensare a cosa mandare a tua madre nel passato".
+"Eh...? Davvero?"
+"Se vuoi esaudire il tuo desiderio, allora devi aprire la porta con le tue mani. Noi possiamo solo mostrarti la via".
+"Capisco..."
+Spieghiamo a Lukako la funzione del Microonde Telefonico (Nome Provvisorio).
+I numeri che mandiamo sono caratteri da un byte, quindi possiamo mandarne 36.
+Il sistema di conversione numero-lettera del cercapersone usa due numeri che corrispondono a un carattere giapponese.
+Inoltre, poiché bisogna prima inserire "*2*2", ciò significa che si possono inviare solo 16 caratteri hiragana.
+Lukako, capendo tutto, tira fuori un quaderno per iniziare a scrivere le bozze del messaggio per il cercapersone.
+Mostro a Lukako il sito che ho trovato.
+Si legge NUMERO CERCAPERSONE E CONVERSIONE LETTERE.
+"Umm..."
+Scrivere su un cercapersone è comunemente conosciuto come "digitazione a due mani" o "pager input".
+In un certo senso è diverso da quello del cellulare. Si sceglie la consonante e poi si inserisce la vocale.
+Le consonanti sono "A K S T N H M Y R W".
+Le vocali sono "a, i, u, e, o".
+In pratica, per inserire "Ke"...
+Si preme "2" per inserire la consonante "K"...
+Poi si preme "4" per la vocale "e".
+"Che fastidio. Mandiamo solo '831831831'. Dovrebbe bastare".
+"Perché 831?"
+"8(ya) 3(sa) 1(i) per le verdure ([color index="A0140000"]yasai[color index="800000"]), duh. VERDURE VERDURE VERDURE -- dobbiamo solo inculcarlo nel cervello della madre di Luka-shi".
+"Si limiterà a considerare questo messaggio come uno scherzo".
+"Allora, che ne dici di '29292929'?"
+"Mi pentirò di averlo chiesto, ma cosa significa?"
+"Ni(2) ku(9) per carne. CARNE CARNE CARNE CARNE".
+"Perché vuoi per forza che le piaccia la carne!?"
+"Non è per quello! Se continui a ripetere 'CARNE', allora lei inizierà ad odiare la carne e vorrà mangiare verdure, non credi?"
+"Sì... no."
+Lukako completa la sua composizione mentre noi diciamo le nostre sciocchezze.
+"Che ne dici di qualcosa del genere?"
+"'MAMMA MANGIA VERDURE OK'".
+"Non è un po' troppo vago?"
+"E il primo 'MAMMA' dovrebbe sparire. Lo renderà solo più difficile da credere".
+"Allora... 'MANGIA TANTE VERDURE PER PARTORIRE UNA RAGAZZA'."
+"È un po' troppo diretto. Ed è oltre il limite dei caratteri".
+"'MANGIA VERDURE PER FIGLIO SANO'".
+"Aspetta un secondo. Secondo questa tabella di conversione, sembra che tu debba usare due numeri in più per le consonanti con voce".
+"Quindi questa frase è quattro byte oltre".
+"Allora una piccola modifica. Che ne dici di 'MANGIA VEG 4 FIGLIO SANO'?"
+"Non è un po' troppo informale? Stai parlando con la madre di Urushibara-san, sai? Capirebbe la parte 'VEG 4'?"
+"Hai qualche idea brillante?"
+Kurisu alza le spalle e non dice altro.
+Allora è deciso.
+"Avanti, scriviamolo!"
+Quando si invia a un cercapersone, il messaggio codificato con i numeri viene gestito come un numero di telefono, quindi inseriamo l'input nell'X68000.
+[margin top="228"][center]“*2*281311223134524040322512502137493”
+La lunga stringa di numeri dall'aspetto casuale è completa.
+"Bene, siamo pronti per iniziare".
+Ora basta attivare il Microonde Telefonico (Nome Provvisorio) e far chiamare Lukako.
+Il timer del microonde è impostato su 154152 secondi. Dovrebbe arrivare intorno al 1° gennaio 1993. Il margine di errore è di circa 1-3 giorni, credo. Il calcolo dell'anno bisestile è una rottura, quindi l'ho ignorato.
+"..."
+L'esile dito di Lukako inizia a tremare sopra il pulsante di invio.
+"Pronto? Lo sto avviando".
+Lukako mi guarda con le lacrime agli occhi, poi annuisce debolmente.
+Il fenomeno della scarica si verifica presto.
+Lukako sussulta e fa un passo indietro, ma poi vedo un bagliore di determinazione nei suoi occhi.
+Si sistema la mascella... e preme il pulsante di invio.
+Un'ondata di vertigini mi colpisce di nuovo.
+Metto una mano sul tavolo per sostenermi.
+Il capogiro svanisce lentamente.
+A poco a poco, il colore ritorna nel mondo.
+"Nn..."
+Reading Steiner si è attivato di nuovo.
+La linea di universo è cambiata?
+Mi guardo intorno alla stanza.
+A differenza di quanto è successo con Moeka, Lukako è ancora qui.
+Arrossisce quando nota il mio sguardo.
+"Ehm, Okabe-san, potresti... non guardarmi così, per favore?"
+"..."
+Piego le braccia e inclino la testa.
+L'aspetto di Lukako non è cambiato affatto.
+Sto prestando particolare attenzione[evaluate expr="280AA3E814210000"] al suo petto.[evaluate expr="280AA3E814210000"] E al suo petto.[evaluate expr="280AA3E814210000"] E al suo petto.
+Come ragazzo, è naturale che non abbia il seno.
+Ma se ora è una ragazza, allora è un'altra storia.
+Quella tavola da surf non è al livello di un seno piccolo. È al livello di nessun seno.
+"Non... ha funzionato?"
+Quindi la cosa del "mangia un sacco di verdure per far nascere una ragazza" di cui parlava Kurisu non era altro che scienza marginale.
+Che razza di scienziato crede a una teoria così inconsistente, comunque?
+"Che cosa non ha funzionato?"
+Tutti, compreso Lukako, mi guardano confusi.
+"Non vi ricordate? Poco fa abbiamo usato il Microonde Telefonico (Nome Provvisorio) per--"
+Mi schiaffo una mano sulla bocca appena inizio a parlare.
+Sono stato negligente.
+Come hanno dimostrato i nostri precedenti esperimenti, l'attivazione del Reading Steiner significa che la linea di universo è cambiata.
+E io sono l'unico che trasporta i suoi ricordi attraverso il cambiamento.
+Nessun altro qui sa cosa abbiamo fatto.
+"Mi dispiace. Non è niente."
+Dopo, Mayuri e Lukako escono allegramente a fare shopping per il pranzo in un minimarket del quartiere.
+"Christina. Voglio chiederti una cosa. Lukako è..."
+"A quale atto perverso stai pensando questa volta? Non si è mai troppo prudenti con il duo di pervertiti".
+"Non siamo un duo di pervertiti. Siamo un duo di gentiluomini pervertiti!"
+"Come ti pare. Seriamente, come vuoi."
+"Muh..."
+Dannazione. Adesso non posso chiederlo. È davvero fastidioso che nessuno se lo ricordi.
+Non voglio pensare a come potrebbe reagire Kurisu se chiedessi improvvisamente "Lukako è una ragazza?"
+Dovrei aspettare fino a quando potrò stare da solo con Lukako, e allora controllerò.
+Ma considerando che il suo aspetto non è cambiato affatto, è molto probabile che il cambio di sesso sia fallito.
+In questo caso, cosa [color index="A0140000"]ha cambiato[color index="800000"] la D-Mail di Lukako?
+È proprio come l'esperimento di Moeka. Il risultato è diverso da quello che ci aspettavamo.
+Il vero problema... è che non abbiamo alcun controllo.

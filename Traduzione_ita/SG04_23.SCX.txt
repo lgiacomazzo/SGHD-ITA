@@ -6,7 +6,7 @@ Anyway, I flee the lab as soon as my punishment is over. The silent pressure fro
 I step into the sun and stretch. My legs are numb from the kneeling, so I can barely stand straight.[%p]
 At that moment, the Braun Tube Workshop door opens, and out comes Guerriera Part-Time.[%p]
 Our eyes meet.[%p]
-[name]Suzuha[line]“...Sup.”[%p]
+[name]Suzuha[line]“...Come butta.”[%p]
 She’s less energetic than usual.[%p]
 [name]Suzuha[line]“Why are you so wobbly?”[%p]
 [name]Rintaro[line]“It’s... a new exercise.”[%p]
