@@ -113,7 +113,7 @@ Naturalmente le ho fatto promettere di non scrivere mai un articolo a riguardo.[
 Ho minacciato di toglierle il telefono se infrange il suo giuramento.[%p]
 Il Microonde Telefonico (Nome Provvisorio) e’ pronto a mandare una D-Mail quando vogliamo.[%p]
 [name]Itaru[line]“Lo sto impostando in modo che inoltri al telefono di Okarin.”[%p]
-Daru digita l’indirizzo mail del mio telefono sulla tastiera dell’X68000.[%p]
+Daru digita l’indirizzo email del mio telefono sulla tastiera dell’X68000.[%p]
 Abbiamo deciso che Mayuri sarebbe stata quella che avrebbe inviato le D-Mail, cosi’ inizia a digitare sul suo telefono.[%p]
 Impostiamo il timer del microonde su “60#” e premiamo start. Anche se lo sportello e’ stato rimosso, il microonde funziona come sempre.[%p]
 Si verifica il fenomeno della scarica, e la mail di Mayuri passa attraverso il telefono dedicato al Microonde Telefonico (Nome Provvisorio) verso il mio.[%p]

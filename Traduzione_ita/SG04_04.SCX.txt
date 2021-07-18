@@ -19,7 +19,7 @@ E’ una mail, quindi posso rispondere piu’ tardi. Mi concentro sul mio caffe�
 Tuttavia...[%p]
 Tutte queste mail...[%p]
 Non c’e’ dubbio. Deve essere Kiryu Moeka, il demone della posta conosciuto come Shining Finger.[%p]
-Come puo’ essere cosi’ timida nella vita reale e cosi’ insistente nelle e-mail?[%p]
+Come puo’ essere cosi’ timida nella vita reale e cosi’ insistente nelle email?[%p]
 C’e’ qualcosa che non va in quella donna.[%p]
 Sospiro e apro la casella di posta con riluttanza.[%p]
 [name]Rintaro[line]“Cosa?”[%p]
