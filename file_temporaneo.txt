@@ -1,94 +1,266 @@
-Mi strofino la testa.
-Fa male da morire.
-Maledetto Mister Braun. Doveva proprio colpirmi così forte?
-Forse dovrei denunciarlo per aggressione.
-Grazie alla sua brutalità, ho dovuto fare una ritirata strategica.
-Fortunatamente, non ne sono uscito a mani vuote.
-I diecimila yen in più al mese faranno male, ma in cambio ho acquisito informazioni essenziali per il successo del mio piano.
-"Tutto è bene quel che finisce bene! Muhahaha!"
-"Okarin! L'edificio ha appena tremato. Stai bene?"
-Mayuri e Kurisu appaiono alla finestra del secondo piano.
-"Sembra proprio che tu sia davvero invincibile".
-"Heh heh heh. Ho visto il futuro, Christina. Tra tre minuti, sarai in ginocchio a lodare la mia grandezza!"
-"Non credo proprio."
-Corro su per le scale.
-"Come hai fatto a non accorgerti di una cosa così ovvia?"
-Quando dico a Kurisu del CRT da 42 pollici al piano di sotto, questa è la sua prima reazione.
-"Perché dai la colpa a me?"
-"...Non ti sto incolpando. Sono solo deluso che nessuno, me compreso, se ne sia accorto".
-"Ci siamo persi la foresta per trovare gli alberi".
-"Per riassumere..."
-"Poco fa, quando il Microonde Telefonico (Nome Provvisorio) ha scosso l'edificio, il CRT da 42 pollici era acceso".
-"Ma quando Mister Braun ha spento il televisore, la scossa è cessata immediatamente".
-"La scarica è stata interrotta".
-"Ho messo una banana per essere sicura. Non è successo niente".
-"Sono contento. Non dovremmo sprecare il cibo".
-Nessuno risponde all'affermazione fuori tema di Mayuri. Siamo occupati a leggere di tubi catodici su Internet.
-Non ci vuole molto prima di trovare qualcosa di interessante.
-Un tubo catodico ha un componente chiamato "cannone elettronico", che usa il calore estremo e un forte [color index="820000"]campo elettrico[color index="800000"] per accelerare gli elettroni e trasformarli in un fascio.
-Il fascio di elettroni che colpisce lo strato di fosforo dello schermo della TV è ciò che genera l'immagine.
-Una pistola a elettroni potrebbe certamente funzionare come lifter.
-"Abbiamo trovato la risposta".
-"Gli elettroni emessi dal CRT da 42 pollici tengono aperto il buco nero del Microonde Telefonico".
-"E il fenomeno della scarica è il risultato".
-"Quindi il motivo per cui non possiamo usare il Microonde Telefonico di notte è che il Braun Tube Workshop è chiuso?"
-Il Braun Tube Workshop non ha orari particolarmente rigidi, ma di solito è aperto dalle 11 alle 19 circa.
-Questo corrisponde perfettamente alla mia osservazione che il Microonde Telefonico (Nome Provvisorio) funziona solo tra mezzogiorno e le 18.
-I pochi casi in cui non ha funzionato in quel lasso di tempo possono essere spiegati dal fatto che la TV è spenta.
-"Ma come può un tubo catodico emettere un flusso di elettroni così forte?
-"Non si tratta di avere un forte flusso di elettroni. Se più forte significasse meglio, il SERN avrebbe risolto il problema del lifter molto tempo fa".
-Capisco. Quindi non può essere né troppo forte né troppo debole.
-Per una strana coincidenza, il cannone elettronico del CRT da 42 pollici sembra avere esattamente il giusto livello di scarica di elettroni.
-Questa è l'unica spiegazione.
-"In qualche modo, le condizioni qui erano perfette per creare una macchina del tempo. Francamente, è un miracolo".
-"No, Christina! Non è un miracolo!"
-"Questa è la scelta di Steins Gate!"
-Invece di guardarmi male come ha fatto tante volte in passato, Kurisu mi spara un sorriso esasperato.
-"Qualunque cosa sia, ha funzionato".
-"Umm..."
-Mayuri alza lo sguardo dal suo costume con una domanda negli occhi.
-"Allora, um, cosa dobbiamo fare per completare Super Microonde Telefonico-chan?"
-"Ora che abbiamo trovato la causa, non c'è più nulla che ci trattenga".
-"Possiamo tranquillamente concludere che il salto temporale è possibile quando, e solo quando, quel televisore è acceso".
-"Probabilmente dovremmo testarlo, giusto? E c'è ancora il controllo finale del Microonde Telefonico da fare".
-"Hai ragione. Okabe".
-"Cosa?"
-"Vai di sotto e riaccendi la TV".
-"Ha. Ha. Ha. E' esilarante, Christina. Permettimi di ribattezzarlo..."
-"Mission: Impossibile!"
-Non ci torno la' sotto. Mi fa ancora male la testa dall'ultima volta!
-La prossima volta, dubito che ne uscirò vivo.
-"Come vuoi. Vai e basta".
-Kurisu me lo ordina con uno sguardo acido.
-E' come se [color index="A0140000"]fossi io [color index="800000"] l'assistente qui.
-"Se c'è qualcuno che può farlo, quello sei tu. Hai fatto una scoperta incredibile poco fa, vero?"
-"Assistente mia... hai finalmente riconosciuto la mia grandezza come scienziato pazzo?"
-"No."
-"Ah."
-"Diamine. Sei stata dura".
-"Oh, whoops. Dovevo adularlo per fargli venire voglia di andare, giusto?".
-"Sì, sei un incredibile scienziato pazzo".
-"È troppo tardi!"
-"Comunque, ora che abbiamo trovato il lifter, la macchina per il salto temporale è completa al 99%".
-L'espressione di Kurisu diventa improvvisamente seria, ma posso vedere la fame nei suoi occhi e il rossore dell'eccitazione sulle sue guance.
-Sa che siamo alle soglie di una nuova era nella scienza, e non può resistere al richiamo dell'ignoto.
-È una vera scienziata. Non c'è dubbio.
-"È il tuo sogno, vero? Inventare una macchina del tempo".
-Il nostro sogno...
-Non ci avevo mai pensato in questi termini.
-Ma ha ragione. Mi tremano le mani.
-Non per paura di Mister Braun, ma per l'eccitazione.
-"Diventerò l'indiscusso signore del tempo. Con questo potere, distruggerò il Sistema e il Caos dominerà il--"
-"Okabe."
-Kurisu interrompe il mio discorso.
-"Non stavo chiedendo a Hououin Kyouma. Lo stavo chiedendo a Okabe".
+Poco dopo, sono sdraiato sul divano a guardare il baseball delle scuole superiori.
+Kumamoto e Aichi sono bloccati in una feroce lotta per i playoff.
+Proprio in quel momento, il clack-clack della macchina da cucire nel salone si ferma improvvisamente.
+"Okarin? Puoi venire qui?"
+Mi fa cenno di avvicinarmi mentre tiene in mano il costume.
+Cosa vuole? Mi avvicino a lei.
+"Puoi tenermi questo? Stendilo così tipo 'fwapp!'"
+"Mayu-shi, dì ancora 'fwapp'".
+"Fwapp!"
+"Devo fwapp!"
+"Smettila subito, pervertito!"
+Seguo le indicazioni di Mayuri e stendo il costume per le maniche.
+"Hmm..."
+Lei lo ispeziona da qualche passo di distanza.
+È difficile da credere, data la sua solita stupidità, ma Mayuri è molto seria riguardo alla sua arte.
+Ecco perché i cosplayer apprezzano così tanto i suoi costumi.
+Il costume che ho in mano ora è fatto su misura per Lukako. Pensavo che Lukako fosse contraria, ma credo che Mayuri sia riuscita a convincerla.
+"Ok. Grazie!"
+Mayuri sembra stanca. Ha lavorato tutta la notte.
+Ma questo non offusca la luminosità del suo sorriso soddisfatto.
+"Finito♪"
+"È pronto?"
+"Sì. Ho finito prima di Chris-chan. Stavamo gareggiando".
+"Hai vinto, Mayuri. Congratulazioni."
+Accidenti a te, assistente...
+Tratta me e Daru come spazzatura, ma Mayuri riceve il trattamento da sorella.
+"A dire il vero, anch'io ho quasi finito".
+Kurisu collega le due corde che ha in mano.
+"Fatto."
+I festeggiamenti sono d'obbligo.
+...Ma nessuno applaude.
+"E' un pareggio..."
+"Amico, sono stanco... Voglio che Faris-tan mi consoli..."
+Onestamente, nemmeno io ho voglia di esultare.
+E non è perché sono stanco.
+Abbiamo lavorato giorno e notte per tre giorni di fila per finire la macchina per il salto temporale, ma ora che è completa, mi rendo conto che una parte di me non ha mai creduto veramente che sarebbe successo.
+Sento il mio entusiasmo raffreddarsi rapidamente, il fuoco spento da una domanda cruda.
+Cosa ne facciamo?
+Guardo Kurisu.
+Anche lei non sembra entusiasta. 
+"Potremmo aver creato un mostro qui..."
+Guardo di nuovo il Microonde Telefonico (Nome Provvisorio) migliorato.
+Il più grande cambiamento è il copricapo collegato all'X68000.
+Sembra uscito da un film cyberpunk a basso costo. Fortunatamente, non c'è bisogno di jack nervosi o chip cerebrali per farlo funzionare. Basta indossarlo e lasciare che i sensori facciano il resto.
+"Perché non decidiamo prima come chiamarlo?"
+"Io voto Heavenly Express!"
+"Microonde Telefonico 3rd Edition ver1.00."
+"Stupido Cappello Microonde Telefonico-chan".
+Nessun consenso.
+"Voi ragazzi avete troppo tempo libero".
+"Vuol dire che vi astenete dal voto?".
+"...Macchina per il Salto Temporale."
+"È terribile."
+"Ma dai! Semplice è meglio, no? Voglio dire, è così che Okabe l'ha chiamata negli ultimi due giorni".
+"Sembra che la mia assistente abbia zero gusto per i nomi".
+"Non voglio sentirmelo dire da una testa di chuunibyou come te".
+"Oh-ho! Così Makise-shi conosce la parola chuunibyou... Sento che il tuo livello otaku è piuttosto alto".
+"Io... l'ho sentita da un amico. Non ho idea da dove venga!"
+Hah! Una bugia spudorata.
+Dovrebbe solo confessare di essere una @channeler.
+Kurisu incontra il mio sorriso con uno sguardo di ghiaccio.
+"Dipende da te, Mayuri. Scegline uno."
+Ogni volta che il laboratorio è diviso su un nome, il diritto di decidere spetta a Mayuri.
+"Hmmm..."
+"Penso che Macchina per il Salto Temporale vada bene".
+"Stupido Cappello Microonde Telefonico-chan è super vicino però..."
+"In qualche modo lo sapevo che avrebbe detto così".
+"Come ho detto, semplice è meglio. Mayuri lo capisce".
+"Ehehe!"
+Vorrei obiettare, ma è una regola non scritta di non lamentarsi una volta che Mayuri ha preso una decisione.
+"Molto bene. Macchina per il Salto Temporale sia".
+"Assistente! Spiega a tutti noi come funziona la Macchina per il Salto Temporale".
+Conosco le basi, ma voglio sentire i dettagli.
+Kurisu annuisce e si mette davanti alla lavagna.
+"In breve, questo dispositivo converte i ricordi in dati e li invia nel passato".
+"Cominciamo con quello che sappiamo tutti. Per una strana coincidenza, il Microonde Telefonico è in grado di produrre singolarità ad anello, proprio come la macchina del tempo di John Titor".
+"Attraverso la singolarità ad anello, siamo in grado di inviare fino a 36 byte di dati nel passato".
+"Il segnale può essere ricevuto solo dai telefoni. Mentre questo limita il raggio d'azione, rimuove anche un elemento di incertezza dall'equazione."
+"A differenza delle D-Mail, i dati mnemonici sono inviati sotto forma di una telefonata, quindi useremo un numero di telefono, non un indirizzo e-mail, per impostare la destinazione."
+"La singolarità ad anello è resa nuda e stabile da un dispositivo noto come lifter. Nel nostro caso, è il CRT da 42 pollici al piano di sotto".
+Ha spiegato le basi. Successivamente, spiegherà le modifiche che ha fatto per trasformare il Microonde Telefonico (Nome Provvisorio) in una macchina per il salto temporale.
+"Il Microonde Telefonico ora ha un copricapo".
+"Questo copricapo registra gli impulsi nervosi nel lobo temporale del cervello -- in particolare, la regione [color index="820000"]CA3[color index="800000"] dell'ippocampo, dove sono immagazzinati i ricordi."
+"Poi, usando la tecnologia VR, codifichiamo gli impulsi nervosi in dati sotto forma di segnali elettrici."
+"Si arriva a circa 3,24 terabyte".
+3,24 terabyte... È meno di quanto mi aspettassi. Stiamo parlando della totalità dei ricordi di una persona.
+"A proposito, lo imposteremo in modo che i dati si decodifichino automaticamente dopo un certo periodo di tempo".
+"Chiunque abbia una buona conoscenza di programmazione può farlo. Ho fatto in modo che Hashida scrivesse il codice".
+"Comunque, ora mandiamo i dati mnemonici attraverso la rete all'LHC in Francia".
+Questo edificio ha un collegamento diretto con il SERN per qualche motivo, quindi possiamo trasferire i dati a velocità follemente elevate.
+"Quanto tempo ci vuole per inviare 3,24 terabyte di dati?"
+"Abbiamo 64 collegamenti diretti in parallelo. Quindi se lo inviamo in 64 parti...".
+"Dovrebbe essere trasmesso in circa 45 secondi".
+È... piuttosto veloce.
+"Poi, dirottiamo l'LHC, creiamo un mini buco nero e usiamo la supergravità del buco nero per comprimere i dati in 36 byte".
+3 terabyte sono circa 3 trilioni di byte. Comprimerli in soli 36 byte...
+E' una bella strizzata.
+"Ci vorrà molto tempo per la compressione?"
+"È praticamente istantanea. 23 millisecondi o giù di lì. Stiamo usando un buco nero, dopo tutto".
+"A proposito, la compressione è valida solo nelle immediate vicinanze del buco nero. Una volta che i dati lasciano quell'area, cominceranno a decomprimersi da soli".
+"Anche questo richiede 23 millisecondi".
+"Devono ritornare all'X68000 e al Microonde Telefonico entro quella finestra".
+"Sono solo 36 byte. Non dovrebbe essere un problema".
+"Continua, Christina".
+"Mentre i dati vengono compressi, usiamo il Microonde Telefonico per generare una singolarità di Kerr ad anello. Quando si verifica il fenomeno della scarica di elettroni, prendiamo i dati a 36 byte, li inseriamo..."
+"E li inviamo nel passato".
+"Questa parte è proprio simile a una D-mail".
+"I dati viaggiano fino al tempo specificato, dove arrivano al telefono del destinatario".
+"A questo punto dovrebbero essere passati 23 millisecondi, quindi i dati saranno completamente decompressi".
+"Poi viene eseguito il programma di decodifica, che riconverte i dati in segnali di impulsi nervosi".
+"Questi segnali vengono rilasciati dall'auricolare del telefono a circa 0,02 ampere, una carica piuttosto debole".
+"Se il destinatario ha il telefono all'orecchio, dovrebbero arrivare direttamente al suo cervello".
+"Ammesso che risponda al telefono".
+"Se non lo fa, il trasferimento fallisce. Per fortuna, non perdiamo altro che la copia dei dati della memoria".
+"Perché una telefonata invece di una email?"
+"Perché abbiamo bisogno che il destinatario metta il telefono all'orecchio. Altrimenti i segnali non raggiungeranno il suo lobo temporale".
+Lei indica il lato della sua testa.
+"In questa zona ci sono il lobo frontale e il lobo temporale del cervello. Come ho spiegato prima, l'ippocampo, dove vengono immagazzinati i ricordi, è all'interno del lobo temporale".
+"Il telefono invia impulsi elettrici che passano attraverso il lobo temporale e nell'ippocampo, sovrascrivendo i ricordi del destinatario".
+"Allo stesso tempo, il telefono invia impulsi che stimolano anche il lobo frontale. Questo è importante".
+"Ricordate che il lobo frontale è responsabile dell'invio di segnali di recupero al lobo temporale. È così che si ricordano le cose".
+"Stimolando il lobo frontale, lo costringiamo a inviare segnali di recupero in base ai nuovi dati della memoria".
+"Così, il ricevente richiama tutti quei ricordi come se fossero suoi".
+"Cosa che, ovviamente, lo sono o lo saranno in futuro".
+"Questo avviene in meno di un secondo".
+"Ora il destinatario ha gli stessi ricordi del mittente. Il salto temporale è completo".
+"Se i dati provengono da una settimana nel futuro, il destinatario "ricorderà" quella settimana come se l'avesse vissuta in prima persona".
+"Dobbiamo essere consapevoli che la coscienza e la personalità non vengono trasferite. Entrambe dipendono dal destinatario".
+"Spiegalo con le tette".
+"T-tette!?"
+Kurisu si scioglie in un arrossire e balbettare. Sembra che tocchi a me rispondere alla domanda di Daru.
+Non con le tette, ovviamente.
+"Diciamo che ti mandiamo i tuoi ricordi alle elementari".
+"In questo momento, sei una specie di pervertito onnisessuale che pensa che gli oggetti inanimati siano sexy. Ma alle elementari eri ancora un bambino innocente".
+"Ero un piccolo bastardo noioso che non faceva altro che studiare, e allora?"
+"In pratica, quel piccolo bastardo avrebbe improvvisamente tutti i tuoi ricordi perversi, ma la sua personalità non cambierebbe".
+"Non è che diventerai quel famoso detective degli anime con 'l'aspetto di un bambino e il cervello di un adulto'."
+"Cosa? Che peccato".
+Questo non è come il salto temporale che si vede nei romanzi di fantascienza. Non siamo ancora in grado di trasferire personalità e coscienza.
+"Ahem."
+"Ehm, dato che hai bisogno di un telefono per ricevere il segnale, puoi inviare i ricordi solo nei momenti in cui ne avevi uno".
+"Dobbiamo anche assicurarci che il mittente e il destinatario siano la stessa persona".
+"Se qualcuno che non è il tuo io del passato -- i tuoi genitori, o un amico, per esempio -- risponde al telefono, allora i segnali degli impulsi nervosi saranno proiettati nel suo cervello".
+"Se questo accade, i tuoi ricordi potrebbero sovrascrivere i loro, il che potrebbe ovviamente causare seri danni alla loro psiche".
+Kurisu termina la sua spiegazione e fa un breve respiro.
+Il laboratorio cade nel silenzio.
+Scambio sguardi con Kurisu e Daru.
+Guardo Mayuri, ma la sua espressione è vuota. Immagino che fosse troppo complicato per lei.
+"Allora."
+Mi schiarisco la gola. E' il momento della domanda da un milione di dollari.
+"Cosa ne facciamo?"
+"Fare con cosa?"
+"La Macchina per il Salto Temporale, naturalmente. Cosa ne facciamo?".
 "..."
+Per una volta, la mia assistente non ha niente da dire.
+So già che teme che abbiamo creato un mostro. Onestamente, provo la stessa cosa.
+Dopo qualche istante, Kurisu finalmente parla.
+"Per noi è troppo da gestire, questo è sicuro. La cosa più sicura sarebbe consegnarlo al governo per una ricerca professionale".
+Posso dire che non è contenta di essere arrivata a questa conclusione. Ovviamente preferirebbe sperimentare questa tecnologia.
+Dopo tutto, è la prima macchina del tempo dell'umanità. Abbiamo finalmente fatto i nostri primi passi verso la divinità.
+Sono sicuro che le nazioni del mondo pagherebbero miliardi per dare anche solo un'occhiata alla nostra macchina.
+Le possibilità che rappresenta sono illimitate.
+"Non sembra reale".
+"Mayushii non capisce..."
+"Questo perché non ci hai lavorato, Mayu-shi."
+"Oh, giusto. Ehehe!"
+"E tu, Okabe? E intendo te, non Hououin Kyouma".
+Sono d'accordo con Kurisu che la Macchina per il Salto Temporale è pericolosa.
+D'altra parte...
+"Voglio sperimentare".
+Dichiaro i miei sentimenti onesti.
+Kurisu sussulta.
+"Ma ci sono ancora domande a cui dobbiamo rispondere".
+Questo è un territorio sconosciuto -- non solo per noi, ma per tutta l'umanità.
+"...Chi farà il salto temporale?"
+Guardo ognuno dei lab mem a turno.
+Daru distoglie rapidamente lo sguardo.
+L'espressione di Mayuri è vuota.
+Kurisu... mi fissa.
+"...E' difficile scegliere".
+"Io passo."
+"...?"
 "..."
-Mi lancia uno sguardo.
-Lo affronto a testa alta.
-Dopo qualche istante, sento la mia bocca curvarsi in un sorriso.
-"Lo farò io. Lascia fare a me".
-Con questo, mi dirigo al piano di sotto.
-Un cranio spaccato e un portafoglio vuoto sono un piccolo prezzo da pagare per la scienza.
-Kurisu e Daru mi mandano via con un applauso per qualche motivo.
-Mayuri è l'unica che sembra preoccupata, ma le accarezzo la testa per rassicurarla.
+Non una sola persona qui vuole l'onore di essere il primo viaggiatore del tempo della storia.
+Tutti -- tranne Mayuri -- stanno probabilmente pensando a cosa potrebbe andare storto.
+E se il salto temporale dovesse fallire?
+"Non è come la macchina del tempo del SERN. La possibilità di diventare un uomo gelatina è zero".
+"Questa macchina invia dei dati, non la persona".
+"Non lasciate che i vostri preconcetti influenzino la vostra decisione".
+"Si potrebbe dire che è come un taglia-e-incolla del tuo cervello".
+"In realtà è più un copia-e-incolla. E sono solo i tuoi ricordi".
+"L'originale non viene cancellato".
+Questo è un esempio molto facile da capire.
+Ma non è questo il problema.
+Il tempo scorre in linea retta dal passato al presente al futuro. Almeno, è così che la maggior parte degli umani lo percepiscono. Questo solleva diverse domande.
+"E se c'è un errore da qualche parte, e i dati stessi si frattalizzano?
+"Supponiamo che io mandi i miei ricordi un'ora nel passato".
+"I miei ricordi sarebbero sostituiti da dati frattalizzati. In altre parole, dati pieni di piccoli buchi".
+"Non potrebbe causare la perdita di memoria?"
+"...Suppongo di sì."
+"Un'ora dopo, arriviamo di nuovo al presente. In quel momento, il me che ha perso i ricordi un'ora prima e il me attuale entrano in conflitto nel mio cervello".
+"Quale insieme di dati sopravvive?"
+"...Logicamente, il presente dovrebbe cambiare non appena si inviano i ricordi nel passato".
+Il "me attuale" in conflitto scompare, allora.
+"Allora non è affatto un copia-incolla, vero?"
+"Non lo so. Nessuno ha mai sperimentato il viaggio nel tempo prima d'ora".
+"Quando inviamo una D-Mail, il mondo viene ricostruito in base alla modifica che abbiamo fatto nel passato".
+Sono l'unico ad esserne consapevole, comunque.
+"Non sappiamo cosa succede quando si effettua il salto temporale".
+"Se è valida l'interpretazione dei molti mondi come ha detto Titor, allora nell'istante in cui effettui il salto temporale, si creano due possibilità -- una in cui ti sposti su un'altra linea di universo, e una in cui viaggi indietro nel tempo sulla stessa linea di universo."
+"Naturalmente, deve esistere anche una linea di universo in cui il te attuale non scompare. Questo corrisponderebbe probabilmente al presente che stiamo vivendo in questo momento".
+"???"
+Ma questo solo se l'interpretazione dei molti mondi regge davvero.
+"Pensavo che non credessi a quello che ha detto Titor".
+"Sto parlando in via ipotetica. Titor non ha importanza in questo momento".
+"Se è vera l'[color index="820000"]interpretazione di Copenaghen[color index="800000"], allora ogni stato possibile si propaga nello spazio come una [color index="820000"]funzione d'onda[color index="800000"]. Quando viene osservato uno stato particolare, gli stati rimanenti collassano e quello stato viene fissato."
+Ma l'osservazione precisa è impossibile.
+"Il problema è chi è l'osservatore in questo caso".
+"Non sarebbe una terza persona? Come me, o Mayu-shi".
+"...?"
+"Non necessariamente. Potrei essere io. Potrebbe essere qualcun altro. Potrebbe anche essere Dio".
+Per cominciare, l'interpretazione di Copenaghen e l'interpretazione dei molti mondi sono entrambe teorie su microscala utilizzate per spiegare le interazioni quantistiche.
+Nessuno sa se possono essere applicati all'uomo o al mondo in generale.
+E le mie esperienze personali con il Reading Steiner?
+Se Reading Steiner è il tipo di potere che penso che sia, allora il modello "linea di universo" è corretto.
+Alla fine, arriviamo alla domanda "dov'è l'io?"
+"Questa Macchina per il Salto Temporale manda solo ricordi. Questo lo garantisco".
+"Il presente non sarà ricostruito al momento del trasferimento?".
+"È quello che succede con il Reading Steiner di Okarin, no?".
+"Questo ha senso per quanto riguarda le D-Mail. Quando inviamo una D-Mail, stiamo ovviamente interferendo con eventi passati".
+"Ma il salto temporale è diverso. Tutto quello che fai è inviare i tuoi ricordi nel passato, che non è la stessa cosa che inviare una D-Mail in modo mirato".
+"Se il me che improvvisamente 'ricorda' un'ora nel futuro possa, di fatto, cambiare il passato, è qualcosa che non possiamo sapere finché non accade".
+"Mi sto confondendo".
+"Sembra che stiamo parlando dell'anima. Non è una questione religiosa?"
+"Aspettate, state fraintendendo qualcosa".
+"Un'ora non è un tempo sufficiente affinché la tua personalità cambi. Dovresti essere la stessa persona di un'ora fa come lo sei adesso".
+"L'unica differenza è che avrai un'ora di ricordi in più".
+"Come puoi esserne sicura?"
+"...Beh, non posso. Nessuno ci ha mai provato prima".
+Questa discussione non va da nessuna parte.
+La personalità e la coscienza non possono essere strettamente definite, quindi è difficile immaginare cosa potrebbe succedere.
+"Allora, quale delle due?"
+"Non lo sappiamo. Possiamo discutere le teorie quanto vogliamo, ma alla fine possiamo solo tirare a indovinare".
+"Questo esperimento potrebbe finire per mandare in frantumi i preconcetti che scienziati e filosofi hanno sostenuto per secoli".
+Non lo sapremo finché non ci proviamo. Questo riassume abbastanza bene il tutto.
+Per peggiorare le cose, il soggetto deve essere preparato a rischiare danni alla propria psiche.
+Kurisu, Daru e io non diciamo altro.
+Non possiamo risolvere questo problema.
+Questo è il nostro limite come scienziati.
+Ma non abbiamo già fatto abbastanza?
+La stessa Macchina per il Salto Temporale è degna di un premio Nobel. Potremmo vendere questa tecnologia per miliardi, se lo volessimo.
+E se rendiamo pubblica la Macchina per il Salto Temporale, possiamo rompere il monopolio del SERN sulla tecnologia dei viaggi nel tempo.
+È già abbastanza. Deve esserlo.
+"Ehi..."
+Mayuri, che ha osservato la discussione con occhi vitrei, apre la bocca per parlare.
+"Ehm, ho un'idea..."
+"Perché invece non facciamo un salto temporale con una banana?".
+"Oh Mayuri..."
+"Le banane non hanno un cervello a differenza delle persone".
+"Oh... hai bisogno di un cervello, eh..."
+Mayuri non cambia mai.
+L'atmosfera nella stanza diventa un po' più rilassata.
+"Lasciamo perdere gli esperimenti."
+"Affideremo la Macchina per il Salto Temporale a un istituto di ricerca adatto. Poi la annunceremo al mondo".
+Grazie all'alleggerimento dell'atmosfera, posso finalmente dire quello che avevo in mente.
+Né Kurisu né Daru fanno obiezioni.

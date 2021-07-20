@@ -60,7 +60,9 @@ NOTE:
 	- IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
 
 ------------------------- USANDO checks.py -------------------------
-- Lanciare da shell "python checks.py Traduzione_ita/file.txt.da.tradurre"
+- Scrivere in default_editor il percorso dell'editor utilizzato
+	- Consiglio: se è possibile, aprire l'editor PRIMA di lanciare lo script (così da evitare di dover chiudere l'editor per andare avanti)
+- Lanciare da shell "python checks.py Traduzione_ita/file.txt.da.tradurre"	
 - Modificare nell'editor il testo (con traduzione)
 - Controllare con Word o LibreOffice Writer possibili errori grammaticali
 - Tornare sulla shell e premere invio (su windows l'editor è un processo spawnato, quindi la join l'ho implementata così)
