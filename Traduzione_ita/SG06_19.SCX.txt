@@ -51,7 +51,7 @@ Mayuri and I aren’t of any use. I would prefer to leave Daru and Suzuha to it 
 We don’t have any leads on the pin or its owner.[%p]
 Maybe two days just aren’t enough.[%p]
 No, that’s quitter’s talk. Like I told Suzuha, I don’t want to give up.[%p]
-Besides, even if we don’t get the information we need this time, I can use the Time Leap Machine to repeat these two days until we do.[%p]
+Besides, even if we don’t get the information we need this time, I can use the Macchina per il Salto Temporale to repeat these two days until we do.[%p]
 [name]Rintaro[line]“Oh yeah, Mayuri. What happened to your costumes?”[%p]
 There’s only a few more days until ComiMa. I remember Mayuri pulling all-nighters to get her costume done. Has that changed?[%p]
 [name]Mayuri[line]“Hm? I already made two costumes. One for Kaede-chan and one for Fubuki-chan.”[%p]

@@ -60,6 +60,7 @@ def main():
         new_line = re.sub('(\[margin.*)\[%p\]', '\g<1>[%e]', new_line)
         new_line = new_line.replace('[line]"', '[line]“')
         new_line = new_line.replace('"[%p]', '”[%p]')
+        new_line = new_line.replace('"[%e]', '”[%e]')
         new_line = new_line.replace("'", "’")
         new_line = new_line.replace("?.", "?")
         new_line = new_line.replace("!.", "!")

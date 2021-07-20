@@ -56,7 +56,7 @@ Dentro c’e’ un semplice computer con un monitor integrato. Il monitor e’ g
 Lo confronto con l’immagine dell’IBN 5100 che ho avuto da Shining Finger.[%p]
 Sembrano molto simili.[%p]
 [name]Luka[line]“Ah, guarda qui.”[%p]
-Lukako indica il logo tra l’[color index="820000"]unita’ a nastro[color index="800000"] e il monitor.[%p]
+Lukako indica il logo tra l’[color index="820000"]unità a nastro[color index="800000"] e il monitor.[%p]
 C’e’ scritto “IBN 5100 Portable Computer”.[%p]
 [name]Rintaro[line]“Muhahaha! MUHAHAHAHA! Finalmente, ho risolto la leggenda metropolitana di Akiba!”[%p]
 Questo e’ il PC fantasma di Akihabara![%p]

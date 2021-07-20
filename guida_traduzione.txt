@@ -33,6 +33,7 @@ poi:
  (no regex)	[line]" -> [line]“
 - sostituire tutti i caratteri " alla fine della stringa con il carattere ”
  (no regex)	"[%p] -> ”[%p]
+ (no regex)	"[%e] -> ”[%e]
 - NON INSERIRE [%p] IN FONDO ALLE LINEE CHE HANNO UN TAG [%e]
 - lasciare intatti tutti i caratteri " nei tag [color]
 - Sostituire ' con ’
@@ -61,6 +62,7 @@ NOTE:
 ------------------------- USANDO checks.py -------------------------
 - Lanciare da shell "python checks.py Traduzione_ita/file.txt.da.tradurre"
 - Modificare nell'editor il testo (con traduzione)
+- Controllare con Word o LibreOffice Writer possibili errori grammaticali
 - Tornare sulla shell e premere invio (su windows l'editor è un processo spawnato, quindi la join l'ho implementata così)
 - Aprire il file e controllare il carattere '"', esattamente come nel controllo manuale (visto che dipende da dove si trova). Quindi:
 	" -> “

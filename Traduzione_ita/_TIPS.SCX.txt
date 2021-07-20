@@ -637,7 +637,7 @@ Altro
 Magnetron
 Magnetron
 magnetron
-Un tipo di tubo a vuoto. Usato nei forno a microonde e nei radar. Produce microonde potenti.
+Un tipo di tubo a vuoto. Usato nei forni a microonde e nei radar. Produce microonde potenti.
 Otaku
 Master Cheaton
 Master Cheaton

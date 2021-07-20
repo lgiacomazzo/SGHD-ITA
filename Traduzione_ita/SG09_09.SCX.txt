@@ -71,7 +71,7 @@ Keeping his gun trained on Moeka, the man I knew as Mister Braun laughs scornful
 We’re at an overwhelming disadvantage. I was a fool to believe the direct approach would work.[%p]
 Now my recklessness is going to get both of us killed.[%p]
 ...No, not both of us. I don’t die here.[%p]
-I’m here because I time leap on the 16th. That fact is written on the fabric of this linea di universo. [%p]
+I’m here because I salto temporale on the 16th. That fact is written on the fabric of this linea di universo. [%p]
 So if the campo attrattore model is right, I can’t possibly die now, on the morning of the 15th. [%p]
 My survival is guaranteed by the same force that keeps killing Mayuri.[%p]
 However...[%p]

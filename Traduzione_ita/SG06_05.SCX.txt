@@ -6,7 +6,7 @@
 [name]Rintaro[line]“Mayuri! Contact me at once! Okay? At once!”[%p]
 I hang up.[%p]
 I look at my watch again. It’s just past 5.[%p]
-Thank god for the Time Leap Machine.[%p]
+Thank god for the Macchina per il Salto Temporale.[%p]
 It makes me shiver to imagine would have happened without it.[%p]
 I have three hours until Moeka kills Mayuri.[%p]
 Everything’s going to be okay.[%p]
