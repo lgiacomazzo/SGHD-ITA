@@ -1,266 +1,355 @@
-Poco dopo, sono sdraiato sul divano a guardare il baseball delle scuole superiori.
-Kumamoto e Aichi sono bloccati in una feroce lotta per i playoff.
-Proprio in quel momento, il clack-clack della macchina da cucire nel salone si ferma improvvisamente.
-"Okarin? Puoi venire qui?"
-Mi fa cenno di avvicinarmi mentre tiene in mano il costume.
-Cosa vuole? Mi avvicino a lei.
-"Puoi tenermi questo? Stendilo così tipo 'fwapp!'"
-"Mayu-shi, dì ancora 'fwapp'".
-"Fwapp!"
-"Devo fwapp!"
-"Smettila subito, pervertito!"
-Seguo le indicazioni di Mayuri e stendo il costume per le maniche.
-"Hmm..."
-Lei lo ispeziona da qualche passo di distanza.
-È difficile da credere, data la sua solita stupidità, ma Mayuri è molto seria riguardo alla sua arte.
-Ecco perché i cosplayer apprezzano così tanto i suoi costumi.
-Il costume che ho in mano ora è fatto su misura per Lukako. Pensavo che Lukako fosse contraria, ma credo che Mayuri sia riuscita a convincerla.
-"Ok. Grazie!"
-Mayuri sembra stanca. Ha lavorato tutta la notte.
-Ma questo non offusca la luminosità del suo sorriso soddisfatto.
-"Finito♪"
-"È pronto?"
-"Sì. Ho finito prima di Chris-chan. Stavamo gareggiando".
-"Hai vinto, Mayuri. Congratulazioni."
-Accidenti a te, assistente...
-Tratta me e Daru come spazzatura, ma Mayuri riceve il trattamento da sorella.
-"A dire il vero, anch'io ho quasi finito".
-Kurisu collega le due corde che ha in mano.
-"Fatto."
-I festeggiamenti sono d'obbligo.
-...Ma nessuno applaude.
-"E' un pareggio..."
-"Amico, sono stanco... Voglio che Faris-tan mi consoli..."
-Onestamente, nemmeno io ho voglia di esultare.
-E non è perché sono stanco.
-Abbiamo lavorato giorno e notte per tre giorni di fila per finire la macchina per il salto temporale, ma ora che è completa, mi rendo conto che una parte di me non ha mai creduto veramente che sarebbe successo.
-Sento il mio entusiasmo raffreddarsi rapidamente, il fuoco spento da una domanda cruda.
-Cosa ne facciamo?
-Guardo Kurisu.
-Anche lei non sembra entusiasta. 
-"Potremmo aver creato un mostro qui..."
-Guardo di nuovo il Microonde Telefonico (Nome Provvisorio) migliorato.
-Il più grande cambiamento è il copricapo collegato all'X68000.
-Sembra uscito da un film cyberpunk a basso costo. Fortunatamente, non c'è bisogno di jack nervosi o chip cerebrali per farlo funzionare. Basta indossarlo e lasciare che i sensori facciano il resto.
-"Perché non decidiamo prima come chiamarlo?"
-"Io voto Heavenly Express!"
-"Microonde Telefonico 3rd Edition ver1.00."
-"Stupido Cappello Microonde Telefonico-chan".
-Nessun consenso.
-"Voi ragazzi avete troppo tempo libero".
-"Vuol dire che vi astenete dal voto?".
-"...Macchina per il Salto Temporale."
-"È terribile."
-"Ma dai! Semplice è meglio, no? Voglio dire, è così che Okabe l'ha chiamata negli ultimi due giorni".
-"Sembra che la mia assistente abbia zero gusto per i nomi".
-"Non voglio sentirmelo dire da una testa di chuunibyou come te".
-"Oh-ho! Così Makise-shi conosce la parola chuunibyou... Sento che il tuo livello otaku è piuttosto alto".
-"Io... l'ho sentita da un amico. Non ho idea da dove venga!"
-Hah! Una bugia spudorata.
-Dovrebbe solo confessare di essere una @channeler.
-Kurisu incontra il mio sorriso con uno sguardo di ghiaccio.
-"Dipende da te, Mayuri. Scegline uno."
-Ogni volta che il laboratorio è diviso su un nome, il diritto di decidere spetta a Mayuri.
-"Hmmm..."
-"Penso che Macchina per il Salto Temporale vada bene".
-"Stupido Cappello Microonde Telefonico-chan è super vicino però..."
-"In qualche modo lo sapevo che avrebbe detto così".
-"Come ho detto, semplice è meglio. Mayuri lo capisce".
-"Ehehe!"
-Vorrei obiettare, ma è una regola non scritta di non lamentarsi una volta che Mayuri ha preso una decisione.
-"Molto bene. Macchina per il Salto Temporale sia".
-"Assistente! Spiega a tutti noi come funziona la Macchina per il Salto Temporale".
-Conosco le basi, ma voglio sentire i dettagli.
-Kurisu annuisce e si mette davanti alla lavagna.
-"In breve, questo dispositivo converte i ricordi in dati e li invia nel passato".
-"Cominciamo con quello che sappiamo tutti. Per una strana coincidenza, il Microonde Telefonico è in grado di produrre singolarità ad anello, proprio come la macchina del tempo di John Titor".
-"Attraverso la singolarità ad anello, siamo in grado di inviare fino a 36 byte di dati nel passato".
-"Il segnale può essere ricevuto solo dai telefoni. Mentre questo limita il raggio d'azione, rimuove anche un elemento di incertezza dall'equazione."
-"A differenza delle D-Mail, i dati mnemonici sono inviati sotto forma di una telefonata, quindi useremo un numero di telefono, non un indirizzo e-mail, per impostare la destinazione."
-"La singolarità ad anello è resa nuda e stabile da un dispositivo noto come lifter. Nel nostro caso, è il CRT da 42 pollici al piano di sotto".
-Ha spiegato le basi. Successivamente, spiegherà le modifiche che ha fatto per trasformare il Microonde Telefonico (Nome Provvisorio) in una macchina per il salto temporale.
-"Il Microonde Telefonico ora ha un copricapo".
-"Questo copricapo registra gli impulsi nervosi nel lobo temporale del cervello -- in particolare, la regione [color index="820000"]CA3[color index="800000"] dell'ippocampo, dove sono immagazzinati i ricordi."
-"Poi, usando la tecnologia VR, codifichiamo gli impulsi nervosi in dati sotto forma di segnali elettrici."
-"Si arriva a circa 3,24 terabyte".
-3,24 terabyte... È meno di quanto mi aspettassi. Stiamo parlando della totalità dei ricordi di una persona.
-"A proposito, lo imposteremo in modo che i dati si decodifichino automaticamente dopo un certo periodo di tempo".
-"Chiunque abbia una buona conoscenza di programmazione può farlo. Ho fatto in modo che Hashida scrivesse il codice".
-"Comunque, ora mandiamo i dati mnemonici attraverso la rete all'LHC in Francia".
-Questo edificio ha un collegamento diretto con il SERN per qualche motivo, quindi possiamo trasferire i dati a velocità follemente elevate.
-"Quanto tempo ci vuole per inviare 3,24 terabyte di dati?"
-"Abbiamo 64 collegamenti diretti in parallelo. Quindi se lo inviamo in 64 parti...".
-"Dovrebbe essere trasmesso in circa 45 secondi".
-È... piuttosto veloce.
-"Poi, dirottiamo l'LHC, creiamo un mini buco nero e usiamo la supergravità del buco nero per comprimere i dati in 36 byte".
-3 terabyte sono circa 3 trilioni di byte. Comprimerli in soli 36 byte...
-E' una bella strizzata.
-"Ci vorrà molto tempo per la compressione?"
-"È praticamente istantanea. 23 millisecondi o giù di lì. Stiamo usando un buco nero, dopo tutto".
-"A proposito, la compressione è valida solo nelle immediate vicinanze del buco nero. Una volta che i dati lasciano quell'area, cominceranno a decomprimersi da soli".
-"Anche questo richiede 23 millisecondi".
-"Devono ritornare all'X68000 e al Microonde Telefonico entro quella finestra".
-"Sono solo 36 byte. Non dovrebbe essere un problema".
-"Continua, Christina".
-"Mentre i dati vengono compressi, usiamo il Microonde Telefonico per generare una singolarità di Kerr ad anello. Quando si verifica il fenomeno della scarica di elettroni, prendiamo i dati a 36 byte, li inseriamo..."
-"E li inviamo nel passato".
-"Questa parte è proprio simile a una D-mail".
-"I dati viaggiano fino al tempo specificato, dove arrivano al telefono del destinatario".
-"A questo punto dovrebbero essere passati 23 millisecondi, quindi i dati saranno completamente decompressi".
-"Poi viene eseguito il programma di decodifica, che riconverte i dati in segnali di impulsi nervosi".
-"Questi segnali vengono rilasciati dall'auricolare del telefono a circa 0,02 ampere, una carica piuttosto debole".
-"Se il destinatario ha il telefono all'orecchio, dovrebbero arrivare direttamente al suo cervello".
-"Ammesso che risponda al telefono".
-"Se non lo fa, il trasferimento fallisce. Per fortuna, non perdiamo altro che la copia dei dati della memoria".
-"Perché una telefonata invece di una email?"
-"Perché abbiamo bisogno che il destinatario metta il telefono all'orecchio. Altrimenti i segnali non raggiungeranno il suo lobo temporale".
-Lei indica il lato della sua testa.
-"In questa zona ci sono il lobo frontale e il lobo temporale del cervello. Come ho spiegato prima, l'ippocampo, dove vengono immagazzinati i ricordi, è all'interno del lobo temporale".
-"Il telefono invia impulsi elettrici che passano attraverso il lobo temporale e nell'ippocampo, sovrascrivendo i ricordi del destinatario".
-"Allo stesso tempo, il telefono invia impulsi che stimolano anche il lobo frontale. Questo è importante".
-"Ricordate che il lobo frontale è responsabile dell'invio di segnali di recupero al lobo temporale. È così che si ricordano le cose".
-"Stimolando il lobo frontale, lo costringiamo a inviare segnali di recupero in base ai nuovi dati della memoria".
-"Così, il ricevente richiama tutti quei ricordi come se fossero suoi".
-"Cosa che, ovviamente, lo sono o lo saranno in futuro".
-"Questo avviene in meno di un secondo".
-"Ora il destinatario ha gli stessi ricordi del mittente. Il salto temporale è completo".
-"Se i dati provengono da una settimana nel futuro, il destinatario "ricorderà" quella settimana come se l'avesse vissuta in prima persona".
-"Dobbiamo essere consapevoli che la coscienza e la personalità non vengono trasferite. Entrambe dipendono dal destinatario".
-"Spiegalo con le tette".
-"T-tette!?"
-Kurisu si scioglie in un arrossire e balbettare. Sembra che tocchi a me rispondere alla domanda di Daru.
-Non con le tette, ovviamente.
-"Diciamo che ti mandiamo i tuoi ricordi alle elementari".
-"In questo momento, sei una specie di pervertito onnisessuale che pensa che gli oggetti inanimati siano sexy. Ma alle elementari eri ancora un bambino innocente".
-"Ero un piccolo bastardo noioso che non faceva altro che studiare, e allora?"
-"In pratica, quel piccolo bastardo avrebbe improvvisamente tutti i tuoi ricordi perversi, ma la sua personalità non cambierebbe".
-"Non è che diventerai quel famoso detective degli anime con 'l'aspetto di un bambino e il cervello di un adulto'."
-"Cosa? Che peccato".
-Questo non è come il salto temporale che si vede nei romanzi di fantascienza. Non siamo ancora in grado di trasferire personalità e coscienza.
-"Ahem."
-"Ehm, dato che hai bisogno di un telefono per ricevere il segnale, puoi inviare i ricordi solo nei momenti in cui ne avevi uno".
-"Dobbiamo anche assicurarci che il mittente e il destinatario siano la stessa persona".
-"Se qualcuno che non è il tuo io del passato -- i tuoi genitori, o un amico, per esempio -- risponde al telefono, allora i segnali degli impulsi nervosi saranno proiettati nel suo cervello".
-"Se questo accade, i tuoi ricordi potrebbero sovrascrivere i loro, il che potrebbe ovviamente causare seri danni alla loro psiche".
-Kurisu termina la sua spiegazione e fa un breve respiro.
-Il laboratorio cade nel silenzio.
-Scambio sguardi con Kurisu e Daru.
-Guardo Mayuri, ma la sua espressione è vuota. Immagino che fosse troppo complicato per lei.
-"Allora."
-Mi schiarisco la gola. E' il momento della domanda da un milione di dollari.
-"Cosa ne facciamo?"
-"Fare con cosa?"
-"La Macchina per il Salto Temporale, naturalmente. Cosa ne facciamo?".
+Subito dopo, la porta si apre.
+Cinque uomini irrompono nel laboratorio.
+I loro movimenti sono rapidi e sicuri -- professionali -- e ognuno di loro ha un'arma.
+Si sparpagliano proprio davanti alla porta e puntano le loro armi su di noi.
+Succede tutto così in fretta che nessuno ha il tempo di urlare.
+Gli uomini sono stranieri, un mix di razze, vestiti casualmente con camicie colorate e pantaloncini o jeans.
+Ma le loro braccia sono spesse di muscoli e i loro occhi sono duri e freddi come il ghiaccio.
+Due di loro hanno in mano delle pistole. Gli altri tre hanno fucili d'assalto.
+AK-47 ad Akiba? È una specie di scherzo?
+Una cosa è certa. Questi non sono turisti.
+"Mani in alto. Nessuno si muova".
+L'uomo dalla pelle scura e dai capelli a spazzola impartisce un ordine.
+Mi sembra di sognare.
+Mi sono addormentato guardando un film d'azione?
+È la prima volta che così tante persone si riuniscono in questa stanza.
+Improvvisamente, il laboratorio sembra piccolo. Che cosa strana da pensare in un momento come questo.
+Il primo a obbedire è Daru.
+Poi Kurisu alza le mani.
+Poi io.
+L'ultima è Mayuri.
+Silenzio.
+Il tempo sembra fermarsi.
+Gli uomini non dicono nulla, ma le loro armi rimangono ferme, con le canne puntate su di noi.
+Alla TV, un comico ride.
+Che cos'è questo?
+Siamo su una candid camera?
+Poi sento un nuovo suono provenire dall'esterno.
+Il suono dei tacchi alti.
+Una donna sta salendo le scale.
+Questi uomini la stanno aspettando?
+È lei il loro capo?
+Una squadra di commando in assetto da battaglia guidata da una bella donna. Sembra qualcosa uscito da un manga.
+Niente sembra reale.
+In poco tempo, la donna appare.
 "..."
-Per una volta, la mia assistente non ha niente da dire.
-So già che teme che abbiamo creato un mostro. Onestamente, provo la stessa cosa.
-Dopo qualche istante, Kurisu finalmente parla.
-"Per noi è troppo da gestire, questo è sicuro. La cosa più sicura sarebbe consegnarlo al governo per una ricerca professionale".
-Posso dire che non è contenta di essere arrivata a questa conclusione. Ovviamente preferirebbe sperimentare questa tecnologia.
-Dopo tutto, è la prima macchina del tempo dell'umanità. Abbiamo finalmente fatto i nostri primi passi verso la divinità.
-Sono sicuro che le nazioni del mondo pagherebbero miliardi per dare anche solo un'occhiata alla nostra macchina.
-Le possibilità che rappresenta sono illimitate.
-"Non sembra reale".
-"Mayushii non capisce..."
-"Questo perché non ci hai lavorato, Mayu-shi."
-"Oh, giusto. Ehehe!"
-"E tu, Okabe? E intendo te, non Hououin Kyouma".
-Sono d'accordo con Kurisu che la Macchina per il Salto Temporale è pericolosa.
-D'altra parte...
-"Voglio sperimentare".
-Dichiaro i miei sentimenti onesti.
-Kurisu sussulta.
-"Ma ci sono ancora domande a cui dobbiamo rispondere".
-Questo è un territorio sconosciuto -- non solo per noi, ma per tutta l'umanità.
-"...Chi farà il salto temporale?"
-Guardo ognuno dei lab mem a turno.
-Daru distoglie rapidamente lo sguardo.
-L'espressione di Mayuri è vuota.
-Kurisu... mi fissa.
-"...E' difficile scegliere".
-"Io passo."
-"...?"
+"Kiryu... Moeka..."
+L'editore part-time.
+Il demone della posta, Shining Finger, che non si vede mai senza il suo telefono.
+Lab Mem 005.
+Moeka? E' il loro capo?
+La donna meno imponente che abbia mai incontrato?
+Anche ora, non incontra il mio sguardo. I suoi occhi sono puntati sul pavimento.
+Cosa sta succedendo qui?
+"Um... Moeka-san?"
+"Prenderemo la macchina del tempo".
+Come sempre, le sue parole sono a malapena udibili. 
+È ridicolo. Da ridere.
+Eppure, non riesco a ridere.
+Il mio cuore è un martello pneumatico nel petto.
+L'interno della mia bocca è più secco di un deserto.
+Rimango immobile, con le mani in alto.
+"Makise Kurisu, Okabe Rintaro, Hashida Itaru. Voi tre verrete con noi".
+Non capisco.
+Perché Moeka è qui?
+Non lo so, ma devo chiedere.
+"Cosa sta succedendo qui?"
+"Non posso rispondere."
+"Questo è uno scherzo... giusto?"
+Moeka scuote la testa.
+"Non hai bisogno di saperlo".
+"Non puoi resistere."
+"Vieni con noi."
+"D-dove?"
 "..."
-Non una sola persona qui vuole l'onore di essere il primo viaggiatore del tempo della storia.
-Tutti -- tranne Mayuri -- stanno probabilmente pensando a cosa potrebbe andare storto.
-E se il salto temporale dovesse fallire?
-"Non è come la macchina del tempo del SERN. La possibilità di diventare un uomo gelatina è zero".
-"Questa macchina invia dei dati, non la persona".
-"Non lasciate che i vostri preconcetti influenzino la vostra decisione".
-"Si potrebbe dire che è come un taglia-e-incolla del tuo cervello".
-"In realtà è più un copia-e-incolla. E sono solo i tuoi ricordi".
-"L'originale non viene cancellato".
-Questo è un esempio molto facile da capire.
-Ma non è questo il problema.
-Il tempo scorre in linea retta dal passato al presente al futuro. Almeno, è così che la maggior parte degli umani lo percepiscono. Questo solleva diverse domande.
-"E se c'è un errore da qualche parte, e i dati stessi si frattalizzano?
-"Supponiamo che io mandi i miei ricordi un'ora nel passato".
-"I miei ricordi sarebbero sostituiti da dati frattalizzati. In altre parole, dati pieni di piccoli buchi".
-"Non potrebbe causare la perdita di memoria?"
-"...Suppongo di sì."
-"Un'ora dopo, arriviamo di nuovo al presente. In quel momento, il me che ha perso i ricordi un'ora prima e il me attuale entrano in conflitto nel mio cervello".
-"Quale insieme di dati sopravvive?"
-"...Logicamente, il presente dovrebbe cambiare non appena si inviano i ricordi nel passato".
-Il "me attuale" in conflitto scompare, allora.
-"Allora non è affatto un copia-incolla, vero?"
-"Non lo so. Nessuno ha mai sperimentato il viaggio nel tempo prima d'ora".
-"Quando inviamo una D-Mail, il mondo viene ricostruito in base alla modifica che abbiamo fatto nel passato".
-Sono l'unico ad esserne consapevole, comunque.
-"Non sappiamo cosa succede quando si effettua il salto temporale".
-"Se è valida l'interpretazione dei molti mondi come ha detto Titor, allora nell'istante in cui effettui il salto temporale, si creano due possibilità -- una in cui ti sposti su un'altra linea di universo, e una in cui viaggi indietro nel tempo sulla stessa linea di universo."
-"Naturalmente, deve esistere anche una linea di universo in cui il te attuale non scompare. Questo corrisponderebbe probabilmente al presente che stiamo vivendo in questo momento".
-"???"
-Ma questo solo se l'interpretazione dei molti mondi regge davvero.
-"Pensavo che non credessi a quello che ha detto Titor".
-"Sto parlando in via ipotetica. Titor non ha importanza in questo momento".
-"Se è vera l'[color index="820000"]interpretazione di Copenaghen[color index="800000"], allora ogni stato possibile si propaga nello spazio come una [color index="820000"]funzione d'onda[color index="800000"]. Quando viene osservato uno stato particolare, gli stati rimanenti collassano e quello stato viene fissato."
-Ma l'osservazione precisa è impossibile.
-"Il problema è chi è l'osservatore in questo caso".
-"Non sarebbe una terza persona? Come me, o Mayu-shi".
-"...?"
-"Non necessariamente. Potrei essere io. Potrebbe essere qualcun altro. Potrebbe anche essere Dio".
-Per cominciare, l'interpretazione di Copenaghen e l'interpretazione dei molti mondi sono entrambe teorie su microscala utilizzate per spiegare le interazioni quantistiche.
-Nessuno sa se possono essere applicati all'uomo o al mondo in generale.
-E le mie esperienze personali con il Reading Steiner?
-Se Reading Steiner è il tipo di potere che penso che sia, allora il modello "linea di universo" è corretto.
-Alla fine, arriviamo alla domanda "dov'è l'io?"
-"Questa Macchina per il Salto Temporale manda solo ricordi. Questo lo garantisco".
-"Il presente non sarà ricostruito al momento del trasferimento?".
-"È quello che succede con il Reading Steiner di Okarin, no?".
-"Questo ha senso per quanto riguarda le D-Mail. Quando inviamo una D-Mail, stiamo ovviamente interferendo con eventi passati".
-"Ma il salto temporale è diverso. Tutto quello che fai è inviare i tuoi ricordi nel passato, che non è la stessa cosa che inviare una D-Mail in modo mirato".
-"Se il me che improvvisamente 'ricorda' un'ora nel futuro possa, di fatto, cambiare il passato, è qualcosa che non possiamo sapere finché non accade".
-"Mi sto confondendo".
-"Sembra che stiamo parlando dell'anima. Non è una questione religiosa?"
-"Aspettate, state fraintendendo qualcosa".
-"Un'ora non è un tempo sufficiente affinché la tua personalità cambi. Dovresti essere la stessa persona di un'ora fa come lo sei adesso".
-"L'unica differenza è che avrai un'ora di ricordi in più".
-"Come puoi esserne sicura?"
-"...Beh, non posso. Nessuno ci ha mai provato prima".
-Questa discussione non va da nessuna parte.
-La personalità e la coscienza non possono essere strettamente definite, quindi è difficile immaginare cosa potrebbe succedere.
-"Allora, quale delle due?"
-"Non lo sappiamo. Possiamo discutere le teorie quanto vogliamo, ma alla fine possiamo solo tirare a indovinare".
-"Questo esperimento potrebbe finire per mandare in frantumi i preconcetti che scienziati e filosofi hanno sostenuto per secoli".
-Non lo sapremo finché non ci proviamo. Questo riassume abbastanza bene il tutto.
-Per peggiorare le cose, il soggetto deve essere preparato a rischiare danni alla propria psiche.
-Kurisu, Daru e io non diciamo altro.
-Non possiamo risolvere questo problema.
-Questo è il nostro limite come scienziati.
-Ma non abbiamo già fatto abbastanza?
-La stessa Macchina per il Salto Temporale è degna di un premio Nobel. Potremmo vendere questa tecnologia per miliardi, se lo volessimo.
-E se rendiamo pubblica la Macchina per il Salto Temporale, possiamo rompere il monopolio del SERN sulla tecnologia dei viaggi nel tempo.
-È già abbastanza. Deve esserlo.
-"Ehi..."
-Mayuri, che ha osservato la discussione con occhi vitrei, apre la bocca per parlare.
-"Ehm, ho un'idea..."
-"Perché invece non facciamo un salto temporale con una banana?".
-"Oh Mayuri..."
-"Le banane non hanno un cervello a differenza delle persone".
-"Oh... hai bisogno di un cervello, eh..."
-Mayuri non cambia mai.
-L'atmosfera nella stanza diventa un po' più rilassata.
-"Lasciamo perdere gli esperimenti."
-"Affideremo la Macchina per il Salto Temporale a un istituto di ricerca adatto. Poi la annunceremo al mondo".
-Grazie all'alleggerimento dell'atmosfera, posso finalmente dire quello che avevo in mente.
-Né Kurisu né Daru fanno obiezioni.
+Nessuna risposta.
+Non ha intenzione di rispondere nemmeno a questo.
+Pericolosi.
+Questi tipi sono pericolosi. Guarda le loro armi.
+Non succederà nulla di buono se andiamo con loro.
+Cerco di rifiutare, ma la voce mi si blocca in gola.
+Non riesco a smettere di fissare le loro armi.
+Sono vere?
+Non inizieranno a sparare, vero?
+"Non v-vado da nessuna parte finché non rispondi".
+"Non puoi rifiutare".
+"Non puoi scappare da nessuna parte".
+"Abbiamo uomini appostati in tutta Akihabara."
+Aspetta...
+Qualcosa scatta nella mia testa.
+Sono stati loro. Hanno mandato l'allarme bomba. Hanno fermato i treni.
+Perché?
+Per tenerci qui?
+Solo per questo?
+"Non voglio fare del male a nessuno".
+"Voi tre, venite con noi".
+"Perché..."
+Kurisu, che finora è rimasta in silenzio, finalmente apre la bocca.
+"Perché solo noi tre?"
+In quel momento mi rendo conto che Mayuri non è stata inclusa nella richiesta di Moeka. Vuole solo Kurisu, Daru e me.
+"Non rispondo alle tue domande".
+"Vieni con noi. E' la tua unica scelta".
+Non stiamo andando da nessuna parte.
+"O-Okarin..."
+La voce di Daru trema. Giro la testa per guardarlo. È pallidissimo.
+"N-non credi che dovremmo fare quello che dice?".
+"Ma a meno che non mi dica il motivo..."
+Onestamente, non ho idea di cosa fare.
+Il mio cuore sta ancora palpitando nel mio petto. Questo sembra più un sogno che la realtà.
+Non sono un otaku militare. Non ho mai visto una vera pistola.
+La lucentezza nera delle loro armi sembra in qualche modo pacchiana. Mancano della sensazione di imponenza che ci si aspetta.
+Le crederei se mi dicesse che sono false.
+Mayuri improvvisamente parla.
+"M-Moeka-san, anche tu sei una lab mem... vero?"
+E' come se Mayuri avesse chiesto la mia domanda al posto mio.
+Moeka era una donna strana, ma l'ho accolta lo stesso come una lab mem.
+Cosa sta pensando in questo momento?
+In risposta...
+Moeka estrae una pistola dalla sua cintura e la punta verso di noi.
+Mi rendo conto che Moeka non ha in mano il suo telefono. È la prima volta che la vedo senza.
+Non che questo abbia importanza ora.
+La mano della pistola di Moeka sta tremando.
+La situazione sta influenzando anche lei?
+Deve essere così. Ha il terrore di parlare con la gente.
+"La nostra missione..."
+"è di mettervi a tacere."
+Metterci a tacere?
+"Il vostro rifiuto di venire non cambierà nulla."
+Significa che ha intenzione di ucciderci?
+Perché? Cosa abbiamo fatto?
+"Chi vi ha mandato? Chi siete voi!?"
+"Noi..."
+Moeka solleva improvvisamente la testa.
+Forse per la terza volta da quando la conosco, mi guarda dritto negli occhi. I suoi occhi sono scuri e vuoti.
+"...siamo del SERN".
+SERN!?
+"M4!"
+L'uomo dalla pelle scura alza la voce. Si sta rivolgendo a Moeka?
+"Bada a come parli!"
+"..."
+Moeka china di nuovo la testa.
+Nella mia testa, ripeto le parole che ha appena detto.
+[margin top="228"][center]SERN.
+[margin top="228"][center]Sono del SERN?
+[margin top="228"][center]Perché il SERN?
+[margin top="228"][center]Naturalmente. Chi altro potrebbe essere?
+"Venite con noi. Ora."
+Moeka alza la voce con frustrazione.
+"Se continuate a resistere, dovrò ricorrere a misure estreme".
+Moeka solleva lentamente la pistola.
+Punta la canna verso...
+"..."
+Mayuri.
+Tutto il mio corpo diventa immediatamente freddo.
+"Shiina Mayuri non è necessaria."
+"Fermati!"
+Mi scaglio contro Moeka, ma l'uomo dalla pelle scura è più veloce.
+"Gah!"
+Qualcosa colpisce il mio mento con forza schiacciante.
+Lo shock intorpidisce tutto il mio corpo. Le stelle esplodono dietro i miei occhi.
+Cado in ginocchio, incapace di alzarmi.
+Tutto diventa buio.
+Che cosa è successo?
+Mi ha colpito con il calcio del suo fucile?
+"Okarin!"
+Alzo lo sguardo.
+Mayuri, con il viso coperto di lacrime, mi tende la mano come per implorare aiuto.
+Sopra la sua spalla, vedo Moeka preparare la sua pistola.
+"Mayuri! No!"
+Cerco di gridare "Fermati!" ma la voce mi si blocca in gola.
+Non esce nulla se non un pietoso rantolo.
+Qualcuno.
+Chiunque.
+Per favore.
+Fermatela.
+Fermate Moeka!
+Le labbra di Moeka si muovono.
+Sta mormorando qualcosa.
+"Per il SERN... per FB... per il SERN... per FB..."
+La sua bocca si apre e si chiude roboticamente.
+Il mio sangue si raggela. 
+No!
+Un forte e secco crack spacca l'aria.
+Il tempo rallenta fino a fermarsi.
+Moeka ha premuto il grilletto.
+Il sangue sgorga dalla fronte di Mayuri.
+Mi schizza sul viso, umido e caldo.
+Il suo corpo delicato e fragile cade verso di me.
+La prendo.
+Il suo corpo è flaccido, come una marionetta senza fili.
+La sua testa e le sue braccia penzolano senza vita.
+L'odore della polvere da sparo mi riempie il naso.
+E poi, l'odore del sangue.
+"Wahhhhhhhhhhh!"
+Daru si stringe la testa e cade in ginocchio, urlando a squarciagola.
+Il suono mi riporta alla ragione.
+Tra le mie braccia, Mayuri prende un respiro breve e debole.
+E poi...
+"O... kari..."
+"..."
+"...Mayuri?"
+"No... no!"
+Lei è morta.
+Mayuri è morta.
+Il suo viso è coperto di sangue.
+Il suo sangue macchia le mie mani.
+E' caldo.
+"Voi tre venite con noi. Ora."
+"Niente più avvertimenti".
+"Resistete, e uccideremo anche voi ".
+Sento una voce.
+Ma non riesco a capire cosa dice.
+Che significa?
+Cosa sta succedendo qui?
+È uno scherzo?
+[margin top="228"][center]"Potremmo aver creato un mostro qui..."
+Questo è un sogno, giusto?
+...Giusto?
+Non sento nulla.
+La mia mente è vuota.
+Scuoto la spalla di Mayuri.
+Mayuri?
+Svegliati, Mayuri.
+Prenderai un raffreddore se dormi qui.
+Se sei stanca, puoi rimanere per la notte.
+O posso portarti a casa, se preferisci.
+Torneremo a Ikebukuro in treno insieme, come facevamo prima che arrivasse Daru, quando eravamo solo noi due.
+I ricordi del suo sorriso mi turbinano in testa, mille sorrisi diversi in mille occasioni diverse.
+Se distolgo lo sguardo, lei scompare.
+Scompare sempre.
+[margin top="532"][center]"Ma ora stai bene."
+[margin top="532"][center]"Non hai più bisogno di me come ostaggio."
+No, Mayuri. Ho ancora bisogno di te.
+Ridi per me - "ehehe" - come fai sempre.
+Salutami con il tuo stupido "tutturu♪".
+Dimmi che è una bugia. Dimmi che stai bene.
+...[linebreak]...[linebreak]Mayuri?
+"Ah... AAAHHHHHHHHHHHHHHHHHH!"
+Fiamme rosse consumano la mia mente, un inferno di rabbia e odio e rabbia e odio e il desiderio ardente di uccidere chiunque io veda.
+Appoggio delicatamente l'immobile Mayuri sul pavimento.
+Mi alzo in piedi.
+E poi mi scaglio contro Moeka.
+"Okabe!"
+Ma prima che io possa fare un passo, qualcuno mi afferra la mano da dietro.
+"Non puoi!"
+"Lasciami andare! Lasciatemi andare!"
+"Non puoi! Ti uccideranno!"
+La pistola di Moeka è puntata alla mia testa.
+Il suo dito è già sul grilletto.
+"Ucciderai anche me!?"
+"Se fai resistenza."
+"Per favore, Okabe, fai come dice. Ok?"
+"Altrimenti uccideranno anche te."
+Strappo la mano dalla presa di Kurisu.
+La mia visione è un tunnel con Moeka dall'altra parte.
+Non la passerà liscia.
+Ha ucciso Mayuri a sangue freddo.
+Farò lo stesso con lei!
+"No!"
+Moeka preme il grilletto.
+"...!?"
+Il suono dello sparo mi colpisce i timpani.
+Sento un dolore acuto al lato della testa.
+Per poco non perdo di nuovo l'equilibrio.
+Ma sono ancora vivo.
+Che cosa è successo?
+Mi accorgo che la pistola di Moeka è ai suoi piedi. Accanto ad essa c'è una piccola pietra.
+Qualcuno deve averla lanciata e averle fatto cadere la pistola.
+"State giù!"
+"Gweh!!"
+Improvvisamente, Suzuha è lì sulla soglia della porta, e abbatte un uomo in un batter d'occhio.
+Prima che chiunque possa reagire, lei sfreccia nel raggio d'azione di un altro uomo e gli sferra una gomitata perforante al plesso solare.
+L'uomo cade in ginocchio, senza fiato.
+I restanti uomini puntano le loro armi su di lei, ma lei lancia l'uomo incapacitato verso di loro per bloccare la loro mira.
+Poi scivola ai piedi dell'uomo nelle retrovie, facendolo inciampare in avanti, e con un unico movimento fluido, spinge il suo ginocchio nella faccia dell'uomo che cade.
+"Ma chi diavolo!?"
+L'uomo dalla pelle scura punta il fucile.
+Ma prima che possa sparare, Suzuha lo strappa dalle mani dell'aggressore stordito e gli spara.
+"Gwah!!!"
+Il sangue sgorga dalla mano dell'uomo.
+Senza fermarsi, Suzuha salta in aria e sferra un potente calcio rotante alla mascella.
+"Basta."
+"!!"
+Subito dopo, i cinque uomini sono a terra e la pistola di Moeka è puntata sul viso di Suzuha.
+Ma Suzuha non si tira indietro. La sua pistola è puntata sul collo di Moeka.
+E' uno stallo. Nessuna delle due si muove.
+Il silenzio ritorna nella stanza.
+"Chi sei?"
+"42."
+La risposta di Suzuha non ha senso.
+Mi lancia un'occhiata.
+"TV".
+Cosa sta dicendo?
+"Accesa".
+"Cosa..."
+Improvvisamente, Kurisu scatta in piedi e si dirige verso l'area di sviluppo.
+"Non muoverti!"
+"Quella e' la mia frase!"
+"...Tch."
+Improvvisamente mi rendo conto del significato delle parole di Suzuha.
+Il televisore da 42 pollici al piano di sotto. È accesa.
+Vuole che usi la Macchina per il Salto Temporale!?
+Guardo il corpo di Mayuri.
+È distesa lì in silenzio.
+I suoi occhi sono chiusi.
+Non si apriranno mai più.
+Uno degli uomini che Suzuha ha steso inizia a gemere.
+Se si svegliano, è tutto finito.
+Suzuha mi guarda di nuovo.
+I suoi occhi mi implorano di fare la mia mossa.
+Se uso la macchina, posso evitare la morte di Mayuri.
+Ma allo stesso tempo, potrebbe friggermi il cervello.
+Friggermi il cervello? E allora?
+Cosa c'è da temere?
+Mayuri è morta, colpita a sangue freddo.
+Non è giusto. Non lo accetto!
+Allora cambialo.
+Cambia il passato.
+Tu hai il potere. Usalo!
+Barcollo nell'area di sviluppo.
+Kurisu sta per indossare il copricapo.
+Glielo tolgo.
+"Okabe..."
+"Tornerò io indietro!"
+"No! Dovrei essere io a--"
+Afferro il polso di Kurisu mentre cerca di riprenderlo.
+La fisso negli occhi, occhi bagnati di lacrime.
+"Salverò Mayuri!"
+"Ma se dovesse fallire!?"
+La ignoro e indosso il copricapo.
+L'ultimo colpo di Moeka ha sfiorato il lato della mia testa.
+Mi fischiano ancora le orecchie e c'è del sangue sul mio collo.
+Non importa.
+Potrei fallire. Potrei anche morire.
+Ma devo provare.
+E' la mia unica possibilità di salvare Mayuri.
+Kurisu si morde le labbra e attiva l'X68000.
+"Okabe Rintaro! Uno di loro si sta muovendo!"
+"Entrate lì dentro! Uccideteli!"
+"Dannati... ragazzi!"
+L'uomo dai capelli a spazzola barcolla nell'area di sviluppo.
+Agendo puramente d'istinto, afferro il Gadget Futuristico N. 4: Moad Snake dallo scaffale e premo l'interruttore.
+Fumo bianco riempie istantaneamente la stanza, rendendo impossibile vedere.
+"Uccideteli!"
+"Augh!"
+"Kurisu!?"
+"Ugh, gh, Okabe!! Sei sicuro!?"
+"Sei sicuro di questo!? Davvero!?"
+"Fallo, Kurisu! Attiva la macchina!"
+"Agh!"
+Il dolore aumenta nel mio braccio destro.
+Mi hanno sparato?
+Non importa.
+Vedo una luce blu-bianca che brilla nel fumo.
+La scarica sta iniziando!
+La luce diventa rapidamente più brillante.
+Il pavimento comincia a tremare.
+La singolarità è aperta!
+Mi accovaccio, tenendo le cuffie ferme con una mano.
+Aspettami, Mayuri!
+Non morirò qui!
+Attraverserò il tempo per salvarti!
+Saltate, miei ricordi.
+Saltate nel passato!
+"Saltaaaaaaaate!!!"
+Il mondo esplode sotto forma di luce.
