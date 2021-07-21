@@ -1,6 +1,6 @@
 Aggiunte le Tips Words
 [color index="800000"]『[color index="820000"]
-[color index="800000"]』 e’ stato aggiunto ai Tips.
+[color index="800000"]』 e‘ stato aggiunto ai Tips.
 ‘
 ’
  
@@ -46,12 +46,12 @@ Altro
 Ayamein
 Ayamein
 ayamein
-(Non reale) L’Accademia Femminile di Ayamein. Una scuola privata per ragazze nel quartiere Kudanshita di Tokyo. Come potenza accademica, Ayamein e’ una destinazione popolare per gli studenti stranieri.
+(Non reale) L’Accademia Femminile di Ayamein. Una scuola privata per ragazze nel quartiere Kudanshita di Tokyo. Come potenza accademica, Ayamein e‘ una destinazione popolare per gli studenti stranieri.
 Altro
 Alpaca
 Alpaca
 alpaca
-Un mammifero. Legato al cammello. Peso medio: 50-55kg Lunghezza media: Circa 2m Habitat: Peru’, Bolivia, Cile. Recentemente, gli alpaca possono essere trovati anche in America e Nuova Zelanda. A differenza dei cammelli, gli alpaca non hanno gobbe. I loro corpi sono coperti da un pelo morbido. A causa dei loro strani colli lunghi e volti affascinanti, hanno un po’ di popolarità come un animale brutto-ma-carino (uglycute).
+Un mammifero. Legato al cammello. Peso medio: 50-55kg Lunghezza media: Circa 2m Habitat: Peru‘, Bolivia, Cile. Recentemente, gli alpaca possono essere trovati anche in America e Nuova Zelanda. A differenza dei cammelli, gli alpaca non hanno gobbe. I loro corpi sono coperti da un pelo morbido. A causa dei loro strani colli lunghi e volti affascinanti, hanno un po’ di popolarità come un animale brutto-ma-carino (uglycute).
 Internet
 Ancora
 Ancora
@@ -61,17 +61,17 @@ Internet
 Anzai-sensei
 Anzai-sensei
 anzai-sensei
-Il coach di un famoso manga sul basket.[linebreak]Su internet, i postatori alcune volte esprimono un disperato desiderio citando il manga cosi’: “Anzai-sensei, voglio __”.[linebreak]Un’altra frase spesso citata, pronunciata da Anzai-sensei, e’: “Se ti arrendi, e’ game over”.
+Il coach di un famoso manga sul basket.[linebreak]Su internet, i postatori alcune volte esprimono un disperato desiderio citando il manga cosi‘: “Anzai-sensei, voglio __”.[linebreak]Un’altra frase spesso citata, pronunciata da Anzai-sensei, e‘: “Se ti arrendi, e‘ game over”.
 Internet
 Anti
 Hater
 anti
-Persone che scrivono commenti negativi su qualcosa o qualcuno su internet. Appaiono in luoghi dove si riuniscono i fan di quelle cose o persone, e li provocano scrivendo cose offensive. Non e’ raro da parte loro causare una discussione accesa tra i fan.
+Persone che scrivono commenti negativi su qualcosa o qualcuno su internet. Appaiono in luoghi dove si riuniscono i fan di quelle cose o persone, e li provocano scrivendo cose offensive. Non e‘ raro da parte loro causare una discussione accesa tra i fan.
 Altro
 Il Principio di Causalità
 Il Principio di Causalità
 il principio di causalità
-Un principio scientifico e filosofico che afferma che ogni singolo evento ha una causa, ed e’ da quella causa che viene prodotto un effetto. La teoria della relatività e’ fondata su questo principio. Tuttavia, i fisici quantistici hanno osservato fenomeni su micro-scala che non sembrano obbedire il principio di causalità.
+Un principio scientifico e filosofico che afferma che ogni singolo evento ha una causa, ed e‘ da quella causa che viene prodotto un effetto. La teoria della relatività e‘ fondata su questo principio. Tuttavia, i fisici quantistici hanno osservato fenomeni su micro-scala che non sembrano obbedire il principio di causalità.
 Internet
 Mago
 Mago
@@ -86,7 +86,7 @@ Chuunibyou
 Urd
 Urd
 urd
-La piu’ anziana delle tre Norne (dee del destino) nella mitologia Norrena. Le tre sorelle si occupano dell’Albero del Mondo, Yggdrasil, le cui radici giacciono nel Pozzo di Urd. Urd e’ la Norna del Passato.
+La piu‘ anziana delle tre Norne (dee del destino) nella mitologia Norrena. Le tre sorelle si occupano dell’Albero del Mondo, Yggdrasil, le cui radici giacciono nel Pozzo di Urd. Urd e‘ la Norna del Passato.
 Internet
 Dr.Excite
 Excite-sensei
@@ -101,8 +101,8 @@ Chuunibyou
 ECHELON
 ECHELON
 echelon
-In base ai complottisti, Echelon e’ un sistema di intercettazione avanzata dei segnali con sede negli Stati Uniti e gestito dalla National Security Agency (NSA). Tuttavia, le autorità americane non hanno mai pubblicamente confermato l’esistenza di Echelon, e non e’ mai stata trovata nessuna prova della sua esistenza. I paesi partecipanti includono presumibilmente il Regno Unito, Canada, Australia, e Nuova Zelanda, ma non Francia.
-Come alleato degli Stati Uniti, il Giappone puo’ permettere la costruzione di stazioni Echelon locali in cambio dell’accesso ai dati intercettati. L’array di antenne chiamato “gabbia da elefante” localizzato dentro la Misawa Air Base ad Aomori, Giappone si dice che sia una di queste stazioni. Si dice che queste stazioni possano intercettare, collezionare, e analizzare un’ampia gamma di segnali, incluse trasmissioni private dei cellulari.
+In base ai complottisti, Echelon e‘ un sistema di intercettazione avanzata dei segnali con sede negli Stati Uniti e gestito dalla National Security Agency (NSA). Tuttavia, le autorità americane non hanno mai pubblicamente confermato l’esistenza di Echelon, e non e‘ mai stata trovata nessuna prova della sua esistenza. I paesi partecipanti includono presumibilmente il Regno Unito, Canada, Australia, e Nuova Zelanda, ma non Francia.
+Come alleato degli Stati Uniti, il Giappone puo‘ permettere la costruzione di stazioni Echelon locali in cambio dell’accesso ai dati intercettati. L’array di antenne chiamato “gabbia da elefante” localizzato dentro la Misawa Air Base ad Aomori, Giappone si dice che sia una di queste stazioni. Si dice che queste stazioni possano intercettare, collezionare, e analizzare un’ampia gamma di segnali, incluse trasmissioni private dei cellulari.
 Chuunibyou
 Eldhrimnir
 Eldhrimnir
@@ -112,7 +112,7 @@ Chuunibyou
 Eterocromia
 Eterocromia
 eterocromia
-Heterochromia iridis, una condizione dove gli occhi hanno colori diversi. Un tratto spesso trovato in personaggi di anime e manga. Tipicamente non esiste una ragione per cui il personaggio sia eterocromatico. Tipicamente e’ per questione di moe o di figaggine.
+Heterochromia iridis, una condizione dove gli occhi hanno colori diversi. Un tratto spesso trovato in personaggi di anime e manga. Tipicamente non esiste una ragione per cui il personaggio sia eterocromatico. Tipicamente e‘ per questione di moe o di figaggine.
 Akihabara
 Oden in scatola
 Oden in scatola
@@ -132,7 +132,7 @@ Altro
 Ippocampo CA3
 Hippocampus Cornu Ammonis Region 3
 ippocampo ca3
-L’ippocampo e’ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 -- “cornu Ammonis”, il corno di Amun.
+L’ippocampo e‘ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 -- “cornu Ammonis”, il corno di Amun.
 Chuunibyou
 Consiglio per lo Sviluppo
 Consiglio per lo Sviluppo
@@ -142,37 +142,37 @@ Altro
 Teoria del Caos
 Teoria del Caos
 teoria del caos
-La teoria dove anche se qualcosa puo’ essere espresso con una semplice formula, e’ difficile prevedere esattamente il suo risultato. Tuttavia, cio’ non vuol dire che il risultato e’ casuale. Vuol dire che anche la piu’ piccola variazione nelle condizioni iniziali puo’ causare un risultato estremamente divergente. Questa teoria si applica solo a previsioni a lungo termine.
+La teoria dove anche se qualcosa puo‘ essere espresso con una semplice formula, e‘ difficile prevedere esattamente il suo risultato. Tuttavia, cio‘ non vuol dire che il risultato e‘ casuale. Vuol dire che anche la piu‘ piccola variazione nelle condizioni iniziali puo‘ causare un risultato estremamente divergente. Questa teoria si applica solo a previsioni a lungo termine.
 Otaku
 Distributore di giocattoli a capsule
 Gashapon
 gashapon
-Un distributore che dispensa piccoli giocattoli in maniera casuale. E’ impossibile dire quale giocattolo sarà prima di aprire la capsula.
+Un distributore che dispensa piccoli giocattoli in maniera casuale. E‘ impossibile dire quale giocattolo sarà prima di aprire la capsula.
 Altro
 Crunchy-kun
 Garugari-kun
 crunchy-kun
-(Non reale) Un marchio di ghiaccioli. Popolare in tutto il Giappone. Oltre al sapore di soda, vengono vendute altre 50 varietà, tra le quali cola, uva, e altre sapori promozionali. “Vittoria” puo’ essere scritto su una parte della stecca. Una stecca vincente dà il diritto di avere un ghiacciolo gratuito. Le possibilità di vittoria sembrano intorno al 2%.
+(Non reale) Un marchio di ghiaccioli. Popolare in tutto il Giappone. Oltre al sapore di soda, vengono vendute altre 50 varietà, tra le quali cola, uva, e altre sapori promozionali. “Vittoria” puo‘ essere scritto su una parte della stecca. Una stecca vincente dà il diritto di avere un ghiacciolo gratuito. Le possibilità di vittoria sembrano intorno al 2%.
 Otaku
 Gunbam
 Mobile Jacket Gunbam
 gunbam
-(Non reale) Formalmente noto come “Mobile Jacket Gunbam”. Un’opera fondamentale degli anime mecha. La prima serie e’ andata in onda verso la fine degli anni ’70, e si sono susseguiti molti sequel e spin-off da allora.
+(Non reale) Formalmente noto come “Mobile Jacket Gunbam”. Un’opera fondamentale degli anime mecha. La prima serie e‘ andata in onda verso la fine degli anni ’70, e si sono susseguiti molti sequel e spin-off da allora.
 Chuunibyou
 L’Organizzazione
 L’Organizzazione
 l’organizzazione
-L’Organizzazione e’ l’Organizzazione. Niente di piu’. Niente di meno. Il suo nome ufficiale e’ un altro, ma anche solo pronunciare quel nome equivale a voler morire. Per quel motivo, tutti coloro che sanno della sua esistenza la chiamano semplicemente l’Organizzazione.
+L’Organizzazione e‘ l’Organizzazione. Niente di piu‘. Niente di meno. Il suo nome ufficiale e‘ un altro, ma anche solo pronunciare quel nome equivale a voler morire. Per quel motivo, tutti coloro che sanno della sua esistenza la chiamano semplicemente l’Organizzazione.
 Otaku
 Antropomorfismo
 Antropomorfismo
 antropomorfismo
-Rappresentare una entità non umana come un personaggio umanoide. Animali ed equipaggiamento militare sono tra i piu’ comuni, ma tutto puo’ essere antropomorfizzato, anche concetti astratti, elementi chimici, e paesi. 
+Rappresentare una entità non umana come un personaggio umanoide. Animali ed equipaggiamento militare sono tra i piu‘ comuni, ma tutto puo‘ essere antropomorfizzato, anche concetti astratti, elementi chimici, e paesi. 
 Otaku
 Kirari-chan
 Kirari-chan
 kirari-chan
-(Non reale) L’eroina di “RaiNet Kakeru”. Il suo nome completo e’ Nishimura Kirari. E’ una ragazza atletica e intelligente in quinta elementare. E’ anche carina e ha un bel carattere. In pratica e’ la ragazza perfetta. Le piace la moda. Odia i funghi.
+(Non reale) L’eroina di “RaiNet Kakeru”. Il suo nome completo e‘ Nishimura Kirari. E‘ una ragazza atletica e intelligente in quinta elementare. E‘ anche carina e ha un bel carattere. In pratica e‘ la ragazza perfetta. Le piace la moda. Odia i funghi.
 Altro
 King Burger
 King Burger
@@ -182,7 +182,7 @@ Internet
 Cracking
 Cracking
 cracking
-Nel mondo informatico, azioni che includono l’accesso illegale a sistemi di rete e manipolazione dei dati. Spesso e’ confuso con l’hacking, ma hacking inizialmente indicava un studio costruttivo del software. Cracking, invece, e’ una azione maligna.
+Nel mondo informatico, azioni che includono l’accesso illegale a sistemi di rete e manipolazione dei dati. Spesso e‘ confuso con l’hacking, ma hacking inizialmente indicava un studio costruttivo del software. Cracking, invece, e‘ una azione maligna.
 Altro
 Malattia di Creutzfeldt-Jakob
 KROITS-felt YA-kob disease
@@ -192,13 +192,13 @@ Altro
 Determinismo
 Determinismo
 determinismo
-La scuola di filosofia affermante che ogni evento e’ predeterminato dagli eventi precedenti. Il passato ha determinato il presente; il presente determina il futuro. Anche se pensiamo di agire di nostra volontà, in verità, stiamo solo seguendo un percorso predeterminato.
-Coloro che credono nel determinismo spesso citano l’esperimento mentale del Demone di Laplace: per “Un intelletto che ad un certo momento conoscesse tutte le forze che mettono le cose in moto, e tutte le posizioni di tutti gli elementi di cui la natura e’ composta (...) niente sarebbe incerto e il futuro proprio come il passato sarebbe presente davanti ai suoi occhi”. --Pierre Simon Laplace
+La scuola di filosofia affermante che ogni evento e‘ predeterminato dagli eventi precedenti. Il passato ha determinato il presente; il presente determina il futuro. Anche se pensiamo di agire di nostra volontà, in verità, stiamo solo seguendo un percorso predeterminato.
+Coloro che credono nel determinismo spesso citano l’esperimento mentale del Demone di Laplace: per “Un intelletto che ad un certo momento conoscesse tutte le forze che mettono le cose in moto, e tutte le posizioni di tutti gli elementi di cui la natura e‘ composta (...) niente sarebbe incerto e il futuro proprio come il passato sarebbe presente davanti ai suoi occhi”. --Pierre Simon Laplace
 Altro
 Gero Froggy
 Gero Kaerun
 gero froggy
-(Non reale) Una serie di pupazzi con la maniglia con la presenza di un personaggio brutto-ma-carino (uglycute) a forma di rana diventato popolare tra le ragazze delle superiori a Shibuya un anno fa. Dopo il Terremoto di Shibuya, la serie e’ stata cancellata, e la loro popolarità e’ fortemente diminuita.
+(Non reale) Una serie di pupazzi con la maniglia con la presenza di un personaggio brutto-ma-carino (uglycute) a forma di rana diventato popolare tra le ragazze delle superiori a Shibuya un anno fa. Dopo il Terremoto di Shibuya, la serie e‘ stata cancellata, e la loro popolarità e‘ fortemente diminuita.
 Internet
 La petite mort
 sage tempo
@@ -208,29 +208,29 @@ Gadget Futuristico
 Ghost in the Ball
 Mobile Armored Riot Camouflage Ball
 ghost in the ball
-Gadget Futuristico N. 7.[linebreak]Un gadget creato organizzando dodici monitor CRT da 6 pollici in una sfera. Piccole telecamere C-MOS sono installate negli spazi tra i monitor, ognuno connesso al monitor sul lato opposto della sfera. Questo tentativo di camouflage ottico e’ il piu’ grande capolavoro tra i Gadget Futuristici completati, ma la sua enorme grandezza lo rende difficile da conservare.
+Gadget Futuristico N. 7.[linebreak]Un gadget creato organizzando dodici monitor CRT da 6 pollici in una sfera. Piccole telecamere C-MOS sono installate negli spazi tra i monitor, ognuno connesso al monitor sul lato opposto della sfera. Questo tentativo di camouflage ottico e‘ il piu‘ grande capolavoro tra i Gadget Futuristici completati, ma la sua enorme grandezza lo rende difficile da conservare.
 Il suo nome deriva dal manga scifi “Ghost in the Husk”, con un adattamento anime.
 Otaku
 Code Jeass
 Code Jeass
 code jeass
-(Non reale) Una famosissima serie TV anime trasmessa nel 2006. La storia ruota attorno un giovane uomo che ottiene un occhio magico che puo’ controllare le menti e lo utilizza per far scattare una rivoluzione.
+(Non reale) Una famosissima serie TV anime trasmessa nel 2006. La storia ruota attorno un giovane uomo che ottiene un occhio magico che puo‘ controllare le menti e lo utilizza per far scattare una rivoluzione.
 Otaku
 Cosplay
 Costume Play
 cosplay
-Una abbreviazione di “costume play”. Vestirsi con un costume, molto spesso di un personaggio fittizio. Le persone che fanno cosplay sono chiamate “cosplayer”, che puo’ essere abbreviato con “’layer”. Molti cosplayer realizzano i propri costumi.
+Una abbreviazione di “costume play”. Vestirsi con un costume, molto spesso di un personaggio fittizio. Le persone che fanno cosplay sono chiamate “cosplayer”, che puo‘ essere abbreviato con “’layer”. Molti cosplayer realizzano i propri costumi.
 Internet
 Non guardarmi
 kocchi min’na
 non guardarmi
-Su internet, e’ una regola non scritta dire questo quando vedi una immagine di qualcuno o qualcosa che guarda verso la telecamera.
+Su internet, e‘ una regola non scritta dire questo quando vedi una immagine di qualcuno o qualcosa che guarda verso la telecamera.
 Scienza
 Interpretazione di Copenaghen
 Interpretazione di Copenaghen
 interpretazione di copenaghen
-Un approccio molto noto all’esperimento mentale del gatto di Schrödinger. In questa interpretazione, prima che venga aperta la scatola, il gatto esiste come combinazione di due funzioni d’onda, una dove e’ “vivo” e l’altra dove e’ “morto”. L’istante in cui la scatola viene aperta e il gatto osservato, la funzione d’onda collassa ad una delle due. Se il gatto e’ vivo alla apertura della scatola, la funzione d’onda collassa per diventare “gatto vivo”. Similmente, se il gatto e’ morto, la funzione d’onda collassa per diventare “gatto morto”.
-Un altro approccio quantistico per questo esperimento e’ l’interpretazione a molti mondi. In questo caso, l’osservatore che trova il gatto vivo e l’osservatore che trova il gatto morto esistono due universi separati che divergono nel momento in cui la scatola viene aperta. L’Interpretazione di Copenaghen e’ attualmente la teoria dominante.
+Un approccio molto noto all’esperimento mentale del gatto di Schrödinger. In questa interpretazione, prima che venga aperta la scatola, il gatto esiste come combinazione di due funzioni d’onda, una dove e‘ “vivo” e l’altra dove e‘ “morto”. L’istante in cui la scatola viene aperta e il gatto osservato, la funzione d’onda collassa ad una delle due. Se il gatto e‘ vivo alla apertura della scatola, la funzione d’onda collassa per diventare “gatto vivo”. Similmente, se il gatto e‘ morto, la funzione d’onda collassa per diventare “gatto morto”.
+Un altro approccio quantistico per questo esperimento e‘ l’interpretazione a molti mondi. In questo caso, l’osservatore che trova il gatto vivo e l’osservatore che trova il gatto morto esistono due universi separati che divergono nel momento in cui la scatola viene aperta. L’Interpretazione di Copenaghen e‘ attualmente la teoria dominante.
 Otaku
 ComiMa
 ComiMa
@@ -242,10 +242,10 @@ Spazio di Singolarità
 spazio di singolarità
 Un tipo di magia in cui il suo utilizzatore sovrascrive il mondo con una dimensione parallela basata sulle esperienze emotive dell’utilizzatore. Spesso usato nelle conversazioni ordinarie per parlare di coppie che flirtano in pubblico, immersi nel proprio mondo, fregandosene del dolore che infliggono agli altri.
 Otaku
-Qualcuno di cosi’ carino non puo’ essere una ragazza
+Qualcuno di cosi‘ carino non puo‘ essere una ragazza
 konna kawaii ko ga onnanoko no hazu ga nai
-qualcuno di cosi’ carino non puo’ essere una ragazza
-E’ una regola non scritta usare questa frase quando vedi qualcuno che sembra una ragazza carina ma o e’ di genere non specificato o e’ in realtà un ragazzo. Questa espressione e’ anche usata sarcasticamente con ragazze che hanno un aspetto da ragazzo.
+qualcuno di cosi‘ carino non puo‘ essere una ragazza
+E‘ una regola non scritta usare questa frase quando vedi qualcuno che sembra una ragazza carina ma o e‘ di genere non specificato o e‘ in realtà un ragazzo. Questa espressione e‘ anche usata sarcasticamente con ragazze che hanno un aspetto da ragazzo.
 Gadget Futuristico
 Cyalume Saber
 Diphenyl oxalate Saber
@@ -260,17 +260,17 @@ Scienza
 Congettura di protezione cronologica
 Congettura di protezione cronologica
 congettura di protezione cronologica
-Nella meccanica quantistica, una teoria, proposta da Stephen Hawking, che afferma che il viaggio nel tempo e’ impossibile. Qualsiasi tentativo di viaggiare nel tempo sarà impedito da effetti quantistici. Completare il viaggio nel tempo richiede infinita “energia di campo”, che e’ impossibile da ottenere. In altre parole, le leggi di causalità -- e per estensione, la cronologia o linea temporale dell’universo -- sono protetti dalla meccanica quantistica.
+Nella meccanica quantistica, una teoria, proposta da Stephen Hawking, che afferma che il viaggio nel tempo e‘ impossibile. Qualsiasi tentativo di viaggiare nel tempo sarà impedito da effetti quantistici. Completare il viaggio nel tempo richiede infinita “energia di campo”, che e‘ impossibile da ottenere. In altre parole, le leggi di causalità -- e per estensione, la cronologia o linea temporale dell’universo -- sono protetti dalla meccanica quantistica.
 Scienza
 Orizzonte degli Eventi
 Orizzonte degli Eventi
 orizzonte degli eventi
-Conosciuto anche come superficie di Schwarzchild. In un buco nero, esiste un punto oltre il quale neanche la luce puo’ sfuggire alla immensa gravità del buco nero. Questo confine e’ chiamato the orizzonte degli eventi. Poiché luce e altre onde elettromagnetiche sono responsabili per la trasmissione di informazioni, niente di tutto quello che si verifica dentro l’orizzonte degli eventi puo’ essere osservato dall’esterno. Il centro di un buco nero e’ nero perché la luce non puo’ fuggire da esso.
+Conosciuto anche come superficie di Schwarzchild. In un buco nero, esiste un punto oltre il quale neanche la luce puo‘ sfuggire alla immensa gravità del buco nero. Questo confine e‘ chiamato the orizzonte degli eventi. Poiché luce e altre onde elettromagnetiche sono responsabili per la trasmissione di informazioni, niente di tutto quello che si verifica dentro l’orizzonte degli eventi puo‘ essere osservato dall’esterno. Il centro di un buco nero e‘ nero perché la luce non puo‘ fuggire da esso.
 Otaku
 Death Flag
 Death Flag
 death flag
-Un termine della metanarrazione. Quando un personaggio triggera una death flag, hanno detto o hanno fatto qualcosa che preannuncia la loro morte. Un modo comune per triggerare una death flag consiste nel fare una promessa alla vigilia di una battaglia finale. Per esempio, “Quando terminerà la guerra, mi sposero’”.
+Un termine della metanarrazione. Quando un personaggio triggera una death flag, hanno detto o hanno fatto qualcosa che preannuncia la loro morte. Un modo comune per triggerare una death flag consiste nel fare una promessa alla vigilia di una battaglia finale. Per esempio, “Quando terminerà la guerra, mi sposero‘”.
 Altro
 Chevy
 Chevy
@@ -280,20 +280,20 @@ Altro
 Legge di Janet
 Legge di Janet
 legge di janet
-Una prospettiva sul passaggio del tempo proposta dallo psicologo Pierre Janet. Per qualche motivo, mentre una persona invecchia, il tempo sembra passare sempre piu’ velocemente. Per esempio, un anno e’ un settimo della vita di ragazzo di 7 anni, ma solo un settantesimo di una persona di 70 anni. Con questo ragionamento, la lunghezza soggettiva del tempo e’ inversamente proporzionale all’età.
+Una prospettiva sul passaggio del tempo proposta dallo psicologo Pierre Janet. Per qualche motivo, mentre una persona invecchia, il tempo sembra passare sempre piu‘ velocemente. Per esempio, un anno e‘ un settimo della vita di ragazzo di 7 anni, ma solo un settantesimo di una persona di 70 anni. Con questo ragionamento, la lunghezza soggettiva del tempo e‘ inversamente proporzionale all’età.
 Scienza
 Gatto di Schrödinger
 Gatto di Schrödinger
 gatto di schrödinger
-Un esperimento mentale proposto dal fisico Erwin Schrödinger. Schrödinger l’aveva pensato come un paradosso per rifiutare la teoria quantistica, ma e’ stato dimostrato da allora di non essere un paradosso. Viene spesso riferito nella finzione come esempio della complessità della meccanica quantistica.
+Un esperimento mentale proposto dal fisico Erwin Schrödinger. Schrödinger l’aveva pensato come un paradosso per rifiutare la teoria quantistica, ma e‘ stato dimostrato da allora di non essere un paradosso. Viene spesso riferito nella finzione come esempio della complessità della meccanica quantistica.
 Un gatto viene inserito in una scatola. La scatola contiene anche una fiala di gas velenoso e un campione di una sostanza radioattiva. Se la sostanza radioattiva emette una particella alfa, fa scattare un sensore, il quale rilascia il gas velenoso e uccide il gatto. Assumere che la sostanza radioattiva abbia il 50% di possibilità di emettere una particella alfa per ora. Dopo un’ora, apri la scatola.
-Il gatto ha il 50% di possibilità di essere vivo oppure morto. La domanda e’, il gatto era vivo o morto prima di scoprirlo? In base ad Einstein, la tua osservazione delle condizioni del gatto e’ irrilevante. Il gatto era sia vivo che morto prima che tu aprissi la scatola.
+Il gatto ha il 50% di possibilità di essere vivo oppure morto. La domanda e‘, il gatto era vivo o morto prima di scoprirlo? In base ad Einstein, la tua osservazione delle condizioni del gatto e‘ irrilevante. Il gatto era sia vivo che morto prima che tu aprissi la scatola.
 Scienza
 Collider
 Collider
 collider
 Un dispositivo che accelera particelle cariche con l’obiettivo di studiare le reazioni che risultano dalle collisioni di queste particelle. Il tipo di particella accelerata determina anche il nome dell’apparecchiatura. Negli anni recenti, molti ad acceleratori ad alta energia sono stati sincrotroni ad anello.
-Gli acceleratori ad anello sono molto costosi da costruire, ma possono realizzare gli esperimenti piu’ efficaci. Il motivo per la forma ad anello e’ che le particelle cariche possono essere trasmesse attraverso un campo elettromagnetico per piegare la loro traiettoria attraverso la forza di Lorentz. I piu’ grandi sincrotroni al mondo, oltre al Large Hadron Collider del SERN, si trovano negli USA, nel Regno Unito, e in Giappone.
+Gli acceleratori ad anello sono molto costosi da costruire, ma possono realizzare gli esperimenti piu‘ efficaci. Il motivo per la forma ad anello e‘ che le particelle cariche possono essere trasmesse attraverso un campo elettromagnetico per piegare la loro traiettoria attraverso la forza di Lorentz. I piu‘ grandi sincrotroni al mondo, oltre al Large Hadron Collider del SERN, si trovano negli USA, nel Regno Unito, e in Giappone.
 Otaku
 Shota
 Shota
@@ -303,34 +303,34 @@ Altro
 John Titor
 John Titor
 john titor
-Un autoproclamato viaggiatore del tempo dal 2036 che e’ apparso in un forum Americano su internet nel Novembre del 2000. L’internet e’ andata in tumulto, riempiendo la bacheca di domande e dibattiti. Titor ha postato immagini della sua macchina del tempo e il suo manuale di controllo, cosi’ come diagrammi che illustravano le meccaniche della macchina del tempo.
-Ha anche diffuso informazioni su eventi nell’immediato futuro, la fisica per il viaggio nel tempo, interventi storici, il multiverso, le linee temporali, e le linee di universo. E poi, quattro mesi dopo la sua apparizione, ha lasciato un commento dicendo “Io lascero’ questa linea di universo a breve e questo sarà il mio post finale” e poi e’ scomparso.
+Un autoproclamato viaggiatore del tempo dal 2036 che e‘ apparso in un forum Americano su internet nel Novembre del 2000. L’internet e‘ andata in tumulto, riempiendo la bacheca di domande e dibattiti. Titor ha postato immagini della sua macchina del tempo e il suo manuale di controllo, cosi‘ come diagrammi che illustravano le meccaniche della macchina del tempo.
+Ha anche diffuso informazioni su eventi nell’immediato futuro, la fisica per il viaggio nel tempo, interventi storici, il multiverso, le linee temporali, e le linee di universo. E poi, quattro mesi dopo la sua apparizione, ha lasciato un commento dicendo “Io lascero‘ questa linea di universo a breve e questo sarà il mio post finale” e poi e‘ scomparso.
 Altro
 Sincronicità
 Sincronicità
 sincronicità
-Una significativa coincidenza. Simultaneità. La sensazione che due eventi senza alcuna relazione causale abbiano una relazione deterministica significativa. Per esempio, “Un vaso e’ caduto e si e’ spezzato, e allo stesso tempo, mia nonna e’ morta in ospedale”.
+Una significativa coincidenza. Simultaneità. La sensazione che due eventi senza alcuna relazione causale abbiano una relazione deterministica significativa. Per esempio, “Un vaso e‘ caduto e si e‘ spezzato, e allo stesso tempo, mia nonna e‘ morta in ospedale”.
 Quasi chiunque ha sentito la sincronicità in qualche punto della loro vita. Un concetto avanzato dallo psicologo svizzero Carl Jung (1875-1961).
 Internet
 Donna Mainstream
 Donna Mainstream
 donna mainstream
-Un termine offensivo usato dagli otaku per descrivere donne che seguono un modo di pensare incomprensibile agli uomini. Tali donne sono presumibilmente influenzate dalla cultura “mainstream” promossa dalle riviste per donne. Alcuni affermano che questa frase e’ usata dagli uomini per giustificare la loro mancanza di successo con le donne.
+Un termine offensivo usato dagli otaku per descrivere donne che seguono un modo di pensare incomprensibile agli uomini. Tali donne sono presumibilmente influenzate dalla cultura “mainstream” promossa dalle riviste per donne. Alcuni affermano che questa frase e‘ usata dagli uomini per giustificare la loro mancanza di successo con le donne.
 Internet
 Super Hacka
 Super Hacka
 super hacka
-Un hacker incredibilmente abile. O almeno qualcuno che afferma di esserlo. La minaccia “il mio amico e’ un hacker, quindi puo’ facilmente capire chi sei” appare spesso durante le discussioni su internet. Le persone chiamano con ironia l’ovviamente non esistente hacker un “hacka”.
+Un hacker incredibilmente abile. O almeno qualcuno che afferma di esserlo. La minaccia “il mio amico e‘ un hacker, quindi puo‘ facilmente capire chi sei” appare spesso durante le discussioni su internet. Le persone chiamano con ironia l’ovviamente non esistente hacker un “hacka”.
 Chuunibyou
 Skuld
 Skuld
 skuld
-La piu’ giovane delle tre Norne (dee del destino) nella mitologia Norrena. Le tre sorelle si occupano dell’Albero del Mondo, Yggdrasil, le cui radici giacciono nel Pozzo di Urd. Skuld e’ la Norna del Futuro. Anche una valchiria.
+La piu‘ giovane delle tre Norne (dee del destino) nella mitologia Norrena. Le tre sorelle si occupano dell’Albero del Mondo, Yggdrasil, le cui radici giacciono nel Pozzo di Urd. Skuld e‘ la Norna del Futuro. Anche una valchiria.
 Altro
 Starbecks
 Sutabe
 starbecks
-(Non reale) Una catena di caffe’.
+(Non reale) Una catena di caffe‘.
 Otaku
 The World
 Za Warudo
@@ -340,7 +340,7 @@ Internet
 Standalone
 Standalone
 standalone
-Un computer che non e’ connesso a nessun altro computer o rete.
+Un computer che non e‘ connesso a nessun altro computer o rete.
 Altro
 Slow Food
 Slow Food
@@ -350,7 +350,7 @@ Altro
 Ripetizione Elaborativa
 Ripetizione Elaborativa
 ripetizione elaborativa
-Nella psicologia, l’azione di trasferimento dalla memoria a breve termine alla memoria a lungo termine. Cio’ e’ possibile collegando un significato a cio’ che deve essere ricordato, oppure collegandolo a qualche memoria familiare.
+Nella psicologia, l’azione di trasferimento dalla memoria a breve termine alla memoria a lungo termine. Cio‘ e‘ possibile collegando un significato a cio‘ che deve essere ricordato, oppure collegandolo a qualche memoria familiare.
 Internet
 Smex
 Sekkuru
@@ -360,17 +360,17 @@ Altro
 Serendipità
 Serendipità
 serendipità
-L’abilità di scoprire qualcosa di valore mentre si cerca qualcos’altro. Il forno a microonde e’ nato grazie alla serendipità.
+L’abilità di scoprire qualcosa di valore mentre si cerca qualcos’altro. Il forno a microonde e‘ nato grazie alla serendipità.
 Otaku
 Zerosum
 Zerosum
 zerosum
-(Non reale) Il protagonista di Code Jeass. Lui e’ il “Giovane Nobile della Ribellione” che nasconde la sua identità dietro una maschera.
+(Non reale) Il protagonista di Code Jeass. Lui e‘ il “Giovane Nobile della Ribellione” che nasconde la sua identità dietro una maschera.
 Scienza
 Teoria della Relatività
 Teoria della Relatività
 teoria della relatività
-Si riferisce sia teoria della relatività speciale di Einstein pubblicata nel 1905, sia alla sua teoria della relatività generale pubblicata nel 1916. Rappresentata dalla famosa equazione, E=mc². La teoria della relatività speciale e’ definita dai seguenti assiomi: “Gli oggetti non possono viaggiare a una velocità maggiore della velocità della luce”. “Quando la velocità si avvicina alla velocità della luce, il passaggio del tempo tende a zero”.
+Si riferisce sia teoria della relatività speciale di Einstein pubblicata nel 1905, sia alla sua teoria della relatività generale pubblicata nel 1916. Rappresentata dalla famosa equazione, E=mc². La teoria della relatività speciale e‘ definita dai seguenti assiomi: “Gli oggetti non possono viaggiare a una velocità maggiore della velocità della luce”. “Quando la velocità si avvicina alla velocità della luce, il passaggio del tempo tende a zero”.
 “Quando la velocità si avvicina alla velocità della luce, la lunghezza tende a zero”. “Quando la velocità si avvicina alla velocità della luce, la massa tende all’infinito”. La teoria della relatività generale aggiunge i seguenti assiomi: “In presenza di grandi campi gravitazionali, il passaggio del tempo rallenta”. “In presenza di grandi campi gravitazionali, lo spazio curva”. “In presenza di grandi campi gravitazionali, la massa aumenta”.
 Scienza
 Transizione di Fase
@@ -381,12 +381,12 @@ Scienza
 Particella elementare
 Particella elementare
 particella elementare
-La piu’ piccola unità di materia. Tuttavia, la definizione di cosa forma una particella elementare non e’ chiara. Certe particelle elementari hanno una corrispondente anti-particella con carica opposta.
+La piu‘ piccola unità di materia. Tuttavia, la definizione di cosa forma una particella elementare non e‘ chiara. Certe particelle elementari hanno una corrispondente anti-particella con carica opposta.
 Altro
 Modalità Terminale
 Modalità Terminale
 modalità terminale
-Usare il terminale di un computer esterno collegato alla rete per gestire un programma che altrimenti non puo’ essere lanciato.
+Usare il terminale di un computer esterno collegato alla rete per gestire un programma che altrimenti non puo‘ essere lanciato.
 Altro
 Dinamite
 Dinamite
@@ -401,7 +401,7 @@ Gadget Futuristico
 Take-copter Camera
 Takecop Camera
 take-copter camera
-Gadget Futuristico N. 2.[linebreak]Una telecamera CCD montata su un elicottero giocattolo di bambu’. La telecamera e’ collegata al fulcro dell’elicottero, permettendogli di registrare video riprese aeree senza alimentazione. Tuttavia, l’immagine ruota ad un’elevata velocità, quindi potresti sentire un po’ di nausea se continui a guardarla. Il nome viene dal manga scifi “22 Emon”.
+Gadget Futuristico N. 2.[linebreak]Una telecamera CCD montata su un elicottero giocattolo di bambu‘. La telecamera e‘ collegata al fulcro dell’elicottero, permettendogli di registrare video riprese aeree senza alimentazione. Tuttavia, l’immagine ruota ad un’elevata velocità, quindi potresti sentire un po’ di nausea se continui a guardarla. Il nome viene dal manga scifi “22 Emon”.
 Altro
 Gatto del Cheshire
 Gatto del Cheshire
@@ -413,12 +413,12 @@ Chuunibyou
 chuunibyou
 Letteralmente, “sindrome della seconda media”. Un termine che si riferisce a una mentalità esibita principalmente dai teenager maschi. Usato anche come termine offensivo per riferirsi a persone anziane che mostrano ancora questa mentalità.
 Caratterizzato da un atteggiamento di nichilismo o cinismo, estremo egocentrismo, deliri di potere o superiorità, e una costante paura di essere trattato come un bambino. La persona che mostra questi sintomi crede di essere “figo”, ma molti osservatori li trovano patetici.
-Chuunibyou, spesso abbreviato con “chuuni”, si riferisce anche ai tropi dei mondi di finzione che piacciano ad alcuni teenager maschi, come antiche cospirazioni, superpoteri (specialmente poteri sigillati in un occhio o braccio del personaggio), mitologia norrena, scontri per il destino del multiverso, eccetera. L’abile chuunibyou sfrutterà questi elementi per creare la sua personale “backstory”. Okarin e’ un esempio da manuale.
+Chuunibyou, spesso abbreviato con “chuuni”, si riferisce anche ai tropi dei mondi di finzione che piacciano ad alcuni teenager maschi, come antiche cospirazioni, superpoteri (specialmente poteri sigillati in un occhio o braccio del personaggio), mitologia norrena, scontri per il destino del multiverso, eccetera. L’abile chuunibyou sfrutterà questi elementi per creare la sua personale “backstory”. Okarin e‘ un esempio da manuale.
 Scienza
 Teoria delle superstringhe
 Teoria delle superstringhe
 teoria delle superstringhe
-Nella fisica, la teoria che tutta la materia dell’universo e’ composta da “stringhe”, le cui vibrazioni si manifestano come particelle elementari. Questa teoria, che postula 11 dimensioni, e’ attualmente impossibile da dimostrare sperimentalmente. Tuttavia, si dice che se questa teoria verrà dimostrata, potrà spiegare tutti i fenomeni fin dalla nascita dell’universo, e la grandezza dell’universo dal livello macro fino alle particelle elementari, come i quark, a livello micro.
+Nella fisica, la teoria che tutta la materia dell’universo e‘ composta da “stringhe”, le cui vibrazioni si manifestano come particelle elementari. Questa teoria, che postula 11 dimensioni, e‘ attualmente impossibile da dimostrare sperimentalmente. Tuttavia, si dice che se questa teoria verrà dimostrata, potrà spiegare tutti i fenomeni fin dalla nascita dell’universo, e la grandezza dell’universo dal livello macro fino alle particelle elementari, come i quark, a livello micro.
 Internet
 Trolling
 Trolling
@@ -428,7 +428,7 @@ Otaku
 Tsundere
 Tsundere
 tsundere
-Una ragazza che e’ tipicamente distaccata e acerba (tsun), ma poi diventa affettuosa (dere) quando e’ da sola con il suo interesse amoroso. Tuttavia, la definizione e’ diventata piu’ ampia di recente.
+Una ragazza che e‘ tipicamente distaccata e acerba (tsun), ma poi diventa affettuosa (dere) quando e‘ da sola con il suo interesse amoroso. Tuttavia, la definizione e‘ diventata piu‘ ampia di recente.
 Altro
 Distopia
 Distopia
@@ -448,8 +448,8 @@ Altro
 Deja Vu
 Deja Vu
 deja vu
-La sensazione di avere vissuto qualcosa nonostante non averlo effettivamente vissuto. Sembra quasi che tu stia ricordando una genuina esperienza passata, al contrario di un’esperienza immaginata o un sogno. Tuttavia, non sei in grado di ricordare quando e dove quell’esperienza e’ stata vissuta, il che risulta in una intensa sensazione di stranezza.
-La causa del deja vu deve ancora essere trovata. Una teoria afferma che e’ un fenomeno fisiologico causato da una temporanea asincronia delle funzioni di “ricordo” e “immagazzinamento” della memoria. Si teorizza che la causa di cio’ siano degli spasmi nel paraippocampo del cervello, il quale gestisce il ragionamento a livello spaziale e la sensazione di “familiarità”.
+La sensazione di avere vissuto qualcosa nonostante non averlo effettivamente vissuto. Sembra quasi che tu stia ricordando una genuina esperienza passata, al contrario di un’esperienza immaginata o un sogno. Tuttavia, non sei in grado di ricordare quando e dove quell’esperienza e‘ stata vissuta, il che risulta in una intensa sensazione di stranezza.
+La causa del deja vu deve ancora essere trovata. Una teoria afferma che e‘ un fenomeno fisiologico causato da una temporanea asincronia delle funzioni di “ricordo” e “immagazzinamento” della memoria. Si teorizza che la causa di cio‘ siano degli spasmi nel paraippocampo del cervello, il quale gestisce il ragionamento a livello spaziale e la sensazione di “familiarità”.
 Otaku
 Railfan
 tetsuwota
@@ -469,24 +469,24 @@ Altro
 Forno a Microonde
 Forno a Microonde
 forno a microonde
-Uno apparecchio da cucina che riscalda il cibo bombardandolo con le microonde. Inizialmente chiamato Radarange. Il microonde e’ stato inventato quando un tecnico radar ha accidentalmente scoperto che le onde elettromagnetiche possono riscaldare il cibo. Successivamente, la ricerca e’ continuata, e la versione per i consumatori e’ stata lanciata in America nel 1947.
-Emette onde elettromagnetiche a una frequenza di 2.45Ghz. E’ una frequenza speciale conosciuta come Banda ISM, utilizzata anche dai dispositivi in una WLAN. La potenza erogata dai microonde per il mercato consumatore e’ intorno a 500-1000 watts, mentre per il mercato commerciale e’ intorno a 1500-2000 watts.
+Uno apparecchio da cucina che riscalda il cibo bombardandolo con le microonde. Inizialmente chiamato Radarange. Il microonde e‘ stato inventato quando un tecnico radar ha accidentalmente scoperto che le onde elettromagnetiche possono riscaldare il cibo. Successivamente, la ricerca e‘ continuata, e la versione per i consumatori e‘ stata lanciata in America nel 1947.
+Emette onde elettromagnetiche a una frequenza di 2.45Ghz. E‘ una frequenza speciale conosciuta come Banda ISM, utilizzata anche dai dispositivi in una WLAN. La potenza erogata dai microonde per il mercato consumatore e‘ intorno a 500-1000 watts, mentre per il mercato commerciale e‘ intorno a 1500-2000 watts.
 Altro
 ToTV
 TouTele
 totv
-(Non reale) Una rete televisiva con sede a Tokyo. ToTV manda in onda piu’ anime di altre reti commerciali, rendendolo uno dei preferiti tra gli otaku. Quando si presenta una notizia importante a Tokyo, molte stazioni interrompono il programma in onda per fornire un bollettino speciale. ToTV e’ l’eccezione, il che ha contribuito a diffondere la battuta “Se ToTV interrompe per un bollettino speciale, l’apocalisse e’ vicina”.
+(Non reale) Una rete televisiva con sede a Tokyo. ToTV manda in onda piu‘ anime di altre reti commerciali, rendendolo uno dei preferiti tra gli otaku. Quando si presenta una notizia importante a Tokyo, molte stazioni interrompono il programma in onda per fornire un bollettino speciale. ToTV e‘ l’eccezione, il che ha contribuito a diffondere la battuta “Se ToTV interrompe per un bollettino speciale, l’apocalisse e‘ vicina”.
 Scienza
 Singolarità
 Singolarità
 singolarità
-Nell’astrofisica, un punto di gravità infinita. Si presume che al centro dei buchi neri esista una singolarità. Tuttavia, poiché e’ impossibile osservare l’interno di una singolarità, non puo’ essere provata la sua esistenza. In un buco nero, la singolarità e’ formata dal gravitazionale collasso di una stella morente. Per esempio, immagina una stella con un diametro di milioni di chilometri.
-Ora immagina che l’intera massa della stella venga compressa in uno spazio piu’ piccolo del punto alla fine di questa frase. Quella e’ una singolarità.
+Nell’astrofisica, un punto di gravità infinita. Si presume che al centro dei buchi neri esista una singolarità. Tuttavia, poiché e‘ impossibile osservare l’interno di una singolarità, non puo‘ essere provata la sua esistenza. In un buco nero, la singolarità e‘ formata dal gravitazionale collasso di una stella morente. Per esempio, immagina una stella con un diametro di milioni di chilometri.
+Ora immagina che l’intera massa della stella venga compressa in uno spazio piu‘ piccolo del punto alla fine di questa frase. Quella e‘ una singolarità.
 Scienza
 Singolarità Nuda
 Singolarità Nuda
 singolarità nuda
-Tipicamente una singolarità e’ nascosta dal suo orizzonte degli eventi, e cio’ rende l’osservazione impossibile. Una singolarità nuda e’ una singolarità il cui orizzonte degli eventi e’ stato rimosso. Quindi puo’ essere osservato e anche attraversato. L’esistenza delle singolarità nude e’ puramente teorica.
+Tipicamente una singolarità e‘ nascosta dal suo orizzonte degli eventi, e cio‘ rende l’osservazione impossibile. Una singolarità nuda e‘ una singolarità il cui orizzonte degli eventi e‘ stato rimosso. Quindi puo‘ essere osservato e anche attraversato. L’esistenza delle singolarità nude e‘ puramente teorica.
 Chuunibyou
 Docperian
 Docperian
@@ -501,13 +501,13 @@ Internet
 In Giapponese plz
 nihongo de ok
 in japanese plz
-Una frase usata come sfotto’ nelle bacheche online per dire ad un postatore incomprensibile “postare in maniera comprensibile”.
+Una frase usata come sfotto‘ nelle bacheche online per dire ad un postatore incomprensibile “postare in maniera comprensibile”.
 Altro
 Incidenti New-Gen
 Incidenti New-Gen
 incidenti new-gen
 (Non reale) Il nome dato ad una serie di strani omicidi seriali verificatisi a Shibuya un anno fa. 14  persone in totale sono morte in 7 incidenti. I metodi usati per gli omicidi erano davvero poco ortodossi, portando ad una popolarità di culto tra i giovani di Shibuya.
-I mass media l’hanno soprannominata “Follia della Nuova Generazione”. Un uomo di 25 anni e’ stato arrestato come colpevole, ma e’ morto nel Terremoto di Shibuya immediatamente dopo. Ad oggi, voci su internet dicono che lui non era il vero colpevole.
+I mass media l’hanno soprannominata “Follia della Nuova Generazione”. Un uomo di 25 anni e‘ stato arrestato come colpevole, ma e‘ morto nel Terremoto di Shibuya immediatamente dopo. Ad oggi, voci su internet dicono che lui non era il vero colpevole.
 Internet
 Kitteh
 nuko
@@ -517,7 +517,7 @@ Internet
 Nullpo
 Nurupo
 nullpo
-Un vecchio termine di @channel. Visto la prima volta su una bacheca di programmazione nel 2003. “Nullpo” e’ un’abbrevazione di “NullPointerException”, un errore visto nel linguaggio di programmazione Java. Quando qualcuno annuncia “nullpo”, la risposta giusta e’ di colpirli sulla testa e dire “Gah!”.
+Un vecchio termine di @channel. Visto la prima volta su una bacheca di programmazione nel 2003. “Nullpo” e‘ un’abbrevazione di “NullPointerException”, un errore visto nel linguaggio di programmazione Java. Quando qualcuno annuncia “nullpo”, la risposta giusta e‘ di colpirli sulla testa e dire “Gah!”.
 Scienza
 Neuroscienze
 Neuroscienze
@@ -527,7 +527,7 @@ Altro
 Noradrenalina
 Norepinefrina
 noradrenalina
-Un neurotrasmettitore secreto nel cervello. Il nome corretto e’ 『norepinefrina』. E’ secreto in caso di stato di stress emotivo.
+Un neurotrasmettitore secreto nel cervello. Il nome corretto e‘ 『norepinefrina』. E‘ secreto in caso di stato di stress emotivo.
 Scienza
 Funzione d’onda
 Funzione d’onda
@@ -542,12 +542,12 @@ Gadget Futuristico
 Bit Particle Gun
 Bit Particle Gun
 bit particle gun
-Gadget Futuristico N. 1.[linebreak]Il primissimo Gadget Futuristico, una pistola a raggi giocattolo con un telecomando TV incastrato all’interno. Puoi cambiare canale puntandolo alla TV e premendo il grilletto. Tuttavia, l’unico pulsante supportato e’ “Canale +”. Nessun altro pulsante, come “Volume”, e’ utilizzabile. Per accendere la TV, devi manualmente premere l’interruttore sulla TV. Il suo nome e’ un riferimento al classico anime mecha Giapponese, “Mobile Jacket Gunbam”.
+Gadget Futuristico N. 1.[linebreak]Il primissimo Gadget Futuristico, una pistola a raggi giocattolo con un telecomando TV incastrato all’interno. Puoi cambiare canale puntandolo alla TV e premendo il grilletto. Tuttavia, l’unico pulsante supportato e‘ “Canale +”. Nessun altro pulsante, come “Volume”, e‘ utilizzabile. Per accendere la TV, devi manualmente premere l’interruttore sulla TV. Il suo nome e‘ un riferimento al classico anime mecha Giapponese, “Mobile Jacket Gunbam”.
 Altro
 Ultimo Teorema di Fermat
 Ultimo Teorema di Fermat
 ultimo teorema di fermat
-Un teorema matematico affermante che “Per ogni intero n maggiore di 2, non esistono tre interi x, y, e z tali che xⁿ+yⁿ=zⁿ”. Il teorema e’ rimasto irrisolto per circa 360 anni, ma e’ stato infine dimostrato nel 1995.
+Un teorema matematico affermante che “Per ogni intero n maggiore di 2, non esistono tre interi x, y, e z tali che xⁿ+yⁿ=zⁿ”. Il teorema e‘ rimasto irrisolto per circa 360 anni, ma e‘ stato infine dimostrato nel 1995.
 Akihabara
 BladeWorks
 BladeWorks
@@ -567,17 +567,17 @@ Altro
 Frattale
 Frattale
 frattale
-Nella geometria, una struttura che mostra auto similarità. La piu’ piccola porzione di un frattale appare simile alla struttura intera. Esempi comuni di frattali sono i fiocchi di neve e i litorali.
+Nella geometria, una struttura che mostra auto similarità. La piu‘ piccola porzione di un frattale appare simile alla struttura intera. Esempi comuni di frattali sono i fiocchi di neve e i litorali.
 Altro
 Effetto Placebo
 Effetto Placebo
 effetto placebo
-Un placebo e’ qualcosa che assomiglia a una medicina ma che non ha nessuna efficacia medica. Quando viene preso da un paziente che pensa di prendere una medicina, gli fornisce stabilità psicologica. Nonostante i placebo non hanno alcuna efficacia medica, esistono casi dove la condizione di un paziente migliora.
+Un placebo e‘ qualcosa che assomiglia a una medicina ma che non ha nessuna efficacia medica. Quando viene preso da un paziente che pensa di prendere una medicina, gli fornisce stabilità psicologica. Nonostante i placebo non hanno alcuna efficacia medica, esistono casi dove la condizione di un paziente migliora.
 Otaku
 Blood Tune
 Blood Tune
 blood tune
-(Non reale) Un popolare anime in TV. Basato su un manga. 26 episodi sono stati trasmessi l’anno scorso. L’eroina principale, Seira Orgel, e’ soprattutto popolare tra gli otaku.
+(Non reale) Un popolare anime in TV. Basato su un manga. 26 episodi sono stati trasmessi l’anno scorso. L’eroina principale, Seira Orgel, e‘ soprattutto popolare tra gli otaku.
 Internet
 FrePara
 FrePara
@@ -602,27 +602,27 @@ Chuunibyou
 Verthandi
 Verthandi
 verthandi
-La seconda delle tre Norne (dee del destino) nella mitologia Norrena. Le tre sorelle si occupano dell’Albero del Mondo, Yggdrasil, le cui radici giacciono nel Pozzo di Urd. Verthandi e’ la Norna del Presente. Reso popolare in Giappone da un certo manga della serie Goddess!
+La seconda delle tre Norne (dee del destino) nella mitologia Norrena. Le tre sorelle si occupano dell’Albero del Mondo, Yggdrasil, le cui radici giacciono nel Pozzo di Urd. Verthandi e‘ la Norna del Presente. Reso popolare in Giappone da un certo manga della serie Goddess!
 Otaku
 Scena di Trasformazione d’Archivio
 Henshin Bank
 scena di trasformazione d’archivio
-Si riferisce alle sequenze di trasformazione in “henshin hero” e nelle serie maho shojo. Visto che le scene di trasformazione d’archivio sono usate in quasi ogni episodio, la loro animazione viene preparata indipendentemente in anticipo. Come risultato, la qualità della produzione e’ spesso maggiore del resto dell’anime.
+Si riferisce alle sequenze di trasformazione in “henshin hero” e nelle serie maho shojo. Visto che le scene di trasformazione d’archivio sono usate in quasi ogni episodio, la loro animazione viene preparata indipendentemente in anticipo. Come risultato, la qualità della produzione e‘ spesso maggiore del resto dell’anime.
 Altro
 Cercapersone
 Pocket Bell
 cercapersone
-Uno dei primi metodi per ricevere messaggi wireless. La loro attività in Giappone e’ partita intorno al 1968. Dopo l’aggiunta del supporto ai dati testuali negli anni ’90, i cercapersone sono diventati popolari tra le ragazze delle superiori. Tuttavia, i cercapersone sono poi stati rimpiazzati dai cellulari. L’attività dei cercapersone e’ stata terminata nel 2007.
+Uno dei primi metodi per ricevere messaggi wireless. La loro attività in Giappone e‘ partita intorno al 1968. Dopo l’aggiunta del supporto ai dati testuali negli anni ’90, i cercapersone sono diventati popolari tra le ragazze delle superiori. Tuttavia, i cercapersone sono poi stati rimpiazzati dai cellulari. L’attività dei cercapersone e‘ stata terminata nel 2007.
 Altro
 Paradiso dei Pedoni
 Hokoten
 paradiso dei pedoni
-Alcuni quartieri di Tokyo, come Akihabara, vicino le strade principali in affollati giorni di shopping. Questo trasforma la strada in un enorme marciapiede, rendendo piu’ semplice l’accesso ai pedoni.
+Alcuni quartieri di Tokyo, come Akihabara, vicino le strade principali in affollati giorni di shopping. Questo trasforma la strada in un enorme marciapiede, rendendo piu‘ semplice l’accesso ai pedoni.
 Scienza
 Buco Bianco
 Buco Bianco
 buco bianco
-L’opposto di un buco nero. Mentre niente puo’ scappare ad un buco nero, tutto e’ espulso da un buco bianco. L’esistenza dei buchi bianchi e’ teoricamente possibile, ma e’ impossibile avere una dimostrazione. Non sono mai stati osservati.
+L’opposto di un buco nero. Mentre niente puo‘ scappare ad un buco nero, tutto e‘ espulso da un buco bianco. L’esistenza dei buchi bianchi e‘ teoricamente possibile, ma e‘ impossibile avere una dimostrazione. Non sono mai stati osservati.
 Otaku
 MacDyver
 MacDyver
@@ -642,12 +642,12 @@ Otaku
 Master Cheaton
 Master Cheaton
 master cheaton
-(Non reale) Un popolare fumetto giapponese pubblicato dal 1988 al 1994. Segue le attività del protagonista, che e’ un archeologo, un istruttore di sopravvivenza, e un investigatore assicurativo.
+(Non reale) Un popolare fumetto giapponese pubblicato dal 1988 al 1994. Segue le attività del protagonista, che e‘ un archeologo, un istruttore di sopravvivenza, e un investigatore assicurativo.
 Gadget Futuristico
 Ho costruito...
 Ho costruito un altro oggetto inutile, firmato Goemon
 Ho costruito...
-Gadget Futuristico N. 5.[linebreak]Creato combinando un asciugacapelli e un aspirapolvere. L’asciugacapelli e’ operato usando lo scarico dell’aspirapolvere. Il suo nome e’ un riferimento al popolare anime, “Lupants the Third”.
+Gadget Futuristico N. 5.[linebreak]Creato combinando un asciugacapelli e un aspirapolvere. L’asciugacapelli e‘ operato usando lo scarico dell’aspirapolvere. Il suo nome e‘ un riferimento al popolare anime, “Lupants the Third”.
 Chuunibyou
 Vero Nome
 Vero Nome
@@ -657,7 +657,7 @@ Otaku
 Miko Miko Overdrive
 Miko Miko Overdrive
 miko miko overdrive
-(Non reale) Un anime maho shojo con cinque ragazze miko come protagoniste. La sua audience target e’ quello delle adolescenti, ma molti ragazzi ventenni lo apprezzano, per qualche strana ragione.
+(Non reale) Un anime maho shojo con cinque ragazze miko come protagoniste. La sua audience target e‘ quello delle adolescenti, ma molti ragazzi ventenni lo apprezzano, per qualche strana ragione.
 Chuunibyou
 Mistilteinn
 Mistilteinn
@@ -672,7 +672,7 @@ Otaku
 Minmei Shobou
 Minmei Shobou
 minmei shobou
-Una casa editrice fittizia da un certo manga. In questo manga, Minmei Shobou pubblica libri su (fittizie) arti marziali. Su internet, “quotare” Minmei Shobou e’ un modo scherzoso per fare in modo che delle affermazioni sembrino reali.
+Una casa editrice fittizia da un certo manga. In questo manga, Minmei Shobou pubblica libri su (fittizie) arti marziali. Su internet, “quotare” Minmei Shobou e‘ un modo scherzoso per fare in modo che delle affermazioni sembrino reali.
 Otaku
 Maid Café
 Maid Café
@@ -687,22 +687,22 @@ Altro
 Spugna di Menger
 Spugna di Menger
 spugna di menger
-Un esempio di frattale. Prendi un cubo e fai le seguenti azioni: 1. Per ogni faccia del cubo, taglia un buco quadrato al centro con area pari a 1/9 della faccia. Ogni lato ora ha otto quadrati. 2. Per ognuno degli otto quadrati, taglia un nuovo buco con area pari a 1/9 del quadrato. 3. Ripetere un numero infinito di volte. Il risultato e’ una struttura simile a una spugna la cui area di superficie tende all’infinito mentre il suo volume tende a zero.
+Un esempio di frattale. Prendi un cubo e fai le seguenti azioni: 1. Per ogni faccia del cubo, taglia un buco quadrato al centro con area pari a 1/9 della faccia. Ogni lato ora ha otto quadrati. 2. Per ognuno degli otto quadrati, taglia un nuovo buco con area pari a 1/9 del quadrato. 3. Ripetere un numero infinito di volte. Il risultato e‘ una struttura simile a una spugna la cui area di superficie tende all’infinito mentre il suo volume tende a zero.
 Gadget Futuristico
 Moad Snake
 Moad Snake
 moad snake
-Gadget Futuristico N. 4.[linebreak]Un super-umidificatore istantaneo. Usa bobine di riscaldamento a induzione per riscaldare velocemente un grande volume di acqua. Questo genera abbastanza vapore da riempire una stanza di 12 metri quadri, anche se puo’ operare in maniera continua solo per pochi secondi. Sembra una mina claymore di terra, che fa piacere agli otaku militari. Il suo nome e’ un riferimento al gioco d’azione stealth, “Metal Moa Solid: Rising”.
+Gadget Futuristico N. 4.[linebreak]Un super-umidificatore istantaneo. Usa bobine di riscaldamento a induzione per riscaldare velocemente un grande volume di acqua. Questo genera abbastanza vapore da riempire una stanza di 12 metri quadri, anche se puo‘ operare in maniera continua solo per pochi secondi. Sembra una mina claymore di terra, che fa piacere agli otaku militari. Il suo nome e‘ un riferimento al gioco d’azione stealth, “Metal Moa Solid: Rising”.
 Gadget Futuristico
 Che sia Ora Ora!?
 Che sia Ora Ora!?
 che sia ora ora!?
-Gadget Futuristico N. 3.[linebreak]Una macchina della verità basata sulla sudorazione del pollice. Anche se dovrebbe essere piu’ appropriato chiamarlo un rilevatore di sudore, devi ammettere che e’ una invenzione abbastanza geniale. Il suo nome e’ un riferimento al manga classico, “JuJu’s Bizarre Adventure”.
+Gadget Futuristico N. 3.[linebreak]Una macchina della verità basata sulla sudorazione del pollice. Anche se dovrebbe essere piu‘ appropriato chiamarlo un rilevatore di sudore, devi ammettere che e‘ una invenzione abbastanza geniale. Il suo nome e‘ un riferimento al manga classico, “JuJu’s Bizarre Adventure”.
 Internet
 Video del Problema
 Problem Video
 video del problema
-Un mockup in CG di un mini buco nero generato dall’LHC che inghiotte la terra. E’ diventato virale quando e’ stato caricato su MewTube.
+Un mockup in CG di un mini buco nero generato dall’LHC che inghiotte la terra. E‘ diventato virale quando e‘ stato caricato su MewTube.
 Otaku
 Yuri
 Yuri
@@ -717,10 +717,10 @@ Otaku
 RaiNet Kakeru
 RaiNet Kakeru
 rainet kakeru
-(Non reale) Un manga popolare serializzato da LocoLoco Comics. La terza stagione dell’adattamento anime e’ attualmente in onda su ToTV. Anche se la serie e’ apparentemente mirata ai bambini, i temi realistici mostrati attraggono anche gli adulti.
-Sempre piu’ bambini imparano a conoscere internet attraverso questo anime. Ha raggiunto il ponte dove alcuni studiosi affermano che i bambini sono meglio informati riguardo ai problemi di internet rispetto ai loro genitori. Alcune persone hanno anche chiamato questa nuova generazione “RaiNet Children”.
-Alcuni politici e organizzazioni hanno fortemente criticizzato la serie per “incoraggiare i bambini a diventare hikikomori” idealizzando ragazzi e ragazze ossessionati con i computer. Tuttavia, una buona parte degli adulti loda la serie per aver insegnato ai bambini sulle possibilità di internet, moralità su internet, violazione del copyright, e protezione della privacy. Cio’ ha contribuito al successo di RaiNet.
-Anche se la serie stimola la curiosità intellettuale, non e’ solamente un programma educativo. Mentre Kakeru combatte i terroristi nel cyberspazio, le sue tecniche e programmi sono rappresentati come robot virtuali mentre i virus dei suoi nemici assumono la forma di mostri. Questo rende i confronti facili da visualizzare, con tempestivi cambi di prospettiva che mostrano sia le tecniche del protagonista dentro il computer, sia il lavoro di squadra dei amici fuori dal computer.
+(Non reale) Un manga popolare serializzato da LocoLoco Comics. La terza stagione dell’adattamento anime e‘ attualmente in onda su ToTV. Anche se la serie e‘ apparentemente mirata ai bambini, i temi realistici mostrati attraggono anche gli adulti.
+Sempre piu‘ bambini imparano a conoscere internet attraverso questo anime. Ha raggiunto il ponte dove alcuni studiosi affermano che i bambini sono meglio informati riguardo ai problemi di internet rispetto ai loro genitori. Alcune persone hanno anche chiamato questa nuova generazione “RaiNet Children”.
+Alcuni politici e organizzazioni hanno fortemente criticizzato la serie per “incoraggiare i bambini a diventare hikikomori” idealizzando ragazzi e ragazze ossessionati con i computer. Tuttavia, una buona parte degli adulti loda la serie per aver insegnato ai bambini sulle possibilità di internet, moralità su internet, violazione del copyright, e protezione della privacy. Cio‘ ha contribuito al successo di RaiNet.
+Anche se la serie stimola la curiosità intellettuale, non e‘ solamente un programma educativo. Mentre Kakeru combatte i terroristi nel cyberspazio, le sue tecniche e programmi sono rappresentati come robot virtuali mentre i virus dei suoi nemici assumono la forma di mostri. Questo rende i confronti facili da visualizzare, con tempestivi cambi di prospettiva che mostrano sia le tecniche del protagonista dentro il computer, sia il lavoro di squadra dei amici fuori dal computer.
 Chuunibyou
 Ragnarok
 Ragnarok
@@ -730,7 +730,7 @@ Otaku
 Light Novel
 Ranobe
 light novel
-Racconti illustrati mirati principalmente a un pubblico maschile di teenager e giovani adulti. Le copertine spesso mostrano ragazze carine. Anche se le light novel possono trattare piu’ o meno ogni argomento, recentemente si e’ visto un trend verso storie riguardanti ragazzi teenager che incontrano ragazze carine e ritrovarsi in situazioni straordinarie.
+Racconti illustrati mirati principalmente a un pubblico maschile di teenager e giovani adulti. Le copertine spesso mostrano ragazze carine. Anche se le light novel possono trattare piu‘ o meno ogni argomento, recentemente si e‘ visto un trend verso storie riguardanti ragazzi teenager che incontrano ragazze carine e ritrovarsi in situazioni straordinarie.
 Internet
 Normali
 Riajuu
@@ -740,15 +740,15 @@ Scienza
 Teletrasporto Quantistico
 Teletrasporto Quantistico
 teletrasporto quantistico
-Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiché sono una coppia, godono della proprietà di simmetria -- se una mostra up-spin, l’altra mostrerà down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e’ chiamato entanglement.
-Lo stato di una particella elementare (fotone) non puo’ essere confermato fino a quando non viene osservato. Per l’esperimento, colleghiamo i dati C, l’informazione da teletrasportare, al Fotone A. Ora stiamo osservando il fotone A-C. In base alla proprietà di simmetria, sappiamo che, non importa quanto distanti, il Fotone B cambierà, diventando effettivamente B-C. (Notare che il Fotone B non e’ stato ancora osservato).
-Successivamente, trasmettiamo le informazioni del Fotone A-C dall’equipaggiamento di osservazione di A all’equipaggiamento di osservazione di B attraverso una trasmissione standard. Ora, osservare il Fotone B lo farà diventare il “Fotone B-C”. Questo processo e’ chiamato teletrasporto quantistico perché i dati C cambiano posizione istantaneamente.
-Tuttavia, visto che un passo richiede mezzi standard per la trasmissione dei dati, e’ impossibile superare la velocità della luce. Infine, i dati C del Fotone B-C “teletrasportati” sono in realtà una copia dei dati C del Fotone A-C. La posizione dell’originale Fotone C diventa sconosciuta. Questo punto separa il teletrasporto quantistico da quello idealizzato.
+Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiché sono una coppia, godono della proprietà di simmetria -- se una mostra up-spin, l’altra mostrerà down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e‘ chiamato entanglement.
+Lo stato di una particella elementare (fotone) non puo‘ essere confermato fino a quando non viene osservato. Per l’esperimento, colleghiamo i dati C, l’informazione da teletrasportare, al Fotone A. Ora stiamo osservando il fotone A-C. In base alla proprietà di simmetria, sappiamo che, non importa quanto distanti, il Fotone B cambierà, diventando effettivamente B-C. (Notare che il Fotone B non e‘ stato ancora osservato).
+Successivamente, trasmettiamo le informazioni del Fotone A-C dall’equipaggiamento di osservazione di A all’equipaggiamento di osservazione di B attraverso una trasmissione standard. Ora, osservare il Fotone B lo farà diventare il “Fotone B-C”. Questo processo e‘ chiamato teletrasporto quantistico perché i dati C cambiano posizione istantaneamente.
+Tuttavia, visto che un passo richiede mezzi standard per la trasmissione dei dati, e‘ impossibile superare la velocità della luce. Infine, i dati C del Fotone B-C “teletrasportati” sono in realtà una copia dei dati C del Fotone A-C. La posizione dell’originale Fotone C diventa sconosciuta. Questo punto separa il teletrasporto quantistico da quello idealizzato.
 Otaku
 Louise-chan
 Louise-chan
 louise-chan
-(Non reale) La principale eroina dell’anime “The Familiar of Ten”. Una tsundere. La sua doppiatrice e’ la Regina delle Tsundere, Sugimiya Rie (soprannominata Sugyuu).
+(Non reale) La principale eroina dell’anime “The Familiar of Ten”. Una tsundere. La sua doppiatrice e‘ la Regina delle Tsundere, Sugimiya Rie (soprannominata Sugyuu).
 Chuunibyou
 Forziere di Laegjarn
 Forziere di Laegjarn
@@ -758,17 +758,17 @@ Chuunibyou
 Alchimia
 Alchimia
 alchimia
-L’arte di prendere una cosa e trasmutarla in un’altra. Nella finzione, anche corpi umani e anime possono essere trasmutate. Lo scambio equivalente e’ una legge fondamentale dell’alchimia. Nel Medioevo, gli alchimisti hanno provato ad usare processi chimici per trasmutare metalli comuni, come piombo, in metalli preziosi, come l’oro. I loro sforzi hanno pavimentato la strada per la chimica moderna.
+L’arte di prendere una cosa e trasmutarla in un’altra. Nella finzione, anche corpi umani e anime possono essere trasmutate. Lo scambio equivalente e‘ una legge fondamentale dell’alchimia. Nel Medioevo, gli alchimisti hanno provato ad usare processi chimici per trasmutare metalli comuni, come piombo, in metalli preziosi, come l’oro. I loro sforzi hanno pavimentato la strada per la chimica moderna.
 Akihabara
 Low Angler
 Low Angler
 low angler
-Fotografo che fa foto alle cosplayer e idol da un angolo basso. Si puo’ trovare dove si riuniscono i cosplayer, come il ComiMa o il paradiso dei pedoni di Akihabara.
+Fotografo che fa foto alle cosplayer e idol da un angolo basso. Si puo‘ trovare dove si riuniscono i cosplayer, come il ComiMa o il paradiso dei pedoni di Akihabara.
 Altro
 Lobotomia
 Lobotomia
 lobotomia
-Una operazione chirurgica al cervello per disordini mentali. Viene fatto un piccolo buco nel cranio, e il lobo frontale viene tagliato con un lungo bisturi. Esistono casi dove questa tecnica ha curato disordini mentali, al punto di far guadagnare al suo inventore un premio Nobel. Tuttavia, la tecnica puo’ anche causare effetti collaterali seri come la perdita di umanità. Negli anni ’70, molti paese hanno proibito il processo.
+Una operazione chirurgica al cervello per disordini mentali. Viene fatto un piccolo buco nel cranio, e il lobo frontale viene tagliato con un lungo bisturi. Esistono casi dove questa tecnica ha curato disordini mentali, al punto di far guadagnare al suo inventore un premio Nobel. Tuttavia, la tecnica puo‘ anche causare effetti collaterali seri come la perdita di umanità. Negli anni ’70, molti paese hanno proibito il processo.
 Altro
 ACTH
 Corticotropina
@@ -793,7 +793,7 @@ Altro
 Tubo di Braun
 Tubo di Braun
 tubo di braun
-Un altro nome per il tubo a raggi catodici (CRT). Questo nome e’ usato comunemente in Germania e Giappone. Deriva dal nome dell’inventore del tubo a raggi catodici, Karl Ferdinand Braun.
+Un altro nome per il tubo a raggi catodici (CRT). Questo nome e‘ usato comunemente in Germania e Giappone. Deriva dal nome dell’inventore del tubo a raggi catodici, Karl Ferdinand Braun.
 Altro
 DOS
 DOS
@@ -803,7 +803,7 @@ Internet
 Risposta Definitiva
 Risposta Definitiva
 risposta definitiva
-Abbreviato in FA (Final Answer) in Giapponese. Usato nella domanda “E’ la tua risposta definitiva?”. Nasce da un popolare telequiz con partecipanti che volevano essere milionari.
+Abbreviato in FA (Final Answer) in Giapponese. Usato nella domanda “E‘ la tua risposta definitiva?”. Nasce da un popolare telequiz con partecipanti che volevano essere milionari.
 Internet
 HTML
 HTML
@@ -818,17 +818,17 @@ Altro
 IBN
 IBN
 ibn
-(Non reale) Una compagnia di computer americana. Non solo sviluppano e vendono hardware e software, offrono anche servizi e consulenza per le aziende. Recentemente, quest’ultimo e’ stato il principale servizio. La IBN ha inventato i floppy disk e gli hard disk drive (HDD).
+(Non reale) Una compagnia di computer americana. Non solo sviluppano e vendono hardware e software, offrono anche servizi e consulenza per le aziende. Recentemente, quest’ultimo e‘ stato il principale servizio. La IBN ha inventato i floppy disk e gli hard disk drive (HDD).
 Altro
 MI6
 MI6
 mi6
-Nel Regno Unito, l’organizzazione governativa responsabile per le operazioni di intelligence all’estero. MI6 sta per Military Intelligence, Sezione 6. Tuttavia, il suo nome ufficiale e’ Secret Intelligence Service (SIS).
+Nel Regno Unito, l’organizzazione governativa responsabile per le operazioni di intelligence all’estero. MI6 sta per Military Intelligence, Sezione 6. Tuttavia, il suo nome ufficiale e‘ Secret Intelligence Service (SIS).
 Internet
 Mindorz
 Mindorz
 mindorz
-(Non reale) Il sistema operativo piu’ utilizzato al mondo.
+(Non reale) Il sistema operativo piu‘ utilizzato al mondo.
 Internet
 orz
 orz
@@ -838,12 +838,12 @@ Altro
 PTSD
 Disturbo da stress post-traumatico
 ptsd
-Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del ’Diagnostic and Statistical Manual of Mental Disorders’ pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilità emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu’ di un mese.
+Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del ’Diagnostic and Statistical Manual of Mental Disorders’ pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilità emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu‘ di un mese.
 Scienza
 SERN
 SERN
 sern
-(Non reale) Acronimo francese che sta per “Societé Européenne pour la Recherche Nucléaire”, o “Società europea per la ricerca nucleare”. Il piu’ grande laboratorio di fisica sulle particelle elementari al mondo, situato sul confine Franco-Svizzero vicino Ginevra. Ha una banca, una biblioteca, un ufficio postale, e un dormitorio sul posto. Scienziati da tutto il mondo si riuniscono al SERN per studiare la fisica delle particelle.
+(Non reale) Acronimo francese che sta per “Societé Européenne pour la Recherche Nucléaire”, o “Società europea per la ricerca nucleare”. Il piu‘ grande laboratorio di fisica sulle particelle elementari al mondo, situato sul confine Franco-Svizzero vicino Ginevra. Ha una banca, una biblioteca, un ufficio postale, e un dormitorio sul posto. Scienziati da tutto il mondo si riuniscono al SERN per studiare la fisica delle particelle.
 Akihabara
 UPX
 UPX
@@ -853,7 +853,7 @@ Internet
 VIP
 VIP
 vip
-Il “Newsflash VIP Board” di @channel. Anche se apparentemente per le discussioni di notizie, e’ attualmente dominato da thread di chat non attive.
+Il “Newsflash VIP Board” di @channel. Anche se apparentemente per le discussioni di notizie, e‘ attualmente dominato da thread di chat non attive.
 Internet
 Wiki
 Wiki
@@ -873,17 +873,17 @@ Altro
 X68000
 X68000
 x68000
-Un PC a 16-bit venduto in Giappone alla fine degli anni ’80. Il suo particolare case a torri gemelle e’ stato soprannominato “a forma di Manhattan”.
+Un PC a 16-bit venduto in Giappone alla fine degli anni ’80. Il suo particolare case a torri gemelle e‘ stato soprannominato “a forma di Manhattan”.
 Altro
 1.21 Jigowatts
 1.21 Jigowatts
 1.21 jigowatts
-Deriva da una trilogia di film di Hollywood degli anni ’80 riguardanti le macchine del tempo e i paradossi temporali. Nel primo film, l’inventore della macchina del tempo ha detto che servivano “1.21 jigowatts” di potenza per poter viaggiare nel tempo. In realtà, l’unità “jigowatt” non esiste. Lo sceneggiatore ha commesso un errore di spelling. La corretta unità e’ gigawatt.
+Deriva da una trilogia di film di Hollywood degli anni ’80 riguardanti le macchine del tempo e i paradossi temporali. Nel primo film, l’inventore della macchina del tempo ha detto che servivano “1.21 jigowatts” di potenza per poter viaggiare nel tempo. In realtà, l’unità “jigowatt” non esiste. Lo sceneggiatore ha commesso un errore di spelling. La corretta unità e‘ gigawatt.
 Altro
 Millennium Bug
 Y2K
 y2k
-Popolarmente conosciuto come Y2K bug. Al volgere del 21esimo secolo, c’era preoccupazione sulla possibilità di un fallimento di massa dei computer quando sarebbe arrivato l’anno 2000. Con l’obiettivo di risparmiare spazio, i vecchi sistemi operativi quasi sempre abbreviavano gli anni alle ultime due cifre. Quindi, quando 1999 e’ diventato 2000, le ultime due cifre sarebbero passate da 99 a 00.
+Popolarmente conosciuto come Y2K bug. Al volgere del 21esimo secolo, c’era preoccupazione sulla possibilità di un fallimento di massa dei computer quando sarebbe arrivato l’anno 2000. Con l’obiettivo di risparmiare spazio, i vecchi sistemi operativi quasi sempre abbreviavano gli anni alle ultime due cifre. Quindi, quando 1999 e‘ diventato 2000, le ultime due cifre sarebbero passate da 99 a 00.
 Se il comportamento non fosse stato risolto con la programmazione, il computer potrebbe erroneamente assumere che l’anno sarebbe 1900. Si diceva che i computer nel campo militare, finanziario, e governativo potevano malfunzionare e causare una catastrofe globale. Per risolvere il problema, sono state prese delle contromisure nella metà degli anni ’90 per aggiornare manualmente ogni programma. Come risultato, il problema dell’anno 2000 era stato risolto.
 Otaku
 Ragazza 2D
@@ -895,17 +895,17 @@ Comitato dei 300
 Comitato dei 300
 comitato dei 300
 I padroni invisibili. Una organizzazione segreta che si dice manipoli il mondo da dietro le quinte.[linebreak]Alcuni credono che le tante società segrete di cui parlano i complottisti siano solo marionette del Comitato dei 300.
-Una teoria afferma che l’obiettivo finale del Comitato dei 300 e’ di stabilire un governo totalitario globale. Tralasciando gli elite, la popolazione del mondo sarà ridotta a un miliardo, e che quel miliardo sarà schiavizzato.
+Una teoria afferma che l’obiettivo finale del Comitato dei 300 e‘ di stabilire un governo totalitario globale. Tralasciando gli elite, la popolazione del mondo sarà ridotta a un miliardo, e che quel miliardo sarà schiavizzato.
 Scienza
 4D
 4D
 4d
-Lo spazio-tempo quadri-dimensionale e’ formato dalle tre dimensioni spaziali piu’ la quarta dimensione, Tempo. Esseri tri-dimensionali, come gli umani, possono muoversi nelle tre dimensioni spaziali. Un essere quadri-dimensionale sarebbe in grado di muoversi nel tempo cosi’ come gli umani possono muoversi attraverso l’aria.
+Lo spazio-tempo quadri-dimensionale e‘ formato dalle tre dimensioni spaziali piu‘ la quarta dimensione, Tempo. Esseri tri-dimensionali, come gli umani, possono muoversi nelle tre dimensioni spaziali. Un essere quadri-dimensionale sarebbe in grado di muoversi nel tempo cosi‘ come gli umani possono muoversi attraverso l’aria.
 Altro
 98
 98
 98
-Una serie di PC giapponesi venduta dalla metà degli anni ’80 fino alla metà degli anni ’90. Ha venduto cosi’ bene che ad un certo punto, e’ stato chiamato “il computer nazionale”.
+Una serie di PC giapponesi venduta dalla metà degli anni ’80 fino alla metà degli anni ’90. Ha venduto cosi‘ bene che ad un certo punto, e‘ stato chiamato “il computer nazionale”.
 Internet
 @channel
 At Channel
@@ -915,12 +915,12 @@ Altro
 Beta-endorfina
 Beta-endorfina
 beta-endorfina
-Un neurotrasmettitore secreto dal cervello. Sopprime in maniera efficace dolore e stress, producendo euforia. L’effetto noto come “sballo del corridore” puo’ essere spiegato dalla secrezione di questa beta endorfina.
+Un neurotrasmettitore secreto dal cervello. Sopprime in maniera efficace dolore e stress, producendo euforia. L’effetto noto come “sballo del corridore” puo‘ essere spiegato dalla secrezione di questa beta endorfina.
 Otaku
 Ma mi rifiuto
 daga kotowaru
 ma mi rifiuto
-Una citazione dal popolare manga, Juju’s Bizarre Adventures. Su internet, e’ usato frequentemente come un modo figo per rifiutare qualcosa.
+Una citazione dal popolare manga, Juju’s Bizarre Adventures. Su internet, e‘ usato frequentemente come un modo figo per rifiutare qualcosa.
 Altro
 Dori
 Dori
@@ -930,19 +930,19 @@ Otaku
 Doujinshi
 Doujinshi
 doujinshi
-Manga amatoriale creato da un fan, che spesso ma non sempre sono per adulti. Sono venduti ad eventi speciali per i doujinshi, dei quali il piu’ grande e’ il semestrale Comic Giga Market, conosciuto dai fan come ComiMa.
+Manga amatoriale creato da un fan, che spesso ma non sempre sono per adulti. Sono venduti ad eventi speciali per i doujinshi, dei quali il piu‘ grande e‘ il semestrale Comic Giga Market, conosciuto dai fan come ComiMa.
 Altro
 Onorifici (Giapponese)
 Onorifici (Giapponese)
 onorifici (japanese)
-I giapponesi usano un sistema di suffissi che definiscono la relazione della persona che sta parlando verso il destinatario. Gli onorifici piu’ comuni sono i seguenti.[linebreak]SAN: L’onorifico piu’ comune. Usato con gli stranieri, le persone di status uguale, e in generale bisogna essere gentili. Se usato dopo un nome (Kyouma-san), indica una relazione piu’ stretta.
+I giapponesi usano un sistema di suffissi che definiscono la relazione della persona che sta parlando verso il destinatario. Gli onorifici piu‘ comuni sono i seguenti.[linebreak]SAN: L’onorifico piu‘ comune. Usato con gli stranieri, le persone di status uguale, e in generale bisogna essere gentili. Se usato dopo un nome (Kyouma-san), indica una relazione piu‘ stretta.
 KUN: Un suffisso informale solitamente usato per amici o subordinati maschi. Usato anche dai maschi verso donne subordinate in ambienti professionali.[linebreak]CHAN: Un suffisso diminutivo che indica un elevato affetto, tipicamente usato per i bambini, giovani ragazze, o tra amiche strette.
-TAN: Una versione ancora piu’ diminutiva del suffisso -chan. Molto spesso usato per personaggi fittizi, soprattutto antropomorfizzazioni, per una maggiore tenerezza.[linebreak]SHI: Un onorifico letterario usato tipicamente dalle pubblicazioni ufficiali come i giornali. Alcuni otaku, come Daru, usano -shi regolarmente.
+TAN: Una versione ancora piu‘ diminutiva del suffisso -chan. Molto spesso usato per personaggi fittizi, soprattutto antropomorfizzazioni, per una maggiore tenerezza.[linebreak]SHI: Un onorifico letterario usato tipicamente dalle pubblicazioni ufficiali come i giornali. Alcuni otaku, come Daru, usano -shi regolarmente.
 Altro
 Miko
 Miko
 miko
-Le fanciulle del santuario (sacerdotesse) nella religione Shinto. Le Miko tipicamente indossano un kimono bianco con un 『hakama』 o gonna rossa. Il loro ruolo e’ quello di assistere i sacerdoti nell’esecuzione di rituali ed eventi.
+Le fanciulle del santuario (sacerdotesse) nella religione Shinto. Le Miko tipicamente indossano un kimono bianco con un 『hakama』 o gonna rossa. Il loro ruolo e‘ quello di assistere i sacerdoti nell’esecuzione di rituali ed eventi.
 Altro
 Macchia mongolica
 Macchia mongolica
@@ -952,38 +952,38 @@ Altro
 Obon
 Obon
 obon
-Una festa giapponese durante la quale le persone ritornano nelle loro città natali per vedere genitori e parenti. Cio’ include anche rispettare i membri della famiglia morti, visitando e ripulendo le loro tombe.
+Una festa giapponese durante la quale le persone ritornano nelle loro città natali per vedere genitori e parenti. Cio‘ include anche rispettare i membri della famiglia morti, visitando e ripulendo le loro tombe.
 Otaku
 Otaku
 Otaku
 otaku
-Un termine per le persone che hanno un interesse ossessivo per un particolare argomento. Hobbisti. Molto spesso e’ riferito verso i fan di anime, manga, e videogiochi, ma esistono anche otaku dei treni, otaku militari, otaku dell’elettronica, etc.
+Un termine per le persone che hanno un interesse ossessivo per un particolare argomento. Hobbisti. Molto spesso e‘ riferito verso i fan di anime, manga, e videogiochi, ma esistono anche otaku dei treni, otaku militari, otaku dell’elettronica, etc.
 Altro
 Oonusa
 Oonusa
 oonusa
-Una bacchetta che e’ trasportata da un sacerdote Shinto, adornato con carta 『shide』. E’ usato nei rituali di benedizione per scacciare gli spiriti maligni.
+Una bacchetta che e‘ trasportata da un sacerdote Shinto, adornato con carta 『shide』. E‘ usato nei rituali di benedizione per scacciare gli spiriti maligni.
 Chuunibyou
 Il Sistema
 Il Sistema
 il sistema
-Il Sistema e’ il modo con il quale l’Organizzazione mantiene la sua presa sull’umanità. La sua portata e’ troppo enorme per essere compresa, ma e’ sufficiente dire che il Sistema fornisce all’Organizzazione potere su governo, religione, media, cultura, e scienza in tutto il mondo. Molte persone non sanno neanche che le loro vite sono controllate dal Sistema.
-E’ cosi’ profondamente integrato nel tessuto della società che la moderna civiltà non sarebbe in grado di funzionare senza di esso. Distruggere il Sistema, di conseguenza, affonderebbe il mondo nel caos.
+Il Sistema e‘ il modo con il quale l’Organizzazione mantiene la sua presa sull’umanità. La sua portata e‘ troppo enorme per essere compresa, ma e‘ sufficiente dire che il Sistema fornisce all’Organizzazione potere su governo, religione, media, cultura, e scienza in tutto il mondo. Molte persone non sanno neanche che le loro vite sono controllate dal Sistema.
+E‘ cosi‘ profondamente integrato nel tessuto della società che la moderna civiltà non sarebbe in grado di funzionare senza di esso. Distruggere il Sistema, di conseguenza, affonderebbe il mondo nel caos.
 Internet
 Grazie mille
 hontou ni arigatou gozaimashita
 grazie mille
-Questa frase e’ comunemente usata su internet come modo per punteggiare una affermazione. Nasce da una storia, postata su @channel, in cui un uomo ha provato a passare i suoi fluidi corporei come una bevanda popolare. “Ovviamente era       , grazie mille”.
+Questa frase e‘ comunemente usata su internet come modo per punteggiare una affermazione. Nasce da una storia, postata su @channel, in cui un uomo ha provato a passare i suoi fluidi corporei come una bevanda popolare. “Ovviamente era       , grazie mille”.
 Otaku
 Ecco perché ti adoriamo
 soko ni shibireru akogareru
 ecco perché ti adoriamo
 Citazione completa: “Ecco perché ti adoriamo! Ecco perché ti ammiriamo!”[linebreak]Una citazione dal popolare manga, Juju’s Bizarre Adventures. Usato per esprimere stupore per le capacità di qualcuno. Spesso usato sarcasticamente con riferimento a tratti negativi di un personaggio come la meschinità.
 Otaku
-Questo ragazzo e’ senza speranza
+Questo ragazzo e‘ senza speranza
 dame da koitsu, hayaku nantoka shinai to
-questo ragazzo e’ senza speranza
-Una citazione da un popolare manga sui quaderni della morte. Pronunciata dal protagonista in riferimento alla sua complice. Frase originale: “Questa ragazza e’ senza speranza. Meglio che faccia qualcosa alla svelta”. Usato per esprimere esasperazione.
+questo ragazzo e‘ senza speranza
+Una citazione da un popolare manga sui quaderni della morte. Pronunciata dal protagonista in riferimento alla sua complice. Frase originale: “Questa ragazza e‘ senza speranza. Meglio che faccia qualcosa alla svelta”. Usato per esprimere esasperazione.
 Otaku
 Che persona terrificante!
 osoroshii ko
@@ -1003,4 +1003,4 @@ Chuunibyou
 Esper
 Esper
 esper
-Un termine generale per gli umani che possiedono poteri soprannaturali. Poteri comuni includono la telepatia, telecinesi, e premonizioni, anche se esistono poteri piu’ esotici. Si dice che alcuni esper abbiano addirittura l’abilità di rimodellare la realtà con la semplice forza di volontà. Deriva dal termine ESP, che sta per “percezione extrasensoriale”.
+Un termine generale per gli umani che possiedono poteri soprannaturali. Poteri comuni includono la telepatia, telecinesi, e premonizioni, anche se esistono poteri piu‘ esotici. Si dice che alcuni esper abbiano addirittura l’abilità di rimodellare la realtà con la semplice forza di volontà. Deriva dal termine ESP, che sta per “percezione extrasensoriale”.

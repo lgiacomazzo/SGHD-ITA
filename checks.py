@@ -64,12 +64,12 @@ def main():
         new_line = new_line.replace("'", "’")
         new_line = new_line.replace("?.", "?")
         new_line = new_line.replace("!.", "!")
-        new_line = new_line.replace('È', 'E’')
-        new_line = new_line.replace('Ì', 'I’')
-        new_line = new_line.replace('è', 'e’')
-        new_line = new_line.replace('ì', 'i’')
-        new_line = new_line.replace('ò', 'o’')
-        new_line = new_line.replace('ù', 'u’')
+        new_line = new_line.replace('È', 'E‘')
+        new_line = new_line.replace('Ì', 'I‘')
+        new_line = new_line.replace('è', 'e‘')
+        new_line = new_line.replace('ì', 'i‘')
+        new_line = new_line.replace('ò', 'o‘')
+        new_line = new_line.replace('ù', 'u‘')
         new_line = new_line + '\n'
         new_lines.append(new_line)
     with open(filename, 'w', encoding='utf-8') as file:

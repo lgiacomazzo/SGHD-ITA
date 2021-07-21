@@ -40,14 +40,14 @@ poi:
  (no regex) ' -> ’
 - CONTROLLARE SEMPRE CHE I CARATTERI " rimasti siano quelli giusti (non violano le regole di sopra)
 - NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’, LA RICERCA NON E' CASE INSENSITIVE)
-	È -> E’
+	È -> E‘
 	e’ -> é ["e’" solo per quelli che sono grammaticamente corretti in quel caso] (valutare caso per caso)
-	è -> e’
-	Ì -> I’
-	ì -> i’
-	ò -> o’
-	ù -> u’
 	a’ -> à (valutare caso per caso)
+	è -> e‘
+	Ì -> I‘
+	ì -> i‘
+	ò -> o‘
+	ù -> u‘
 	
 - Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
 
