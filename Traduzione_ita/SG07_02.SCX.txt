@@ -144,7 +144,7 @@ This proves that my magic eye, Reading Steiner, does indeed allow me to perceive
 But what does 0.409431% mean?[%p]
 I recall what Suzuha said.[%p]
 [name]Suzuha[line]“When the meter reads over 1%, you’ve made it to the Beta linea di universo.”[%p]
-Does that mean I’m still on the Alpha linea di universo?[%p]
+Does that mean I’m still on the Alfa linea di universo?[%p]
 [name]Tennouji[line]“Do you know what that number means?”[%p]
 [name]Tennouji[line]“’Cause I sure don’t. All I know is it hasn’t changed a bit these ten years.”[%p]
 [name]Tennouji[line]“But you know...”[%p]

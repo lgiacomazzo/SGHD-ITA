@@ -853,7 +853,7 @@ Internet
 VIP
 VIP
 vip
-Il “Newsflash VIP Board” di @channel. Anche se apparentemente per le discussioni di notizie, e‘ attualmente dominato da thread di chat non attive.
+La “Newsflash VIP Board” di @channel. Anche se apparentemente per le discussioni di notizie, e‘ attualmente dominato da thread di chat non attive.
 Internet
 Wiki
 Wiki
