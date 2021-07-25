@@ -802,22 +802,22 @@ Microonde Telefonico
 
 
 Microonde Telefonico
-Ferma ricerca
+Stop ricerca
 
 Microonde Telefonico
-Ferma ricerca ultima email
+Stop ricerca ultima mail
 
 Microonde Telefonico
-Ferma ricerca ultima email trappola SERN
+Stop ricerca ultima mail e‘ trap SERN
 
 Hououin Kyouma
-trappola SERN
+ e‘ trap SERN
 
 Hououin Kyouma
- ultima email 
+ ultima mail
 
 Hououin Kyouma
-Ferma ricerca
+Stop ricerca
 
 Faris
 
