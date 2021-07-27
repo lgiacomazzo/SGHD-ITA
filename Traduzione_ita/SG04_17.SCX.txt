@@ -20,7 +20,7 @@ Quando usciamo dall’ascensore, l’anziano uomo del citofono e‘ li‘ per co
 Si rivela essere un signore dai capelli argentati in smoking.[%p]
 [name]Mayuri[line]“Un vero maggiordomo dal vivo...”[%p]
 Ha davvero l’aspetto di un maggiordomo stereotipato. Si adatta cosi‘ bene alla situazione che non si potrebbe pensare che sia qualcos’altro.[%p]
-[name]Butler[line]“Signora. Il signor Hououin Kyouma e i suoi amici sono arrivati.”[%p]
+[name]Maggiordomo[line]“Signora. Il signor Hououin Kyouma e i suoi amici sono arrivati.”[%p]
 Il maggiordomo ci conduce in una stanza.[%p]
 Faris e‘ in piedi davanti a una grande finestra con una vista panoramica di Akiba.[%p]
 [name]Faris[line]“Grazie, Kuroki nya.”[%p]

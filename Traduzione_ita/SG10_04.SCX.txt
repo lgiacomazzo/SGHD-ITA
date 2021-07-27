@@ -199,7 +199,7 @@ Kurisu suddenly changes the subject. She looks around the dark, empty stairwell.
 [name]Kurisu[line]“And we’re the only two people left.”[%p]
 [name]Rintaro[line]“...”[%p]
 [name]Kurisu[line]“I’ve been thinking.”[%p]
-[name]Kurisu[line]“Say you go to the Beta linea di universo, and everyone else goes with you.”[%p]
+[name]Kurisu[line]“Say you go to the linea di universo Beta, and everyone else goes with you.”[%p]
 [name]Kurisu[line]“What if I can’t go with you? What if I’m the only one left behind?”[%p]
 [name]Kurisu[line]“Would the entire world become like this place?”[%p]
 [name]Kurisu[line]“It’s just a theory... but I can’t help but wonder.”[%p]

@@ -27,7 +27,7 @@ I approach the woman and stare down at her, gritting my teeth in a desperate eff
 Ever since the first time she killed Mayuri, I’ve tried my best to avoid thinking about this woman.[%p]
 But now, I have no choice.[%p]
 I can’t accomplish my goal until I have the answers I need from her.[%p]
-I must obtain the IBN 5100 to escape the Alfa campo attrattore and rescue Mayuri.[%p]
+I must obtain the IBN 5100 to escape the Campo Attrattore Alfa and rescue Mayuri.[%p]
 [name]Rintaro[line]“...Kiryu Moeka.”[%p]
 I had another name for her once. It hurts to remember. I force it to the back of my mind.[%p]
 [name]Rintaro[line]“Can you hear me?”[%p]
