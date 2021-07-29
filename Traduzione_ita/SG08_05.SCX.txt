@@ -72,7 +72,7 @@ Ma sento piu‘ il bisogno di proteggerla, piuttosto che un amore romantico nei 
 [name]Rintaro[line]“Perché sei arrabbiata? Inoltre, la tua faccia e‘ rossa.”[%p]
 [name]Kurisu[line]“Non lo e‘!”[%p]
 [name]Kurisu[line]“A-ad ogni modo! Dovresti uscire con Urushibara-san!”[%p]
-[name]Rintaro[line]“\.\.\.Davvero?”[%p]
+[name]Rintaro[line]“...Davvero?”[%p]
 [name]Kurisu[line]“A-a te non piace nessun altro, giusto? Allora rispondi ai suoi sentimenti, idiota.”[%p]
 Cosa ho fatto per meritare questo insulto?[%p]
 [name]Rintaro[line]“Mayuri morirà tra due giorni. Non ho tempo per giocare al fidanzato.”[%p]
