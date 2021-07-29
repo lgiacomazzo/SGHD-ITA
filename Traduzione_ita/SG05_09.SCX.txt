@@ -5,7 +5,7 @@ E‘ tornata prima questa sera, dopo aver consegnato un altro costume alla sua a
 A pensarci bene, di solito va a casa verso le 7 o le 8, ma oggi e‘ ancora al lavoro.[%p]
 [name]Rintaro[line]“Mayuri, vai a casa prima che si faccia troppo tardi. I tuoi genitori si preoccuperanno.”[%p]
 [name]Mayuri[line]“Va bene. Restero‘ per la notte.”[%p]
-[name]Rintaro[line]“... Davvero?”[%p]
+[name]Rintaro[line]“...Davvero?”[%p]
 Non l’aveva mai fatto prima.[%p]
 [name]Mayuri[line]“Si‘. L’ho già detto a mamma e papà.”[%p]
 [name]Rintaro[line]“Resti per lavorare al tuo costume?”[%p]

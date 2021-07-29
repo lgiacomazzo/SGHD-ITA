@@ -1,4 +1,4 @@
-[name]Rintaro[line]“... che caldo.”[%p]
+[name]Rintaro[line]“...che caldo.”[%p]
 Sono stato all’università per tutta la mattina. Mentre torno ad Akiba il caldo diventa sempre piu‘ insopportabile.[%p]
 Prendo un caffe‘ freddo alla panetteria che si trova a Yodobashi per placare la mia sete.[%p]
 Già che ci sono, credo che controllero‘ @channel sul mio telefono.[%p]

@@ -197,7 +197,7 @@ The affection that Nae showed towards Moeka brings an undeniable warmth to my he
 Right as I walk into the lab, I’m greeted by the chiming of a forno a microonde.[%p]
 [name]Mayuri[line]“Okarin!”[%p]
 Mayuri smiles brightly as she takes her Succulento Pollo Number One out of the microwave.[%p]
-[name]Mayuri[line]“Tutturu♪ Welcome backarin!”[%p]
+[name]Mayuri[line]“Tutturu♪ Bentornatokarin!”[%p]
 [name]Rintaro[line]“Did you just combine ’welcome back’ and ’Okarin’?”[%p]
 [name]Mayuri[line]“Yup. I’ve said it before, remember?”[%p]
 Then Mayuri holds out the steaming chicken.[%p]
