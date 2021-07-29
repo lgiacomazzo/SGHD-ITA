@@ -877,13 +877,13 @@ Lukako
 Okabe-san~[linebreak][linebreak]Ho qualcosa di importante da discutere con te. Per favore vieni al tempio quando puoi. Ti aspettero‘. Per favore.
 Per favore dimmelo
 Lukako
-Ti va davvero bene?
+Ti sta davvero bene?
 
 Lukako
 
 Tutto andrà bene
 Lukako
-Questa e‘ la mia scelta. Tu non devi proprio preoccupartene.
+Questa e‘ stata una mia scelta. Non devi preoccuparti di nulla.
 Sono Okabe
 Shining Finger
 Possiamo incontrarci? Ho degli affari urgenti da completare.
@@ -907,7 +907,7 @@ future-gadget8@hardbank.ne.jp
 
 
 future-gadget8@hardbank.ne.jp
-Cambio modelloFallo ora!!!Prima del sold out!
+Cambia modelloFallo ora!!!Prima del sold out!
 
 
 
