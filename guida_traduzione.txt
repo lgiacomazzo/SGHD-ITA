@@ -2,6 +2,7 @@
 note:
 [%p] stanno in fondo alle righe normali
 [%e] stanno in fondo alle righe con [margin] all'inizio
+alcune volte, in fondo alle righe con [margin] è possibile trovare [%p]. Non cambiarle, va bene così
 
 prima di tradurre: 
 - togliere i [%p] per poter tradurre in maniera migliore e anche [%e] (io uso DeepL per la traduzione, bel software)
@@ -11,6 +12,7 @@ visual studio code:
 (regex) ^(\S) -> \t\t\t\t\t\t\t\t$1
 - prendo tutti i pezzi di riga dall'inizio fino alla stringa da tradurre, e porto tutto in un altro file (dovrebbe essere più semplice tradurre così)
 - usare SHIFT+TAB dopo aver selezionato tutte le righe con pulsante centrale del mouse (multiline) per togliere tutti i tab (file originale e nuovo) all'inizio delle righe 
+- recuperare anche i suffissi con il multiline ([%p] e [%e]) e spostarli come per prima in un file a parte
 - sul file temporaneo
  (regex)	^\s+|\s+$ -> (niente)
 per togliere tutti gli spazi
@@ -21,12 +23,10 @@ TRADUZIONE FILE
 dopo la traduzione:
 - Controllare possibili errori grammaticali con Word oppure LibreOffice
 
- (regex)	\s+$ -> (niente)
- (regex)	$ -> [%p] (togliere [%p] dall'ultima riga. L'ultima riga non ha mai un tag [%p])
+- (regex)	\s+$ -> (niente)
  
-- Ricopiare dal file temporaneo al file originale con il multiline, poi:
+- Ricopiare dai due file temporanei al file originale con il multiline, poi:
  (regex) 	(\[name\].*)"\.\[%p\] -> $1."[%p]
- (regex)	(\[margin.*)\[%p\] -> $1[%e]
  
 poi:
 - sostituire tutti i caratteri " all'inizio della stringa con il carattere “

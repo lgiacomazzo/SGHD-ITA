@@ -33,31 +33,34 @@ def main():
     filename = args[0]
     lines = []
     prefixes = []
+    suffixes = []
     with open(filename, 'r+', encoding="utf-8") as file:
         for original_line in file:
-            # rimuovere [%p] e [%e]
-            line_1 = re.sub("\[%p\]$|\[%e\]$", "", original_line)
-            # 
+            # suffix = [%p] | [%e]
+            # line_1 = [line, suffix, '']
+            line_with_suffix = re.split("(\[%p\]$|\[%e\])$", original_line)
+            line_1 = line_with_suffix[0]
+            suffix = line_with_suffix[1]
+            # line_2 = [line] or [lin]
             line_2 = re.split("^(\[name\].*\[line\])", line_1)
             if len(line_2) == 1:
                 line_2 = ['', '', line_1]
-            # line_2 sarà ['', 'match', 'resto stringa']
+            # line_2 = ['', '[name].*[line]', 'resto stringa'] or ['', '', line_1]
             prefix = line_2[1]
             line = line_2[2]
             prefixes.append(prefix)
-            lines.append(line)
+            suffixes.append(suffix)
+            lines.append(line+"\n")
     # adesso il file è letto (senza la riga vuota alla fine però. Aggiungerla dopo)
     with open("file_temporaneo.txt", "w", encoding="utf-8") as file:
         file.writelines(lines)
     modified_file = editor(filename="file_temporaneo.txt")
     new_lines_from_file = re.split("\n", modified_file)
     new_lines = []
-    for prefix, line in zip(prefixes, new_lines_from_file):
+    for prefix, line, suffix in zip(prefixes, new_lines_from_file, suffixes):
         new_line = re.sub("\s+$", "", line)
-        new_line = re.sub("$", "[%p]", new_line)
-        new_line = prefix + new_line
+        new_line = prefix + new_line + suffix
         new_line = re.sub('(\[name\].*)"\.\[%p\]', '\g<1>."[%p]', new_line)
-        new_line = re.sub('(\[margin.*)\[%p\]', '\g<1>[%e]', new_line)
         new_line = new_line.replace('[line]"', '[line]“')
         new_line = new_line.replace('"[%p]', '”[%p]')
         new_line = new_line.replace('"[%e]', '”[%e]')
