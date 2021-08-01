@@ -13,7 +13,7 @@ Di solito non rimane cosi‘ tardi. I suoi genitori potrebbero essere preoccupat
 [name]Mayuri[line]“Sai, sono passati dieci giorni da quando Chris-chan si e‘ unita a noi. Posso dirti come mi sento?”[%p]
 [name]Mayuri[line]“Da quando Chris-chan e‘ diventata una lab mem, mi sembra che siano davvero successe tante cose, come se ora fossimo un vero laboratorio, capisci?”[%p]
 [name]Rintaro[line]“Heh. Devo ammettere che la sua conoscenza e‘ stata una grande risorsa.”[%p]
-[name]Rintaro[line]“Certo, la ragazza genio non si sarebbe mai unita a noi se non fosse stato per l’astuzia di Hououin Kyouma!”[%p]
+[name]Rintaro[line]“Certo, la ragazza geniale non si sarebbe mai unita a noi se non fosse stato per l’astuzia di Hououin Kyouma!”[%p]
 [name]Mayuri[line]“Ecco perché ora stai brillando cosi‘ tanto, Okarin.”[%p]
 [name]Mayuri[line]“Chris-chan e‘ davvero un grande aiuto per te, lo so...”[%p]
 [name]Mayuri[line]“Ma io non posso fare nulla per aiutare...”[%p]

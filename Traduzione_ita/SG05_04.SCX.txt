@@ -50,7 +50,7 @@ O forse il desiderio per l’amore di suo padre e‘ cio‘ che ha fatto nascere
 [name]Kurisu[line]“Ero cosi‘ felice di poter parlare con mio padre al suo livello, sai? Discutevamo tutta la notte.”[%p]
 [name]Kurisu[line]“E poi ho cominciato a vincere quelle discussioni. Tutte.”[%p]
 [name]Rintaro[line]“Si‘. Posso decisamente capire come questo abbia fatto si‘ che ti odiasse.”[%p]
-Una tragedia adatta a una ragazza genio.[%p]
+Una tragedia adatta a una ragazza geniale.[%p]
 Che razza di scienziato perde contro una ragazzina delle medie, comunque? Seriamente.[%p]
 [name]Kurisu[line]“Pensi davvero che sia questo il motivo?”[%p]
 [name]Rintaro[line]“Sono assolutamente certo che sia questo il motivo.”[%p]
