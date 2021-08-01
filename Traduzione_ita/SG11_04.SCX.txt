@@ -164,7 +164,7 @@ Seduto nel palmo della sua mano c’e‘ un pezzo di metallo argentato alto appe
 Mayuri indica lo schermo.[%p]
 Guardo piu‘ da vicino.[%p]
 Quel pezzo di metallo nella mano di Nakabachi.[%p]
-Non e‘ un pezzo di metallo [color index="A0140000"]qualsiasi[ color index="800000"].[%p]
+Non e‘ un pezzo di metallo [color index="A0140000"]qualsiasi[color index="800000"].[%p]
 [name]Mayuri[line]“Quello e‘ il mio Upa di metallo! Guarda! Hai visto? C’e‘ il nome di Mayushii sopra!”[%p]
 Upa e‘ un personaggio mascotte del popolare gioco di carte RaiNet Access Battlers.[%p]
 Si puo‘ vedere il merchandising di Upa ovunque ad Akihabara, dai giocattoli in capsula alle cinghie per il telefono e altri accessori.[%p]
