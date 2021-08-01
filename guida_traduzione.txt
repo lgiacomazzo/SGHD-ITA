@@ -77,7 +77,7 @@ per applicare la traduzione a script mpk
 prima lanciare sc3tools per tradurre i testi nei singoli SCX
 .\sc3tools.exe replace-text ..\script\SG*.SCX ..\Traduzione_ita\SG*.SCX.txt sghd
 .\sc3tools.exe replace-text ..\script\_*.SCX ..\Traduzione_ita\_*.SCX.txt sghd
-.\sc3tools.exe replace-text ..\script\MACROSYS2.SCX. ..\Traduzione_ita\MACROSYS2.SCX.txt sghd
+.\sc3tools.exe replace-text ..\script\MACROSYS2.SCX ..\Traduzione_ita\MACROSYS2.SCX.txt sghd
 .\sc3tools.exe replace-text ..\script\CLRFLG.SCX.SCX ..\Traduzione_ita\CLRFLG.SCX.txt sghd
 Poi copiare script.mpk in /script e lanciare Ungelify
 .\Ungelify.exe
