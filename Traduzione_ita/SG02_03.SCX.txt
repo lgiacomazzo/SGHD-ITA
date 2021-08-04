@@ -1,5 +1,5 @@
 [name]???[line]“C’e‘ qualcuno in casa?”[%p]
-Sono immerso in un’accesa discussione su internet quando una voce sconosciuta mi interrompe.[%p]
+Sono immerso in un’accesa discussione su Internet quando una voce sconosciuta mi interrompe.[%p]
 La porta si apre, e una ragazza sbircia dentro.[%p]
 La riconosco.[%p]
 E‘ la ragazza che ho incontrato ieri al Braun Tube Workshop.[%p]

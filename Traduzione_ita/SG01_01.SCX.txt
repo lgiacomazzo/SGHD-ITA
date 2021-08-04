@@ -47,7 +47,7 @@
 [name]Rintaro[line]“No.”[%p]
 [name]Itaru[line]“Ma dai!”[%p]
 [name]Rintaro[line]“Queste domande sono prive di significato. Il nostro tempo e‘ meglio speso a pensare a come distruggere il Sistema.”[%p]
-[name]Itaru[line]“Bel comportamento da[ color index="820000"]chuunibyou[color index="800000"], amico.”[%p]
+[name]Itaru[line]“Bel comportamento da [color index="820000"]chuunibyou[color index="800000"], amico.”[%p]
 Mi allontano dal monitor.[%p]
 Sullo schermo c’e‘ il personaggio brutto-ma-carino [color index="820000"]Alpacaman[color index="800000"].[%p]
 Questo e‘ un gioco chiamato ’Alpacaman 2’, in cui si parla ad Alpacaman via microfono e lo si guarda reagire.[%p]
