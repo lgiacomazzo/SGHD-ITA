@@ -10,4 +10,4 @@ Se installate la patch, una nota: se dopo aver applicato la patch di cui sopra i
 
 Attualmente ho intenzione di tradurre solo il testo (né immagini né altro).
 
-I testi tradotti (e da tradurre) si trovano nella directory "Traduzione ita". Attualmente mancano i file che iniziano con SG.
+Nella directory "Traduzione ita" si trovano i file txt contenenti gli script dei vari capitoli e sezioni.
