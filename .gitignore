@@ -3,3 +3,10 @@ modifiche testo.txt
 *.mp4
 file_temporaneo.txt
 *.SCX
+Temp/*
+file_modifiche_da_fare.txt
+c0data.mpk
+*.7z
+enscript.mpk
+Modifiche_video/videos/*
+checks_righe.py
