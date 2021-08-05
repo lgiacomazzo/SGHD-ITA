@@ -97,7 +97,7 @@ Kurisu e‘ tornata al laboratorio, per lavorare alla Macchina per il Salto Temp
 Deve essere completata per le 14 del giorno 13. Se e‘ in ritardo, potrebbe influenzare la mia capacità di saltare nel tempo, il che abbasserebbe le mie possibilità di salvare Mayuri.[%p]
 Parlando di Mayuri, si e‘ allontanata da qualche parte alla ricerca del padre di Suzuha.[%p]
 [name]Rintaro[line]“Come ti sembra?”[%p]
-Chiamo Daru, che sta esaminando il satellite allagato -- cioe‘, la macchina del tempo -- mentre Suzuha ed io facciamo la guardia.[%p]
+Chiamo Daru, che sta esaminando il satellite allagato — cioe‘, la macchina del tempo — mentre Suzuha ed io facciamo la guardia.[%p]
 Daru striscia fuori dalla macchina. E‘ coperto di sudore e il suo respiro e‘ pesante.[%p]
 Lo aiutiamo rapidamente a tirare fuori il suo enorme corpo.[%p]
 La macchina del tempo e‘ completamente visibile dalla strada.[%p]

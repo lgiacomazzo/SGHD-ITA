@@ -1,5 +1,5 @@
 [name]Mayuri[line][color index="8A0000"]“Tutturu♪ Sono Mayushii.”[%p]
-[name]Rintaro[line]“Mayuri! Dove ti--”[%p]
+[name]Rintaro[line]“Mayuri! Dove ti—”[%p]
 [name]Mayuri[line][color index="8A0000"]“Ma ora non posso rispondere al telefono.”[%p]
 ...E‘ partita la segreteria telefonica?[%p]
 [name]Mayuri[line][color index="8A0000"]“Per favore lasciate il vostro messaggio dopo il beep♪”[%p]

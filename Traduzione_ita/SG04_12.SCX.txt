@@ -2,7 +2,7 @@ Dopo aver passato un po’ di tempo al MayQueen, lascio Daru e torno al laborato
 L’unica persona presente e‘ Mayuri. Sta lavorando su un costume.[%p]
 [name]Rintaro[line]“Heh. Mayuri, sei come una casalinga che brucia l’olio di mezzanotte per portare un po’ piu‘ di soldi a casa.”[%p]
 [name]Mayuri[line]“Eh? Olio di mezzanotte? Stiamo mangiando?”[%p]
-Sigh, i ragazzi di oggi.[%p]
+Ah, i ragazzi di oggi.[%p]
 [name]Mayuri[line]“Inoltre, Mayushii non fa pagare i suoi costumi.”[%p]
 Sembra che abbia capito il resto di quello che ho detto.[%p]
 Era solo una battuta, comunque.[%p]

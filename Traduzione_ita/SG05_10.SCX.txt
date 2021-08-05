@@ -1,7 +1,7 @@
 Sono passati due giorni da quando Kurisu e Mayuri sono rimaste qui.[%p]
 Durante questo tempo, Daru ed io abbiamo fatto del nostro meglio per sostenere il lavoro di Kurisu sul Microonde Telefonico (Nome Provvisorio).[%p]
 Secondo Daru, dovrebbe essere facile usare l’LHC per generare buchi neri per il nostro scopo.[%p]
-I buchi neri si formano nel punto di collisione dei protoni -- dove e‘ installato il lifter -- ed esistono solo per pochi secondi prima di evaporare.[%p]
+I buchi neri si formano nel punto di collisione dei protoni — dove e‘ installato il lifter — ed esistono solo per pochi secondi prima di evaporare.[%p]
 Durante quei pochi secondi, SERN lancia un umano nella singolarità.[%p]
 Anche noi useremo quei pochi secondi.[%p]
 La gravità del buco nero comprime la materia ad una densità infinita.[%p]

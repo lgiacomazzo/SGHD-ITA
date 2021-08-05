@@ -98,7 +98,7 @@ Ora che ci penso, e‘ passata piu‘ di una settimana da quando abbiamo inviato
 Secondo Daru, nemmeno il SERN ha scoperto il nostro hacking.[%p]
 Il prossimo problema e‘ cosa succederà quando useremo la Macchina per il Salto Temporale.[%p]
 Per comprimere l’intero bagaglio della memoria umana nei trentasei byte richiesti, dobbiamo “prendere in prestito” il buco nero dell’LHC.[%p]
-Non posso credere che il SERN non si accorga di un’attivazione non autorizzata dell’LHC.[%p]
+Non riesco a credere che il SERN non si possa accorgere di un’attivazione non autorizzata dell’LHC.[%p]
 Come possiamo evitare che ci trovino?[%p]
 Ci serve un piano.[%p]
 [name]Mayuri[line]“Oh... immagino di non poter tornare alle elementari, vero? Non avevo un telefono allora.”[%p]

@@ -1,5 +1,5 @@
 Quando torno al laboratorio, conduco Kurisu alla panchina e le spiego cosa e‘ successo.[%p]
-Kurisu ascolta con un’espressione seccata per tutto il tempo. Quando ho finito, mi fulmina con lo sguardo e dice--[%p]
+Kurisu ascolta con un’espressione seccata per tutto il tempo. Quando ho finito, mi fulmina con lo sguardo e dice—[%p]
 [name]Kurisu[line]“Hai alzato una bandiera.”[%p]
 [name]Rintaro[line]“Di cosa stai parlando?”[%p]
 [name]Kurisu[line]“Non lo capisci? Hai alzato una flag. O immagino che si possa dire che sei inciampato su una flag che era già stata alzata.”[%p]

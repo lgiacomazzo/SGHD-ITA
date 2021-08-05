@@ -205,7 +205,7 @@ Kurisu cambia improvvisamente argomento. Si guarda intorno nella buia e vuota tr
 [name]Kurisu[line]“E‘ solo una teoria... ma non posso fare a meno di chiedermelo.”[%p]
 [name]Rintaro[line]“Io...”[%p]
 Ho bisogno di dirlo.[%p]
-[name]Rintaro[line]“Io ti salvero‘. Non solo Mayuri, ma--”[%p]
+[name]Rintaro[line]“Io ti salvero‘. Non solo Mayuri, ma—”[%p]
 [name]Kurisu[line]“Non fare promesse che non puoi mantenere!”[%p]
 Kurisu mi interrompe bruscamente, poi seppellisce la faccia nelle sue ginocchia.[%p]
 [name]Kurisu[line]“Mi hai chiesto se non avevo paura.”[%p]

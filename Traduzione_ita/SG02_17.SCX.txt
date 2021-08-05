@@ -78,7 +78,7 @@ Nel momento in cui portiamo l’IBN 5100 nel laboratorio, ognuno di noi e‘ sen
 [name]Rintaro[line]“Ehi! Perché non ci hai aiutato!?”[%p]
 [name]Itaru[line]“Beh, non mi hai chiamato.”[%p]
 [name]Rintaro[line]“Ho detto che tutti i membri dovevano riunirsi, no?!”[%p]
-Dal momento che Daru non e‘ venuto, le tre ragazze -- ehm, due ragazze e un ragazzo con abiti da ragazza-- sono tutte esauste.[%p]
+Dal momento che Daru non e‘ venuto, le tre ragazze — ehm, due ragazze e un ragazzo con abiti da ragazza— sono tutte esauste.[%p]
 Mayuri e Lukako non sono chiaramente tagliate per il lavoro fisico, e Kurisu non ha fatto altro che lamentarsi.[%p]
 [name]Kurisu[line]“Haah, haah... perché io... devo...”[%p]
 [name]Mayuri[line]“Cosi‘ stanca...”[%p]

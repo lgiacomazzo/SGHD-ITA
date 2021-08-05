@@ -1,20 +1,20 @@
 
-[color index="A01F0000"]【Paradox MELTDOWN】[color index="800000"] completato
+[color index="A01F0000"]【Paradox Meltdown】[color index="800000"] completato
 
 
-[color index="A01F0000"]【STARDUST Sky】[color index="800000"] completato
+[color index="A01F0000"]【Stardust Sky】[color index="800000"] completato
 
 
 [color index="A01F0000"]【Link of Corruption and Rebirth】[color index="800000"] completato
 
 
-[color index="A01F0000"]【Isolated JAMAIS VU】[color index="800000"] completato
+[color index="A01F0000"]【Isolated Jamais Vu】[color index="800000"] completato
 
 
-[color index="A01F0000"]【Irreversible ReBOOT】[color index="800000"] completato
+[color index="A01F0000"]【Irreversible Reboot】[color index="800000"] completato
 
 
-[color index="A01F0000"]【Open the STEINS GATE】[color index="800000"] completato
+[color index="A01F0000"]【Open The Steins Gate】[color index="800000"] completato
 
 [color index="A01F0000"]RIPULISCI LISTA
 [color index="800000"]e‘ stato aggiunto al menu‘ “EXTRA”.

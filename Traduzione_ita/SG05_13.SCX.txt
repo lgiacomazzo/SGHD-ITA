@@ -39,7 +39,7 @@ Quando i nostri occhi si incontrano, un’altra vena gli spunta sulla fronte.[%p
 [name]Rintaro[line]“Mi dispiace per quello che e‘ successo. Ho reagito in modo eccessivo.”[%p]
 [name]Rintaro[line]“Come segno di scuse, la rappresentante del mio laboratorio, Amane Suzuha, vorrebbe offrirti un regalo.”[%p]
 [name]Suzuha[line]“Capo... preparati!”[%p]
-Con un urlo vigoroso, che non sembra affatto adatto alla seduzione, Suzuha si sfila la giacca e--[%p]
+Con un urlo vigoroso, che non sembra affatto adatto alla seduzione, Suzuha si sfila la giacca e—[%p]
 [name]Suzuha[line]“Yaah!”[%p]
 La lancia in faccia a Mister Braun.[%p]
 [name]Tennouji[line]“Mwoah!?”[%p]

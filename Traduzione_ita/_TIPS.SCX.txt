@@ -36,7 +36,7 @@ Chuunibyou
 Cronaca dell’Akasha
 Cronaca dell’Akasha
 cronaca dell’akasha
-Il database in cui ogni evento nell’intero universo dal passato al futuro viene registrato. La memoria della coscienza collettiva dell’umanità. Non in vinile.
+Il database in cui viene registrato ogni evento nell’intero universo dal passato al futuro. La memoria della coscienza collettiva dell’umanità. Non in vinile.
 Altro
 Acetilcolina
 Acetilcolina
@@ -132,7 +132,7 @@ Altro
 Ippocampo CA3
 Hippocampus Cornu Ammonis Region 3
 ippocampo ca3
-L’ippocampo e‘ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 -- “cornu Ammonis”, il corno di Amun.
+L’ippocampo e‘ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 — “cornu Ammonis”, il corno di Amun.
 Chuunibyou
 Consiglio per lo Sviluppo
 Consiglio per lo Sviluppo
@@ -182,7 +182,7 @@ Internet
 Cracking
 Cracking
 cracking
-Nel mondo informatico, azioni che includono l’accesso illegale a sistemi di rete e manipolazione dei dati. Spesso e‘ confuso con l’hacking, ma hacking inizialmente indicava un studio costruttivo del software. Cracking, invece, e‘ una azione maligna.
+Nel mondo informatico, azioni che includono l’accesso illegale a sistemi di rete e manipolazione dei dati. Spesso e‘ confuso con l’hacking, ma l’hacking inizialmente indicava un studio costruttivo del software. Il cracking, invece, e‘ una azione maligna.
 Altro
 Malattia di Creutzfeldt-Jakob
 KROITS-felt YA-kob disease
@@ -193,7 +193,7 @@ Determinismo
 Determinismo
 determinismo
 La scuola di filosofia affermante che ogni evento e‘ predeterminato dagli eventi precedenti. Il passato ha determinato il presente; il presente determina il futuro. Anche se pensiamo di agire di nostra volontà, in verità, stiamo solo seguendo un percorso predeterminato.
-Coloro che credono nel determinismo spesso citano l’esperimento mentale del Demone di Laplace: per “Un intelletto che ad un certo momento conoscesse tutte le forze che mettono le cose in moto, e tutte le posizioni di tutti gli elementi di cui la natura e‘ composta (...) niente sarebbe incerto e il futuro proprio come il passato sarebbe presente davanti ai suoi occhi”. --Pierre Simon Laplace
+Coloro che credono nel determinismo spesso citano l’esperimento mentale del Demone di Laplace: per “Un intelletto che ad un certo momento conoscesse tutte le forze che mettono le cose in moto, e tutte le posizioni di tutti gli elementi di cui la natura e‘ composta (...) niente sarebbe incerto e il futuro proprio come il passato sarebbe presente davanti ai suoi occhi”. —Pierre Simon Laplace
 Altro
 Gero Froggy
 Gero Kaerun
@@ -260,12 +260,12 @@ Scienza
 Congettura di protezione cronologica
 Congettura di protezione cronologica
 congettura di protezione cronologica
-Nella meccanica quantistica, una teoria, proposta da Stephen Hawking, che afferma che il viaggio nel tempo e‘ impossibile. Qualsiasi tentativo di viaggiare nel tempo sarà impedito da effetti quantistici. Completare il viaggio nel tempo richiede infinita “energia di campo”, che e‘ impossibile da ottenere. In altre parole, le leggi di causalità -- e per estensione, la cronologia o linea temporale dell’universo -- sono protetti dalla meccanica quantistica.
+Nella meccanica quantistica, una teoria, proposta da Stephen Hawking, che afferma che il viaggio nel tempo e‘ impossibile. Qualsiasi tentativo di viaggiare nel tempo sarà impedito da effetti quantistici. Completare il viaggio nel tempo richiede infinita “energia di campo”, che e‘ impossibile da ottenere. In altre parole, le leggi di causalità — e per estensione, la cronologia o linea temporale dell’universo — sono protetti dalla meccanica quantistica.
 Scienza
 Orizzonte degli Eventi
 Orizzonte degli Eventi
 orizzonte degli eventi
-Conosciuto anche come superficie di Schwarzchild. In un buco nero, esiste un punto oltre il quale neanche la luce puo‘ sfuggire alla immensa gravità del buco nero. Questo confine e‘ chiamato the orizzonte degli eventi. Poiché luce e altre onde elettromagnetiche sono responsabili per la trasmissione di informazioni, niente di tutto quello che si verifica dentro l’orizzonte degli eventi puo‘ essere osservato dall’esterno. Il centro di un buco nero e‘ nero perché la luce non puo‘ fuggire da esso.
+Conosciuto anche come superficie di Schwarzchild. In un buco nero, esiste un punto oltre il quale neanche la luce puo‘ sfuggire alla immensa gravità del buco nero. Questo confine e‘ chiamato “orizzonte degli eventi”. Poiché luce e altre onde elettromagnetiche sono responsabili per la trasmissione di informazioni, niente di tutto quello che si verifica dentro l’orizzonte degli eventi puo‘ essere osservato dall’esterno. Il centro di un buco nero e‘ nero perché la luce non puo‘ fuggire da esso.
 Otaku
 Death Flag
 Death Flag
@@ -740,7 +740,7 @@ Scienza
 Teletrasporto Quantistico
 Teletrasporto Quantistico
 teletrasporto quantistico
-Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiché sono una coppia, godono della proprietà di simmetria -- se una mostra up-spin, l’altra mostrerà down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e‘ chiamato entanglement.
+Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiché sono una coppia, godono della proprietà di simmetria — se una mostra up-spin, l’altra mostrerà down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e‘ chiamato entanglement.
 Lo stato di una particella elementare (fotone) non puo‘ essere confermato fino a quando non viene osservato. Per l’esperimento, colleghiamo i dati C, l’informazione da teletrasportare, al Fotone A. Ora stiamo osservando il fotone A-C. In base alla proprietà di simmetria, sappiamo che, non importa quanto distanti, il Fotone B cambierà, diventando effettivamente B-C. (Notare che il Fotone B non e‘ stato ancora osservato).
 Successivamente, trasmettiamo le informazioni del Fotone A-C dall’equipaggiamento di osservazione di A all’equipaggiamento di osservazione di B attraverso una trasmissione standard. Ora, osservare il Fotone B lo farà diventare il “Fotone B-C”. Questo processo e‘ chiamato teletrasporto quantistico perché i dati C cambiano posizione istantaneamente.
 Tuttavia, visto che un passo richiede mezzi standard per la trasmissione dei dati, e‘ impossibile superare la velocità della luce. Infine, i dati C del Fotone B-C “teletrasportati” sono in realtà una copia dei dati C del Fotone A-C. La posizione dell’originale Fotone C diventa sconosciuta. Questo punto separa il teletrasporto quantistico da quello idealizzato.
@@ -833,12 +833,12 @@ Internet
 orz
 orz
 orz
-Un ideogramma raffigurante una persona su quattro zampe. ’o’ rappresenta la testa, ’r’ rappresenta le braccia e il torso, e ’z’ rappresenta i piedi. Spesso usato per esprimere disperazione, sconforto o frustazione. Non esiste alcuna pronuncia particolare. Le persone possono pronunciarlo come “ortz”, “oars”, o “orse”.
+Un ideogramma raffigurante una persona su quattro zampe. “o” rappresenta la testa, “r” rappresenta le braccia e il torso, e “z” rappresenta i piedi. Spesso usato per esprimere disperazione, sconforto o frustazione. Non esiste alcuna pronuncia particolare. Le persone possono pronunciarlo come “ortz”, “oars”, o “orse”.
 Altro
 PTSD
 Disturbo da stress post-traumatico
 ptsd
-Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del ’Diagnostic and Statistical Manual of Mental Disorders’ pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilità emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu‘ di un mese.
+Abbreviazione di post-traumatic stress disorder. Dal DSM-IV (la quarta edizione del “Diagnostic and Statistical Manual of Mental Disorders” pubblicato dalla American Psychiatric Association nel 1994): Un disordine mentale che induce vari sintomi di stress, causato dallo shock di un incidente, disastro, o crimine. I sintomi includono instabilità emotiva, insonnia, confusione, e ricordi sotto flashback. Diagnosticare se i sintomi continuano per piu‘ di un mese.
 Scienza
 SERN
 SERN
