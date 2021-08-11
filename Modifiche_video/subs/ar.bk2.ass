@@ -13,10 +13,10 @@ PlayResY: 720
 Last Style Storage: Default
 Video File: ?dummy:33.000000:40000:1280:720:0:0:0:
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 2713
-Active Line: 2716
-Video Position: 1487
+Video Zoom Percent: 0.838889
+Scroll Position: 2719
+Active Line: 2727
+Video Position: 2218
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2759,18 +2759,18 @@ Dialogue: 0,0:00:43.05,0:00:44.05,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3
 Dialogue: 0,0:00:43.59,0:00:44.77,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,733,679,0,1180)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
 Dialogue: 0,0:00:44.77,0:00:48.42,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(727,679,55,679,1915,2830)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
 Dialogue: 0,0:00:48.42,0:00:49.42,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,733,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:00:49.13,0:00:50.13,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,767,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:00:50.13,0:00:54.82,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(770,679,55,679,2345,3690)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,772,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:00:55.35,0:00:56.35,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,610,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:00:56.35,0:01:00.28,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(613,679,55,679,1965,2930)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,615,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:00.49,0:01:01.49,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,313,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:01.49,0:01:05.54,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(316,679,55,679,2025,3050)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,318,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:06.02,0:01:07.02,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,250,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:07.02,0:01:08.70,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(253,679,55,679,840,680)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,255,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:00:49.13,0:00:50.13,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,785,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:00:50.13,0:00:54.82,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(785,679,55,679,2345,3690)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,785,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:00:55.35,0:00:56.65,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,725,679,0,1300)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:00:56.65,0:01:00.28,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(725,679,55,679,1965,2930)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,725,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:00.49,0:01:01.49,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,296,679,0,920)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:01.49,0:01:05.54,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(296,679,55,679,2025,3050)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,296,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:06.02,0:01:07.22,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,320,679,0,1160)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:07.22,0:01:08.70,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(320,679,55,679,840,680)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,320,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
 Dialogue: 0,0:01:09.34,0:01:10.34,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,659,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
 Dialogue: 0,0:01:10.34,0:01:15.09,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(662,679,55,679,2375,3750)\t(500,500,\alpha&HFF&)\t(1000,1000,\alpha&H00&)\t(1500,1500,\alpha&HFF&)\t(2000,2000,\alpha&H00&)\t(2500,2500,\alpha&HFF&)\t(3000,3000,\alpha&H00&)\t(3500,3500,\alpha&HFF&)\t(4000,4000,\alpha&H00&)\t(4500,4500,\alpha&HFF&)\t(5000,5000,\alpha&H00&)\t(5500,5500,\alpha&HFF&)\t(6000,6000,\alpha&H00&)\t(6500,6500,\alpha&HFF&)\t(7000,7000,\alpha&H00&)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
 Dialogue: 0,0:01:15.09,0:01:16.09,Translation - linetta,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\fscx60\fscy70\shad0\move(55,679,664,679,0,1000)\blur3\p1}m 0 0 l 0 -5 l 30 -5 l 30 0 l 0 0
@@ -3202,244 +3202,266 @@ Dialogue: 0,0:00:44.71,0:00:44.77,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&
 Dialogue: 0,0:00:48.42,0:00:49.42,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(715,655)\blur3\t(978.260869566,978.260869566,\alpha&HFF&)}t
 Dialogue: 0,0:00:44.74,0:00:44.77,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(728,655)\blur3}a
 Dialogue: 0,0:00:48.42,0:00:49.42,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(728,655)\blur3\t(1000,1000,\alpha&HFF&)}a
-Dialogue: 0,0:00:49.15,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}I
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(20.408163265306,20.408163265306,\alpha&HFF&)}I
-Dialogue: 0,0:00:49.17,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(70,655)\blur3}s
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(70,655)\blur3\t(40.816326530612,40.816326530612,\alpha&HFF&)}s
-Dialogue: 0,0:00:49.19,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(96,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(96,655)\blur3\t(61.224489795918,61.224489795918,\alpha&HFF&)}
-Dialogue: 0,0:00:49.21,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(96,655)\blur3}c
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(96,655)\blur3\t(81.632653061224,81.632653061224,\alpha&HFF&)}c
-Dialogue: 0,0:00:49.23,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(111,655)\blur3}a
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(111,655)\blur3\t(102.04081632653,102.04081632653,\alpha&HFF&)}a
-Dialogue: 0,0:00:49.25,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(129,655)\blur3}p
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(129,655)\blur3\t(122.44897959184,122.44897959184,\alpha&HFF&)}p
-Dialogue: 0,0:00:49.27,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(146,655)\blur3}t
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(146,655)\blur3\t(142.85714285714,142.85714285714,\alpha&HFF&)}t
-Dialogue: 0,0:00:49.29,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(160,655)\blur3}u
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(160,655)\blur3\t(163.26530612245,163.26530612245,\alpha&HFF&)}u
-Dialogue: 0,0:00:49.31,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(178,655)\blur3}r
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(178,655)\blur3\t(183.67346938776,183.67346938776,\alpha&HFF&)}r
-Dialogue: 0,0:00:49.33,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(194,655)\blur3}e
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(194,655)\blur3\t(204.08163265306,204.08163265306,\alpha&HFF&)}e
-Dialogue: 0,0:00:49.35,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(209,655)\blur3}d
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(209,655)\blur3\t(224.48979591837,224.48979591837,\alpha&HFF&)}d
-Dialogue: 0,0:00:49.37,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(236,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(236,655)\blur3\t(244.89795918367,244.89795918367,\alpha&HFF&)}
-Dialogue: 0,0:00:49.39,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(236,655)\blur3}i
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(236,655)\blur3\t(265.30612244898,265.30612244898,\alpha&HFF&)}i
-Dialogue: 0,0:00:49.41,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(249,655)\blur3}n
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(249,655)\blur3\t(285.71428571429,285.71428571429,\alpha&HFF&)}n
-Dialogue: 0,0:00:49.43,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(278,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(278,655)\blur3\t(306.12244897959,306.12244897959,\alpha&HFF&)}
-Dialogue: 0,0:00:49.45,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(278,655)\blur3}l
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(278,655)\blur3\t(326.5306122449,326.5306122449,\alpha&HFF&)}l
-Dialogue: 0,0:00:49.47,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(293,655)\blur3}o
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(293,655)\blur3\t(346.9387755102,346.9387755102,\alpha&HFF&)}o
-Dialogue: 0,0:00:49.49,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(308,655)\blur3}n
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(308,655)\blur3\t(367.34693877551,367.34693877551,\alpha&HFF&)}n
-Dialogue: 0,0:00:49.51,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(325,655)\blur3}e
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(325,655)\blur3\t(387.75510204082,387.75510204082,\alpha&HFF&)}e
-Dialogue: 0,0:00:49.53,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(340,655)\blur3}l
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(340,655)\blur3\t(408.16326530612,408.16326530612,\alpha&HFF&)}l
-Dialogue: 0,0:00:49.55,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(355,655)\blur3}i
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(355,655)\blur3\t(428.57142857143,428.57142857143,\alpha&HFF&)}i
-Dialogue: 0,0:00:49.57,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(368,655)\blur3}n
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(368,655)\blur3\t(448.97959183673,448.97959183673,\alpha&HFF&)}n
-Dialogue: 0,0:00:49.59,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(385,655)\blur3}e
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(385,655)\blur3\t(469.38775510204,469.38775510204,\alpha&HFF&)}e
-Dialogue: 0,0:00:49.62,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(400,655)\blur3}s
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(400,655)\blur3\t(489.79591836735,489.79591836735,\alpha&HFF&)}s
-Dialogue: 0,0:00:49.64,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(415,655)\blur3}s
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(415,655)\blur3\t(510.20408163265,510.20408163265,\alpha&HFF&)}s
-Dialogue: 0,0:00:49.66,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(442,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(442,655)\blur3\t(530.61224489796,530.61224489796,\alpha&HFF&)}
-Dialogue: 0,0:00:49.68,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(442,655)\blur3}w
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(442,655)\blur3\t(551.02040816327,551.02040816327,\alpha&HFF&)}w
-Dialogue: 0,0:00:49.70,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(460,655)\blur3}i
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(460,655)\blur3\t(571.42857142857,571.42857142857,\alpha&HFF&)}i
-Dialogue: 0,0:00:49.72,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(473,655)\blur3}t
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(473,655)\blur3\t(591.83673469388,591.83673469388,\alpha&HFF&)}t
-Dialogue: 0,0:00:49.74,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(487,655)\blur3}h
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(487,655)\blur3\t(612.24489795918,612.24489795918,\alpha&HFF&)}h
-Dialogue: 0,0:00:49.76,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(517,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(517,655)\blur3\t(632.65306122449,632.65306122449,\alpha&HFF&)}
-Dialogue: 0,0:00:49.78,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(517,655)\blur3}n
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(517,655)\blur3\t(653.0612244898,653.0612244898,\alpha&HFF&)}n
-Dialogue: 0,0:00:49.80,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(534,655)\blur3}o
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(534,655)\blur3\t(673.4693877551,673.4693877551,\alpha&HFF&)}o
-Dialogue: 0,0:00:49.82,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(560,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(560,655)\blur3\t(693.87755102041,693.87755102041,\alpha&HFF&)}
-Dialogue: 0,0:00:49.84,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(560,655)\blur3}e
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(560,655)\blur3\t(714.28571428571,714.28571428571,\alpha&HFF&)}e
-Dialogue: 0,0:00:49.86,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(575,655)\blur3}s
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(575,655)\blur3\t(734.69387755102,734.69387755102,\alpha&HFF&)}s
-Dialogue: 0,0:00:49.88,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(590,655)\blur3}c
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(590,655)\blur3\t(755.10204081633,755.10204081633,\alpha&HFF&)}c
-Dialogue: 0,0:00:49.90,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(605,655)\blur3}a
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(605,655)\blur3\t(775.51020408163,775.51020408163,\alpha&HFF&)}a
-Dialogue: 0,0:00:49.92,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(623,655)\blur3}p
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(623,655)\blur3\t(795.91836734694,795.91836734694,\alpha&HFF&)}p
-Dialogue: 0,0:00:49.94,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(640,655)\blur3}e
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(640,655)\blur3\t(816.32653061224,816.32653061224,\alpha&HFF&)}e
-Dialogue: 0,0:00:49.96,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3\t(836.73469387755,836.73469387755,\alpha&HFF&)}
-Dialogue: 0,0:00:49.98,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3}i
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3\t(857.14285714286,857.14285714286,\alpha&HFF&)}i
-Dialogue: 0,0:00:50.00,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(679,655)\blur3}n
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(679,655)\blur3\t(877.55102040816,877.55102040816,\alpha&HFF&)}n
-Dialogue: 0,0:00:50.02,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(708,655)\blur3}
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(708,655)\blur3\t(897.95918367347,897.95918367347,\alpha&HFF&)}
-Dialogue: 0,0:00:50.04,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(708,655)\blur3}s
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(708,655)\blur3\t(918.36734693878,918.36734693878,\alpha&HFF&)}s
-Dialogue: 0,0:00:50.06,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(723,655)\blur3}i
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(723,655)\blur3\t(938.77551020408,938.77551020408,\alpha&HFF&)}i
-Dialogue: 0,0:00:50.08,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(736,655)\blur3}g
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(736,655)\blur3\t(959.18367346939,959.18367346939,\alpha&HFF&)}g
-Dialogue: 0,0:00:50.11,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(754,655)\blur3}h
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(754,655)\blur3\t(979.59183673469,979.59183673469,\alpha&HFF&)}h
-Dialogue: 0,0:00:50.13,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(773,655)\blur3}t
-Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(773,655)\blur3\t(1000,1000,\alpha&HFF&)}t
-Dialogue: 0,0:00:55.37,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}C
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(27.027027027027,27.027027027027,\alpha&HFF&)}C
-Dialogue: 0,0:00:55.40,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(71,655)\blur3}o
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(71,655)\blur3\t(54.054054054054,54.054054054054,\alpha&HFF&)}o
-Dialogue: 0,0:00:55.43,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(86,655)\blur3}n
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(86,655)\blur3\t(81.081081081081,81.081081081081,\alpha&HFF&)}n
-Dialogue: 0,0:00:55.45,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(103,655)\blur3}v
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(103,655)\blur3\t(108.10810810811,108.10810810811,\alpha&HFF&)}v
-Dialogue: 0,0:00:55.48,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(120,655)\blur3}e
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(120,655)\blur3\t(135.13513513514,135.13513513514,\alpha&HFF&)}e
-Dialogue: 0,0:00:55.51,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(135,655)\blur3}r
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(135,655)\blur3\t(162.16216216216,162.16216216216,\alpha&HFF&)}r
-Dialogue: 0,0:00:55.53,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(151,655)\blur3}g
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(151,655)\blur3\t(189.18918918919,189.18918918919,\alpha&HFF&)}g
-Dialogue: 0,0:00:55.56,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(169,655)\blur3}i
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(169,655)\blur3\t(216.21621621622,216.21621621622,\alpha&HFF&)}i
-Dialogue: 0,0:00:55.59,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(182,655)\blur3}n
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(182,655)\blur3\t(243.24324324324,243.24324324324,\alpha&HFF&)}n
-Dialogue: 0,0:00:55.62,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(200,655)\blur3}g
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(200,655)\blur3\t(270.27027027027,270.27027027027,\alpha&HFF&)}g
-Dialogue: 0,0:00:55.64,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(229,655)\blur3}
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(229,655)\blur3\t(297.2972972973,297.2972972973,\alpha&HFF&)}
-Dialogue: 0,0:00:55.67,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(229,655)\blur3}t
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(229,655)\blur3\t(324.32432432432,324.32432432432,\alpha&HFF&)}t
-Dialogue: 0,0:00:55.70,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(243,655)\blur3}h
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(243,655)\blur3\t(351.35135135135,351.35135135135,\alpha&HFF&)}h
-Dialogue: 0,0:00:55.72,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(262,655)\blur3}e
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(262,655)\blur3\t(378.37837837838,378.37837837838,\alpha&HFF&)}e
-Dialogue: 0,0:00:55.75,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(288,655)\blur3}
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(288,655)\blur3\t(405.40540540541,405.40540540541,\alpha&HFF&)}
-Dialogue: 0,0:00:55.78,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(288,655)\blur3}m
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(288,655)\blur3\t(432.43243243243,432.43243243243,\alpha&HFF&)}m
-Dialogue: 0,0:00:55.80,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(307,655)\blur3}o
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(307,655)\blur3\t(459.45945945946,459.45945945946,\alpha&HFF&)}o
-Dialogue: 0,0:00:55.83,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(322,655)\blur3}m
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(322,655)\blur3\t(486.48648648649,486.48648648649,\alpha&HFF&)}m
-Dialogue: 0,0:00:55.86,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(341,655)\blur3}e
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(341,655)\blur3\t(513.51351351351,513.51351351351,\alpha&HFF&)}e
-Dialogue: 0,0:00:55.89,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(356,655)\blur3}n
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(356,655)\blur3\t(540.54054054054,540.54054054054,\alpha&HFF&)}n
-Dialogue: 0,0:00:55.91,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(374,655)\blur3}t
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(374,655)\blur3\t(567.56756756757,567.56756756757,\alpha&HFF&)}t
-Dialogue: 0,0:00:55.94,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(399,655)\blur3}
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(399,655)\blur3\t(594.59459459459,594.59459459459,\alpha&HFF&)}
-Dialogue: 0,0:00:55.97,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(399,655)\blur3}y
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(399,655)\blur3\t(621.62162162162,621.62162162162,\alpha&HFF&)}y
-Dialogue: 0,0:00:55.99,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(416,655)\blur3}o
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(416,655)\blur3\t(648.64864864865,648.64864864865,\alpha&HFF&)}o
-Dialogue: 0,0:00:56.02,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(430,655)\blur3}u
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(430,655)\blur3\t(675.67567567568,675.67567567568,\alpha&HFF&)}u
-Dialogue: 0,0:00:56.05,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(459,655)\blur3}
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(459,655)\blur3\t(702.7027027027,702.7027027027,\alpha&HFF&)}
-Dialogue: 0,0:00:56.08,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(459,655)\blur3}t
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(459,655)\blur3\t(729.72972972973,729.72972972973,\alpha&HFF&)}t
-Dialogue: 0,0:00:56.10,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(473,655)\blur3}a
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(473,655)\blur3\t(756.75675675676,756.75675675676,\alpha&HFF&)}a
-Dialogue: 0,0:00:56.13,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(491,655)\blur3}k
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(491,655)\blur3\t(783.78378378378,783.78378378378,\alpha&HFF&)}k
-Dialogue: 0,0:00:56.16,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(509,655)\blur3}e
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(509,655)\blur3\t(810.81081081081,810.81081081081,\alpha&HFF&)}e
-Dialogue: 0,0:00:56.18,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(535,655)\blur3}
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(535,655)\blur3\t(837.83783783784,837.83783783784,\alpha&HFF&)}
-Dialogue: 0,0:00:56.21,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(535,655)\blur3}f
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(535,655)\blur3\t(864.86486486486,864.86486486486,\alpha&HFF&)}f
-Dialogue: 0,0:00:56.24,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(551,655)\blur3}l
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(551,655)\blur3\t(891.89189189189,891.89189189189,\alpha&HFF&)}l
-Dialogue: 0,0:00:56.26,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(566,655)\blur3}i
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(566,655)\blur3\t(918.91891891892,918.91891891892,\alpha&HFF&)}i
-Dialogue: 0,0:00:56.29,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(579,655)\blur3}g
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(579,655)\blur3\t(945.94594594595,945.94594594595,\alpha&HFF&)}g
-Dialogue: 0,0:00:56.32,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(597,655)\blur3}h
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(597,655)\blur3\t(972.97297297297,972.97297297297,\alpha&HFF&)}h
-Dialogue: 0,0:00:56.35,0:00:56.35,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(616,655)\blur3}t
-Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(616,655)\blur3\t(1000,1000,\alpha&HFF&)}t
-Dialogue: 0,0:01:00.54,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}Y
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(52.631578947368,52.631578947368,\alpha&HFF&)}Y
-Dialogue: 0,0:01:00.59,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(73,655)\blur3}o
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(73,655)\blur3\t(105.26315789474,105.26315789474,\alpha&HFF&)}o
-Dialogue: 0,0:01:00.64,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(88,655)\blur3}u
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(88,655)\blur3\t(157.89473684211,157.89473684211,\alpha&HFF&)}u
-Dialogue: 0,0:01:00.70,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(106,655)\blur3}'
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(106,655)\blur3\t(210.52631578947,210.52631578947,\alpha&HFF&)}'
-Dialogue: 0,0:01:00.75,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(113,655)\blur3}r
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(113,655)\blur3\t(263.15789473684,263.15789473684,\alpha&HFF&)}r
-Dialogue: 0,0:01:00.80,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(130,655)\blur3}e
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(130,655)\blur3\t(315.78947368421,315.78947368421,\alpha&HFF&)}e
-Dialogue: 0,0:01:00.85,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(156,655)\blur3}
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(156,655)\blur3\t(368.42105263158,368.42105263158,\alpha&HFF&)}
-Dialogue: 0,0:01:00.91,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(156,655)\blur3}a
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(156,655)\blur3\t(421.05263157895,421.05263157895,\alpha&HFF&)}a
-Dialogue: 0,0:01:00.96,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(184,655)\blur3}
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(184,655)\blur3\t(473.68421052632,473.68421052632,\alpha&HFF&)}
-Dialogue: 0,0:01:01.01,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(184,655)\blur3}b
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(184,655)\blur3\t(526.31578947368,526.31578947368,\alpha&HFF&)}b
-Dialogue: 0,0:01:01.06,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(201,655)\blur3}u
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(201,655)\blur3\t(578.94736842105,578.94736842105,\alpha&HFF&)}u
-Dialogue: 0,0:01:01.12,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(219,655)\blur3}t
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(219,655)\blur3\t(631.57894736842,631.57894736842,\alpha&HFF&)}t
-Dialogue: 0,0:01:01.17,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(233,655)\blur3}t
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(233,655)\blur3\t(684.21052631579,684.21052631579,\alpha&HFF&)}t
-Dialogue: 0,0:01:01.22,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(246,655)\blur3}e
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(246,655)\blur3\t(736.84210526316,736.84210526316,\alpha&HFF&)}e
-Dialogue: 0,0:01:01.27,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(261,655)\blur3}r
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(261,655)\blur3\t(789.47368421053,789.47368421053,\alpha&HFF&)}r
-Dialogue: 0,0:01:01.33,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(277,655)\blur3}f
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(277,655)\blur3\t(842.10526315789,842.10526315789,\alpha&HFF&)}f
-Dialogue: 0,0:01:01.38,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(294,655)\blur3}l
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(294,655)\blur3\t(894.73684210526,894.73684210526,\alpha&HFF&)}l
-Dialogue: 0,0:01:01.43,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(308,655)\blur3}y
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(308,655)\blur3\t(947.36842105263,947.36842105263,\alpha&HFF&)}y
-Dialogue: 0,0:01:01.49,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(325,655)\blur3},
-Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(325,655)\blur3\t(1000,1000,\alpha&HFF&)},
-Dialogue: 0,0:01:06.09,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}a
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(71.428571428571,71.428571428571,\alpha&HFF&)}a
-Dialogue: 0,0:01:06.16,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(84,655)\blur3}
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(84,655)\blur3\t(142.85714285714,142.85714285714,\alpha&HFF&)}
-Dialogue: 0,0:01:06.23,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(84,655)\blur3}f
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(84,655)\blur3\t(214.28571428571,214.28571428571,\alpha&HFF&)}f
-Dialogue: 0,0:01:06.30,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(100,655)\blur3}o
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(100,655)\blur3\t(285.71428571429,285.71428571429,\alpha&HFF&)}o
-Dialogue: 0,0:01:06.37,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(115,655)\blur3}r
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(115,655)\blur3\t(357.14285714286,357.14285714286,\alpha&HFF&)}r
-Dialogue: 0,0:01:06.44,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(131,655)\blur3}m
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(131,655)\blur3\t(428.57142857143,428.57142857143,\alpha&HFF&)}m
-Dialogue: 0,0:01:06.52,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(150,655)\blur3}l
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(150,655)\blur3\t(500,500,\alpha&HFF&)}l
-Dialogue: 0,0:01:06.59,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(165,655)\blur3}e
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(165,655)\blur3\t(571.42857142857,571.42857142857,\alpha&HFF&)}e
-Dialogue: 0,0:01:06.66,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(180,655)\blur3}s
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(180,655)\blur3\t(642.85714285714,642.85714285714,\alpha&HFF&)}s
-Dialogue: 0,0:01:06.73,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(195,655)\blur3}s
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(195,655)\blur3\t(714.28571428571,714.28571428571,\alpha&HFF&)}s
-Dialogue: 0,0:01:06.80,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(221,655)\blur3}
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(221,655)\blur3\t(785.71428571429,785.71428571429,\alpha&HFF&)}
-Dialogue: 0,0:01:06.87,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(221,655)\blur3}G
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(221,655)\blur3\t(857.14285714286,857.14285714286,\alpha&HFF&)}G
-Dialogue: 0,0:01:06.94,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(239,655)\blur3}o
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(239,655)\blur3\t(928.57142857143,928.57142857143,\alpha&HFF&)}o
-Dialogue: 0,0:01:07.02,0:01:07.02,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(254,655)\blur3}d
-Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(254,655)\blur3\t(1000,1000,\alpha&HFF&)}d
+Dialogue: 0,0:00:49.15,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}e'
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(20.408163265306,20.408163265306,\alpha&HFF&)}e'
+Dialogue: 0,0:00:49.17,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(65,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(65,655)\blur3\t(40.816326530612,40.816326530612,\alpha&HFF&)}
+Dialogue: 0,0:00:49.19,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(88,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(88,655)\blur3\t(61.224489795918,61.224489795918,\alpha&HFF&)}i
+Dialogue: 0,0:00:49.21,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(102,655)\blur3}m
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(102,655)\blur3\t(81.632653061224,81.632653061224,\alpha&HFF&)}m
+Dialogue: 0,0:00:49.23,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(120,655)\blur3}p
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(120,655)\blur3\t(102.04081632653,102.04081632653,\alpha&HFF&)}p
+Dialogue: 0,0:00:49.25,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(138,655)\blur3}r
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(138,655)\blur3\t(122.44897959184,122.44897959184,\alpha&HFF&)}r
+Dialogue: 0,0:00:49.27,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(155,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(155,655)\blur3\t(142.85714285714,142.85714285714,\alpha&HFF&)}i
+Dialogue: 0,0:00:49.29,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(168,655)\blur3}g
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(168,655)\blur3\t(163.26530612245,163.26530612245,\alpha&HFF&)}g
+Dialogue: 0,0:00:49.31,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(186,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(186,655)\blur3\t(183.67346938776,183.67346938776,\alpha&HFF&)}i
+Dialogue: 0,0:00:49.33,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(199,655)\blur3}o
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(199,655)\blur3\t(204.08163265306,204.08163265306,\alpha&HFF&)}o
+Dialogue: 0,0:00:49.35,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(213,655)\blur3}n
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(213,655)\blur3\t(224.48979591837,224.48979591837,\alpha&HFF&)}n
+Dialogue: 0,0:00:49.37,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(231,655)\blur3}a
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(231,655)\blur3\t(244.89795918367,244.89795918367,\alpha&HFF&)}a
+Dialogue: 0,0:00:49.39,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(248,655)\blur3}t
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(248,655)\blur3\t(265.30612244898,265.30612244898,\alpha&HFF&)}t
+Dialogue: 0,0:00:49.41,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(262,655)\blur3}a
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(262,655)\blur3\t(285.71428571429,285.71428571429,\alpha&HFF&)}a
+Dialogue: 0,0:00:49.43,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(272,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(272,655)\blur3\t(306.12244897959,306.12244897959,\alpha&HFF&)}
+Dialogue: 0,0:00:49.45,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(290,655)\blur3}n
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(290,655)\blur3\t(326.5306122449,326.5306122449,\alpha&HFF&)}n
+Dialogue: 0,0:00:49.47,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(309,655)\blur3}e
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(309,655)\blur3\t(346.9387755102,346.9387755102,\alpha&HFF&)}e
+Dialogue: 0,0:00:49.49,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(323,655)\blur3}l
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(323,655)\blur3\t(367.34693877551,367.34693877551,\alpha&HFF&)}l
+Dialogue: 0,0:00:49.51,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(338,655)\blur3}l
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(338,655)\blur3\t(387.75510204082,387.75510204082,\alpha&HFF&)}l
+Dialogue: 0,0:00:49.53,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(353,655)\blur3}a
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(353,655)\blur3\t(408.16326530612,408.16326530612,\alpha&HFF&)}a
+Dialogue: 0,0:00:49.55,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(363,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(363,655)\blur3\t(428.57142857143,428.57142857143,\alpha&HFF&)}
+Dialogue: 0,0:00:49.57,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(382,655)\blur3}s
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(382,655)\blur3\t(448.97959183673,448.97959183673,\alpha&HFF&)}s
+Dialogue: 0,0:00:49.59,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(397,655)\blur3}o
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(397,655)\blur3\t(469.38775510204,469.38775510204,\alpha&HFF&)}o
+Dialogue: 0,0:00:49.62,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(411,655)\blur3}l
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(411,655)\blur3\t(489.79591836735,489.79591836735,\alpha&HFF&)}l
+Dialogue: 0,0:00:49.64,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(426,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(426,655)\blur3\t(510.20408163265,510.20408163265,\alpha&HFF&)}i
+Dialogue: 0,0:00:49.66,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(440,655)\blur3}t
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(440,655)\blur3\t(530.61224489796,530.61224489796,\alpha&HFF&)}t
+Dialogue: 0,0:00:49.68,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(453,655)\blur3}u
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(453,655)\blur3\t(551.02040816327,551.02040816327,\alpha&HFF&)}u
+Dialogue: 0,0:00:49.70,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(471,655)\blur3}d
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(471,655)\blur3\t(571.42857142857,571.42857142857,\alpha&HFF&)}d
+Dialogue: 0,0:00:49.72,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(487,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(487,655)\blur3\t(591.83673469388,591.83673469388,\alpha&HFF&)}i
+Dialogue: 0,0:00:49.74,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(500,655)\blur3}n
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(500,655)\blur3\t(612.24489795918,612.24489795918,\alpha&HFF&)}n
+Dialogue: 0,0:00:49.76,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(518,655)\blur3}e
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(518,655)\blur3\t(632.65306122449,632.65306122449,\alpha&HFF&)}e
+Dialogue: 0,0:00:49.78,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(528,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(528,655)\blur3\t(653.0612244898,653.0612244898,\alpha&HFF&)}
+Dialogue: 0,0:00:49.80,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(544,655)\blur3}s
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(544,655)\blur3\t(673.4693877551,673.4693877551,\alpha&HFF&)}s
+Dialogue: 0,0:00:49.82,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(560,655)\blur3}e
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(560,655)\blur3\t(693.87755102041,693.87755102041,\alpha&HFF&)}e
+Dialogue: 0,0:00:49.84,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(574,655)\blur3}n
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(574,655)\blur3\t(714.28571428571,714.28571428571,\alpha&HFF&)}n
+Dialogue: 0,0:00:49.86,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(592,655)\blur3}z
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(592,655)\blur3\t(734.69387755102,734.69387755102,\alpha&HFF&)}z
+Dialogue: 0,0:00:49.88,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(607,655)\blur3}a
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(607,655)\blur3\t(755.10204081633,755.10204081633,\alpha&HFF&)}a
+Dialogue: 0,0:00:49.90,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(617,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(617,655)\blur3\t(775.51020408163,775.51020408163,\alpha&HFF&)}
+Dialogue: 0,0:00:49.92,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(636,655)\blur3}v
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(636,655)\blur3\t(795.91836734694,795.91836734694,\alpha&HFF&)}v
+Dialogue: 0,0:00:49.94,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(653,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(653,655)\blur3\t(816.32653061224,816.32653061224,\alpha&HFF&)}i
+Dialogue: 0,0:00:49.96,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3}a
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3\t(836.73469387755,836.73469387755,\alpha&HFF&)}a
+Dialogue: 0,0:00:49.98,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(676,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(676,655)\blur3\t(857.14285714286,857.14285714286,\alpha&HFF&)}
+Dialogue: 0,0:00:50.00,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(695,655)\blur3}d
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(695,655)\blur3\t(877.55102040816,877.55102040816,\alpha&HFF&)}d
+Dialogue: 0,0:00:50.02,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(710,655)\blur3}i
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(710,655)\blur3\t(897.95918367347,897.95918367347,\alpha&HFF&)}i
+Dialogue: 0,0:00:50.04,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(720,655)\blur3}
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(720,655)\blur3\t(918.36734693878,918.36734693878,\alpha&HFF&)}
+Dialogue: 0,0:00:50.06,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(735,655)\blur3}f
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(735,655)\blur3\t(938.77551020408,938.77551020408,\alpha&HFF&)}f
+Dialogue: 0,0:00:50.08,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(751,655)\blur3}u
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(751,655)\blur3\t(959.18367346939,959.18367346939,\alpha&HFF&)}u
+Dialogue: 0,0:00:50.11,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(770,655)\blur3}g
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(770,655)\blur3\t(979.59183673469,979.59183673469,\alpha&HFF&)}g
+Dialogue: 0,0:00:50.13,0:00:50.13,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(787,655)\blur3}a
+Dialogue: 0,0:00:54.82,0:00:55.82,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(787,655)\blur3\t(1000,1000,\alpha&HFF&)}a
+Dialogue: 0,0:00:55.37,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}c
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(21.7391304348,21.7391304348,\alpha&HFF&)}c
+Dialogue: 0,0:00:55.40,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(70,655)\blur3}h
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(70,655)\blur3\t(43.4782608696,43.4782608696,\alpha&HFF&)}h
+Dialogue: 0,0:00:55.43,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(88,655)\blur3}e
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(88,655)\blur3\t(65.2173913044,65.2173913044,\alpha&HFF&)}e
+Dialogue: 0,0:00:55.45,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(98,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(98,655)\blur3\t(86.9565217392,86.9565217392,\alpha&HFF&)}
+Dialogue: 0,0:00:55.48,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(115,655)\blur3}c
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(115,655)\blur3\t(108.695652174,108.695652174,\alpha&HFF&)}c
+Dialogue: 0,0:00:55.51,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(130,655)\blur3}o
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(130,655)\blur3\t(130.434782609,130.434782609,\alpha&HFF&)}o
+Dialogue: 0,0:00:55.53,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(144,655)\blur3}n
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(144,655)\blur3\t(152.173913044,152.173913044,\alpha&HFF&)}n
+Dialogue: 0,0:00:55.56,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(162,655)\blur3}v
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(162,655)\blur3\t(173.913043478,173.913043478,\alpha&HFF&)}v
+Dialogue: 0,0:00:55.59,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(179,655)\blur3}e
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(179,655)\blur3\t(195.652173913,195.652173913,\alpha&HFF&)}e
+Dialogue: 0,0:00:55.62,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(194,655)\blur3}r
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(194,655)\blur3\t(217.391304348,217.391304348,\alpha&HFF&)}r
+Dialogue: 0,0:00:55.64,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(210,655)\blur3}g
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(210,655)\blur3\t(239.130434783,239.130434783,\alpha&HFF&)}g
+Dialogue: 0,0:00:55.67,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(228,655)\blur3}e
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(228,655)\blur3\t(260.869565218,260.869565218,\alpha&HFF&)}e
+Dialogue: 0,0:00:55.70,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(238,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(238,655)\blur3\t(282.608695652,282.608695652,\alpha&HFF&)}
+Dialogue: 0,0:00:55.72,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(254,655)\blur3}n
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(254,655)\blur3\t(304.347826087,304.347826087,\alpha&HFF&)}n
+Dialogue: 0,0:00:55.75,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(272,655)\blur3}e
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(272,655)\blur3\t(326.086956522,326.086956522,\alpha&HFF&)}e
+Dialogue: 0,0:00:55.78,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(286,655)\blur3}l
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(286,655)\blur3\t(347.826086957,347.826086957,\alpha&HFF&)}l
+Dialogue: 0,0:00:55.80,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(296,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(296,655)\blur3\t(369.565217392,369.565217392,\alpha&HFF&)}
+Dialogue: 0,0:00:55.83,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(312,655)\blur3}m
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(312,655)\blur3\t(391.304347826,391.304347826,\alpha&HFF&)}m
+Dialogue: 0,0:00:55.86,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(332,655)\blur3}o
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(332,655)\blur3\t(413.043478261,413.043478261,\alpha&HFF&)}o
+Dialogue: 0,0:00:55.89,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(346,655)\blur3}m
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(346,655)\blur3\t(434.782608696,434.782608696,\alpha&HFF&)}m
+Dialogue: 0,0:00:55.91,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(366,655)\blur3}e
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(366,655)\blur3\t(456.521739131,456.521739131,\alpha&HFF&)}e
+Dialogue: 0,0:00:55.94,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(380,655)\blur3}n
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(380,655)\blur3\t(478.260869566,478.260869566,\alpha&HFF&)}n
+Dialogue: 0,0:00:55.97,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(398,655)\blur3}t
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(398,655)\blur3\t(500.000000000,500.000000000,\alpha&HFF&)}t
+Dialogue: 0,0:00:55.99,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(412,655)\blur3}o
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(412,655)\blur3\t(521.739130435,521.739130435,\alpha&HFF&)}o
+Dialogue: 0,0:00:56.02,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(422,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(422,655)\blur3\t(543.478260870,543.478260870,\alpha&HFF&)}
+Dialogue: 0,0:00:56.05,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(439,655)\blur3}i
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(439,655)\blur3\t(565.217391305,565.217391305,\alpha&HFF&)}i
+Dialogue: 0,0:00:56.08,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(451,655)\blur3}n
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(451,655)\blur3\t(586.956521740,586.956521740,\alpha&HFF&)}n
+Dialogue: 0,0:00:56.10,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(461,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(461,655)\blur3\t(608.695652174,608.695652174,\alpha&HFF&)}
+Dialogue: 0,0:00:56.13,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(480,655)\blur3}c
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(480,655)\blur3\t(630.434782609,630.434782609,\alpha&HFF&)}c
+Dialogue: 0,0:00:56.16,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(495,655)\blur3}u
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(495,655)\blur3\t(652.173913044,652.173913044,\alpha&HFF&)}u
+Dialogue: 0,0:00:56.18,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(513,655)\blur3}i
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(513,655)\blur3\t(673.913043479,673.913043479,\alpha&HFF&)}i
+Dialogue: 0,0:00:56.21,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(523,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(523,655)\blur3\t(695.652173914,695.652173914,\alpha&HFF&)}
+Dialogue: 0,0:00:56.24,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(538,655)\blur3}p
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(538,655)\blur3\t(717.391304348,717.391304348,\alpha&HFF&)}p
+Dialogue: 0,0:00:56.26,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(555,655)\blur3}r
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(555,655)\blur3\t(739.130434783,739.130434783,\alpha&HFF&)}r
+Dialogue: 0,0:00:56.29,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(570,655)\blur3}e
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(570,655)\blur3\t(760.869565218,760.869565218,\alpha&HFF&)}e
+Dialogue: 0,0:00:56.32,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(585,655)\blur3}n
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(585,655)\blur3\t(782.608695653,782.608695653,\alpha&HFF&)}n
+Dialogue: 0,0:00:56.35,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(603,655)\blur3}d
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(603,655)\blur3\t(804.347826088,804.347826088,\alpha&HFF&)}d
+Dialogue: 0,0:00:56.38,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(620,655)\blur3}i
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(620,655)\blur3\t(826.086956522,826.086956522,\alpha&HFF&)}i
+Dialogue: 0,0:00:56.41,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(630,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(630,655)\blur3\t(847.826086957,847.826086957,\alpha&HFF&)}
+Dialogue: 0,0:00:56.44,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(644,655)\blur3}i
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(644,655)\blur3\t(869.565217392,869.565217392,\alpha&HFF&)}i
+Dialogue: 0,0:00:56.47,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(656,655)\blur3}l
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(656,655)\blur3\t(891.304347827,891.304347827,\alpha&HFF&)}l
+Dialogue: 0,0:00:56.50,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3}
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(666,655)\blur3\t(913.043478262,913.043478262,\alpha&HFF&)}
+Dialogue: 0,0:00:56.53,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(683,655)\blur3}v
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(683,655)\blur3\t(934.782608696,934.782608696,\alpha&HFF&)}v
+Dialogue: 0,0:00:56.56,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(700,655)\blur3}o
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(700,655)\blur3\t(956.521739131,956.521739131,\alpha&HFF&)}o
+Dialogue: 0,0:00:56.59,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(714,655)\blur3}l
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(714,655)\blur3\t(978.260869566,978.260869566,\alpha&HFF&)}l
+Dialogue: 0,0:00:56.62,0:00:56.65,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(730,655)\blur3}o
+Dialogue: 0,0:01:00.28,0:01:01.28,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(730,655)\blur3\t(1000.00000000,1000.00000000,\alpha&HFF&)}o
+Dialogue: 0,0:01:00.54,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}S
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(58.8235294118,58.8235294118,\alpha&HFF&)}S
+Dialogue: 0,0:01:00.59,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(72,655)\blur3}e
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(72,655)\blur3\t(117.647058824,117.647058824,\alpha&HFF&)}e
+Dialogue: 0,0:01:00.65,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(87,655)\blur3}i
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(87,655)\blur3\t(176.470588235,176.470588235,\alpha&HFF&)}i
+Dialogue: 0,0:01:00.70,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(97,655)\blur3}
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(97,655)\blur3\t(235.294117647,235.294117647,\alpha&HFF&)}
+Dialogue: 0,0:01:00.76,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(112,655)\blur3}u
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(112,655)\blur3\t(294.117647059,294.117647059,\alpha&HFF&)}u
+Dialogue: 0,0:01:00.81,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(130,655)\blur3}n
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(130,655)\blur3\t(352.941176471,352.941176471,\alpha&HFF&)}n
+Dialogue: 0,0:01:00.87,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(147,655)\blur3}a
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(147,655)\blur3\t(411.764705883,411.764705883,\alpha&HFF&)}a
+Dialogue: 0,0:01:00.92,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(157,655)\blur3}
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(157,655)\blur3\t(470.588235294,470.588235294,\alpha&HFF&)}
+Dialogue: 0,0:01:00.98,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(175,655)\blur3}f
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(175,655)\blur3\t(529.411764706,529.411764706,\alpha&HFF&)}f
+Dialogue: 0,0:01:01.03,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(192,655)\blur3}a
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(192,655)\blur3\t(588.235294118,588.235294118,\alpha&HFF&)}a
+Dialogue: 0,0:01:01.09,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(210,655)\blur3}r
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(210,655)\blur3\t(647.058823530,647.058823530,\alpha&HFF&)}r
+Dialogue: 0,0:01:01.14,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(225,655)\blur3}f
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(225,655)\blur3\t(705.882352942,705.882352942,\alpha&HFF&)}f
+Dialogue: 0,0:01:01.20,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(242,655)\blur3}a
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(242,655)\blur3\t(764.705882353,764.705882353,\alpha&HFF&)}a
+Dialogue: 0,0:01:01.25,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(260,655)\blur3}l
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(260,655)\blur3\t(823.529411765,823.529411765,\alpha&HFF&)}l
+Dialogue: 0,0:01:01.31,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(275,655)\blur3}l
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(275,655)\blur3\t(882.352941177,882.352941177,\alpha&HFF&)}l
+Dialogue: 0,0:01:01.36,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(290,655)\blur3}a
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(290,655)\blur3\t(941.176470589,941.176470589,\alpha&HFF&)}a
+Dialogue: 0,0:01:01.42,0:01:01.49,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(306,655)\blur3},
+Dialogue: 0,0:01:05.54,0:01:06.54,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(306,655)\blur3\t(1000,1000,\alpha&HFF&)},
+Dialogue: 0,0:01:06.09,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}u
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(55.5555555556,55.5555555556,\alpha&HFF&)}u
+Dialogue: 0,0:01:06.15,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(73,655)\blur3}n
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(73,655)\blur3\t(111.111111111,111.111111111,\alpha&HFF&)}n
+Dialogue: 0,0:01:06.21,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(83,655)\blur3}
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(83,655)\blur3\t(166.666666667,166.666666667,\alpha&HFF&)}
+Dialogue: 0,0:01:06.28,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(102,655)\blur3}D
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(102,655)\blur3\t(222.222222222,222.222222222,\alpha&HFF&)}D
+Dialogue: 0,0:01:06.35,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(121,655)\blur3}i
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(121,655)\blur3\t(277.777777778,277.777777778,\alpha&HFF&)}i
+Dialogue: 0,0:01:06.42,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(135,655)\blur3}o
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(135,655)\blur3\t(333.333333334,333.333333334,\alpha&HFF&)}o
+Dialogue: 0,0:01:06.48,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(145,655)\blur3}
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(145,655)\blur3\t(388.888888889,388.888888889,\alpha&HFF&)}
+Dialogue: 0,0:01:06.54,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(160,655)\blur3}s
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(160,655)\blur3\t(444.444444445,444.444444445,\alpha&HFF&)}s
+Dialogue: 0,0:01:06.61,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(175,655)\blur3}e
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(175,655)\blur3\t(500,500,\alpha&HFF&)}e
+Dialogue: 0,0:01:06.67,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(190,655)\blur3}n
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(190,655)\blur3\t(555.555555556,555.555555556,\alpha&HFF&)}n
+Dialogue: 0,0:01:06.73,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(208,655)\blur3}z
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(208,655)\blur3\t(611.111111112,611.111111112,\alpha&HFF&)}z
+Dialogue: 0,0:01:06.79,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(223,655)\blur3}a
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(223,655)\blur3\t(666.666666667,666.666666667,\alpha&HFF&)}a
+Dialogue: 0,0:01:06.85,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(233,655)\blur3}
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(233,655)\blur3\t(722.222222223,722.222222223,\alpha&HFF&)}
+Dialogue: 0,0:01:06.92,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(252,655)\blur3}f
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(252,655)\blur3\t(777.777777778,777.777777778,\alpha&HFF&)}f
+Dialogue: 0,0:01:06.98,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(268,655)\blur3}o
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(268,655)\blur3\t(833.333333334,833.333333334,\alpha&HFF&)}o
+Dialogue: 0,0:01:07.04,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(282,655)\blur3}r
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(282,655)\blur3\t(888.888888890,888.888888890,\alpha&HFF&)}r
+Dialogue: 0,0:01:07.10,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(300,655)\blur3}m
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(300,655)\blur3\t(944.444444445,944.444444445,\alpha&HFF&)}m
+Dialogue: 0,0:01:07.16,0:01:07.22,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(320,655)\blur3}a
+Dialogue: 0,0:01:08.70,0:01:09.70,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(320,655)\blur3\t(1000,1000,\alpha&HFF&)}a
 Dialogue: 0,0:01:09.36,0:01:10.34,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3}T
 Dialogue: 0,0:01:15.09,0:01:16.09,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(55,655)\blur3\t(24.390243902439,24.390243902439,\alpha&HFF&)}T
 Dialogue: 0,0:01:09.38,0:01:10.34,Translation - Copia,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\shad0\pos(72,655)\blur3}h
@@ -3859,13 +3881,13 @@ Dialogue: 0,0:00:38.12,0:00:43.05,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&
 Dialogue: 0,0:00:44.77,0:00:48.42,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
 Dialogue: 0,0:00:44.77,0:00:48.42,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Una deriva ricorrente, la prova della tua vita
 Dialogue: 0,0:00:50.13,0:00:54.82,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:50.13,0:00:54.82,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}è imprigionata nella solitudine senza via di fuga
-Dialogue: 0,0:00:56.35,0:01:00.28,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:56.35,0:01:00.28,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}che converge nel momento in cui prendi il volo
+Dialogue: 0,0:00:50.13,0:00:54.82,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}e' imprigionata nella solitudine senza via di fuga
+Dialogue: 0,0:00:56.65,0:01:00.28,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
+Dialogue: 0,0:00:56.65,0:01:00.28,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}che converge nel momento in cui prendi il volo
 Dialogue: 0,0:01:01.49,0:01:05.54,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
 Dialogue: 0,0:01:01.49,0:01:05.54,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Sei una farfalla,
-Dialogue: 0,0:01:07.02,0:01:08.70,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:07.02,0:01:08.70,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}un Dio senza forma
+Dialogue: 0,0:01:07.22,0:01:08.70,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
+Dialogue: 0,0:01:07.22,0:01:08.70,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}un Dio senza forma
 Dialogue: 0,0:01:10.34,0:01:15.09,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
 Dialogue: 0,0:01:10.34,0:01:15.09,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Le persone in parallelo stanno schiena a schiena
 Dialogue: 0,0:01:16.27,0:01:20.81,Translation,,0,0,0,fx,{\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
