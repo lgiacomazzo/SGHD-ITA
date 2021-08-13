@@ -1094,37 +1094,37 @@ Dialogue: 5,0:01:28.88,0:01:30.30,Romaji,,0,0,0,fx,{\fad(0,150)\pos(741,65)\shad
 Dialogue: 5,0:01:28.88,0:01:30.30,Romaji,,0,0,0,fx,{\fad(0,150)\pos(756,65)\shad0\blur3\bord3\c&H3A7BE4&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&H0094D8&\3c&H057DEE&)\t(1065,1420,\c&HA6CBF2&\3c&H085DB3&)}u
 Dialogue: 0,0:01:24.42,0:01:30.50,Romaji,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(775,65)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:00:25.54,0:00:31.03,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:00:25.54,0:00:31.03,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Does the past distance itself as the future approaches?
+Dialogue: 0,0:00:25.54,0:00:31.03,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Il passato si allontana da un futuro che si avvicina sempre di più?
 Dialogue: 0,0:00:25.54,0:00:31.03,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(873,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:00:31.29,0:00:36.57,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:00:31.29,0:00:36.57,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Someday the Observer will notice the inconsistency
+Dialogue: 0,0:00:31.29,0:00:36.57,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Prima o poi l'Osservatore noterà la contraddizione
 Dialogue: 0,0:00:31.29,0:00:36.57,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(826,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:00:36.50,0:00:40.26,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:00:36.50,0:00:40.26,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}This world shaped by God
+Dialogue: 0,0:00:36.50,0:00:40.26,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Il mondo che Dio ha creato
 Dialogue: 0,0:00:36.50,0:00:40.26,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(438,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:00:40.24,0:00:47.48,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:00:40.24,0:00:47.48,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}is perfect and in a state of absolute balance
+Dialogue: 0,0:00:40.24,0:00:47.48,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}è perfetto e in uno stato di equilibrio assoluto
 Dialogue: 0,0:00:40.24,0:00:47.48,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(700,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:00:47.96,0:00:54.56,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:00:47.96,0:00:54.56,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}A superimposed coincidence, a miracle on a cosmic scale
+Dialogue: 0,0:00:47.96,0:00:54.56,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Una sovrapposizione di coincidenze, un miracolo su scala cosmica
 Dialogue: 0,0:00:47.96,0:00:54.56,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(898,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:00:54.28,0:01:00.58,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:00:54.28,0:01:00.58,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}The "regulations" imposed upon the guarded gate are no more
+Dialogue: 0,0:00:54.28,0:01:00.58,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Le "regole" che proteggevano il cancello sono state abolite
 Dialogue: 0,0:00:54.28,0:01:00.58,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(972,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:01.43,0:01:07.32,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:01:01.43,0:01:07.32,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}"0" is the past, "1" is the future, "The Present" cannot be found
+Dialogue: 0,0:01:01.43,0:01:07.32,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}"0" è il passato, "1" è il futuro, "Il Presente" non esiste più
 Dialogue: 0,0:01:01.43,0:01:07.32,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(961,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:07.17,0:01:12.38,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:01:07.17,0:01:12.38,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}This is a Logic that cannot be denied
+Dialogue: 0,0:01:07.17,0:01:12.38,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Una logica alla quale non si può disobbedire
 Dialogue: 0,0:01:07.17,0:01:12.38,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(595,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:12.93,0:01:18.83,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:01:12.93,0:01:18.83,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Amidst the myriad parallel lines, my choice is that of blasphemy
+Dialogue: 0,0:01:12.93,0:01:18.83,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Tra le miriadi di linee parallele, la mia scelta è quella della blasfemia
 Dialogue: 0,0:01:12.93,0:01:18.83,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(1004,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:18.69,0:01:23.88,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:01:18.69,0:01:23.88,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}"Existence" itself is denied
+Dialogue: 0,0:01:18.69,0:01:23.88,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}Anche la nostra "esistenza" viene negata
 Dialogue: 0,0:01:18.69,0:01:23.88,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(442,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:24.42,0:01:30.50,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}
-Dialogue: 0,0:01:24.42,0:01:30.50,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}as the scenery reflected in those eyes begins to "Converge"
+Dialogue: 0,0:01:24.42,0:01:30.50,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,655)\t(0,100,\alpha&H00&)}mentre lo scenario riflesso nei nostri occhi inizia a "convergere"
 Dialogue: 0,0:01:24.42,0:01:30.50,Translation,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(935,655)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:29.20,0:01:31.50,Romaji,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,65)\t(0,100,\alpha&H00&)}
 Dialogue: 0,0:01:29.20,0:01:31.50,Romaji,,0,0,0,fx,{\fad(300,150)\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos(55,65)\t(0,100,\alpha&H00&)}

@@ -1973,32 +1973,32 @@ Dialogue: 0,0:03:54.78,0:04:06.32,Kanji,,0,0,0,fx,{\fad(300,200)\pos(1217.492187
 Dialogue: 5,0:04:04.18,0:04:06.12,Kanji,,0,0,0,fx,{\fad(0,150)\an5\pos(1217.4921875,679.015625)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HCCCCFC&\3c&H0F1577&)\t(1455,1940,\c&HA6CBF2&\3c&H085DB3&)}は
 Comment: 0,0:03:54.50,0:03:56.50,translation,,0,0,0,,
 Comment: 0,0:03:56.50,0:03:58.50,translation,,0,0,0,,
-Dialogue: 0,0:00:29.70,0:00:35.72,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}I connected a dream to the temptation of time;
-Dialogue: 0,0:00:35.82,0:00:41.78,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}it pierces through the tempest behind the blue sky.
-Dialogue: 0,0:00:41.74,0:00:47.88,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Why is it that happiness hides itself?
-Dialogue: 0,0:00:47.93,0:00:54.42,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}We will be tested by the seed of sorrow.
-Dialogue: 0,0:00:54.32,0:01:00.75,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Not knowing what to do with the kindness passing by,
-Dialogue: 0,0:01:00.45,0:01:05.40,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}I shivered in the darkness of the night.
-Dialogue: 0,0:01:06.57,0:01:12.51,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}In this endless loop, I realized
-Dialogue: 0,0:01:12.60,0:01:19.74,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}what it is that I mustn't lose.
-Dialogue: 0,0:01:19.79,0:01:25.96,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Enduring the pain, I call out to you, looking in your eyes:
-Dialogue: 0,0:01:25.91,0:01:32.09,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}our bond was discovered by fate.
-Dialogue: 0,0:01:31.98,0:01:38.00,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}In this world, filled with that which can break,
-Dialogue: 0,0:01:38.06,0:01:50.07,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}I want to be able to call our encounter "infinite."
-Dialogue: 0,0:01:59.30,0:02:05.30,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Tears twinkle like the flickering stars,
-Dialogue: 0,0:02:05.33,0:02:11.40,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}and everything falls in the past, released by light.
-Dialogue: 0,0:02:11.48,0:02:17.51,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Nothing happens by chance,
-Dialogue: 0,0:02:17.55,0:02:24.00,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}even this moment is an inevitable miracle.
-Dialogue: 0,0:02:24.00,0:02:30.38,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Those fingertips I touched with love
-Dialogue: 0,0:02:30.08,0:02:34.96,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}aren't here anymore, but the spell isn't broken yet.
-Dialogue: 0,0:02:36.14,0:02:42.11,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}I'll get ahead of this scattered time,
-Dialogue: 0,0:02:42.22,0:02:49.14,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}struggling to reach Heaven's door.
-Dialogue: 0,0:02:49.45,0:02:55.47,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Pass through these encounters, numerous as the stars,
-Dialogue: 0,0:02:55.52,0:03:01.49,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}and embrace a new dawn.
-Dialogue: 0,0:03:01.57,0:03:07.61,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}If love is a prayer, then offer it without regrets:
-Dialogue: 0,0:03:07.67,0:03:19.77,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}I want to keep on protecting your broken smile.
-Dialogue: 0,0:03:36.49,0:03:42.64,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Enduring the pain, I call out to you, looking in your eyes:
-Dialogue: 0,0:03:42.60,0:03:48.78,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}our bond was discovered by fate.
-Dialogue: 0,0:03:48.70,0:03:54.72,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}In this world, filled with that which can break,
-Dialogue: 0,0:03:54.78,0:04:06.32,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}I want to be able to call our encounter "infinite."
+Dialogue: 0,0:00:29.70,0:00:35.72,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Ho collegato un sogno alla tentazione del tempo;
+Dialogue: 0,0:00:35.82,0:00:41.78,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}trafigge la tempesta che si cela dietro il cielo azzurro.
+Dialogue: 0,0:00:41.74,0:00:47.88,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Per quale motivo la felicità si nasconde?
+Dialogue: 0,0:00:47.93,0:00:54.42,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Saremo messi alla prova dal seme del dolore.
+Dialogue: 0,0:00:54.32,0:01:00.75,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Non sapendo cosa fare della gentilezza che mi passa accanto,
+Dialogue: 0,0:01:00.45,0:01:05.40,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Ho tremato nell'oscurità della notte.
+Dialogue: 0,0:01:06.57,0:01:12.51,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}In questo ciclo senza fine, ho capito
+Dialogue: 0,0:01:12.60,0:01:19.74,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}cos'è che non devo perdere.
+Dialogue: 0,0:01:19.79,0:01:25.96,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Sopportando il dolore, ti chiamo, guardandoti negli occhi:
+Dialogue: 0,0:01:25.91,0:01:32.09,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}il nostro legame è stato scoperto dal destino.
+Dialogue: 0,0:01:31.98,0:01:38.00,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}In questo mondo, pieno di ciò che si può rompere,
+Dialogue: 0,0:01:38.06,0:01:50.07,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}vorrei poter definire il nostro incontro "infinito".
+Dialogue: 0,0:01:59.30,0:02:05.30,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Lacrime luccicano come stelle tremolanti,
+Dialogue: 0,0:02:05.33,0:02:11.40,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}e tutto scivola nel passato, liberato dalla luce.
+Dialogue: 0,0:02:11.48,0:02:17.51,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Niente accade per caso,
+Dialogue: 0,0:02:17.55,0:02:24.00,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}anche questo momento è un miracolo inevitabile.
+Dialogue: 0,0:02:24.00,0:02:30.38,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Quelle punte delle dita che ho toccato con amore
+Dialogue: 0,0:02:30.08,0:02:34.96,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}non sono più qui, ma l'incantesimo non è stato ancora spezzato.
+Dialogue: 0,0:02:36.14,0:02:42.11,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Supererò questo tempo frammentato,
+Dialogue: 0,0:02:42.22,0:02:49.14,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}lottando per raggiungere la porta del Paradiso.
+Dialogue: 0,0:02:49.45,0:02:55.47,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Passare attraverso questi incontri, numerosi come le stelle,
+Dialogue: 0,0:02:55.52,0:03:01.49,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}e abbracciare una nuova alba.
+Dialogue: 0,0:03:01.57,0:03:07.61,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Se l'amore è una preghiera, allora offrila senza rimpianti:
+Dialogue: 0,0:03:07.67,0:03:19.77,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Voglio continuare a proteggere il tuo sorriso spezzato.
+Dialogue: 0,0:03:36.49,0:03:42.64,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}Sopportando il dolore, ti chiamo, guardandoti negli occhi:
+Dialogue: 0,0:03:42.60,0:03:48.78,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}il nostro legame è stato scoperto dal destino.
+Dialogue: 0,0:03:48.70,0:03:54.72,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}In questo mondo, pieno di ciò che si può rompere,
+Dialogue: 0,0:03:54.78,0:04:06.32,translation,,0,0,0,fx,{\fad(300,200)\pos(52,680)\org(127,460)\3c&H06082F&\blur2\fad(600,0)\t(0,600,\3c&H062D67&)}vorrei poter definire il nostro incontro "infinito".
 Comment: 0,0:03:58.50,0:04:00.50,translation,,0,0,0,,

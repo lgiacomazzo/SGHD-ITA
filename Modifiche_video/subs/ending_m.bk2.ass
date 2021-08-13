@@ -920,14 +920,14 @@ Dialogue: 0,0:00:37.67,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(143,6
 Dialogue: 0,0:00:37.46,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(162,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}i
 Dialogue: 0,0:00:37.57,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(180,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}r
 Dialogue: 0,0:00:37.48,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(197,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}i
-Dialogue: 0,0:00:37.68,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(207,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}s
-Dialogue: 0,0:00:37.49,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(222,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}c
-Dialogue: 0,0:00:37.63,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(237,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}r
+Dialogue: 0,0:00:37.68,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(208,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}d
+Dialogue: 0,0:00:37.49,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(226,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}i
+Dialogue: 0,0:00:37.63,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(236,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}p
 Dialogue: 0,0:00:37.57,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(254,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}i
-Dialogue: 0,0:00:37.60,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(264,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}t
-Dialogue: 0,0:00:37.46,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(275,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}t
-Dialogue: 0,0:00:37.54,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(287,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}i
-Dialogue: 0,0:00:37.96,0:00:41.80,translation,,0,0,0,fx,{\pos(50,670)\fscy83\shad0\blur3\3c&HC2792E&\c&HF2E6CF&}I ricordi riscritti
+Dialogue: 0,0:00:37.60,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(264,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}n
+Dialogue: 0,0:00:37.46,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(283,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}t
+Dialogue: 0,0:00:37.54,0:00:37.96,translation,,0,0,0,fx,{\fscy83\shad0\pos(295,670)\fad(300,0)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}i
+Dialogue: 0,0:00:37.96,0:00:41.80,translation,,0,0,0,fx,{\pos(50,670)\fscy83\shad0\blur3\3c&HC2792E&\c&HF2E6CF&}I ricordi ridipinti
 Dialogue: 0,0:00:41.80,0:00:42.14,translation,,0,0,0,fx,{\pos(50,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}I
 Dialogue: 0,0:00:41.80,0:00:42.44,translation,,0,0,0,fx,{\pos(68,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}r
 Dialogue: 0,0:00:41.80,0:00:42.31,translation,,0,0,0,fx,{\pos(85,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
@@ -938,13 +938,13 @@ Dialogue: 0,0:00:41.80,0:00:42.34,translation,,0,0,0,fx,{\pos(143,670)\fad(0,300
 Dialogue: 0,0:00:41.80,0:00:42.11,translation,,0,0,0,fx,{\pos(162,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
 Dialogue: 0,0:00:41.80,0:00:42.44,translation,,0,0,0,fx,{\pos(180,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}r
 Dialogue: 0,0:00:41.80,0:00:42.22,translation,,0,0,0,fx,{\pos(197,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
-Dialogue: 0,0:00:41.80,0:00:42.10,translation,,0,0,0,fx,{\pos(207,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}s
-Dialogue: 0,0:00:41.80,0:00:42.39,translation,,0,0,0,fx,{\pos(222,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}c
-Dialogue: 0,0:00:41.80,0:00:42.07,translation,,0,0,0,fx,{\pos(237,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}r
+Dialogue: 0,0:00:41.80,0:00:42.10,translation,,0,0,0,fx,{\pos(208,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}d
+Dialogue: 0,0:00:41.80,0:00:42.39,translation,,0,0,0,fx,{\pos(226,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
+Dialogue: 0,0:00:41.80,0:00:42.07,translation,,0,0,0,fx,{\pos(236,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}p
 Dialogue: 0,0:00:41.80,0:00:42.31,translation,,0,0,0,fx,{\pos(254,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
-Dialogue: 0,0:00:41.80,0:00:42.21,translation,,0,0,0,fx,{\pos(264,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}t
-Dialogue: 0,0:00:41.80,0:00:42.43,translation,,0,0,0,fx,{\pos(275,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}t
-Dialogue: 0,0:00:41.80,0:00:42.23,translation,,0,0,0,fx,{\pos(287,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
+Dialogue: 0,0:00:41.80,0:00:42.21,translation,,0,0,0,fx,{\pos(264,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}n
+Dialogue: 0,0:00:41.80,0:00:42.43,translation,,0,0,0,fx,{\pos(283,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}t
+Dialogue: 0,0:00:41.80,0:00:42.23,translation,,0,0,0,fx,{\pos(295,670)\fad(0,300)\shad0\fscy83\blur3\3c&HC2792E&\c&HF2E6CF&\t(0,250,\1a&HFF&\3c&HFFFFFF&)}i
 Dialogue: 0,0:00:37.66,0:00:37.96,Kanji,,0,0,0,fx,{\an5\shad0\fad(300,0)\pos(1219,204)\blur3\3c&HFFFFFF&\1a&HFF&\t(\3c&HC2792E&\c&HF2E6CF&\1a&H00&)}塗
 Dialogue: 0,0:00:37.96,0:00:37.96,Kanji,,0,0,0,fx,{\3c&HC2792E&\c&HF2E6CF&\shad0\an5\pos(1219,204)\blur3}塗
 Dialogue: 0,0:00:38.09,0:00:41.80,Kanji,,0,0,0,fx,{\3c&HFFFFFF&\1a&H33&\c&HD4A86D&\shad0\an5\pos(1219,204)\blur3\fscx100\fscy100}塗

@@ -846,26 +846,26 @@ Dialogue: 0,0:01:24.08,0:01:24.30,kanji,,0,0,0,fx,{\fad(0,150)\an5\pos(1217.5,46
 Dialogue: 0,0:01:20.60,0:01:27.21,kanji,,0,0,0,fx,{\fad(300,300)\an5\c&HE2E2E2&\3c&H545454&\bord2\blur3\shad0\pos(1217.5,500.28125)\blur3}に
 Dialogue: 0,0:01:24.30,0:01:26.91,kanji,,0,0,0,fx,{\fad(0,150)\an5\pos(1217.5,500.28125)\shad0\blur3\bord3\c&HB6B6B6&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HEDEDED&\3c&HB4B4B4&)\t(1957.5,2610,\c&HE2E2E2&\3c&H545454&\bord2)}に
 Dialogue: 0,0:00:16.39,0:00:21.91,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:16.39,0:00:21.91,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}In conflict with the vivid blue sky
+Dialogue: 0,0:00:16.39,0:00:21.91,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}In contrasto con il vivido cielo blu
 Dialogue: 0,0:00:22.32,0:00:27.47,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:22.32,0:00:27.47,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}is a cruel depiction of a dystopian scene.
+Dialogue: 0,0:00:22.32,0:00:27.47,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}c'è una crudele rappresentazione di una scena distopica.
 Dialogue: 0,0:00:27.88,0:00:33.94,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:27.88,0:00:33.94,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}The lingering warmth in my hands
+Dialogue: 0,0:00:27.88,0:00:33.94,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Il calore persistente nelle mie mani
 Dialogue: 0,0:00:33.84,0:00:39.96,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:33.84,0:00:39.96,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}is without any doubt the proof of her life.
+Dialogue: 0,0:00:33.84,0:00:39.96,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}è la prova inconfutabile che lei è viva.
 Dialogue: 0,0:00:39.66,0:00:48.36,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:39.66,0:00:48.36,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Even if this endless loop repeats itself again, I'll keep on protecting you
+Dialogue: 0,0:00:39.66,0:00:48.36,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Anche se questo ciclo infinito si ripetesse di nuovo, continuerò a proteggerti
 Dialogue: 0,0:00:48.19,0:00:51.89,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:48.19,0:00:51.89,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}for this utopia I still can't see.
+Dialogue: 0,0:00:48.19,0:00:51.89,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}per questa utopia che ancora non riesco a vedere.
 Dialogue: 0,0:00:54.17,0:01:00.18,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:54.17,0:01:00.18,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Without losing my way, I now fly toward the sky.
+Dialogue: 0,0:00:54.17,0:01:00.18,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Senza perdere la via, ora volo verso il cielo.
 Dialogue: 0,0:01:00.02,0:01:06.21,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:00.02,0:01:06.21,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Going against time, defying God himself.
+Dialogue: 0,0:01:00.02,0:01:06.21,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}Andando contro il tempo, sfidando Dio stesso.
 Dialogue: 0,0:01:05.94,0:01:11.87,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:05.94,0:01:11.87,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}There's a dazzling, shining flash. And in the next moment,
+Dialogue: 0,0:01:05.94,0:01:11.87,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}C'è un flash abbagliante e luminoso. E nell'attimo successivo,
 Dialogue: 0,0:01:11.87,0:01:15.00,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:11.87,0:01:15.00,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}even when everything is rewritten,
+Dialogue: 0,0:01:11.87,0:01:15.00,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}anche quando tutto sarà riscritto,
 Dialogue: 0,0:01:14.70,0:01:20.53,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:14.70,0:01:20.53,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}I'll still be here,
+Dialogue: 0,0:01:14.70,0:01:20.53,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}io sarò ancora qui,
 Dialogue: 0,0:01:20.60,0:01:27.21,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:20.60,0:01:27.21,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}forever by your side.
+Dialogue: 0,0:01:20.60,0:01:27.21,translation,,0,0,0,fx,{\fad(300,300)\c&HE2E2E2&\3c&H545454&\blur3\shad0\pos(55,655)\blur3}per sempre al tuo fianco.

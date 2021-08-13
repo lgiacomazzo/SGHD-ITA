@@ -1152,35 +1152,35 @@ Dialogue: 8,0:01:39.94,0:01:40.36,Kanji,,0,0,0,fx,{\fad(0,150)\an5\pos(1217.5,39
 Dialogue: 0,0:01:39.09,0:01:42.05,Kanji,,0,0,0,fx,{\fad(300,200)\an5\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(1217.5,438.03125)\blur3}る
 Dialogue: 8,0:01:40.36,0:01:41.85,Kanji,,0,0,0,fx,{\fad(0,150)\an5\pos(1217.5,438.03125)\shad0\blur3\bord3\c&H3A7BE4&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&H0094D8&\3c&H057DEE&)\t(1117.5,1490,\c&H98DEFF&\3c&H1B4AA8&)}る
 Dialogue: 0,0:00:21.10,0:00:26.00,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:21.10,0:00:26.00,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}My vision has surveyed this
+Dialogue: 0,0:00:21.10,0:00:26.00,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}La mia visione ha osservato questo
 Dialogue: 0,0:00:25.89,0:00:32.29,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:25.89,0:00:32.29,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}If everything beneath that sky was real
+Dialogue: 0,0:00:25.89,0:00:32.29,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Se ogni cosa sotto quel cielo fosse reale
 Dialogue: 0,0:00:32.90,0:00:37.91,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:32.90,0:00:37.91,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Then the search for the right answer
+Dialogue: 0,0:00:32.90,0:00:37.91,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Allora la ricerca della risposta giusta
 Dialogue: 0,0:00:37.66,0:00:44.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:37.66,0:00:44.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Is so foolish that I can hear the sniggers
+Dialogue: 0,0:00:37.66,0:00:44.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}e' cosi' sciocca da poter sentire gli sghignazzi
 Dialogue: 0,0:00:44.29,0:00:49.42,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:44.29,0:00:49.42,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}A repeating drift, the proof of your life
+Dialogue: 0,0:00:44.29,0:00:49.42,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Una deriva ricorrente, la prova della tua vita
 Dialogue: 0,0:00:49.83,0:00:55.82,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:49.83,0:00:55.82,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Is captured in loneliness with no escape in sight
+Dialogue: 0,0:00:49.83,0:00:55.82,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}e' imprigionata nella solitudine senza via di fuga
 Dialogue: 0,0:00:56.05,0:01:01.28,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:00:56.05,0:01:01.28,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Converging the moment you take flight
+Dialogue: 0,0:00:56.05,0:01:01.28,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}che converge nel momento in cui prendi il volo
 Dialogue: 0,0:01:01.19,0:01:06.54,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:01.19,0:01:06.54,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}You're a butterfly,
+Dialogue: 0,0:01:01.19,0:01:06.54,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Sei una farfalla,
 Dialogue: 0,0:01:06.72,0:01:10.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:06.72,0:01:10.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}a formless God
+Dialogue: 0,0:01:06.72,0:01:10.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}un Dio senza forma
 Dialogue: 0,0:01:10.04,0:01:16.19,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:10.04,0:01:16.19,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}The people in parallel stand back to back
+Dialogue: 0,0:01:10.04,0:01:16.19,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Le persone parallele stanno schiena contro schiena
 Dialogue: 0,0:01:15.97,0:01:22.01,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:15.97,0:01:22.01,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}The rulers deceive with kindly words
+Dialogue: 0,0:01:15.97,0:01:22.01,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}I governanti ingannano con parole gentili
 Dialogue: 0,0:01:21.78,0:01:27.81,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:21.78,0:01:27.81,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Even if you betrayed the boundary set before you
+Dialogue: 0,0:01:21.78,0:01:27.81,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Anche se hai tradito il confine posto davanti a te
 Dialogue: 0,0:01:27.63,0:01:33.76,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:27.63,0:01:33.76,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Time would sloppily distort itself
+Dialogue: 0,0:01:27.63,0:01:33.76,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}Il tempo si distorcerebbe malamente
 Dialogue: 0,0:01:33.53,0:01:39.33,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:33.53,0:01:39.33,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}And the world would rewrite to sew up
+Dialogue: 0,0:01:33.53,0:01:39.33,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}E il mondo si riscriverebbe per rattoppare
 Dialogue: 0,0:01:39.09,0:01:42.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}
-Dialogue: 0,0:01:39.09,0:01:42.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}the seam
+Dialogue: 0,0:01:39.09,0:01:42.05,Translation,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,655)\blur3}la cucitura
 Dialogue: 0,0:01:29.20,0:01:31.50,Romaji,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,65)\blur3}
 Dialogue: 0,0:01:29.20,0:01:31.50,Romaji,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,65)\blur3}
 Dialogue: 0,0:00:00.00,0:00:05.00,Romaji,,0,0,0,fx,{\fad(300,200)\c&H98DEFF&\3c&H1B4AA8&\blur3\shad0\pos(55,65)\blur3}
