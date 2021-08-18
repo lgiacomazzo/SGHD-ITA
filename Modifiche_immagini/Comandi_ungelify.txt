@@ -1,0 +1,50 @@
+Recuperare c0data.mpk da patch CoZ, mentre system.mpk dalla directory USRDIR
+
+open c0data.mpk
+replace CONFIG.dds
+close
+open system.mpk
+replace CONFIG.dds
+close
+open c0data.mpk
+replace DATA01.dds
+close
+open system.mpk
+replace DATA01.dds
+close
+open c0data.mpk
+replace PHONE.DDS
+close
+open system.mpk
+replace PHONE.DDS
+close
+open c0data.mpk
+replace PHONE_B.DDS
+close
+open system.mpk
+replace PHONE_B.DDS
+close
+open c0data.mpk
+replace PHONE_C.DDS
+close
+open system.mpk
+replace PHONE_C.DDS
+close
+open c0data.mpk
+replace PHONE_D.DDS
+close
+open system.mpk
+replace PHONE_D.DDS
+close
+open c0data.mpk
+replace PHONE_E.DDS
+close
+open system.mpk
+replace PHONE_E.DDS
+close
+open c0data.mpk
+replace TITLE_CHIP.DDS
+close
+open system.mpk
+replace TITLE_CHIP.DDS
+close
