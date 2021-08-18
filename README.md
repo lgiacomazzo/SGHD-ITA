@@ -1,6 +1,6 @@
 # SGHD-ITA
  
-Questo repository mira a colmare il buco nella traduzione tra la versione JASTUSA, e la traduzione di Steins;Gate Elite pubblicato su Steam. Quindi, l'obiettivo è quello di tradurre almeno una buona parte dell'edizione Steins;Gate STEAM HD EDITION rilasciata su Steam. (attualmente so che un altro gruppo si sta occupando della traduzione, quindi andate qui:(https://openthesteinsgate.it/) per controllare se ci stanno notizie). La mia traduzione, voglio specificare, è una traduzione amatoriale.
+Questo repository mira a colmare il buco nella traduzione tra la versione JASTUSA, e la traduzione di Steins;Gate Elite pubblicato su Steam. Quindi, l'obiettivo è quello di tradurre almeno una buona parte dell'edizione Steins;Gate STEAM HD EDITION rilasciata su Steam. (attualmente so che un altro gruppo si sta occupando della traduzione, quindi andate (qui)[https://openthesteinsgate.it/] per controllare se ci stanno notizie). La mia traduzione, voglio specificare, è una traduzione amatoriale.
 
 Le directory SC3Tools e Ungelify sono il risultato della compilazione dei file del branch transition di questo repository: https://github.com/CommitteeOfZero/SciAdv.Net. Senza il loro lavoro, difficilmente avrei avuto voglia e tempo da dedicare a questa attività. Da qui abbrevio CommitteeOfZero con CoZ.
 
