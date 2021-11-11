@@ -3,7 +3,7 @@
 Non importa quante volte io chiami il suo nome...[%p]
 Mayuri non risponde.[%p]
 Mayuri e‘ in piedi davanti ad una tomba, guardando il cielo.[%p]
-La tomba appartiene a sua nonna, che e‘ morta quando Mayuri aveva undici anni.[%p]
+La tomba appartiene a sua nonna, che e‘ morta in primavera quando Mayuri aveva undici anni.[%p]
 I suoi genitori erano sempre occupati con il lavoro, cosi‘ sua nonna era la sua unica compagnia.[%p]
 Ero vicino alla famiglia di Mayuri, quindi la sua morte e‘ stata triste anche per me.[%p]
 Alla veglia, mi aspettavo che Mayuri scoppiasse a piangere.[%p]

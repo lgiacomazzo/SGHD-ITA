@@ -16,7 +16,7 @@ No! Non e‘ possibile che una ragazza cosi‘ arrogante e prepotente abbia un r
 Ma, allora chi era?[%p]
 Un fratello? O forse suo padre che non vede da sette anni?[%p]
 Ho paura di chiedere. Kurisu fa paura quando si arrabbia.[%p]
-Il ricordo del suo sguardo minaccioso mi fa correre un brivido lungo la schiena. Mi affretto al secondo piano.[%p]
+Il ricordo del suo sguardo minaccioso mi fa correre un brivido lungo la schiena. Mi affretto al primo piano.[%p]
 Quando sono al sicuro nel laboratorio, inizio a guardare @channel.[%p]
 Non sembra che Titor abbia fatto un’apparizione oggi.[%p]
 La mania di Titor che ha dominato il forum dell’occulto nell’ultima settimana sta cominciando a scemare.[%p]

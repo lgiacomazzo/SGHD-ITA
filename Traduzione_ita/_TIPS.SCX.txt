@@ -132,7 +132,7 @@ Altro
 Ippocampo CA3
 Hippocampus Cornu Ammonis Region 3
 ippocampo ca3
-L’ippocampo e‘ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742 — “cornu Ammonis”, il corno di Amun.
+L’ippocampo e‘ diviso in tre sezioni istologiche: CA1, CA2, e CA3. CA si riferisce al nome dato all’ippocampo dall’anatomista Garengeot nel 1742—“cornu Ammonis”, il corno di Amun.
 Chuunibyou
 Consiglio per lo Sviluppo
 Consiglio per lo Sviluppo
@@ -260,7 +260,7 @@ Scienza
 Congettura di protezione cronologica
 Congettura di protezione cronologica
 congettura di protezione cronologica
-Nella meccanica quantistica, una teoria, proposta da Stephen Hawking, che afferma che il viaggio nel tempo e‘ impossibile. Qualsiasi tentativo di viaggiare nel tempo sarà impedito da effetti quantistici. Completare il viaggio nel tempo richiede infinita “energia di campo”, che e‘ impossibile da ottenere. In altre parole, le leggi di causalità — e per estensione, la cronologia o linea temporale dell’universo — sono protetti dalla meccanica quantistica.
+Nella meccanica quantistica, una teoria, proposta da Stephen Hawking, che afferma che il viaggio nel tempo e‘ impossibile. Qualsiasi tentativo di viaggiare nel tempo sarà impedito da effetti quantistici. Completare il viaggio nel tempo richiede infinita “energia di campo”, che e‘ impossibile da ottenere. In altre parole, le leggi di causalità—e per estensione, la cronologia o linea temporale dell’universo—sono protetti dalla meccanica quantistica.
 Scienza
 Orizzonte degli Eventi
 Orizzonte degli Eventi
@@ -740,7 +740,7 @@ Scienza
 Teletrasporto Quantistico
 Teletrasporto Quantistico
 teletrasporto quantistico
-Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiché sono una coppia, godono della proprietà di simmetria — se una mostra up-spin, l’altra mostrerà down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e‘ chiamato entanglement.
+Non si riferisce a un vero teletrasporto. Nel 2004, dei ricercatori giapponesi erano riusciti a completare il primo esperimento di “salto quantico completo” con successo. Supponiamo di avere una coppia di particelle (fotoni in questo caso), A e B. Poiché sono una coppia, godono della proprietà di simmetria—se una mostra up-spin, l’altra mostrerà down-spin. Questo vuol dire che osservare una delle due particelle permette di conoscere lo stato dell’altra. Questo e‘ chiamato entanglement.
 Lo stato di una particella elementare (fotone) non puo‘ essere confermato fino a quando non viene osservato. Per l’esperimento, colleghiamo i dati C, l’informazione da teletrasportare, al Fotone A. Ora stiamo osservando il fotone A-C. In base alla proprietà di simmetria, sappiamo che, non importa quanto distanti, il Fotone B cambierà, diventando effettivamente B-C. (Notare che il Fotone B non e‘ stato ancora osservato).
 Successivamente, trasmettiamo le informazioni del Fotone A-C dall’equipaggiamento di osservazione di A all’equipaggiamento di osservazione di B attraverso una trasmissione standard. Ora, osservare il Fotone B lo farà diventare il “Fotone B-C”. Questo processo e‘ chiamato teletrasporto quantistico perché i dati C cambiano posizione istantaneamente.
 Tuttavia, visto che un passo richiede mezzi standard per la trasmissione dei dati, e‘ impossibile superare la velocità della luce. Infine, i dati C del Fotone B-C “teletrasportati” sono in realtà una copia dei dati C del Fotone A-C. La posizione dell’originale Fotone C diventa sconosciuta. Questo punto separa il teletrasporto quantistico da quello idealizzato.

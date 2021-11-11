@@ -81,7 +81,7 @@ Continua a quotare citazioni dei manga. Significa davvero cio‘ che penso signi
 [name]Mayuri[line]“Senza le informazioni di Mayushii, Okarin sarebbe ancora perso tra le strade di Akiba.”[%p]
 [name]Rintaro[line]“Mayuri ha ragione. Ha fatto un buon lavoro questa volta.”[%p]
 [name]Mayuri[line]“Ehehe! Comunque, e‘ ora che Mayushii torni a casa.”[%p]
-[name]Mayuri[line]“E tu, Chris-chan? Vuoi andare insieme?”[%p]
+[name]Mayuri[line]“E tu, Kurisu-chan? Vuoi andare insieme?”[%p]
 [name]Kurisu[line]“Grazie. Ma ho intenzione di rimanere qui ancora un po’.”[%p]
 Sembra che Kurisu sia interessata all’IBN 5100 e al SERN dopo tutto.[%p]
 Il che mi fa venire in mente. Non l’ho ancora aggiornata.[%p]

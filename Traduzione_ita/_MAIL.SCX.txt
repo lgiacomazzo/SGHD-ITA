@@ -739,19 +739,19 @@ Guerriera Part-Time
 Addio.
 
 Microonde Telefonico
-Non ascoltare Chris insegui Suzuha!
+Non ascoltare Kurisu insegui Suzuha!
 
 Hououin Kyouma
-Non ascoltare Chris insegui Suzuha!
+Non ascoltare Kurisu insegui Suzuha!
 
 Microonde Telefonico
-Non ascoltare Chris insegui Suzuha!
+Non ascoltare Kurisu insegui Suzuha!
 
 Hououin Kyouma
-gui Suzuha!
+egui Suzuha!
 
 Hououin Kyouma
-e Chris inse
+e Kurisu ins
 
 Hououin Kyouma
 Non ascoltar
@@ -1453,7 +1453,7 @@ Mayuri
 Lo hai dimenticato? Tutto e‘ iniziato quando hai chiesto un costume di Kyoujiro~ l’utilizzatore del fuoco da King of Histories. Ricordi? Pensavo che sembrasse fantastico su di te~ ma l’hai indossato solo una volta... che spreco (⌐・ω・` )
 Dove stai andando?
 Mayuri
-Okarin~ dove stai andando? Un [ruby-base]appuntamento[ruby-text-end] con Chris-chan? Sono [ruby-base]gelosa[ruby-text-end]. (⌐・ω・` )
+Okarin~ dove stai andando? Un [ruby-base]appuntamento[ruby-text-end] con Kurisu-chan? Sono [ruby-base]gelosa[ruby-text-end]. (⌐・ω・` )
 Re:Dove stai andando?
 Mayuri
 La nostra relazione e‘ puramente professionale. Lei e‘ la mia assistente. Nulla di piu‘.

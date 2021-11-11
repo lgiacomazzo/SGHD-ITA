@@ -1,6 +1,6 @@
 Sono le 18 passate quando torno al laboratorio.[%p]
 [name]Mayuri[line]“Tutturu♪ Bentornatokarin.”[%p]
-Ci sono due ragazze nel laboratorio — Mayuri e Kurisu.[%p]
+Ci sono due ragazze nel laboratorio—Mayuri e Kurisu.[%p]
 [name]Rintaro[line]“Chi e‘ questo ‘Karin’?”[%p]
 [name]Mayuri[line]“Beh, ‘bentornato’ fluisce cosi‘ bene in ‘Okarin’, non e‘ vero? Quando li metti insieme, sono doppiamente deliziosi.”[%p]
 [name]Rintaro[line]“Non sono deliziosi.”[%p]

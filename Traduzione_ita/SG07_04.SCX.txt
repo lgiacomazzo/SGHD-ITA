@@ -1,6 +1,6 @@
 La porta si apre bruscamente.[%p]
 Cinque uomini irrompono nel laboratorio.[%p]
-Li riconosco — i Rounders.[%p]
+Li riconosco—i Rounders.[%p]
 Puntano le loro armi su di noi. Mi blocco.[%p]
 La disperazione si impadronisce del mio cuore. Le mie peggiori paure si sono avverate.[%p]
 Sta succedendo esattamente come prima.[%p]
