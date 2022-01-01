@@ -13,14 +13,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../videos/1080p/prologue02.avi
-Video File: ../videos/1080p/prologue02.avi
+Audio File: ../videos/1920x1080/prologue02.mp4
+Video File: ../videos/1920x1080/prologue02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.400000
-Scroll Position: 586
-Active Line: 589
-Video Position: 1071
+Video Zoom Percent: 0.375000
+Scroll Position: 211
+Active Line: 214
+Video Position: 263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -277,12 +277,12 @@ Dialogue: 0,0:00:08.17,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1503
 Dialogue: 0,0:00:08.23,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1518,815)\fad(0,75)}﻿
 Dialogue: 0,0:00:08.29,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1540,815)\fad(0,75)}﻿u
 Dialogue: 0,0:00:08.35,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1564,815)\fad(0,75)}﻿n
-Dialogue: 0,0:00:08.41,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1588,815)\fad(0,75)}﻿a
-Dialogue: 0,0:00:08.47,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1603,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:08.53,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1619,815)\fad(0,75)}﻿f
-Dialogue: 0,0:00:08.59,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1633,815)\fad(0,75)}﻿i
-Dialogue: 0,0:00:08.65,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1652,815)\fad(0,75)}﻿n
-Dialogue: 0,0:00:08.71,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1676,815)\fad(0,75)}﻿e
+Dialogue: 0,0:00:08.41,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1580,815)\fad(0,75)}﻿'
+Dialogue: 0,0:00:08.47,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1590,815)\fad(0,75)}﻿
+Dialogue: 0,0:00:08.53,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1604,815)\fad(0,75)}﻿in
+Dialogue: 0,0:00:08.59,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1626,815)\fad(0,75)}﻿i
+Dialogue: 0,0:00:08.65,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1648,815)\fad(0,75)}﻿zi
+Dialogue: 0,0:00:08.71,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1676,815)\fad(0,75)}﻿o
 Dialogue: 0,0:00:08.77,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1695,815)\fad(0,75)}﻿,
 Dialogue: 0,0:00:08.83,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1710,815)\fad(0,75)}﻿
 Dialogue: 0,0:00:09.92,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(810,851)\fad(0,75)}﻿m
