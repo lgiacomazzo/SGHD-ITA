@@ -1,17 +1,17 @@
 
 modifiche testo.txt
-*.mp4
 file_temporaneo.txt
-*.SCX
-Temp/*
 file_modifiche_da_fare.txt
 c0data.mpk
-*.7z
 enscript.mpk
-Modifiche_video/videos/*
 checks_righe.py
-2.0/*
-1.1/*
-script.jap/*
-*.zip
 checks_differenze_suffissi.py
+*.mp4
+*.SCX
+*.7z
+*.zip
+Traduzione_ita/video/videos/*
+Temp/*
+SGHD-2.0/*
+SGHD-1.1/*
+Programmi/test/
