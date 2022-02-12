@@ -1,0 +1,558 @@
+open enscript.mpk
+replace CLRFLG.SCX
+close
+open enscript.mpk
+replace MACROSYS.SCX
+close
+open enscript.mpk
+replace MACROSYS2.SCX
+close
+open enscript.mpk
+replace MAIN00.SCX
+close
+open enscript.mpk
+replace MAIN90.SCX
+close
+open enscript.mpk
+replace SG00_01.SCX
+close
+open enscript.mpk
+replace SG01_01.SCX
+close
+open enscript.mpk
+replace SG01_02.SCX
+close
+open enscript.mpk
+replace SG01_03.SCX
+close
+open enscript.mpk
+replace SG01_04.SCX
+close
+open enscript.mpk
+replace SG01_05.SCX
+close
+open enscript.mpk
+replace SG01_06.SCX
+close
+open enscript.mpk
+replace SG01_07.SCX
+close
+open enscript.mpk
+replace SG01_08.SCX
+close
+open enscript.mpk
+replace SG01_09.SCX
+close
+open enscript.mpk
+replace SG01_10.SCX
+close
+open enscript.mpk
+replace SG01_11.SCX
+close
+open enscript.mpk
+replace SG01_12.SCX
+close
+open enscript.mpk
+replace SG01_13.SCX
+close
+open enscript.mpk
+replace SG02_01.SCX
+close
+open enscript.mpk
+replace SG02_02.SCX
+close
+open enscript.mpk
+replace SG02_03.SCX
+close
+open enscript.mpk
+replace SG02_04.SCX
+close
+open enscript.mpk
+replace SG02_05.SCX
+close
+open enscript.mpk
+replace SG02_06.SCX
+close
+open enscript.mpk
+replace SG02_07.SCX
+close
+open enscript.mpk
+replace SG02_08.SCX
+close
+open enscript.mpk
+replace SG02_09.SCX
+close
+open enscript.mpk
+replace SG02_10.SCX
+close
+open enscript.mpk
+replace SG02_11.SCX
+close
+open enscript.mpk
+replace SG02_12.SCX
+close
+open enscript.mpk
+replace SG02_13.SCX
+close
+open enscript.mpk
+replace SG02_14.SCX
+close
+open enscript.mpk
+replace SG02_15.SCX
+close
+open enscript.mpk
+replace SG02_16.SCX
+close
+open enscript.mpk
+replace SG02_17.SCX
+close
+open enscript.mpk
+replace SG02_18.SCX
+close
+open enscript.mpk
+replace SG02_19.SCX
+close
+open enscript.mpk
+replace SG03_01.SCX
+close
+open enscript.mpk
+replace SG03_02.SCX
+close
+open enscript.mpk
+replace SG03_03.SCX
+close
+open enscript.mpk
+replace SG03_04.SCX
+close
+open enscript.mpk
+replace SG03_05.SCX
+close
+open enscript.mpk
+replace SG03_06.SCX
+close
+open enscript.mpk
+replace SG03_07.SCX
+close
+open enscript.mpk
+replace SG03_08.SCX
+close
+open enscript.mpk
+replace SG03_09.SCX
+close
+open enscript.mpk
+replace SG03_10.SCX
+close
+open enscript.mpk
+replace SG03_11.SCX
+close
+open enscript.mpk
+replace SG03_12.SCX
+close
+open enscript.mpk
+replace SG03_13.SCX
+close
+open enscript.mpk
+replace SG03_14.SCX
+close
+open enscript.mpk
+replace SG04_01.SCX
+close
+open enscript.mpk
+replace SG04_02.SCX
+close
+open enscript.mpk
+replace SG04_03.SCX
+close
+open enscript.mpk
+replace SG04_04.SCX
+close
+open enscript.mpk
+replace SG04_05.SCX
+close
+open enscript.mpk
+replace SG04_06.SCX
+close
+open enscript.mpk
+replace SG04_07.SCX
+close
+open enscript.mpk
+replace SG04_08.SCX
+close
+open enscript.mpk
+replace SG04_09.SCX
+close
+open enscript.mpk
+replace SG04_10.SCX
+close
+open enscript.mpk
+replace SG04_11.SCX
+close
+open enscript.mpk
+replace SG04_12.SCX
+close
+open enscript.mpk
+replace SG04_13.SCX
+close
+open enscript.mpk
+replace SG04_14.SCX
+close
+open enscript.mpk
+replace SG04_15.SCX
+close
+open enscript.mpk
+replace SG04_16.SCX
+close
+open enscript.mpk
+replace SG04_17.SCX
+close
+open enscript.mpk
+replace SG04_18.SCX
+close
+open enscript.mpk
+replace SG04_19.SCX
+close
+open enscript.mpk
+replace SG04_20.SCX
+close
+open enscript.mpk
+replace SG04_21.SCX
+close
+open enscript.mpk
+replace SG04_22.SCX
+close
+open enscript.mpk
+replace SG04_23.SCX
+close
+open enscript.mpk
+replace SG04_24.SCX
+close
+open enscript.mpk
+replace SG04_25.SCX
+close
+open enscript.mpk
+replace SG05_01.SCX
+close
+open enscript.mpk
+replace SG05_02.SCX
+close
+open enscript.mpk
+replace SG05_03.SCX
+close
+open enscript.mpk
+replace SG05_04.SCX
+close
+open enscript.mpk
+replace SG05_05.SCX
+close
+open enscript.mpk
+replace SG05_06.SCX
+close
+open enscript.mpk
+replace SG05_07.SCX
+close
+open enscript.mpk
+replace SG05_08.SCX
+close
+open enscript.mpk
+replace SG05_09.SCX
+close
+open enscript.mpk
+replace SG05_10.SCX
+close
+open enscript.mpk
+replace SG05_11.SCX
+close
+open enscript.mpk
+replace SG05_12.SCX
+close
+open enscript.mpk
+replace SG05_13.SCX
+close
+open enscript.mpk
+replace SG05_14.SCX
+close
+open enscript.mpk
+replace SG05_15.SCX
+close
+open enscript.mpk
+replace SG05_16.SCX
+close
+open enscript.mpk
+replace SG05_17.SCX
+close
+open enscript.mpk
+replace SG06_01.SCX
+close
+open enscript.mpk
+replace SG06_02.SCX
+close
+open enscript.mpk
+replace SG06_03.SCX
+close
+open enscript.mpk
+replace SG06_04.SCX
+close
+open enscript.mpk
+replace SG06_05.SCX
+close
+open enscript.mpk
+replace SG06_06.SCX
+close
+open enscript.mpk
+replace SG06_07.SCX
+close
+open enscript.mpk
+replace SG06_08.SCX
+close
+open enscript.mpk
+replace SG06_09.SCX
+close
+open enscript.mpk
+replace SG06_10.SCX
+close
+open enscript.mpk
+replace SG06_11.SCX
+close
+open enscript.mpk
+replace SG06_12.SCX
+close
+open enscript.mpk
+replace SG06_13.SCX
+close
+open enscript.mpk
+replace SG06_14.SCX
+close
+open enscript.mpk
+replace SG06_15.SCX
+close
+open enscript.mpk
+replace SG06_16.SCX
+close
+open enscript.mpk
+replace SG06_17.SCX
+close
+open enscript.mpk
+replace SG06_18.SCX
+close
+open enscript.mpk
+replace SG06_19.SCX
+close
+open enscript.mpk
+replace SG06_20.SCX
+close
+open enscript.mpk
+replace SG06_21.SCX
+close
+open enscript.mpk
+replace SG06_22.SCX
+close
+open enscript.mpk
+replace SG06_23.SCX
+close
+open enscript.mpk
+replace SG06_24S.SCX
+close
+open enscript.mpk
+replace SG06_25S.SCX
+close
+open enscript.mpk
+replace SG07_01.SCX
+close
+open enscript.mpk
+replace SG07_02.SCX
+close
+open enscript.mpk
+replace SG07_03.SCX
+close
+open enscript.mpk
+replace SG07_04.SCX
+close
+open enscript.mpk
+replace SG07_05.SCX
+close
+open enscript.mpk
+replace SG07_06.SCX
+close
+open enscript.mpk
+replace SG07_07.SCX
+close
+open enscript.mpk
+replace SG07_08.SCX
+close
+open enscript.mpk
+replace SG07_09.SCX
+close
+open enscript.mpk
+replace SG07_10.SCX
+close
+open enscript.mpk
+replace SG07_11.SCX
+close
+open enscript.mpk
+replace SG07_12.SCX
+close
+open enscript.mpk
+replace SG07_13.SCX
+close
+open enscript.mpk
+replace SG07_14F.SCX
+close
+open enscript.mpk
+replace SG07_15F.SCX
+close
+open enscript.mpk
+replace SG07_16F.SCX
+close
+open enscript.mpk
+replace SG08_01.SCX
+close
+open enscript.mpk
+replace SG08_02.SCX
+close
+open enscript.mpk
+replace SG08_03.SCX
+close
+open enscript.mpk
+replace SG08_04.SCX
+close
+open enscript.mpk
+replace SG08_05.SCX
+close
+open enscript.mpk
+replace SG08_06.SCX
+close
+open enscript.mpk
+replace SG08_07.SCX
+close
+open enscript.mpk
+replace SG08_08.SCX
+close
+open enscript.mpk
+replace SG08_09.SCX
+close
+open enscript.mpk
+replace SG08_10.SCX
+close
+open enscript.mpk
+replace SG08_11.SCX
+close
+open enscript.mpk
+replace SG08_12.SCX
+close
+open enscript.mpk
+replace SG08_13R.SCX
+close
+open enscript.mpk
+replace SG08_14R.SCX
+close
+open enscript.mpk
+replace SG09_01.SCX
+close
+open enscript.mpk
+replace SG09_02.SCX
+close
+open enscript.mpk
+replace SG09_03.SCX
+close
+open enscript.mpk
+replace SG09_04.SCX
+close
+open enscript.mpk
+replace SG09_05.SCX
+close
+open enscript.mpk
+replace SG09_06.SCX
+close
+open enscript.mpk
+replace SG09_07.SCX
+close
+open enscript.mpk
+replace SG09_08.SCX
+close
+open enscript.mpk
+replace SG09_09.SCX
+close
+open enscript.mpk
+replace SG09_10.SCX
+close
+open enscript.mpk
+replace SG09_11.SCX
+close
+open enscript.mpk
+replace SG09_12.SCX
+close
+open enscript.mpk
+replace SG10_01.SCX
+close
+open enscript.mpk
+replace SG10_02.SCX
+close
+open enscript.mpk
+replace SG10_03.SCX
+close
+open enscript.mpk
+replace SG10_04.SCX
+close
+open enscript.mpk
+replace SG10_05M.SCX
+close
+open enscript.mpk
+replace SG10_06M.SCX
+close
+open enscript.mpk
+replace SG10_07M.SCX
+close
+open enscript.mpk
+replace SG10_08M.SCX
+close
+open enscript.mpk
+replace SG10_09M.SCX
+close
+open enscript.mpk
+replace SG10_10C.SCX
+close
+open enscript.mpk
+replace SG10_11C.SCX
+close
+open enscript.mpk
+replace SG10_12C.SCX
+close
+open enscript.mpk
+replace SG11_01.SCX
+close
+open enscript.mpk
+replace SG11_02.SCX
+close
+open enscript.mpk
+replace SG11_03.SCX
+close
+open enscript.mpk
+replace SG11_04.SCX
+close
+open enscript.mpk
+replace SG11_05.SCX
+close
+open enscript.mpk
+replace SG11_06.SCX
+close
+open enscript.mpk
+replace SG11_07.SCX
+close
+open enscript.mpk
+replace SG11_08.SCX
+close
+open enscript.mpk
+replace _ATCH.SCX
+close
+open enscript.mpk
+replace _MAIL.SCX
+close
+open enscript.mpk
+replace _STARTUP_WIN.SCX
+close
+open enscript.mpk
+replace _SYSTEM.SCX
+close
+open enscript.mpk
+replace _TIPS.SCX
+close

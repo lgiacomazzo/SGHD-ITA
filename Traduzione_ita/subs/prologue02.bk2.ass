@@ -4,8 +4,8 @@
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1280
+PlayResY: 720
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 6
@@ -13,57 +13,57 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../videos/1920x1080/prologue02.mp4
-Video File: ../videos/1920x1080/prologue02.mp4
+Audio File: ../video/videos/1280x720/prologue02.mp4
+Video File: ../video/videos/1280x720/prologue02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 208
-Active Line: 210
-Video Position: 294
+Video Zoom Percent: 0.500000
+Scroll Position: 48
+Active Line: 53
+Video Position: 26
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: normal - centro - arriba - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,8,40,30,460,1
-Style: normal - centro - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,5,30,30,23,1
-Style: normal - 860 - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,0,840,1
-Style: normal izq - 890 - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,9,0,186,870,1
-Style: normal - 890 - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,0,870,1
-Style: normal izq - 858 - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,9,0,186,830,1
-Style: normal - 858 - Copia-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,0,830,1
-Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: normal - centro - arriba-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,8,40,30,460,1
-Style: normal - 860-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,0,840,1
-Style: normal izq - 890-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,9,0,186,870,1
-Style: normal - 890-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,0,870,1
-Style: normal izq - 858-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,9,0,186,830,1
-Style: finito - 895-furigana,Roboto,22,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,1610,30,875,1
-Style: infinito - 895-furigana,Roboto,22,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,30,800,1
-Style: normal - 858-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,192,0,830,1
-Style: normal - centro-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,5,30,30,23,1
-Style: normal - izq-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,6,30,30,23,1
-Style: normal-furigana,Roboto,22.5,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,7,30,30,23,1
-Style: in-finito-furigana,Roboto,22,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1,0,4,30,30,23,1
-Style: in-finito,Roboto,44,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,4,30,30,23,1
-Style: normal,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,30,30,23,1
-Style: normal - izq,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,6,30,30,23,1
-Style: normal - centro,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,5,30,30,23,1
-Style: normal - 858,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,192,0,825,1
-Style: infinito - 895,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0,0,7,192,30,865,1
-Style: finito - 895,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0,0,9,0,195,865,1
-Style: normal izq - 858,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,9,0,186,825,1
-Style: normal - 890,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,192,0,860,1
-Style: normal izq - 890,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,9,0,186,860,1
-Style: normal - 860,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,192,0,830,1
-Style: normal - centro - arriba,Roboto,57,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,8,40,30,450,1
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: normal - 858 - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,192,0,830,1
-Style: normal izq - 858 - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,9,0,186,830,1
-Style: normal - 890 - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,192,0,870,1
-Style: normal izq - 890 - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,9,0,186,870,1
-Style: normal - 860 - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,7,192,0,840,1
-Style: normal - centro - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,5,30,30,23,1
-Style: normal - centro - arriba - Copia,Roboto,45,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,2,0,8,40,30,460,1
+Style: normal - centro - arriba - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,8,27,20,307,1
+Style: normal - centro - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,5,20,20,15,1
+Style: normal - 860 - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,0,560,1
+Style: normal izq - 890 - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,9,0,124,580,1
+Style: normal - 890 - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,0,580,1
+Style: normal izq - 858 - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,9,0,124,553,1
+Style: normal - 858 - Copia-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,0,553,1
+Style: Default-furigana,Arial,7,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.666667,0.666667,2,7,7,7,1
+Style: normal - centro - arriba-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,8,27,20,307,1
+Style: normal - 860-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,0,560,1
+Style: normal izq - 890-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,9,0,124,580,1
+Style: normal - 890-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,0,580,1
+Style: normal izq - 858-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,9,0,124,553,1
+Style: finito - 895-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,1073,20,583,1
+Style: infinito - 895-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,20,533,1
+Style: normal - 858-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,128,0,553,1
+Style: normal - centro-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,5,20,20,15,1
+Style: normal - izq-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,6,20,20,15,1
+Style: normal-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,7,20,20,15,1
+Style: in-finito-furigana,Roboto,15,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0.666667,0,4,20,20,15,1
+Style: in-finito,Roboto,29,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,4,20,20,15,1
+Style: normal,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,20,20,15,1
+Style: normal - izq,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,6,20,20,15,1
+Style: normal - centro,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,5,20,20,15,1
+Style: normal - 858,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,128,0,550,1
+Style: infinito - 895,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0,0,7,128,20,577,1
+Style: finito - 895,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,0,0,9,0,130,577,1
+Style: normal izq - 858,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,9,0,124,550,1
+Style: normal - 890,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,128,0,573,1
+Style: normal izq - 890,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,9,0,124,573,1
+Style: normal - 860,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,128,0,553,1
+Style: normal - centro - arriba,Roboto,38,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,8,27,20,300,1
+Style: Default,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
+Style: normal - 858 - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,128,0,553,1
+Style: normal izq - 858 - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,9,0,124,553,1
+Style: normal - 890 - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,128,0,580,1
+Style: normal izq - 890 - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,9,0,124,580,1
+Style: normal - 860 - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,7,128,0,560,1
+Style: normal - centro - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,5,20,20,15,1
+Style: normal - centro - arriba - Copia,Roboto,30,&H00FFFFFF,&H000000FF,&H81C0C0C0,&H00000000,0,0,0,0,95,90,0,0,1,1.33333,0,8,27,20,307,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -92,692 +92,699 @@ Comment: 0,0:00:00.00,0:00:00.04,normal - 858,,0,0,0,,desaparición aleatoria en
 Comment: 0,0:00:00.04,0:00:00.84,normal - 858,,0,0,0,,
 Comment: 0,0:00:00.84,0:00:06.62,normal - 858,,0,0,0,karaoke,{\k6}L{\k7}'{\k6}u{\k7}n{\k6}i{\k7}v{\k6}e{\k7}r{\k6}s{\k7}o{\k6} {\k6}h{\k6}a{\k6} {\k6}u{\k6}n{\k7} {\k6}i{\k6}n{\k6}i{\k6}z{\k6}i{\k6}o{\k6},{\k75} {\k4}m{\k5}a{\k4} {\k5}n{\k4}o{\k5}n{\k4} {\k5}h{\k4}a{\k5} {\k4}u{\k5}n{\k4}a{\k5} {\k4}f{\k5}i{\k4}n{\k5}e{\k5}.{\k242}
 Comment: 0,0:00:05.78,0:00:06.62,infinito - 895,,0,0,0,karaoke,{\k8}-{\k9}-{\k8}I{\k9}n{\k8}f{\k9}i{\k8}n{\k9}i{\k8}t{\k8}o
-Comment: 0,0:00:05.63,0:00:06.62,in-finito,,0,0,0,,{\be20\pos(192,895)}--Infinito{}
+Comment: 0,0:00:05.63,0:00:06.62,in-finito,,0,0,0,,{\be13\pos(128,600)}--Infinito{}
 Comment: 0,0:00:06.97,0:00:14.41,normal izq - 858,,0,0,0,karaoke,{\k5}A{\k5}n{\k5}c{\k5}h{\k5}e{\k5} {\k5}l{\k5}e{\k5} {\k5}s{\k5}t{\k5}e{\k5}l{\k5}l{\k5}e{\k5} {\k5}h{\k5}a{\k5}n{\k5}n{\k5}o{\k5} {\k5}u{\k5}n{\k5} {\k5}i{\k5}n{\k5}i{\k5}z{\k5}i{\k5}o{\k5},{\k111} {\k5}m{\k5}a{\k5} {\k5}v{\k5}e{\k5}n{\k5}g{\k5}o{\k5}n{\k5}o{\k5} {\k5}d{\k5}i{\k5}s{\k5}t{\k5}r{\k5}u{\k5}t{\k5}t{\k5}e{\k5} {\k5}d{\k5}a{\k5}l{\k5}l{\k5}a{\k5} {\k5}l{\k5}o{\k5}r{\k5}o{\k5} {\k5}s{\k5}t{\k5}e{\k5}s{\k5}s{\k5}a{\k5} {\k5}e{\k5}n{\k5}e{\k5}r{\k5}g{\k5}i{\k5}a{\k5}.{\k231}
-Comment: 0,0:00:06.97,0:00:14.10,normal - izq,,0,0,0,,{\pos(1734,858)}Anche le stelle hanno un inizio, ma vengono distrutte dalla loro stessa energia.
+Comment: 0,0:00:06.97,0:00:14.10,normal - izq,,0,0,0,,{\pos(1156,572)}Anche le stelle hanno un inizio, ma vengono distrutte dalla loro stessa energia.
 Comment: 0,0:00:12.98,0:00:14.41,finito - 895,,0,0,0,karaoke,--Finito
-Comment: 0,0:00:12.98,0:00:14.10,in-finito,,0,0,0,,{\k14}{\pos(1610,895)}-{\k14}-{\k14}F{\k14}i{\k14}n{\k14}i{\k14}t{\k14}o
-Comment: 0,0:00:14.32,0:00:20.35,normal - 890,,0,0,0,karaoke,{\k10}H{\k10}i{\k10}s{\k10}t{\k10}o{\k10}r{\k10}y{\k10} {\k10}t{\k10}e{\k10}a{\k10}c{\k10}h{\k10}e{\k10}s{\k38} {\k4}t{\k5}h{\k4}a{\k5}t{\k4} {\k5}t{\k4}h{\k5}o{\k4}s{\k5}e{\k4} {\k4}w{\k5}h{\k5}o{\k4} {\k5}h{\k4}o{\k5}l{\k4}d{\k5} {\k4}w{\k5}i{\k4}s{\k4}d{\k5}o{\k5}m{\k105} {\k4}a{\k5}r{\k4}e{\k5} {\k4}o{\k5}f{\k4}t{\k5}e{\k4}n{\k5} {\k4}t{\k4}h{\k4}e{\k4} {\k4}m{\k4}o{\k4}s{\k4}t{\k4} {\k5}f{\k4}o{\k4}o{\k4}l{\k4}i{\k4}s{\k4}h{\k4}.{\k79}
-Comment: 0,0:00:14.32,0:00:20.35,normal,,0,0,0,,{\be20\pos(192,890)}La storia insegna che quelli pieni di saggezza sono spesso i più sciocchi.
-Comment: 0,0:00:20.38,0:00:23.99,normal izq - 890,,0,0,0,karaoke,{\k6}T{\k7}h{\k6}e{\k7} {\k7}f{\k7}i{\k6}s{\k7}h{\k7} {\k7}i{\k7}n{\k7} {\k7}t{\k7}h{\k7}e{\k7} {\k7}s{\k7}e{\k7}a{\k46} {\k7}k{\k7}n{\k8}o{\k8}w{\k7} {\k8}n{\k7}o{\k8}t{\k7} {\k7}t{\k7}h{\k7}e{\k7} {\k7}l{\k7}a{\k8}n{\k7}d{\k7}.{\k54}
-Comment: 0,0:00:20.38,0:00:23.45,normal - izq,,0,0,0,,{\be20\pos(1734,890)}I pesci nel mare non sanno cosa sia la terra.
-Comment: 0,0:00:25.09,0:00:28.49,normal - 860,,0,0,0,karaoke,{\k5}I{\k6}f{\k5} {\k6}t{\k5}h{\k6}e{\k5}y{\k6} {\k5}t{\k6}o{\k5}o{\k5} {\k5}h{\k5}o{\k5}l{\k5}d{\k5} {\k5}w{\k6}i{\k5}s{\k5}d{\k5}o{\k5}m{\k5},{\k64} {\k2}t{\k3}h{\k2}e{\k3}y{\k2} {\k3}t{\k2}o{\k3}o{\k2} {\k3}w{\k2}i{\k3}l{\k3}l{\k3} {\k3}b{\k2}e{\k3} {\k3}d{\k3}e{\k3}s{\k3}t{\k3}r{\k3}o{\k2}y{\k3}e{\k3}d{\k3}.{\k77}
-Comment: 0,0:00:25.09,0:00:28.49,normal,,0,0,0,,{\be20\pos(192,860)}Se anche loro sono dotati di saggezza, anche loro saranno distrutti.
-Comment: 0,0:00:29.14,0:00:31.96,normal izq - 890,,0,0,0,karaoke,{\k3}I{\k3}t{\k4} {\k4}i{\k3}s{\k4} {\k3}m{\k4}o{\k3}r{\k4}e{\k3} {\k3}r{\k4}i{\k4}d{\k3}i{\k3}c{\k4}u{\k4}l{\k3}o{\k3}u{\k4}s{\k4} {\k3}f{\k4}o{\k3}r{\k4} {\k3}m{\k4}a{\k3}n{\k4} {\k3}t{\k3}o{\k4} {\k4}e{\k3}x{\k4}c{\k3}e{\k4}e{\k3}d{\k4} {\k3}l{\k4}i{\k3}g{\k4}h{\k3}t{\k3} {\k3}s{\k4}p{\k3}e{\k3}e{\k3}d{\k106}
-Comment: 0,0:00:29.14,0:00:31.96,normal - izq,,0,0,0,,{\be20\pos(1730,890)}È più ridicolo per l'uomo superare la velocità della luce
-Comment: 0,0:00:32.02,0:00:36.80,normal - 890,,0,0,0,karaoke,{\k10}t{\k10}h{\k11}a{\k11}n{\k10} {\k10}f{\k11}o{\k11}r{\k10} {\k11}f{\k10}i{\k11}s{\k10}h{\k11} {\k10}t{\k11}o{\k11} {\k11}l{\k11}i{\k11}v{\k11}e{\k11} {\k11}a{\k11}s{\k11}h{\k10}o{\k11}r{\k11}e{\k11}.{\k168}
-Comment: 0,0:00:32.02,0:00:36.80,normal,,0,0,0,,{\be20\pos(192,890)}che per i pesci vivere sulla costa.
-Comment: 0,0:00:36.03,0:00:39.47,normal - centro,,0,0,0,karaoke,{\k9}T{\k10}h{\k9}i{\k10}s{\k108} {\k6}m{\k7}a{\k7}y{\k7} {\k7}a{\k7}l{\k7}s{\k7}o{\k7} {\k7}b{\k7}e{\k7} {\k7}c{\k7}a{\k7}l{\k7}l{\k7}e{\k7}d{\k73}
-Comment: 0,0:00:40.03,0:00:43.14,normal - centro - arriba,,0,0,0,karaoke,{\k5}G{\k6}o{\k5}d{\k6}'{\k5}s{\k5} {\k5}f{\k5}i{\k5}n{\k5}a{\k5}l{\k5} {\k5}w{\k5}a{\k5}r{\k5}n{\k5}i{\k5}n{\k5}g{\k5} {\k5}t{\k5}o{\k5} {\k5}t{\k5}h{\k5}o{\k5}s{\k5}e{\k5} {\k5}w{\k5}h{\k5}o{\k5} {\k5}r{\k5}e{\k5}b{\k5}e{\k5}l{\k5}.{\k114}
-Comment: 0,0:00:40.03,0:00:43.14,normal - centro,,0,0,0,,{\pos(965,480)}l'ultimo avvertimento di Dio a coloro che si ribellano.
+Comment: 0,0:00:12.98,0:00:14.10,in-finito,,0,0,0,,{\k14}{\pos(1080,600)}-{\k14}-{\k14}F{\k14}i{\k14}n{\k14}i{\k14}t{\k14}o
+Comment: 0,0:00:14.32,0:00:20.35,normal - 890,,0,0,0,karaoke,{\k7}L{\k8}a{\k7} {\k8}s{\k7}t{\k8}o{\k7}r{\k8}i{\k7}a{\k8} {\k7}i{\k8}n{\k7}s{\k8}e{\k7}g{\k8}n{\k7}a {\k8}c{\k7}h{\k8}e{\k38} {\k5}q{\k5}u{\k5}e{\k5}l{\k5}l{\k5}i{\k4} {\k5}p{\k5}i{\k5}e{\k5}n{\k5}i{\k4} {\k5}d{\k5}i{\k4} {\k5}s{\k5}a{\k5}g{\k5}g{\k5}e{\k5}z{\k5}z{\k5}a{\k105} {\k4}s{\k5}o{\k4}n{\k5}o{\k4} {\k5}s{\k4}p{\k5}e{\k4}s{\k5}s{\k4}o{\k4} {\k4}i{\k4} {\k4}p{\k4}i{\k4}ù{\k4} {\k4}s{\k5}c{\k4}i{\k4}o{\k4}c{\k4}c{\k4}h{\k4}i{\k4}.{\k79}
+Comment: 0,0:00:14.32,0:00:20.35,normal,,0,0,0,,{\be13\pos(128,595)}La storia insegna che quelli pieni di saggezza sono spesso i più sciocchi.
+Comment: 0,0:00:20.38,0:00:23.99,normal izq - 890,,0,0,0,karaoke,{\k8}I{\k9} {\k8}p{\k8}e{\k8}s{\k8}c{\k8}i{\k9} {\k8}n{\k8}e{\k8}l{\k8} {\k8}m{\k8}a{\k8}r{\k8}e{\k46} {\k4}n{\k5}o{\k4}n{\k5} {\k5}s{\k5}a{\k4}n{\k5}n{\k4}o{\k5} {\k5}c{\k5}o{\k4}s{\k5}a{\k5} {\k5}s{\k4}i{\k5}a{\k5} {\k5}l{\k4}a{\k5} {\k5}t{\k5}e{\k4}r{\k5}r{\k4}a{\k5}.{\k54}
+Comment: 0,0:00:20.38,0:00:23.45,normal - izq,,0,0,0,,{\be13\pos(1156,595)}I pesci nel mare non sanno cosa sia la terra.
+Comment: 0,0:00:25.09,0:00:28.49,normal - 860,,0,0,0,karaoke,{\k3}S{\k3}e{\k3} {\k4}a{\k3}n{\k3}c{\k3}h{\k4}e{\k3} {\k3}l{\k3}o{\k4}r{\k3}o{\k3} {\k3}s{\k4}o{\k3}n{\k3}o{\k3} {\k4}d{\k3}o{\k3}t{\k3}a{\k4}t{\k3}i{\k3} {\k3}d{\k4}i{\k3} {\k4}s{\k3}a{\k4}g{\k3}g{\k4}e{\k3}z{\k4}z{\k3}a{\k4},{\k64} {\k2}a{\k3}n{\k2}c{\k3}h{\k2}e{\k3} {\k2}l{\k3}o{\k2}r{\k3}o{\k2} {\k3}s{\k2}a{\k3}r{\k2}a{\k3}n{\k2}n{\k3}o{\k3} {\k3}d{\k2}i{\k3}s{\k2}t{\k3}r{\k2}u{\k3}t{\k2}t{\k3}i{\k2}.{\k77}
+Comment: 0,0:00:25.09,0:00:28.49,normal,,0,0,0,,{\be13\pos(128,575)}Se anche loro sono dotati di saggezza, anche loro saranno distrutti.
+Comment: 0,0:00:29.14,0:00:31.96,normal izq - 890,,0,0,0,karaoke,{\k3}È{\k3} {\k3}p{\k3}i{\k3}ù{\k4} {\k3}r{\k3}i{\k3}d{\k3}i{\k3}c{\k3}o{\k3}l{\k3}o{\k4} {\k3}p{\k3}e{\k3}r{\k3} {\k3}l{\k3}'{\k3}u{\k3}o{\k3}m{\k3}o{\k4} {\k3}s{\k3}u{\k3}p{\k3}e{\k3}r{\k3}a{\k3}r{\k3}e{\k3} {\k3}l{\k3}a{\k4} {\k3}v{\k3}e{\k3}l{\k3}o{\k3}c{\k3}i{\k3}t{\k3}à{\k3} {\k3}d{\k3}e{\k3}l{\k3}l{\k3}a{\k4} {\k3}l{\k3}u{\k3}c{\k3}e{\k106}
+Comment: 0,0:00:29.14,0:00:31.96,normal - izq,,0,0,0,,{\be13\pos(1155,595)}È più ridicolo per l'uomo superare la velocità della luce
+Comment: 0,0:00:32.02,0:00:36.80,normal - 890,,0,0,0,karaoke,{\k7}c{\k8}h{\k8}e{\k8} {\k7}p{\k8}e{\k8}r{\k8} {\k7}i{\k8} {\k8}p{\k8}e{\k7}s{\k8}c{\k8}i{\k8} {\k7}v{\k8}i{\k8}v{\k8}e{\k7}r{\k8}e{\k8} {\k8}s{\k7}u{\k8}l{\k8}l{\k8}a{\k7} {\k8}t{\k8}e{\k8}r{\k7}r{\k8}a{\k8}f{\k8}e{\k7}r{\k8}m{\k8}a{\k8}.{\k168}
+Comment: 0,0:00:32.02,0:00:36.80,normal,,0,0,0,,{\be13\pos(128,595)}che per i pesci vivere sulla terraferma.
+Comment: 0,0:00:36.03,0:00:39.47,normal - centro,,0,0,0,karaoke,{\k6}Q{\k7}u{\k7}e{\k6}s{\k7}t{\k7}o{\k108} {\k4}p{\k5}u{\k4}ò{\k5} {\k4}a{\k5}n{\k4}c{\k5}h{\k4}e{\k5} {\k4}e{\k5}s{\k4}s{\k5}e{\k4}r{\k5}e{\k4} {\k5}c{\k4}o{\k5}n{\k4}s{\k5}i{\k4}d{\k5}e{\k4}r{\k5}a{\k4}t{\k4}o{\k73}
+Comment: 0,0:00:40.03,0:00:43.14,normal - centro - arriba,,0,0,0,karaoke,{\k3}l{\k4}'{\k3}u{\k4}l{\k3}t{\k4}i{\k3}m{\k4}o{\k3} {\k4}a{\k3}v{\k4}v{\k3}e{\k4}r{\k3}t{\k4}i{\k3}m{\k4}e{\k3}n{\k4}t{\k3}o{\k4} {\k3}d{\k4}i{\k3} {\k4}D{\k3}i{\k4}o{\k3} {\k4}a{\k3} {\k4}c{\k3}o{\k4}l{\k3}o{\k4}r{\k3}o{\k4} {\k3}c{\k4}h{\k3}e{\k4} {\k3}s{\k4}i{\k3} {\k4}r{\k4}i{\k4}b{\k4}e{\k4}l{\k4}l{\k4}a{\k4}n{\k4}o{\k4}.{\k114}
+Comment: 0,0:00:40.03,0:00:43.14,normal - centro,,0,0,0,,{\pos(645,320)}l'ultimo avvertimento di Dio a coloro che si ribellano.
 Dialogue: 0,0:00:43.14,0:00:43.14,Default,,0,0,0,,
 Comment: 0,0:00:00.84,0:00:04.00,normal - 858 - Copia,,0,0,0,karaoke,L'universo ha un inizio, ma non ha una fine.
-Comment: 0,0:00:06.97,0:00:11.80,normal izq - 858 - Copia,,0,0,0,karaoke,{\k184}Anche le stelle hanno un inizio,{\k111} {\k188} ma vengono distrutte dalla loro stessa energia.
-Comment: 0,0:00:14.32,0:00:19.50,normal - 890 - Copia,,0,0,0,karaoke,{\k150}History teaches{\k38} {\k117}that those who hold wisdom{\k105} {\k108}are often the most foolish.
-Comment: 0,0:00:20.38,0:00:23.45,normal izq - 890 - Copia,,0,0,0,karaoke,{\k153}The fish in the sea{\k8} {\k146}know not the land.
-Comment: 0,0:00:25.09,0:00:28.49,normal - 860 - Copia,,0,0,0,karaoke,If they too hold wisdom, they too will be destroyed.
-Comment: 0,0:00:29.14,0:00:31.96,normal izq - 890 - Copia,,0,0,0,karaoke,It is more ridiculous for man to exceed light speed
-Comment: 0,0:00:32.02,0:00:36.80,normal - 890 - Copia,,0,0,0,karaoke,than for fish to live ashore.
+Comment: 0,0:00:06.97,0:00:11.80,normal izq - 858 - Copia,,0,0,0,karaoke,{\k184}Anche le stelle hanno un inizio,{\k111} {\k188}ma vengono distrutte dalla loro stessa energia.
+Comment: 0,0:00:14.32,0:00:19.50,normal - 890 - Copia,,0,0,0,karaoke,{\k150}La storia insegna che{\k38} {\k117}quelli pieni di saggezza{\k105} {\k108}sono spesso i più sciocchi.
+Comment: 0,0:00:20.38,0:00:23.45,normal izq - 890 - Copia,,0,0,0,karaoke,{\k153}I pesci nel mare{\k8} {\k146}non sanno cosa sia la terra.
+Comment: 0,0:00:25.09,0:00:28.49,normal - 860 - Copia,,0,0,0,karaoke,Se anche loro sono dotati di saggezza, anche loro saranno distrutti.
+Comment: 0,0:00:29.14,0:00:31.96,normal izq - 890 - Copia,,0,0,0,karaoke,È più ridicolo per l'uomo superare la velocità della luce
+Comment: 0,0:00:32.02,0:00:36.80,normal - 890 - Copia,,0,0,0,karaoke,che per i pesci vivere sulla terraferma.
 Comment: 0,0:00:36.03,0:00:39.47,normal - centro - Copia,,0,0,0,karaoke,Questo può anche essere considerato
-Comment: 0,0:00:40.03,0:00:43.14,normal - centro - arriba - Copia,,0,0,0,karaoke,God's final warning to those who rebel.
-Dialogue: 0,0:00:00.84,0:00:06.49,normal - 858,,0,0,0,fx,{\be20\an5\pos(204,851)\fad(50,75)}﻿L
-Dialogue: 0,0:00:00.90,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(220,851)\fad(50,75)}﻿'
-Dialogue: 0,0:00:00.97,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(240,851)\fad(50,75)}﻿u
-Dialogue: 0,0:00:01.03,0:00:06.39,normal - 858,,0,0,0,fx,{\be20\an5\pos(262,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:01.10,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(279,851)\fad(50,75)}﻿i
-Dialogue: 0,0:00:01.16,0:00:06.52,normal - 858,,0,0,0,fx,{\be20\an5\pos(297,851)\fad(50,75)}﻿v
-Dialogue: 0,0:00:01.23,0:00:06.37,normal - 858,,0,0,0,fx,{\be20\an5\pos(320,851)\fad(50,75)}﻿e
-Dialogue: 0,0:00:01.29,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(340,851)\fad(50,75)}﻿r
-Dialogue: 0,0:00:01.36,0:00:06.54,normal - 858,,0,0,0,fx,{\be20\an5\pos(360,851)\fad(50,75)}﻿s
-Dialogue: 0,0:00:01.42,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(384,851)\fad(50,75)}﻿o
-Dialogue: 0,0:00:01.49,0:00:06.53,normal - 858,,0,0,0,fx,{\be20\an5\pos(400,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:01.55,0:00:06.44,normal - 858,,0,0,0,fx,{\be20\an5\pos(424,851)\fad(50,75)}﻿h
-Dialogue: 0,0:00:01.61,0:00:06.53,normal - 858,,0,0,0,fx,{\be20\an5\pos(447,851)\fad(50,75)}﻿a
-Dialogue: 0,0:00:01.67,0:00:06.47,normal - 858,,0,0,0,fx,{\be20\an5\pos(467,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:01.73,0:00:06.41,normal - 858,,0,0,0,fx,{\be20\an5\pos(487,851)\fad(50,75)}﻿u
-Dialogue: 0,0:00:01.79,0:00:06.42,normal - 858,,0,0,0,fx,{\be20\an5\pos(511,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:01.85,0:00:06.42,normal - 858,,0,0,0,fx,{\be20\an5\pos(528,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:01.92,0:00:06.38,normal - 858,,0,0,0,fx,{\be20\an5\pos(545,851)\fad(50,75)}﻿i
-Dialogue: 0,0:00:01.98,0:00:06.53,normal - 858,,0,0,0,fx,{\be20\an5\pos(562,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:02.04,0:00:06.42,normal - 858,,0,0,0,fx,{\be20\an5\pos(579,851)\fad(50,75)}﻿i
-Dialogue: 0,0:00:02.10,0:00:06.56,normal - 858,,0,0,0,fx,{\be20\an5\pos(598,851)\fad(50,75)}﻿z
-Dialogue: 0,0:00:02.16,0:00:06.51,normal - 858,,0,0,0,fx,{\be20\an5\pos(614,851)\fad(50,75)}﻿i
-Dialogue: 0,0:00:02.22,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(632,851)\fad(50,75)}﻿o
-Dialogue: 0,0:00:02.28,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(652,851)\fad(50,75)}﻿,
-Dialogue: 0,0:00:03.35,0:00:06.44,normal - 858,,0,0,0,fx,{\be20\an5\pos(689,851)\fad(50,75)}﻿m
-Dialogue: 0,0:00:03.39,0:00:06.44,normal - 858,,0,0,0,fx,{\be20\an5\pos(719,851)\fad(50,75)}﻿a
-Dialogue: 0,0:00:03.43,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(730,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:03.48,0:00:06.43,normal - 858,,0,0,0,fx,{\be20\an5\pos(759,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:03.52,0:00:06.51,normal - 858,,0,0,0,fx,{\be20\an5\pos(783,851)\fad(50,75)}o
-Dialogue: 0,0:00:03.57,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(807,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:03.61,0:00:06.51,normal - 858,,0,0,0,fx,{\be20\an5\pos(827,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:03.66,0:00:06.47,normal - 858,,0,0,0,fx,{\be20\an5\pos(847,851)\fad(50,75)}h
-Dialogue: 0,0:00:03.70,0:00:06.41,normal - 858,,0,0,0,fx,{\be20\an5\pos(869,851)\fad(50,75)}﻿a
-Dialogue: 0,0:00:03.75,0:00:06.56,normal - 858,,0,0,0,fx,{\be20\an5\pos(889,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:03.79,0:00:06.50,normal - 858,,0,0,0,fx,{\be20\an5\pos(909,851)\fad(50,75)}﻿u
-Dialogue: 0,0:00:03.84,0:00:06.46,normal - 858,,0,0,0,fx,{\be20\an5\pos(931,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:03.88,0:00:06.38,normal - 858,,0,0,0,fx,{\be20\an5\pos(953,851)\fad(50,75)}﻿a
-Dialogue: 0,0:00:03.93,0:00:06.44,normal - 858,,0,0,0,fx,{\be20\an5\pos(973,851)\fad(50,75)}﻿
-Dialogue: 0,0:00:03.97,0:00:06.48,normal - 858,,0,0,0,fx,{\be20\an5\pos(990,851)\fad(50,75)}﻿f
-Dialogue: 0,0:00:04.02,0:00:06.49,normal - 858,,0,0,0,fx,{\be20\an5\pos(1004,851)\fad(50,75)}﻿i
-Dialogue: 0,0:00:04.06,0:00:06.51,normal - 858,,0,0,0,fx,{\be20\an5\pos(1022,851)\fad(50,75)}﻿n
-Dialogue: 0,0:00:04.11,0:00:06.55,normal - 858,,0,0,0,fx,{\be20\an5\pos(1045,851)\fad(50,75)}﻿e
-Dialogue: 0,0:00:04.15,0:00:06.50,normal - 858,,0,0,0,fx,{\be20\an5\pos(1062,851)\fad(50,75)}﻿.
-Dialogue: 1,0:00:05.28,0:00:06.35,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(192,865)\fad(50,75)}-
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(192,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
-Dialogue: 1,0:00:05.28,0:00:06.52,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(203,865)\fad(50,75)}-
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(203,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
-Dialogue: 1,0:00:05.28,0:00:06.45,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(215,865)\fad(50,75)}I
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}J
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}Y
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}E
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}z
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}D
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}I
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}I
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(215,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}I
-Dialogue: 1,0:00:05.28,0:00:06.53,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(226,865)\fad(50,75)}n
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}d
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}l
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(226,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}n
-Dialogue: 1,0:00:05.28,0:00:06.57,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(249,865)\fad(50,75)}f
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}u
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}z
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}c
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(249,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}f
-Dialogue: 1,0:00:05.28,0:00:06.42,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(264,865)\fad(50,75)}i
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}c
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}q
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}g
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}w
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(264,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
-Dialogue: 1,0:00:05.28,0:00:06.20,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(274,865)\fad(50,75)}n
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}d
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}g
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(274,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}n
-Dialogue: 1,0:00:05.28,0:00:06.16,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(297,865)\fad(50,75)}i
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}x
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}c
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}x
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}g
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(297,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
-Dialogue: 1,0:00:05.28,0:00:06.19,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(308,865)\fad(50,75)}t
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}u
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}g
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}s
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(308,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}t
-Dialogue: 1,0:00:05.28,0:00:06.26,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(322,865)\fad(50,75)}o
-Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}q
-Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}d
-Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}g
-Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}k
-Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
-Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
-Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
-Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(322,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}e
-Dialogue: 0,0:00:06.97,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1127,815)\fad(0,75)}A
-Dialogue: 0,0:00:07.03,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1154,815)\fad(0,75)}﻿n
-Dialogue: 0,0:00:07.09,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1175,815)\fad(0,75)}﻿c
-Dialogue: 0,0:00:07.15,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1195,815)\fad(0,75)}﻿h
-Dialogue: 0,0:00:07.21,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1216,815)\fad(0,75)}﻿e
-Dialogue: 0,0:00:07.27,0:00:14.17,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1230,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:07.33,0:00:14.33,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1246,815)\fad(0,75)}﻿l
-Dialogue: 0,0:00:07.39,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1263,815)\fad(0,75)}﻿e
-Dialogue: 0,0:00:07.45,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1280,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:07.51,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1295,815)\fad(0,75)}s
-Dialogue: 0,0:00:07.57,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1313,815)\fad(0,75)}﻿t
-Dialogue: 0,0:00:07.63,0:00:14.33,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1330,815)\fad(0,75)}﻿e
-Dialogue: 0,0:00:07.69,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1347,815)\fad(0,75)}﻿l
-Dialogue: 0,0:00:07.75,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1357,815)\fad(0,75)}﻿l
-Dialogue: 0,0:00:07.81,0:00:14.27,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1374,815)\fad(0,75)}﻿e
-Dialogue: 0,0:00:07.87,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1385,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:07.93,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1410,815)\fad(0,75)}﻿h
-Dialogue: 0,0:00:07.99,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1433,815)\fad(0,75)}﻿a
-Dialogue: 0,0:00:08.05,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1456,815)\fad(0,75)}﻿n
-Dialogue: 0,0:00:08.11,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1479,815)\fad(0,75)}﻿n
-Dialogue: 0,0:00:08.17,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1503,815)\fad(0,75)}﻿o
-Dialogue: 0,0:00:08.23,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1518,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:08.29,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1540,815)\fad(0,75)}﻿u
-Dialogue: 0,0:00:08.35,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1564,815)\fad(0,75)}﻿n
-Dialogue: 0,0:00:08.41,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1580,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:08.47,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1590,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:08.53,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1604,815)\fad(0,75)}﻿in
-Dialogue: 0,0:00:08.59,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1626,815)\fad(0,75)}﻿i
-Dialogue: 0,0:00:08.65,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1648,815)\fad(0,75)}﻿zi
-Dialogue: 0,0:00:08.71,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1676,815)\fad(0,75)}﻿o
-Dialogue: 0,0:00:08.77,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1695,815)\fad(0,75)}﻿,
-Dialogue: 0,0:00:08.83,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1710,815)\fad(0,75)}﻿
-Dialogue: 0,0:00:09.92,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(810,851)\fad(0,75)}﻿m
-Dialogue: 0,0:00:09.96,0:00:14.21,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(839,851)\fad(0,75)}﻿a
-Dialogue: 0,0:00:10.00,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(859,851)\fad(0,75)}﻿
-Dialogue: 0,0:00:10.04,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(874,851)\fad(0,75)}﻿v
-Dialogue: 0,0:00:10.08,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(895,851)\fad(0,75)}﻿e
-Dialogue: 0,0:00:10.12,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(919,851)\fad(0,75)}﻿n
-Dialogue: 0,0:00:10.16,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(942,851)\fad(0,75)}﻿g
-Dialogue: 0,0:00:10.20,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(966,851)\fad(0,75)}﻿o
-Dialogue: 0,0:00:10.24,0:00:14.17,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(990,851)\fad(0,75)}﻿n
-Dialogue: 0,0:00:10.28,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1015,851)\fad(0,75)}﻿o
-Dialogue: 0,0:00:10.32,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1039,851)\fad(0,75)}﻿
-Dialogue: 0,0:00:10.36,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1051,851)\fad(0,75)}﻿d
-Dialogue: 0,0:00:10.40,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1070,851)\fad(0,75)}﻿i
-Dialogue: 0,0:00:10.44,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1087,851)\fad(0,75)}﻿s
-Dialogue: 0,0:00:10.48,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1107,851)\fad(0,75)}﻿t
-Dialogue: 0,0:00:10.52,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1123,851)\fad(0,75)}﻿r
-Dialogue: 0,0:00:10.56,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1144,851)\fad(0,75)}﻿u
-Dialogue: 0,0:00:10.60,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1165,851)\fad(0,75)}﻿t
-Dialogue: 0,0:00:10.64,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1181,851)\fad(0,75)}﻿t
-Dialogue: 0,0:00:10.68,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1200,851)\fad(0,75)}﻿e
-Dialogue: 0,0:00:10.72,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1221,851)\fad(0,75)}﻿
-Dialogue: 0,0:00:10.76,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1236,851)\fad(0,75)}﻿d
-Dialogue: 0,0:00:10.80,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1260,851)\fad(0,75)}﻿a
-Dialogue: 0,0:00:10.84,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1279,851)\fad(0,75)}﻿l
-Dialogue: 0,0:00:10.88,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1292,851)\fad(0,75)}﻿l
-Dialogue: 0,0:00:10.92,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1310,851)\fad(0,75)}﻿a
-Dialogue: 0,0:00:10.96,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1325,851)\fad(0,75)}﻿
-Dialogue: 0,0:00:11.00,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1343,851)\fad(0,75)}﻿l
-Dialogue: 0,0:00:11.04,0:00:14.31,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1360,851)\fad(0,75)}﻿o
-Dialogue: 0,0:00:11.08,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1380,851)\fad(0,75)}﻿r
-Dialogue: 0,0:00:11.12,0:00:14.33,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1400,851)\fad(0,75)}﻿o
-Dialogue: 0,0:00:11.16,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1420,851)\fad(0,75)}﻿
-Dialogue: 0,0:00:11.20,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1435,851)\fad(0,75)}﻿s
-Dialogue: 0,0:00:11.24,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1454,851)\fad(0,75)}﻿t
-Dialogue: 0,0:00:11.28,0:00:14.31,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1473,851)\fad(0,75)}﻿e
-Dialogue: 0,0:00:11.32,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1497,851)\fad(0,75)}﻿s
-Dialogue: 0,0:00:11.36,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1518,851)\fad(0,75)}﻿s
-Dialogue: 0,0:00:11.40,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1541,851)\fad(0,75)}﻿a
-Dialogue: 0,0:00:11.44,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1565,851)\fad(0,75)}﻿
-Dialogue: 0,0:00:11.48,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1573,851)\fad(0,75)}﻿e
-Dialogue: 0,0:00:11.52,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1596,851)\fad(0,75)}﻿n
-Dialogue: 0,0:00:11.56,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1620,851)\fad(0,75)}﻿e
-Dialogue: 0,0:00:11.60,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1639,851)\fad(0,75)}﻿r
-Dialogue: 0,0:00:11.64,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1658,851)\fad(0,75)}﻿g
-Dialogue: 0,0:00:11.68,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1676,851)\fad(0,75)}﻿i
-Dialogue: 0,0:00:11.72,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1693,851)\fad(0,75)}﻿a
-Dialogue: 0,0:00:11.74,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1710,851)\fad(0,75)}﻿.
-Dialogue: 1,0:00:12.81,0:00:13.96,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1610,865)\fad(50,75)}-
-Dialogue: 1,0:00:12.70,0:00:14.09,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1621,865)\fad(50,75)}-
-Dialogue: 1,0:00:12.86,0:00:13.96,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1645,865)\fad(50,75)}F
-Dialogue: 1,0:00:12.64,0:00:14.07,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1655,865)\fad(50,75)}i
-Dialogue: 1,0:00:12.71,0:00:13.97,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1679,865)\fad(50,75)}n
-Dialogue: 1,0:00:12.84,0:00:14.24,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1689,865)\fad(50,75)}i
-Dialogue: 1,0:00:12.85,0:00:13.96,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1703,865)\fad(50,75)}t
-Dialogue: 1,0:00:12.79,0:00:14.04,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1725,865)\fad(50,75)}o
-Dialogue: 0,0:00:12.31,0:00:12.57,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.37,0:00:12.63,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.43,0:00:12.70,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.50,0:00:12.76,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.56,0:00:12.82,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.62,0:00:12.88,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:12.68,0:00:12.95,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:12.75,0:00:13.01,finito - 895,,0,0,0,fx,{\pos(1610,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
-Dialogue: 0,0:00:12.20,0:00:12.47,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.27,0:00:12.53,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.33,0:00:12.59,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.39,0:00:12.65,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.45,0:00:12.72,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
-Dialogue: 0,0:00:12.52,0:00:12.78,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:12.58,0:00:12.84,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
-Dialogue: 0,0:00:12.64,0:00:12.90,finito - 895,,0,0,0,fx,{\pos(1621,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
-Dialogue: 0,0:00:12.36,0:00:12.63,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}W
-Dialogue: 0,0:00:12.43,0:00:12.69,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}G
-Dialogue: 0,0:00:12.49,0:00:12.75,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}B
-Dialogue: 0,0:00:12.55,0:00:12.81,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}V
-Dialogue: 0,0:00:12.61,0:00:12.88,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}H
-Dialogue: 0,0:00:12.68,0:00:12.94,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}F
-Dialogue: 0,0:00:12.74,0:00:13.00,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}F
-Dialogue: 0,0:00:12.80,0:00:13.06,finito - 895,,0,0,0,fx,{\pos(1645,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}F
-Dialogue: 0,0:00:12.14,0:00:12.41,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:12.21,0:00:12.47,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}l
-Dialogue: 0,0:00:12.27,0:00:12.53,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}x
-Dialogue: 0,0:00:12.33,0:00:12.59,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}z
-Dialogue: 0,0:00:12.39,0:00:12.66,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
-Dialogue: 0,0:00:12.46,0:00:12.72,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:12.52,0:00:12.78,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:12.58,0:00:12.84,finito - 895,,0,0,0,fx,{\pos(1655,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
-Dialogue: 0,0:00:12.21,0:00:12.47,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
-Dialogue: 0,0:00:12.27,0:00:12.53,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
-Dialogue: 0,0:00:12.33,0:00:12.59,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}q
-Dialogue: 0,0:00:12.39,0:00:12.66,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}h
-Dialogue: 0,0:00:12.46,0:00:12.72,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
-Dialogue: 0,0:00:12.52,0:00:12.78,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:12.58,0:00:12.84,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
-Dialogue: 0,0:00:12.64,0:00:12.91,finito - 895,,0,0,0,fx,{\pos(1679,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}n
-Dialogue: 0,0:00:12.34,0:00:12.60,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
-Dialogue: 0,0:00:12.40,0:00:12.66,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}x
-Dialogue: 0,0:00:12.46,0:00:12.73,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}a
-Dialogue: 0,0:00:12.53,0:00:12.79,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
-Dialogue: 0,0:00:12.59,0:00:12.85,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}c
-Dialogue: 0,0:00:12.65,0:00:12.91,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:12.71,0:00:12.98,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
-Dialogue: 0,0:00:12.78,0:00:13.04,finito - 895,,0,0,0,fx,{\pos(1689,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
-Dialogue: 0,0:00:12.35,0:00:12.62,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
-Dialogue: 0,0:00:12.42,0:00:12.68,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}l
-Dialogue: 0,0:00:12.48,0:00:12.74,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
-Dialogue: 0,0:00:12.54,0:00:12.80,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}q
-Dialogue: 0,0:00:12.60,0:00:12.87,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}k
-Dialogue: 0,0:00:12.67,0:00:12.93,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
-Dialogue: 0,0:00:12.73,0:00:12.99,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
-Dialogue: 0,0:00:12.79,0:00:13.05,finito - 895,,0,0,0,fx,{\pos(1703,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}t
-Dialogue: 0,0:00:12.29,0:00:12.56,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}A
-Dialogue: 0,0:00:12.36,0:00:12.62,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}l
-Dialogue: 0,0:00:12.42,0:00:12.68,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}j
-Dialogue: 0,0:00:12.48,0:00:12.74,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
-Dialogue: 0,0:00:12.54,0:00:12.81,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}h
-Dialogue: 0,0:00:12.61,0:00:12.87,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
-Dialogue: 0,0:00:12.67,0:00:12.93,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
-Dialogue: 0,0:00:12.73,0:00:12.99,finito - 895,,0,0,0,fx,{\pos(1725,865)\fad(100,150)\alpha&H88&\t(\alpha&H00&}o
-Dialogue: 0,0:00:12.98,0:00:14.25,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1604,891)\fad(0,75)}﻿-
-Dialogue: 0,0:00:12.98,0:00:14.25,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1616,891)\fad(0,75)}﻿-
-Dialogue: 0,0:00:12.98,0:00:14.33,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1633,891)\fad(0,75)}﻿F
-Dialogue: 0,0:00:12.98,0:00:14.16,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1650,891)\fad(0,75)}﻿i
-Dialogue: 0,0:00:12.98,0:00:14.16,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1667,891)\fad(0,75)}﻿n
-Dialogue: 0,0:00:12.98,0:00:14.25,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1684,891)\fad(0,75)}﻿i
-Dialogue: 0,0:00:12.98,0:00:14.27,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1696,891)\fad(0,75)}﻿t
-Dialogue: 0,0:00:12.98,0:00:14.27,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1714,891)\fad(0,75)}﻿o
-Dialogue: 0,0:00:14.32,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(215,886)\fad(0,75)}﻿L
-Dialogue: 0,0:00:14.41,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(238,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:14.50,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(265,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:14.59,0:00:20.13,normal - 890,,0,0,0,fx,{\be20\an5\pos(280,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:14.68,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(300,886)\fad(0,75)}﻿t
-Dialogue: 0,0:00:14.77,0:00:20.19,normal - 890,,0,0,0,fx,{\be20\an5\pos(319,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:14.86,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(340,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:14.95,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(355,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:15.04,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(372,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:15.13,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(395,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:15.22,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(409,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:15.31,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(427,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:15.40,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(447,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:15.49,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(470,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:15.58,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(495,886)\fad(0,75)}﻿g
-Dialogue: 0,0:00:15.67,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(519,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:15.76,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(542,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:15.82,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(570,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:16.20,0:00:20.30,normal - 890,,0,0,0,fx,{\be20\an5\pos(584,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:16.24,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(607,886)\fad(0,75)}﻿h
-Dialogue: 0,0:00:16.29,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(630,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:16.33,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(660,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:16.37,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(673,886)\fad(0,75)}﻿q
-Dialogue: 0,0:00:16.41,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(697,886)\fad(0,75)}﻿u
-Dialogue: 0,0:00:16.45,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(720,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:16.49,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(737,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:16.53,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(748,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:16.58,0:00:20.22,normal - 890,,0,0,0,fx,{\be20\an5\pos(760,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:16.62,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(789,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:16.66,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(803,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:16.70,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(821,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:16.74,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(838,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:16.78,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(862,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:16.83,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(880,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:16.87,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(900,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:16.91,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(915,886)\fad(0,75)}﻿d
-Dialogue: 0,0:00:16.96,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(934,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:17.00,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(950,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:17.04,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(967,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:17.08,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(987,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:17.12,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(1007,886)\fad(0,75)}﻿g
-Dialogue: 0,0:00:17.16,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(1027,886)\fad(0,75)}﻿g
-Dialogue: 0,0:00:17.20,0:00:20.19,normal - 890,,0,0,0,fx,{\be20\an5\pos(1047,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:17.24,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(1067,886)\fad(0,75)}﻿z
-Dialogue: 0,0:00:17.28,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(1087,886)\fad(0,75)}﻿z
-Dialogue: 0,0:00:17.32,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(1107,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:17.37,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(1127,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:18.42,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(1150,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:18.46,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(1173,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:18.51,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(1198,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:18.55,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(1222,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:18.60,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(1245,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:18.64,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(1260,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:18.69,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(1282,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:18.73,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(1305,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:18.78,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(1328,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:18.82,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(1348,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:18.87,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(1370,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:18.91,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(1392,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:18.95,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(1404,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:18.99,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(1425,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:19.03,0:00:20.14,normal - 890,,0,0,0,fx,{\be20\an5\pos(1438,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:19.07,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(1457,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:19.11,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(1475,886)\fad(0,75)}﻿ù
-Dialogue: 0,0:00:19.15,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(1495,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:19.19,0:00:20.15,normal - 890,,0,0,0,fx,{\be20\an5\pos(1510,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:19.23,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(1531,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:19.28,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(1549,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:19.32,0:00:20.15,normal - 890,,0,0,0,fx,{\be20\an5\pos(1567,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:19.36,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(1590,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:19.40,0:00:20.14,normal - 890,,0,0,0,fx,{\be20\an5\pos(1614,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:19.44,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(1638,886)\fad(0,75)}﻿h
-Dialogue: 0,0:00:19.48,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(1655,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:19.52,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(1667,886)\fad(0,75)}﻿.
-Dialogue: 0,0:00:20.38,0:00:23.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(840,886)\fad(0,75)}﻿I
-Dialogue: 0,0:00:20.46,0:00:23.93,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(863,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:20.54,0:00:23.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(878,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:20.62,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(901,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:20.70,0:00:23.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(922,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:20.78,0:00:23.93,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(943,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:20.86,0:00:23.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(960,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:20.94,0:00:23.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(984,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:21.02,0:00:23.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(996,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:21.10,0:00:23.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1019,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:21.18,0:00:23.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1037,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:21.26,0:00:23.86,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1065,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:21.34,0:00:23.93,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1080,886)\fad(0,75)}﻿m
-Dialogue: 0,0:00:21.42,0:00:23.87,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1110,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:21.50,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1130,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:21.58,0:00:23.93,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1150,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:21.68,0:00:23.86,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1170,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:22.14,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1190,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:22.19,0:00:23.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1210,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:22.24,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1230,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:22.25,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1265,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:22.29,0:00:23.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1270,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:22.34,0:00:23.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1290,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:22.39,0:00:23.92,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1312,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:22.44,0:00:23.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1335,886)\fad(0,75)}﻿n
-Dialogue: 0,0:00:22.49,0:00:23.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1360,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:22.50,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1395,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:22.55,0:00:23.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1405,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:22.60,0:00:23.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1428,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:22.65,0:00:23.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1450,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:22.70,0:00:23.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1470,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:22.71,0:00:23.75,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1500,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:22.76,0:00:23.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1514,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:22.81,0:00:23.80,normal izq - 890,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1532,886)}﻿i
-Dialogue: 0,0:00:22.86,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1550,886)}﻿a
-Dialogue: 0,0:00:22.87,0:00:23.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1575,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:22.92,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1587,886)\s0\b0}﻿l
-Dialogue: 0,0:00:22.97,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1605,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:22.98,0:00:23.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1624,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:23.03,0:00:23.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1639,886)\fad(0,75)}﻿t
-Dialogue: 0,0:00:23.08,0:00:23.92,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1658,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:23.13,0:00:23.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1678,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:23.18,0:00:23.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1694,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:23.23,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1712,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:23.28,0:00:23.93,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1730,886)\fad(0,75)}﻿.
-Dialogue: 0,0:00:25.09,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(145,856)\fad(0,75)}﻿S
-Dialogue: 0,0:00:25.12,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(170,856)\fad(0,75)}﻿e
-Dialogue: 0,0:00:25.17,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(190,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:25.20,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(210,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:25.23,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(230,856)\fad(0,75)}﻿n
-Dialogue: 0,0:00:25.26,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(250,856)\fad(0,75)}﻿c
-Dialogue: 0,0:00:25.29,0:00:28.36,normal - 860,,0,0,0,fx,{\be20\an5\pos(273,856)\fad(0,75)}﻿h
-Dialogue: 0,0:00:25.32,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(295,856)\fad(0,75)}﻿e
-Dialogue: 0,0:00:25.37,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(320,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:25.40,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(335,856)\fad(0,75)}﻿l
-Dialogue: 0,0:00:25.43,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(353,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:25.46,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(373,856)\fad(0,75)}﻿r
-Dialogue: 0,0:00:25.49,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(392,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:25.54,0:00:28.33,normal - 860,,0,0,0,fx,{\be20\an5\pos(421,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:25.57,0:00:28.35,normal - 860,,0,0,0,fx,{\be20\an5\pos(436,856)\fad(0,75)}﻿s
-Dialogue: 0,0:00:25.60,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(458,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:25.63,0:00:28.28,normal - 860,,0,0,0,fx,{\be20\an5\pos(481,856)\fad(0,75)}﻿n
-Dialogue: 0,0:00:25.66,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(505,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:25.71,0:00:28.40,normal - 860,,0,0,0,fx,{\be20\an5\pos(535,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:25.74,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(550,856)\fad(0,75)}﻿d
-Dialogue: 0,0:00:25.77,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(572,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:25.80,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(592,856)\fad(0,75)}﻿t
-Dialogue: 0,0:00:25.83,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(611,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:25.86,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(630,856)\fad(0,75)}﻿t
-Dialogue: 0,0:00:25.89,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(645,856)\fad(0,75)}﻿i
-Dialogue: 0,0:00:25.94,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(670,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:25.97,0:00:28.36,normal - 860,,0,0,0,fx,{\be20\an5\pos(685,856)\fad(0,75)}﻿d
-Dialogue: 0,0:00:26.00,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(704,856)\fad(0,75)}﻿i
-Dialogue: 0,0:00:26.05,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(725,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:26.08,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(740,856)\fad(0,75)}﻿s
-Dialogue: 0,0:00:26.11,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(760,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:26.14,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(780,856)\fad(0,75)}﻿g
-Dialogue: 0,0:00:26.17,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(800,856)\fad(0,75)}﻿g
-Dialogue: 0,0:00:26.20,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(820,856)\fad(0,75)}﻿e
-Dialogue: 0,0:00:26.23,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(840,856)\fad(0,75)}﻿z
-Dialogue: 0,0:00:26.26,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(860,856)\fad(0,75)}﻿z
-Dialogue: 0,0:00:26.29,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(882,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:26.32,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(900,856)\fad(0,75)}﻿,
-Dialogue: 0,0:00:26.35,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(915,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:26.99,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(930,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:27.01,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(950,856)\fad(0,75)}﻿n
-Dialogue: 0,0:00:27.04,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(972,856)\fad(0,75)}﻿c
-Dialogue: 0,0:00:27.06,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(995,856)\fad(0,75)}﻿h
-Dialogue: 0,0:00:27.09,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(1018,856)\fad(0,75)}﻿e
-Dialogue: 0,0:00:27.11,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(1040,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:27.14,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(1055,856)\fad(0,75)}﻿l
-Dialogue: 0,0:00:27.16,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(1073,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:27.19,0:00:28.44,normal - 860,,0,0,0,fx,{\be20\an5\pos(1092,856)\fad(0,75)}﻿r
-Dialogue: 0,0:00:27.21,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(1112,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:27.24,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(1140,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:27.26,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(1154,856)\fad(0,75)}﻿s
-Dialogue: 0,0:00:27.29,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(1176,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:27.31,0:00:28.35,normal - 860,,0,0,0,fx,{\be20\an5\pos(1195,856)\fad(0,75)}﻿r
-Dialogue: 0,0:00:27.34,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(1215,856)\fad(0,75)}﻿a
-Dialogue: 0,0:00:27.36,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(1238,856)\fad(0,75)}﻿n
-Dialogue: 0,0:00:27.39,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(1261,856)\fad(0,75)}﻿n
-Dialogue: 0,0:00:27.41,0:00:28.37,normal - 860,,0,0,0,fx,{\be20\an5\pos(1286,856)\fad(0,75)}﻿o
-Dialogue: 0,0:00:27.44,0:00:28.31,normal - 860,,0,0,0,fx,{\be20\an5\pos(1314,856)\fad(0,75)}﻿
-Dialogue: 0,0:00:27.46,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(1326,856)\fad(0,75)}﻿d
-Dialogue: 0,0:00:27.49,0:00:28.35,normal - 860,,0,0,0,fx,{\be20\an5\pos(1345,856)\fad(0,75)}﻿i
-Dialogue: 0,0:00:27.51,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(1363,856)\fad(0,75)}﻿s
-Dialogue: 0,0:00:27.54,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(1383,856)\fad(0,75)}﻿t
-Dialogue: 0,0:00:27.56,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(1400,856)\fad(0,75)}﻿r
-Dialogue: 0,0:00:27.59,0:00:28.35,normal - 860,,0,0,0,fx,{\be20\an5\pos(1422,856)\fad(0,75)}﻿u
-Dialogue: 0,0:00:27.61,0:00:28.30,normal - 860,,0,0,0,fx,{\be20\an5\pos(1445,856)\fad(0,75)}﻿t
-Dialogue: 0,0:00:27.64,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(1461,856)\fad(0,75)}﻿t
-Dialogue: 0,0:00:27.66,0:00:28.40,normal - 860,,0,0,0,fx,{\be20\an5\pos(1477,856)\fad(0,75)}﻿i
-Dialogue: 0,0:00:27.69,0:00:28.31,normal - 860,,0,0,0,fx,{\be20\an5\pos(1490,856)\fad(0,75)}﻿.
-Dialogue: 0,0:00:29.14,0:00:31.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(705,886)\fad(0,75)}﻿È
-Dialogue: 0,0:00:29.17,0:00:31.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(734,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:29.20,0:00:31.72,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(749,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:29.23,0:00:31.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(767,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:29.26,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(785,886)\fad(0,75)}﻿ù
-Dialogue: 0,0:00:29.29,0:00:31.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(815,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:29.32,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(826,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:29.35,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(842,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:29.38,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(860,886)\fad(0,75)}﻿d
-Dialogue: 0,0:00:29.41,0:00:31.75,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(878,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:29.44,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(895,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:29.47,0:00:31.72,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(920,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:29.50,0:00:31.87,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(937,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:29.53,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(954,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:29.56,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(980,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:29.59,0:00:31.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(996,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:29.62,0:00:31.75,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1020,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:29.65,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1040,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:29.68,0:00:31.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1060,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:29.71,0:00:31.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1072,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:29.74,0:00:31.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1082,886)\fad(0,75)}﻿'
-Dialogue: 0,0:00:29.77,0:00:31.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1100,886)\fad(0,75)}﻿u
-Dialogue: 0,0:00:29.80,0:00:31.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1125,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:29.83,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1155,886)\fad(0,75)}﻿m
-Dialogue: 0,0:00:29.86,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1185,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:29.89,0:00:31.87,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1215,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:29.92,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1230,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:29.95,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1253,886)\fad(0,75)}﻿u
-Dialogue: 0,0:00:29.98,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1276,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:30.01,0:00:31.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1300,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:30.04,0:00:31.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1318,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:30.07,0:00:31.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1338,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:30.10,0:00:31.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1356,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:30.13,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1375,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:30.16,0:00:31.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1400,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:30.19,0:00:31.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1412,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:30.22,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1430,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:30.25,0:00:31.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1460,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:30.28,0:00:31.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1472,886)\fad(0,75)}﻿v
-Dialogue: 0,0:00:30.31,0:00:31.87,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1495,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:30.34,0:00:31.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1513,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:30.37,0:00:31.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1532,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:30.40,0:00:31.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1556,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:30.43,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1575,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:30.46,0:00:31.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1590,886)\fad(0,75)}﻿t
-Dialogue: 0,0:00:30.49,0:00:31.75,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1610,886)\fad(0,75)}﻿à
-Dialogue: 0,0:00:30.52,0:00:31.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1640,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:30.55,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1655,886)\fad(0,75)}﻿d
-Dialogue: 0,0:00:30.58,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1678,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:30.61,0:00:31.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1695,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:30.64,0:00:31.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1708,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:30.67,0:00:31.72,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1725,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:30.70,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1760,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:30.73,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1762,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:30.76,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1780,886)\fad(0,75)}﻿u
-Dialogue: 0,0:00:30.79,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1800,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:30.82,0:00:31.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1820,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:32.02,0:00:36.68,normal - 890,,0,0,0,fx,{\be20\an5\pos(197,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:32.11,0:00:36.66,normal - 890,,0,0,0,fx,{\be20\an5\pos(220,886)\fad(0,75)}﻿h
-Dialogue: 0,0:00:32.20,0:00:36.68,normal - 890,,0,0,0,fx,{\be20\an5\pos(242,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:32.29,0:00:36.73,normal - 890,,0,0,0,fx,{\be20\an5\pos(272,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:32.38,0:00:36.59,normal - 890,,0,0,0,fx,{\be20\an5\pos(288,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:32.46,0:00:36.59,normal - 890,,0,0,0,fx,{\be20\an5\pos(310,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:32.55,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(330,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:32.64,0:00:36.72,normal - 890,,0,0,0,fx,{\be20\an5\pos(350,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:32.73,0:00:36.68,normal - 890,,0,0,0,fx,{\be20\an5\pos(365,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:32.82,0:00:36.56,normal - 890,,0,0,0,fx,{\be20\an5\pos(385,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:32.90,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(401,886)\fad(0,75)}﻿p
-Dialogue: 0,0:00:32.99,0:00:36.70,normal - 890,,0,0,0,fx,{\be20\an5\pos(423,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:33.08,0:00:36.55,normal - 890,,0,0,0,fx,{\be20\an5\pos(445,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:33.17,0:00:36.74,normal - 890,,0,0,0,fx,{\be20\an5\pos(467,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:33.26,0:00:36.57,normal - 890,,0,0,0,fx,{\be20\an5\pos(485,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:33.34,0:00:36.73,normal - 890,,0,0,0,fx,{\be20\an5\pos(510,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:33.43,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(525,886)\fad(0,75)}﻿v
-Dialogue: 0,0:00:33.52,0:00:36.58,normal - 890,,0,0,0,fx,{\be20\an5\pos(543,886)\fad(0,75)}﻿i
-Dialogue: 0,0:00:33.61,0:00:36.62,normal - 890,,0,0,0,fx,{\be20\an5\pos(561,886)\fad(0,75)}﻿v
-Dialogue: 0,0:00:33.70,0:00:36.68,normal - 890,,0,0,0,fx,{\be20\an5\pos(581,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:33.78,0:00:36.56,normal - 890,,0,0,0,fx,{\be20\an5\pos(600,886)\fad(0,75)}﻿r
-Dialogue: 0,0:00:33.87,0:00:36.56,normal - 890,,0,0,0,fx,{\be20\an5\pos(619,886)\fad(0,75)}﻿e
-Dialogue: 0,0:00:33.96,0:00:36.63,normal - 890,,0,0,0,fx,{\be20\an5\pos(640,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:34.05,0:00:36.59,normal - 890,,0,0,0,fx,{\be20\an5\pos(663,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:34.14,0:00:36.56,normal - 890,,0,0,0,fx,{\be20\an5\pos(686,886)\fad(0,75)}﻿u
-Dialogue: 0,0:00:34.22,0:00:36.63,normal - 890,,0,0,0,fx,{\be20\an5\pos(704,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:34.31,0:00:36.58,normal - 890,,0,0,0,fx,{\be20\an5\pos(716,886)\fad(0,75)}﻿l
-Dialogue: 0,0:00:34.40,0:00:36.69,normal - 890,,0,0,0,fx,{\be20\an5\pos(735,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:34.49,0:00:36.56,normal - 890,,0,0,0,fx,{\be20\an5\pos(759,886)\fad(0,75)}﻿
-Dialogue: 0,0:00:34.58,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(776,886)\fad(0,75)}﻿c
-Dialogue: 0,0:00:34.66,0:00:36.70,normal - 890,,0,0,0,fx,{\be20\an5\pos(799,886)\fad(0,75)}﻿o
-Dialogue: 0,0:00:34.75,0:00:36.55,normal - 890,,0,0,0,fx,{\be20\an5\pos(819,886)\fad(0,75)}﻿s
-Dialogue: 0,0:00:34.84,0:00:36.74,normal - 890,,0,0,0,fx,{\be20\an5\pos(839,886)\fad(0,75)}﻿t
-Dialogue: 0,0:00:34.93,0:00:36.57,normal - 890,,0,0,0,fx,{\be20\an5\pos(859,886)\fad(0,75)}﻿a
-Dialogue: 0,0:00:35.01,0:00:36.63,normal - 890,,0,0,0,fx,{\be20\an5\pos(875,886)\fad(0,75)}﻿.
-Dialogue: 0,0:00:36.03,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(612.923,540)}﻿Q
-Dialogue: 0,0:00:36.11,0:00:39.26,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(632.923,540)}﻿u
-Dialogue: 0,0:00:36.19,0:00:39.35,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(652.923,540)}﻿e
-Dialogue: 0,0:00:36.27,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(672.923,540)}﻿s
-Dialogue: 0,0:00:36.34,0:00:39.40,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(692.923,540)}﻿t
-Dialogue: 0,0:00:36.42,0:00:39.24,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(712.923,540)}﻿o
-Dialogue: 0,0:00:36.50,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(732.923,540)}﻿
-Dialogue: 0,0:00:36.58,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(752.923,540)}﻿p
-Dialogue: 0,0:00:36.65,0:00:39.38,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(772.923,540)}﻿u
-Dialogue: 0,0:00:36.73,0:00:39.28,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(792.923,540)}﻿ò
-Dialogue: 0,0:00:36.81,0:00:39.39,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(812.923,540)}﻿
-Dialogue: 0,0:00:36.89,0:00:39.30,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(832.923,540)}﻿a
-Dialogue: 0,0:00:36.96,0:00:39.31,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(852.923,540)}﻿n
-Dialogue: 0,0:00:37.04,0:00:39.22,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(872.923,540)}﻿c
-Dialogue: 0,0:00:37.12,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(892.923,540)}﻿h
-Dialogue: 0,0:00:37.20,0:00:39.27,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(912.923,540)}﻿e
-Dialogue: 0,0:00:37.28,0:00:39.26,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(932.923,540)}﻿
-Dialogue: 0,0:00:37.35,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(952.923,540)}﻿e
-Dialogue: 0,0:00:37.43,0:00:39.39,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(972.923,540)}﻿s
-Dialogue: 0,0:00:37.51,0:00:39.36,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(992.923,540)}﻿s
-Dialogue: 0,0:00:37.59,0:00:39.32,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1012.923,540)}﻿e
-Dialogue: 0,0:00:37.66,0:00:39.27,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1032.923,540)}﻿r
-Dialogue: 0,0:00:37.74,0:00:39.35,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1052.923,540)}﻿e
-Dialogue: 0,0:00:37.82,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1072.923,540)}﻿
-Dialogue: 0,0:00:37.90,0:00:39.26,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1092.923,540)}﻿c
-Dialogue: 0,0:00:37.97,0:00:39.35,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1112.923,540)}﻿o
-Dialogue: 0,0:00:38.05,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1132.923,540)}﻿n
-Dialogue: 0,0:00:38.13,0:00:39.40,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1152.923,540)}﻿s
-Dialogue: 0,0:00:38.21,0:00:39.24,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1172.923,540)}﻿i
-Dialogue: 0,0:00:38.28,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1192.923,540)}﻿d
-Dialogue: 0,0:00:38.36,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1212.923,540)}﻿e
-Dialogue: 0,0:00:38.44,0:00:39.38,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1232.923,540)}﻿r
-Dialogue: 0,0:00:38.52,0:00:39.28,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1252.923,540)}﻿a
-Dialogue: 0,0:00:38.59,0:00:39.39,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1272.923,540)}﻿t
-Dialogue: 0,0:00:38.67,0:00:39.35,normal - centro,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1292.923,540)}﻿o
-Dialogue: 0,0:00:40.03,0:00:42.80,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(398,476)}﻿l
-Dialogue: 0,0:00:40.07,0:00:42.83,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(411,476)}﻿'
-Dialogue: 0,0:00:40.10,0:00:42.84,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(431,476)}﻿u
-Dialogue: 0,0:00:40.14,0:00:42.77,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(449,476)}﻿l
-Dialogue: 0,0:00:40.17,0:00:42.98,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(462,476)}﻿t
-Dialogue: 0,0:00:40.21,0:00:42.98,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(476,476)}﻿i
-Dialogue: 0,0:00:40.24,0:00:42.69,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(500,476)}﻿m
-Dialogue: 0,0:00:40.28,0:00:42.79,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(530,476)}﻿o
-Dialogue: 0,0:00:40.31,0:00:42.86,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(560,476)}﻿
-Dialogue: 0,0:00:40.35,0:00:43.01,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(573,476)}﻿a
-Dialogue: 0,0:00:40.38,0:00:42.74,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(593,476)}﻿v
-Dialogue: 0,0:00:40.42,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(615,476)}﻿v
-Dialogue: 0,0:00:40.45,0:00:43.05,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(637,476)}﻿e
-Dialogue: 0,0:00:40.49,0:00:43.06,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(657,476)}﻿r
-Dialogue: 0,0:00:40.52,0:00:42.93,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(675,476)}﻿t
-Dialogue: 0,0:00:40.56,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(690,476)}﻿i
-Dialogue: 0,0:00:40.59,0:00:43.01,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(715,476)}﻿m
-Dialogue: 0,0:00:40.63,0:00:42.93,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(745,476)}﻿e
-Dialogue: 0,0:00:40.66,0:00:42.87,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(770,476)}﻿n
-Dialogue: 0,0:00:40.70,0:00:42.68,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(790,476)}﻿t
-Dialogue: 0,0:00:40.73,0:00:42.67,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(810,476)}﻿o
-Dialogue: 0,0:00:40.77,0:00:43.00,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(846,476)}﻿
-Dialogue: 0,0:00:40.80,0:00:42.96,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(861,476)}﻿d
-Dialogue: 0,0:00:40.84,0:00:42.86,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(880,476)}﻿i
-Dialogue: 0,0:00:40.87,0:00:42.96,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(910,476)}﻿
-Dialogue: 0,0:00:40.91,0:00:43.05,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(925,476)}﻿D
-Dialogue: 0,0:00:40.94,0:00:43.05,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(945,476)}﻿i
-Dialogue: 0,0:00:40.98,0:00:43.05,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(965,476)}﻿o
-Dialogue: 0,0:00:41.01,0:00:42.75,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(995,476)}﻿
-Dialogue: 0,0:00:41.05,0:00:42.64,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1010,476)}﻿a
-Dialogue: 0,0:00:41.08,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1040,476)}﻿
-Dialogue: 0,0:00:41.12,0:00:43.00,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1055,476)}﻿c
-Dialogue: 0,0:00:41.15,0:00:43.05,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1080,476)}﻿o
-Dialogue: 0,0:00:41.19,0:00:42.76,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1100,476)}﻿l
-Dialogue: 0,0:00:41.22,0:00:42.65,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1120,476)}﻿o
-Dialogue: 0,0:00:41.26,0:00:42.99,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1140,476)}﻿r
-Dialogue: 0,0:00:41.29,0:00:42.97,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1160,476)}﻿o
-Dialogue: 0,0:00:41.33,0:00:42.90,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1190,476)}﻿
-Dialogue: 0,0:00:41.36,0:00:42.80,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1208,476)}﻿c
-Dialogue: 0,0:00:41.40,0:00:42.83,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1231,476)}﻿h
-Dialogue: 0,0:00:41.43,0:00:42.84,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1255,476)}﻿e
-Dialogue: 0,0:00:41.47,0:00:42.77,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1285,476)}﻿
-Dialogue: 0,0:00:41.50,0:00:42.98,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1302,476)}﻿s
-Dialogue: 0,0:00:41.54,0:00:42.98,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1320,476)}﻿i
-Dialogue: 0,0:00:41.57,0:00:42.69,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1340,476)}﻿
-Dialogue: 0,0:00:41.61,0:00:42.79,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1354,476)}﻿r
-Dialogue: 0,0:00:41.64,0:00:42.86,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1370,476)}﻿i
-Dialogue: 0,0:00:41.68,0:00:43.01,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1389,476)}﻿b
-Dialogue: 0,0:00:41.71,0:00:42.74,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1411,476)}﻿e
-Dialogue: 0,0:00:41.75,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1429,476)}﻿l
-Dialogue: 0,0:00:41.78,0:00:43.05,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1442,476)}﻿l
-Dialogue: 0,0:00:41.82,0:00:43.06,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1460,476)}﻿a
-Dialogue: 0,0:00:41.86,0:00:42.93,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1480,476)}﻿n
-Dialogue: 0,0:00:41.90,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1500,476)}﻿o
-Dialogue: 0,0:00:41.95,0:00:42.64,normal - centro - arriba,,0,0,0,fx,{\be20\an5\fad(0,75)\pos(1520,476)}﻿.
+Comment: 0,0:00:40.03,0:00:43.14,normal - centro - arriba - Copia,,0,0,0,karaoke,l'ultimo avvertimento di Dio a coloro che si ribellano.
+Dialogue: 0,0:00:00.84,0:00:06.41,normal - 858,,0,0,0,fx,{\be20\an5\pos(135,567)\fad(50,75)}﻿L
+Dialogue: 0,0:00:00.90,0:00:06.43,normal - 858,,0,0,0,fx,{\be20\an5\pos(145,567)\fad(50,75)}﻿'
+Dialogue: 0,0:00:00.97,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(155,567)\fad(50,75)}﻿u
+Dialogue: 0,0:00:01.03,0:00:06.41,normal - 858,,0,0,0,fx,{\be20\an5\pos(170,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:01.10,0:00:06.55,normal - 858,,0,0,0,fx,{\be20\an5\pos(181,567)\fad(50,75)}﻿i
+Dialogue: 0,0:00:01.16,0:00:06.43,normal - 858,,0,0,0,fx,{\be20\an5\pos(191,567)\fad(50,75)}﻿v
+Dialogue: 0,0:00:01.23,0:00:06.50,normal - 858,,0,0,0,fx,{\be20\an5\pos(205,567)\fad(50,75)}﻿e
+Dialogue: 0,0:00:01.29,0:00:06.42,normal - 858,,0,0,0,fx,{\be20\an5\pos(217,567)\fad(50,75)}﻿r
+Dialogue: 0,0:00:01.36,0:00:06.48,normal - 858,,0,0,0,fx,{\be20\an5\pos(228,567)\fad(50,75)}﻿s
+Dialogue: 0,0:00:01.42,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(243,567)\fad(50,75)}﻿o
+Dialogue: 0,0:00:01.49,0:00:06.54,normal - 858,,0,0,0,fx,{\be20\an5\pos(261,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:01.55,0:00:06.55,normal - 858,,0,0,0,fx,{\be20\an5\pos(265,567)\fad(50,75)}﻿h
+Dialogue: 0,0:00:01.61,0:00:06.37,normal - 858,,0,0,0,fx,{\be20\an5\pos(280,567)\fad(50,75)}﻿a
+Dialogue: 0,0:00:01.67,0:00:06.42,normal - 858,,0,0,0,fx,{\be20\an5\pos(298,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:01.73,0:00:06.53,normal - 858,,0,0,0,fx,{\be20\an5\pos(302,567)\fad(50,75)}﻿u
+Dialogue: 0,0:00:01.79,0:00:06.37,normal - 858,,0,0,0,fx,{\be20\an5\pos(317,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:01.85,0:00:06.51,normal - 858,,0,0,0,fx,{\be20\an5\pos(335,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:01.92,0:00:06.49,normal - 858,,0,0,0,fx,{\be20\an5\pos(335,567)\fad(50,75)}﻿i
+Dialogue: 0,0:00:01.98,0:00:06.47,normal - 858,,0,0,0,fx,{\be20\an5\pos(346,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:02.04,0:00:06.43,normal - 858,,0,0,0,fx,{\be20\an5\pos(357,567)\fad(50,75)}﻿i
+Dialogue: 0,0:00:02.10,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(367,567)\fad(50,75)}﻿z
+Dialogue: 0,0:00:02.16,0:00:06.41,normal - 858,,0,0,0,fx,{\be20\an5\pos(377,567)\fad(50,75)}﻿i
+Dialogue: 0,0:00:02.22,0:00:06.48,normal - 858,,0,0,0,fx,{\be20\an5\pos(388,567)\fad(50,75)}﻿o
+Dialogue: 0,0:00:02.28,0:00:06.53,normal - 858,,0,0,0,fx,{\be20\an5\pos(399,567)\fad(50,75)}﻿,
+Dialogue: 0,0:00:02.34,0:00:06.43,normal - 858,,0,0,0,fx,{\be20\an5\pos(411,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:03.09,0:00:06.52,normal - 858,,0,0,0,fx,{\be20\an5\pos(420,567)\fad(50,75)}﻿m
+Dialogue: 0,0:00:03.13,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(439,567)\fad(50,75)}﻿a
+Dialogue: 0,0:00:03.18,0:00:06.54,normal - 858,,0,0,0,fx,{\be20\an5\pos(457,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:03.22,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(461,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:03.27,0:00:06.45,normal - 858,,0,0,0,fx,{\be20\an5\pos(477,567)\fad(50,75)}﻿o
+Dialogue: 0,0:00:03.31,0:00:06.56,normal - 858,,0,0,0,fx,{\be20\an5\pos(492,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:03.36,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(510,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:03.40,0:00:06.56,normal - 858,,0,0,0,fx,{\be20\an5\pos(514,567)\fad(50,75)}﻿h
+Dialogue: 0,0:00:03.45,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(529,567)\fad(50,75)}﻿a
+Dialogue: 0,0:00:03.49,0:00:06.44,normal - 858,,0,0,0,fx,{\be20\an5\pos(546,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:03.54,0:00:06.40,normal - 858,,0,0,0,fx,{\be20\an5\pos(551,567)\fad(50,75)}﻿u
+Dialogue: 0,0:00:03.58,0:00:06.53,normal - 858,,0,0,0,fx,{\be20\an5\pos(566,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:03.63,0:00:06.51,normal - 858,,0,0,0,fx,{\be20\an5\pos(581,567)\fad(50,75)}﻿a
+Dialogue: 0,0:00:03.67,0:00:06.38,normal - 858,,0,0,0,fx,{\be20\an5\pos(598,567)\fad(50,75)}﻿ 
+Dialogue: 0,0:00:03.72,0:00:06.50,normal - 858,,0,0,0,fx,{\be20\an5\pos(600,567)\fad(50,75)}﻿f
+Dialogue: 0,0:00:03.76,0:00:06.55,normal - 858,,0,0,0,fx,{\be20\an5\pos(608,567)\fad(50,75)}﻿i
+Dialogue: 0,0:00:03.81,0:00:06.49,normal - 858,,0,0,0,fx,{\be20\an5\pos(619,567)\fad(50,75)}﻿n
+Dialogue: 0,0:00:03.85,0:00:06.38,normal - 858,,0,0,0,fx,{\be20\an5\pos(633,567)\fad(50,75)}﻿e
+Dialogue: 0,0:00:03.90,0:00:06.56,normal - 858,,0,0,0,fx,{\be20\an5\pos(644,567)\fad(50,75)}﻿.
+Dialogue: 1,0:00:05.28,0:00:06.24,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(128,577)\fad(50,75)}-
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(128,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
+Dialogue: 1,0:00:05.28,0:00:06.56,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(136,577)\fad(50,75)}-
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(136,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
+Dialogue: 1,0:00:05.28,0:00:06.60,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(143,577)\fad(50,75)}I
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}M
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}S
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}M
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}X
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}C
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}I
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}I
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(143,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}I
+Dialogue: 1,0:00:05.28,0:00:06.18,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(151,577)\fad(50,75)}n
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}s
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}q
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}a
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(151,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}n
+Dialogue: 1,0:00:05.28,0:00:06.23,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(166,577)\fad(50,75)}f
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}k
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}y
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}z
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}k
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}h
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(166,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}f
+Dialogue: 1,0:00:05.28,0:00:06.17,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(175,577)\fad(50,75)}i
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}y
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}p
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}j
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(175,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
+Dialogue: 1,0:00:05.28,0:00:06.14,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(182,577)\fad(50,75)}n
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}c
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(182,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}n
+Dialogue: 1,0:00:05.28,0:00:06.40,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(197,577)\fad(50,75)}i
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}p
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}h
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}h
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(197,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
+Dialogue: 1,0:00:05.28,0:00:06.23,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(204,577)\fad(50,75)}t
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}u
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}d
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}y
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(204,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}t
+Dialogue: 1,0:00:05.28,0:00:06.42,infinito - 895,,0,0,0,fx,{\bord2\be20\pos(212,577)\fad(50,75)}o
+Dialogue: 0,0:00:04.78,0:00:05.04,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}u
+Dialogue: 0,0:00:04.84,0:00:05.10,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
+Dialogue: 0,0:00:04.90,0:00:05.16,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
+Dialogue: 0,0:00:04.96,0:00:05.23,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:05.03,0:00:05.29,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}u
+Dialogue: 0,0:00:05.09,0:00:05.35,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
+Dialogue: 0,0:00:05.15,0:00:05.41,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
+Dialogue: 0,0:00:05.21,0:00:05.48,infinito - 895,,0,0,0,fx,{\pos(212,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}o
+Dialogue: 0,0:00:06.97,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(215,567)\fad(0,75)}﻿A
+Dialogue: 0,0:00:07.02,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(232,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:07.07,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(247,567)\fad(0,75)}﻿c
+Dialogue: 0,0:00:07.12,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(261,567)\fad(0,75)}﻿h
+Dialogue: 0,0:00:07.17,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(276,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:07.22,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(294,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:07.27,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(294,567)\fad(0,75)}﻿l
+Dialogue: 0,0:00:07.32,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(304,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:07.37,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(322,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:07.42,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(325,567)\fad(0,75)}﻿s
+Dialogue: 0,0:00:07.47,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(337,567)\fad(0,75)}﻿t
+Dialogue: 0,0:00:07.52,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(348,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:07.57,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(359,567)\fad(0,75)}﻿l
+Dialogue: 0,0:00:07.62,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(366,567)\fad(0,75)}﻿l
+Dialogue: 0,0:00:07.67,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(376,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:07.72,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(394,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:07.77,0:00:14.17,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(398,567)\fad(0,75)}﻿h
+Dialogue: 0,0:00:07.82,0:00:14.17,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(413,567)\fad(0,75)}﻿a
+Dialogue: 0,0:00:07.87,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(428,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:07.92,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(443,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:07.97,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(458,567)\fad(0,75)}﻿o
+Dialogue: 0,0:00:08.02,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(476,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:08.07,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(480,567)\fad(0,75)}﻿u
+Dialogue: 0,0:00:08.12,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(495,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:08.17,0:00:14.27,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(513,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:08.22,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(513,567)\fad(0,75)}﻿i
+Dialogue: 0,0:00:08.27,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(524,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:08.32,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(535,567)\fad(0,75)}﻿i
+Dialogue: 0,0:00:08.37,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(545,567)\fad(0,75)}﻿z
+Dialogue: 0,0:00:08.42,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(555,567)\fad(0,75)}﻿i
+Dialogue: 0,0:00:08.47,0:00:14.22,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(566,567)\fad(0,75)}﻿o
+Dialogue: 0,0:00:08.52,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(577,567)\fad(0,75)}﻿,
+Dialogue: 0,0:00:08.57,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(590,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:09.68,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(598,567)\fad(0,75)}﻿m
+Dialogue: 0,0:00:09.73,0:00:14.32,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(618,567)\fad(0,75)}﻿a
+Dialogue: 0,0:00:09.78,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(635,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:09.83,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(638,567)\fad(0,75)}﻿v
+Dialogue: 0,0:00:09.88,0:00:14.21,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(652,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:09.93,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(667,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:09.98,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(682,567)\fad(0,75)}﻿g
+Dialogue: 0,0:00:10.03,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(698,567)\fad(0,75)}﻿o
+Dialogue: 0,0:00:10.08,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(713,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:10.13,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(729,567)\fad(0,75)}﻿o
+Dialogue: 0,0:00:10.18,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(747,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:10.23,0:00:14.31,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(751,567)\fad(0,75)}﻿d
+Dialogue: 0,0:00:10.28,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(762,567)\fad(0,75)}﻿i
+Dialogue: 0,0:00:10.33,0:00:14.16,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(772,567)\fad(0,75)}﻿s
+Dialogue: 0,0:00:10.38,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(784,567)\fad(0,75)}﻿t
+Dialogue: 0,0:00:10.43,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(793,567)\fad(0,75)}﻿r
+Dialogue: 0,0:00:10.48,0:00:14.33,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(805,567)\fad(0,75)}﻿u
+Dialogue: 0,0:00:10.53,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(817,567)\fad(0,75)}﻿t
+Dialogue: 0,0:00:10.58,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(826,567)\fad(0,75)}﻿t
+Dialogue: 0,0:00:10.63,0:00:14.26,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(838,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:10.68,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(855,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:10.73,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(860,567)\fad(0,75)}﻿d
+Dialogue: 0,0:00:10.78,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(875,567)\fad(0,75)}﻿a
+Dialogue: 0,0:00:10.83,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(886,567)\fad(0,75)}﻿l
+Dialogue: 0,0:00:10.88,0:00:14.19,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(892,567)\fad(0,75)}﻿l
+Dialogue: 0,0:00:10.93,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(903,567)\fad(0,75)}﻿a
+Dialogue: 0,0:00:10.98,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(921,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:11.03,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(920,567)\fad(0,75)}﻿l
+Dialogue: 0,0:00:11.08,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(932,567)\fad(0,75)}﻿o
+Dialogue: 0,0:00:11.13,0:00:14.20,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(944,567)\fad(0,75)}﻿r
+Dialogue: 0,0:00:11.18,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(956,567)\fad(0,75)}﻿o
+Dialogue: 0,0:00:11.23,0:00:14.24,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(974,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:11.28,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(978,567)\fad(0,75)}﻿s
+Dialogue: 0,0:00:11.33,0:00:14.30,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(990,567)\fad(0,75)}﻿t
+Dialogue: 0,0:00:11.38,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1001,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:11.43,0:00:14.23,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1016,567)\fad(0,75)}﻿s
+Dialogue: 0,0:00:11.48,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1030,567)\fad(0,75)}﻿s
+Dialogue: 0,0:00:11.53,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1044,567)\fad(0,75)}﻿a
+Dialogue: 0,0:00:11.58,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1062,567)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:11.63,0:00:14.18,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1066,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:11.68,0:00:14.35,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1081,567)\fad(0,75)}﻿n
+Dialogue: 0,0:00:11.73,0:00:14.31,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1095,567)\fad(0,75)}﻿e
+Dialogue: 0,0:00:11.78,0:00:14.34,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1107,567)\fad(0,75)}﻿r
+Dialogue: 0,0:00:11.83,0:00:14.28,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1120,567)\fad(0,75)}﻿g
+Dialogue: 0,0:00:11.88,0:00:14.25,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1131,567)\fad(0,75)}﻿i
+Dialogue: 0,0:00:11.93,0:00:14.17,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1141,567)\fad(0,75)}﻿a
+Dialogue: 0,0:00:11.98,0:00:14.29,normal izq - 858,,0,0,0,fx,{\be20\an5\pos(1152,567)\fad(0,75)}﻿.
+Dialogue: 1,0:00:12.50,0:00:14.33,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1074,577)\fad(50,75)}-
+Dialogue: 1,0:00:12.66,0:00:14.38,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1082,577)\fad(50,75)}-
+Dialogue: 1,0:00:12.76,0:00:14.08,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1097,577)\fad(50,75)}F
+Dialogue: 1,0:00:12.55,0:00:13.95,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1104,577)\fad(50,75)}i
+Dialogue: 1,0:00:12.65,0:00:14.13,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1119,577)\fad(50,75)}n
+Dialogue: 1,0:00:12.50,0:00:13.91,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1125,577)\fad(50,75)}i
+Dialogue: 1,0:00:12.56,0:00:14.29,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1134,577)\fad(50,75)}t
+Dialogue: 1,0:00:12.74,0:00:14.21,finito - 895,,0,0,0,fx,{\bord2\be20\pos(1150,577)\fad(50,75)}o
+Dialogue: 0,0:00:12.00,0:00:12.26,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.06,0:00:12.33,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.13,0:00:12.39,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.19,0:00:12.45,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.25,0:00:12.51,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.31,0:00:12.58,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:12.38,0:00:12.64,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:12.44,0:00:12.70,finito - 895,,0,0,0,fx,{\pos(1074,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
+Dialogue: 0,0:00:12.16,0:00:12.42,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.22,0:00:12.48,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.28,0:00:12.54,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.34,0:00:12.61,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.41,0:00:12.67,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}
+Dialogue: 0,0:00:12.47,0:00:12.73,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:12.53,0:00:12.79,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:12.59,0:00:12.86,finito - 895,,0,0,0,fx,{\pos(1082,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}-
+Dialogue: 0,0:00:12.26,0:00:12.52,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}I
+Dialogue: 0,0:00:12.32,0:00:12.58,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}G
+Dialogue: 0,0:00:12.38,0:00:12.64,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}E
+Dialogue: 0,0:00:12.44,0:00:12.71,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}E
+Dialogue: 0,0:00:12.51,0:00:12.77,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}-
+Dialogue: 0,0:00:12.57,0:00:12.83,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}F
+Dialogue: 0,0:00:12.63,0:00:12.89,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}F
+Dialogue: 0,0:00:12.69,0:00:12.96,finito - 895,,0,0,0,fx,{\pos(1097,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}F
+Dialogue: 0,0:00:12.05,0:00:12.31,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}a
+Dialogue: 0,0:00:12.11,0:00:12.37,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:12.17,0:00:12.44,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:12.24,0:00:12.50,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}b
+Dialogue: 0,0:00:12.30,0:00:12.56,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:12.36,0:00:12.62,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:12.42,0:00:12.69,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:12.49,0:00:12.75,finito - 895,,0,0,0,fx,{\pos(1104,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
+Dialogue: 0,0:00:12.15,0:00:12.41,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}l
+Dialogue: 0,0:00:12.21,0:00:12.47,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:12.27,0:00:12.53,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
+Dialogue: 0,0:00:12.33,0:00:12.60,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}a
+Dialogue: 0,0:00:12.40,0:00:12.66,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}y
+Dialogue: 0,0:00:12.46,0:00:12.72,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:12.52,0:00:12.78,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:12.58,0:00:12.85,finito - 895,,0,0,0,fx,{\pos(1119,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}n
+Dialogue: 0,0:00:12.00,0:00:12.26,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}a
+Dialogue: 0,0:00:12.06,0:00:12.33,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}s
+Dialogue: 0,0:00:12.13,0:00:12.39,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}n
+Dialogue: 0,0:00:12.19,0:00:12.45,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}z
+Dialogue: 0,0:00:12.25,0:00:12.51,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:12.31,0:00:12.58,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:12.38,0:00:12.64,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:12.44,0:00:12.70,finito - 895,,0,0,0,fx,{\pos(1125,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}i
+Dialogue: 0,0:00:12.06,0:00:12.32,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}v
+Dialogue: 0,0:00:12.12,0:00:12.38,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}y
+Dialogue: 0,0:00:12.18,0:00:12.44,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}r
+Dialogue: 0,0:00:12.24,0:00:12.51,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}i
+Dialogue: 0,0:00:12.31,0:00:12.57,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}c
+Dialogue: 0,0:00:12.37,0:00:12.63,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:12.43,0:00:12.69,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}t
+Dialogue: 0,0:00:12.49,0:00:12.76,finito - 895,,0,0,0,fx,{\pos(1134,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}t
+Dialogue: 0,0:00:12.24,0:00:12.51,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}e
+Dialogue: 0,0:00:12.31,0:00:12.57,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}a
+Dialogue: 0,0:00:12.37,0:00:12.63,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}w
+Dialogue: 0,0:00:12.43,0:00:12.69,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}f
+Dialogue: 0,0:00:12.49,0:00:12.76,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}h
+Dialogue: 0,0:00:12.56,0:00:12.82,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
+Dialogue: 0,0:00:12.62,0:00:12.88,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&!j==maxj and "\\t(\\alpha&H00&"!}o
+Dialogue: 0,0:00:12.68,0:00:12.94,finito - 895,,0,0,0,fx,{\pos(1150,577)\fad(100,150)\alpha&H88&\t(\alpha&H00&}o
+Dialogue: 0,0:00:12.98,0:00:14.35,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1071,594)\fad(0,75)}﻿-
+Dialogue: 0,0:00:12.98,0:00:14.21,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1078,594)\fad(0,75)}﻿-
+Dialogue: 0,0:00:12.98,0:00:14.28,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1089,594)\fad(0,75)}﻿F
+Dialogue: 0,0:00:12.98,0:00:14.22,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1100,594)\fad(0,75)}﻿i
+Dialogue: 0,0:00:12.98,0:00:14.23,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1111,594)\fad(0,75)}﻿n
+Dialogue: 0,0:00:12.98,0:00:14.27,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1122,594)\fad(0,75)}﻿i
+Dialogue: 0,0:00:12.98,0:00:14.22,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1130,594)\fad(0,75)}﻿t
+Dialogue: 0,0:00:12.98,0:00:14.24,finito - 895,,0,0,0,fx,{\3a&H80&\be50\an5\pos(1142,594)\fad(0,75)}﻿o
+Dialogue: 0,0:00:14.32,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(135,590)\fad(0,75)}﻿L
+Dialogue: 0,0:00:14.39,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(150,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:14.47,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(168,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:14.54,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(171,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:14.62,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(183,590)\fad(0,75)}﻿t
+Dialogue: 0,0:00:14.69,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(195,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:14.77,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(208,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:14.84,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(216,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:14.92,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(226,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:14.99,0:00:20.14,normal - 890,,0,0,0,fx,{\be20\an5\pos(244,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:15.07,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(244,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:15.14,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(255,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:15.22,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(269,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:15.29,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(284,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:15.37,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(299,590)\fad(0,75)}﻿g
+Dialogue: 0,0:00:15.44,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(314,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:15.52,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(329,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:15.52,0:00:20.15,normal - 890,,0,0,0,fx,{\be20\an5\pos(340,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:15.59,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(350,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:15.67,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(365,590)\fad(0,75)}﻿h
+Dialogue: 0,0:00:15.74,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(380,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:15.82,0:00:20.29,normal - 890,,0,0,0,fx,{\be20\an5\pos(397,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:16.20,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(402,590)\fad(0,75)}﻿q
+Dialogue: 0,0:00:16.25,0:00:20.22,normal - 890,,0,0,0,fx,{\be20\an5\pos(417,590)\fad(0,75)}﻿u
+Dialogue: 0,0:00:16.30,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(432,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:16.35,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(442,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:16.40,0:00:20.19,normal - 890,,0,0,0,fx,{\be20\an5\pos(449,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:16.45,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(456,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:16.50,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(469,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:16.54,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(473,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:16.59,0:00:20.25,normal - 890,,0,0,0,fx,{\be20\an5\pos(484,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:16.64,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(495,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:16.69,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(510,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:16.74,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(521,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:16.79,0:00:20.27,normal - 890,,0,0,0,fx,{\be20\an5\pos(534,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:16.83,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(538,590)\fad(0,75)}﻿d
+Dialogue: 0,0:00:16.88,0:00:20.17,normal - 890,,0,0,0,fx,{\be20\an5\pos(550,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:16.93,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(563,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:16.97,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(567,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:17.02,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(581,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:17.07,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(596,590)\fad(0,75)}﻿g
+Dialogue: 0,0:00:17.12,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(612,590)\fad(0,75)}﻿g
+Dialogue: 0,0:00:17.17,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(627,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:17.22,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(641,590)\fad(0,75)}﻿z
+Dialogue: 0,0:00:17.27,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(654,590)\fad(0,75)}﻿z
+Dialogue: 0,0:00:17.32,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(668,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:17.37,0:00:20.28,normal - 890,,0,0,0,fx,{\be20\an5\pos(686,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:18.42,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(690,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:18.46,0:00:20.18,normal - 890,,0,0,0,fx,{\be20\an5\pos(705,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:18.51,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(720,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:18.55,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(735,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:18.60,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(753,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:18.64,0:00:20.13,normal - 890,,0,0,0,fx,{\be20\an5\pos(757,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:18.69,0:00:20.16,normal - 890,,0,0,0,fx,{\be20\an5\pos(772,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:18.73,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(787,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:18.78,0:00:20.21,normal - 890,,0,0,0,fx,{\be20\an5\pos(801,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:18.82,0:00:20.22,normal - 890,,0,0,0,fx,{\be20\an5\pos(815,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:18.87,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(830,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:18.91,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(848,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:18.95,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(848,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:18.99,0:00:20.23,normal - 890,,0,0,0,fx,{\be20\an5\pos(861,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:19.03,0:00:20.22,normal - 890,,0,0,0,fx,{\be20\an5\pos(866,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:19.07,0:00:20.11,normal - 890,,0,0,0,fx,{\be20\an5\pos(877,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:19.11,0:00:20.22,normal - 890,,0,0,0,fx,{\be20\an5\pos(888,590)\fad(0,75)}﻿ù
+Dialogue: 0,0:00:19.15,0:00:20.20,normal - 890,,0,0,0,fx,{\be20\an5\pos(905,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:19.19,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(909,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:19.23,0:00:20.12,normal - 890,,0,0,0,fx,{\be20\an5\pos(923,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:19.28,0:00:20.15,normal - 890,,0,0,0,fx,{\be20\an5\pos(934,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:19.32,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(945,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:19.36,0:00:20.10,normal - 890,,0,0,0,fx,{\be20\an5\pos(960,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:19.40,0:00:20.19,normal - 890,,0,0,0,fx,{\be20\an5\pos(974,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:19.44,0:00:20.15,normal - 890,,0,0,0,fx,{\be20\an5\pos(989,590)\fad(0,75)}﻿h
+Dialogue: 0,0:00:19.48,0:00:20.24,normal - 890,,0,0,0,fx,{\be20\an5\pos(1000,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:19.52,0:00:20.26,normal - 890,,0,0,0,fx,{\be20\an5\pos(1007,590)\fad(0,75)}﻿.
+Dialogue: 0,0:00:20.38,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(627,590)\fad(0,75)}﻿I
+Dialogue: 0,0:00:20.46,0:00:23.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(640,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:20.55,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(645,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:20.63,0:00:23.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(660,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:20.71,0:00:23.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(674,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:20.79,0:00:23.92,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(688,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:20.87,0:00:23.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(699,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:20.95,0:00:23.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(712,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:21.04,0:00:23.92,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(716,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:21.12,0:00:23.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(731,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:21.20,0:00:23.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(742,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:21.28,0:00:23.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(755,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:21.36,0:00:23.93,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(764,590)\fad(0,75)}﻿m
+Dialogue: 0,0:00:21.44,0:00:23.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(783,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:21.52,0:00:23.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(795,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:21.60,0:00:23.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(807,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:21.68,0:00:23.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(825,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:22.14,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(829,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:22.18,0:00:23.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(844,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:22.23,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(860,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:22.27,0:00:23.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(877,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:22.32,0:00:23.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(881,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:22.37,0:00:23.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(895,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:22.42,0:00:23.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(910,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:22.46,0:00:23.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(926,590)\fad(0,75)}﻿n
+Dialogue: 0,0:00:22.51,0:00:23.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(941,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:22.55,0:00:23.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(959,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:22.60,0:00:23.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(963,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:22.65,0:00:23.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(978,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:22.70,0:00:23.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(992,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:22.74,0:00:23.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1007,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:22.79,0:00:23.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1025,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:22.84,0:00:23.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1028,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:22.89,0:00:23.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1039,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:22.93,0:00:23.90,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1049,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:22.98,0:00:23.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1067,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:23.03,0:00:23.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1067,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:23.08,0:00:23.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1078,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:23.12,0:00:23.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1095,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:23.17,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1096,590)\fad(0,75)}﻿t
+Dialogue: 0,0:00:23.22,0:00:23.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1108,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:23.27,0:00:23.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1120,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:23.31,0:00:23.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1129,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:23.36,0:00:23.87,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1141,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:23.40,0:00:23.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1152,590)\fad(0,75)}﻿.
+Dialogue: 0,0:00:25.09,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(136,570)\fad(0,75)}﻿S
+Dialogue: 0,0:00:25.12,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(151,570)\fad(0,75)}﻿e
+Dialogue: 0,0:00:25.15,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(169,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:25.18,0:00:28.36,normal - 860,,0,0,0,fx,{\be20\an5\pos(173,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:25.22,0:00:28.28,normal - 860,,0,0,0,fx,{\be20\an5\pos(188,570)\fad(0,75)}﻿n
+Dialogue: 0,0:00:25.25,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(203,570)\fad(0,75)}﻿c
+Dialogue: 0,0:00:25.28,0:00:28.31,normal - 860,,0,0,0,fx,{\be20\an5\pos(217,570)\fad(0,75)}﻿h
+Dialogue: 0,0:00:25.31,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(232,570)\fad(0,75)}﻿e
+Dialogue: 0,0:00:25.35,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(250,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:25.38,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(250,570)\fad(0,75)}﻿l
+Dialogue: 0,0:00:25.41,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(261,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:25.44,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(273,570)\fad(0,75)}﻿r
+Dialogue: 0,0:00:25.48,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(286,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:25.51,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(304,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:25.54,0:00:28.33,normal - 860,,0,0,0,fx,{\be20\an5\pos(307,570)\fad(0,75)}﻿s
+Dialogue: 0,0:00:25.57,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(322,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:25.61,0:00:28.33,normal - 860,,0,0,0,fx,{\be20\an5\pos(337,570)\fad(0,75)}﻿n
+Dialogue: 0,0:00:25.64,0:00:28.34,normal - 860,,0,0,0,fx,{\be20\an5\pos(353,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:25.67,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(371,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:25.70,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(375,570)\fad(0,75)}﻿d
+Dialogue: 0,0:00:25.74,0:00:28.40,normal - 860,,0,0,0,fx,{\be20\an5\pos(391,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:25.77,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(403,570)\fad(0,75)}﻿t
+Dialogue: 0,0:00:25.80,0:00:28.28,normal - 860,,0,0,0,fx,{\be20\an5\pos(415,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:25.83,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(427,570)\fad(0,75)}﻿t
+Dialogue: 0,0:00:25.87,0:00:28.41,normal - 860,,0,0,0,fx,{\be20\an5\pos(434,570)\fad(0,75)}﻿i
+Dialogue: 0,0:00:25.90,0:00:28.41,normal - 860,,0,0,0,fx,{\be20\an5\pos(448,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:25.93,0:00:28.35,normal - 860,,0,0,0,fx,{\be20\an5\pos(452,570)\fad(0,75)}﻿d
+Dialogue: 0,0:00:25.96,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(463,570)\fad(0,75)}﻿i
+Dialogue: 0,0:00:26.00,0:00:28.24,normal - 860,,0,0,0,fx,{\be20\an5\pos(477,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:26.03,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(481,570)\fad(0,75)}﻿s
+Dialogue: 0,0:00:26.07,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(495,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:26.10,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(510,570)\fad(0,75)}﻿g
+Dialogue: 0,0:00:26.14,0:00:28.32,normal - 860,,0,0,0,fx,{\be20\an5\pos(526,570)\fad(0,75)}﻿g
+Dialogue: 0,0:00:26.17,0:00:28.31,normal - 860,,0,0,0,fx,{\be20\an5\pos(540,570)\fad(0,75)}﻿e
+Dialogue: 0,0:00:26.21,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(554,570)\fad(0,75)}﻿z
+Dialogue: 0,0:00:26.24,0:00:28.35,normal - 860,,0,0,0,fx,{\be20\an5\pos(568,570)\fad(0,75)}﻿z
+Dialogue: 0,0:00:26.28,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(582,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:26.31,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(592,570)\fad(0,75)}﻿,
+Dialogue: 0,0:00:26.35,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(605,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:26.99,0:00:28.41,normal - 860,,0,0,0,fx,{\be20\an5\pos(609,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:27.01,0:00:28.40,normal - 860,,0,0,0,fx,{\be20\an5\pos(624,570)\fad(0,75)}﻿n
+Dialogue: 0,0:00:27.04,0:00:28.30,normal - 860,,0,0,0,fx,{\be20\an5\pos(639,570)\fad(0,75)}﻿c
+Dialogue: 0,0:00:27.06,0:00:28.41,normal - 860,,0,0,0,fx,{\be20\an5\pos(654,570)\fad(0,75)}﻿h
+Dialogue: 0,0:00:27.09,0:00:28.39,normal - 860,,0,0,0,fx,{\be20\an5\pos(669,570)\fad(0,75)}﻿e
+Dialogue: 0,0:00:27.11,0:00:28.28,normal - 860,,0,0,0,fx,{\be20\an5\pos(686,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:27.14,0:00:28.33,normal - 860,,0,0,0,fx,{\be20\an5\pos(686,570)\fad(0,75)}﻿l
+Dialogue: 0,0:00:27.16,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(697,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:27.19,0:00:28.38,normal - 860,,0,0,0,fx,{\be20\an5\pos(709,570)\fad(0,75)}﻿r
+Dialogue: 0,0:00:27.21,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(722,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:27.24,0:00:28.29,normal - 860,,0,0,0,fx,{\be20\an5\pos(740,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:27.26,0:00:28.34,normal - 860,,0,0,0,fx,{\be20\an5\pos(744,570)\fad(0,75)}﻿s
+Dialogue: 0,0:00:27.29,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(758,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:27.31,0:00:28.28,normal - 860,,0,0,0,fx,{\be20\an5\pos(770,570)\fad(0,75)}﻿r
+Dialogue: 0,0:00:27.34,0:00:28.26,normal - 860,,0,0,0,fx,{\be20\an5\pos(782,570)\fad(0,75)}﻿a
+Dialogue: 0,0:00:27.36,0:00:28.25,normal - 860,,0,0,0,fx,{\be20\an5\pos(797,570)\fad(0,75)}﻿n
+Dialogue: 0,0:00:27.39,0:00:28.30,normal - 860,,0,0,0,fx,{\be20\an5\pos(812,570)\fad(0,75)}﻿n
+Dialogue: 0,0:00:27.41,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(828,570)\fad(0,75)}﻿o
+Dialogue: 0,0:00:27.44,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(846,570)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:27.47,0:00:28.33,normal - 860,,0,0,0,fx,{\be20\an5\pos(850,570)\fad(0,75)}﻿d
+Dialogue: 0,0:00:27.50,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(861,570)\fad(0,75)}﻿i
+Dialogue: 0,0:00:27.52,0:00:28.28,normal - 860,,0,0,0,fx,{\be20\an5\pos(871,570)\fad(0,75)}﻿s
+Dialogue: 0,0:00:27.55,0:00:28.42,normal - 860,,0,0,0,fx,{\be20\an5\pos(883,570)\fad(0,75)}﻿t
+Dialogue: 0,0:00:27.57,0:00:28.27,normal - 860,,0,0,0,fx,{\be20\an5\pos(892,570)\fad(0,75)}﻿r
+Dialogue: 0,0:00:27.60,0:00:28.33,normal - 860,,0,0,0,fx,{\be20\an5\pos(904,570)\fad(0,75)}﻿u
+Dialogue: 0,0:00:27.62,0:00:28.37,normal - 860,,0,0,0,fx,{\be20\an5\pos(916,570)\fad(0,75)}﻿t
+Dialogue: 0,0:00:27.65,0:00:28.37,normal - 860,,0,0,0,fx,{\be20\an5\pos(925,570)\fad(0,75)}﻿t
+Dialogue: 0,0:00:27.67,0:00:28.43,normal - 860,,0,0,0,fx,{\be20\an5\pos(933,570)\fad(0,75)}﻿i
+Dialogue: 0,0:00:27.70,0:00:28.30,normal - 860,,0,0,0,fx,{\be20\an5\pos(940,570)\fad(0,75)}﻿.
+Dialogue: 0,0:00:29.14,0:00:31.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(507,590)\fad(0,75)}﻿È
+Dialogue: 0,0:00:29.17,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(525,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:29.20,0:00:31.73,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(529,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:29.23,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(540,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:29.26,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(551,590)\fad(0,75)}﻿ù
+Dialogue: 0,0:00:29.29,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(569,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:29.33,0:00:31.81,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(570,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:29.36,0:00:31.87,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(578,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:29.39,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(589,590)\fad(0,75)}﻿d
+Dialogue: 0,0:00:29.42,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(600,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:29.45,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(611,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:29.48,0:00:31.75,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(626,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:29.51,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(637,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:29.54,0:00:31.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(648,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:29.57,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(666,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:29.61,0:00:31.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(670,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:29.64,0:00:31.77,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(685,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:29.67,0:00:31.71,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(697,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:29.70,0:00:31.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(712,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:29.73,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(712,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:29.76,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(717,590)\fad(0,75)}﻿'
+Dialogue: 0,0:00:29.79,0:00:31.71,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(727,590)\fad(0,75)}﻿u
+Dialogue: 0,0:00:29.82,0:00:31.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(743,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:29.85,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(762,590)\fad(0,75)}﻿m
+Dialogue: 0,0:00:29.88,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(782,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:29.91,0:00:31.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(800,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:29.95,0:00:31.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(804,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:29.98,0:00:31.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(818,590)\fad(0,75)}﻿u
+Dialogue: 0,0:00:30.01,0:00:31.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(834,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:30.04,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(849,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:30.07,0:00:31.73,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(861,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:30.10,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(873,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:30.13,0:00:31.73,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(885,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:30.16,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(897,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:30.19,0:00:31.80,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(914,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:30.22,0:00:31.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(914,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:30.25,0:00:31.71,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(925,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:30.28,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(942,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:30.32,0:00:31.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(946,590)\fad(0,75)}﻿v
+Dialogue: 0,0:00:30.35,0:00:31.84,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(959,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:30.38,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(970,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:30.41,0:00:31.72,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(981,590)\fad(0,75)}﻿o
+Dialogue: 0,0:00:30.44,0:00:31.72,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(996,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:30.47,0:00:31.89,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1007,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:30.50,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1014,590)\fad(0,75)}﻿t
+Dialogue: 0,0:00:30.53,0:00:31.82,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1026,590)\fad(0,75)}﻿à
+Dialogue: 0,0:00:30.56,0:00:31.76,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1044,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:30.59,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1048,590)\fad(0,75)}﻿d
+Dialogue: 0,0:00:30.62,0:00:31.74,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1063,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:30.65,0:00:31.83,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1074,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:30.68,0:00:31.72,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1080,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:30.71,0:00:31.85,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1091,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:30.74,0:00:31.78,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1109,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:30.78,0:00:31.88,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1109,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:30.81,0:00:31.91,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1120,590)\fad(0,75)}﻿u
+Dialogue: 0,0:00:30.84,0:00:31.71,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1134,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:30.87,0:00:31.79,normal izq - 890,,0,0,0,fx,{\be20\an5\pos(1149,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:32.02,0:00:36.73,normal - 890,,0,0,0,fx,{\be20\an5\pos(135,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:32.09,0:00:36.72,normal - 890,,0,0,0,fx,{\be20\an5\pos(150,590)\fad(0,75)}﻿h
+Dialogue: 0,0:00:32.17,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(165,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:32.25,0:00:36.64,normal - 890,,0,0,0,fx,{\be20\an5\pos(182,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:32.33,0:00:36.63,normal - 890,,0,0,0,fx,{\be20\an5\pos(186,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:32.40,0:00:36.58,normal - 890,,0,0,0,fx,{\be20\an5\pos(201,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:32.48,0:00:36.69,normal - 890,,0,0,0,fx,{\be20\an5\pos(213,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:32.56,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(228,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:32.64,0:00:36.62,normal - 890,,0,0,0,fx,{\be20\an5\pos(228,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:32.71,0:00:36.68,normal - 890,,0,0,0,fx,{\be20\an5\pos(241,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:32.79,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(246,590)\fad(0,75)}﻿p
+Dialogue: 0,0:00:32.87,0:00:36.67,normal - 890,,0,0,0,fx,{\be20\an5\pos(261,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:32.95,0:00:36.63,normal - 890,,0,0,0,fx,{\be20\an5\pos(275,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:33.02,0:00:36.72,normal - 890,,0,0,0,fx,{\be20\an5\pos(289,590)\fad(0,75)}﻿c
+Dialogue: 0,0:00:33.10,0:00:36.68,normal - 890,,0,0,0,fx,{\be20\an5\pos(300,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:33.18,0:00:36.64,normal - 890,,0,0,0,fx,{\be20\an5\pos(313,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:33.26,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(316,590)\fad(0,75)}﻿v
+Dialogue: 0,0:00:33.33,0:00:36.62,normal - 890,,0,0,0,fx,{\be20\an5\pos(326,590)\fad(0,75)}﻿i
+Dialogue: 0,0:00:33.41,0:00:36.74,normal - 890,,0,0,0,fx,{\be20\an5\pos(336,590)\fad(0,75)}﻿v
+Dialogue: 0,0:00:33.49,0:00:36.55,normal - 890,,0,0,0,fx,{\be20\an5\pos(350,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:33.57,0:00:36.64,normal - 890,,0,0,0,fx,{\be20\an5\pos(362,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:33.64,0:00:36.65,normal - 890,,0,0,0,fx,{\be20\an5\pos(374,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:33.72,0:00:36.57,normal - 890,,0,0,0,fx,{\be20\an5\pos(391,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:33.80,0:00:36.69,normal - 890,,0,0,0,fx,{\be20\an5\pos(395,590)\fad(0,75)}﻿s
+Dialogue: 0,0:00:33.88,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(410,590)\fad(0,75)}﻿u
+Dialogue: 0,0:00:33.95,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(421,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:34.03,0:00:36.66,normal - 890,,0,0,0,fx,{\be20\an5\pos(427,590)\fad(0,75)}﻿l
+Dialogue: 0,0:00:34.11,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(438,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:34.19,0:00:36.61,normal - 890,,0,0,0,fx,{\be20\an5\pos(456,590)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:34.26,0:00:36.60,normal - 890,,0,0,0,fx,{\be20\an5\pos(457,590)\fad(0,75)}﻿t
+Dialogue: 0,0:00:34.34,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(468,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:34.42,0:00:36.69,normal - 890,,0,0,0,fx,{\be20\an5\pos(480,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:34.50,0:00:36.59,normal - 890,,0,0,0,fx,{\be20\an5\pos(490,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:34.57,0:00:36.58,normal - 890,,0,0,0,fx,{\be20\an5\pos(502,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:34.65,0:00:36.74,normal - 890,,0,0,0,fx,{\be20\an5\pos(514,590)\fad(0,75)}﻿f
+Dialogue: 0,0:00:34.73,0:00:36.71,normal - 890,,0,0,0,fx,{\be20\an5\pos(526,590)\fad(0,75)}﻿e
+Dialogue: 0,0:00:34.81,0:00:36.62,normal - 890,,0,0,0,fx,{\be20\an5\pos(538,590)\fad(0,75)}﻿r
+Dialogue: 0,0:00:34.88,0:00:36.72,normal - 890,,0,0,0,fx,{\be20\an5\pos(554,590)\fad(0,75)}﻿m
+Dialogue: 0,0:00:34.96,0:00:36.65,normal - 890,,0,0,0,fx,{\be20\an5\pos(574,590)\fad(0,75)}﻿a
+Dialogue: 0,0:00:35.04,0:00:36.59,normal - 890,,0,0,0,fx,{\be20\an5\pos(585,590)\fad(0,75)}﻿.
+Dialogue: 0,0:00:36.03,0:00:39.30,normal - centro,,0,0,0,fx,{\be20\an5\pos(420,360)\fad(0,75)}﻿Q
+Dialogue: 0,0:00:36.09,0:00:39.22,normal - centro,,0,0,0,fx,{\be20\an5\pos(437,360)\fad(0,75)}﻿u
+Dialogue: 0,0:00:36.16,0:00:39.34,normal - centro,,0,0,0,fx,{\be20\an5\pos(451,360)\fad(0,75)}﻿e
+Dialogue: 0,0:00:36.23,0:00:39.28,normal - centro,,0,0,0,fx,{\be20\an5\pos(466,360)\fad(0,75)}﻿s
+Dialogue: 0,0:00:36.29,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(477,360)\fad(0,75)}﻿t
+Dialogue: 0,0:00:36.36,0:00:39.27,normal - centro,,0,0,0,fx,{\be20\an5\pos(489,360)\fad(0,75)}﻿o
+Dialogue: 0,0:00:36.43,0:00:39.31,normal - centro,,0,0,0,fx,{\be20\an5\pos(507,360)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:37.51,0:00:39.34,normal - centro,,0,0,0,fx,{\be20\an5\pos(512,360)\fad(0,75)}﻿p
+Dialogue: 0,0:00:37.55,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(527,360)\fad(0,75)}﻿u
+Dialogue: 0,0:00:37.60,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(542,360)\fad(0,75)}﻿ò
+Dialogue: 0,0:00:37.64,0:00:39.24,normal - centro,,0,0,0,fx,{\be20\an5\pos(560,360)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:37.69,0:00:39.30,normal - centro,,0,0,0,fx,{\be20\an5\pos(564,360)\fad(0,75)}﻿a
+Dialogue: 0,0:00:37.73,0:00:39.37,normal - centro,,0,0,0,fx,{\be20\an5\pos(579,360)\fad(0,75)}﻿n
+Dialogue: 0,0:00:37.78,0:00:39.22,normal - centro,,0,0,0,fx,{\be20\an5\pos(594,360)\fad(0,75)}﻿c
+Dialogue: 0,0:00:37.82,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(609,360)\fad(0,75)}﻿h
+Dialogue: 0,0:00:37.87,0:00:39.39,normal - centro,,0,0,0,fx,{\be20\an5\pos(624,360)\fad(0,75)}﻿e
+Dialogue: 0,0:00:37.91,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(641,360)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:37.96,0:00:39.38,normal - centro,,0,0,0,fx,{\be20\an5\pos(645,360)\fad(0,75)}﻿e
+Dialogue: 0,0:00:38.00,0:00:39.29,normal - centro,,0,0,0,fx,{\be20\an5\pos(659,360)\fad(0,75)}﻿s
+Dialogue: 0,0:00:38.05,0:00:39.38,normal - centro,,0,0,0,fx,{\be20\an5\pos(673,360)\fad(0,75)}﻿s
+Dialogue: 0,0:00:38.09,0:00:39.32,normal - centro,,0,0,0,fx,{\be20\an5\pos(688,360)\fad(0,75)}﻿e
+Dialogue: 0,0:00:38.14,0:00:39.26,normal - centro,,0,0,0,fx,{\be20\an5\pos(699,360)\fad(0,75)}﻿r
+Dialogue: 0,0:00:38.18,0:00:39.27,normal - centro,,0,0,0,fx,{\be20\an5\pos(711,360)\fad(0,75)}﻿e
+Dialogue: 0,0:00:38.23,0:00:39.27,normal - centro,,0,0,0,fx,{\be20\an5\pos(729,360)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:38.27,0:00:39.23,normal - centro,,0,0,0,fx,{\be20\an5\pos(733,360)\fad(0,75)}﻿c
+Dialogue: 0,0:00:38.32,0:00:39.38,normal - centro,,0,0,0,fx,{\be20\an5\pos(748,360)\fad(0,75)}﻿o
+Dialogue: 0,0:00:38.36,0:00:39.27,normal - centro,,0,0,0,fx,{\be20\an5\pos(763,360)\fad(0,75)}﻿n
+Dialogue: 0,0:00:38.41,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\pos(777,360)\fad(0,75)}﻿s
+Dialogue: 0,0:00:38.45,0:00:39.36,normal - centro,,0,0,0,fx,{\be20\an5\pos(788,360)\fad(0,75)}﻿i
+Dialogue: 0,0:00:38.50,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(799,360)\fad(0,75)}﻿d
+Dialogue: 0,0:00:38.54,0:00:39.25,normal - centro,,0,0,0,fx,{\be20\an5\pos(814,360)\fad(0,75)}﻿e
+Dialogue: 0,0:00:38.59,0:00:39.26,normal - centro,,0,0,0,fx,{\be20\an5\pos(826,360)\fad(0,75)}﻿r
+Dialogue: 0,0:00:38.63,0:00:39.36,normal - centro,,0,0,0,fx,{\be20\an5\pos(838,360)\fad(0,75)}﻿a
+Dialogue: 0,0:00:38.68,0:00:39.41,normal - centro,,0,0,0,fx,{\be20\an5\pos(850,360)\fad(0,75)}﻿t
+Dialogue: 0,0:00:38.72,0:00:39.28,normal - centro,,0,0,0,fx,{\be20\an5\pos(862,360)\fad(0,75)}﻿o
+Dialogue: 0,0:00:40.03,0:00:42.69,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(331,317)\fad(0,75)}﻿l
+Dialogue: 0,0:00:40.06,0:00:42.68,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(336,317)\fad(0,75)}﻿'
+Dialogue: 0,0:00:40.10,0:00:42.81,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(346,317)\fad(0,75)}﻿u
+Dialogue: 0,0:00:40.13,0:00:42.83,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(357,317)\fad(0,75)}﻿l
+Dialogue: 0,0:00:40.17,0:00:42.78,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(365,317)\fad(0,75)}﻿t
+Dialogue: 0,0:00:40.20,0:00:42.96,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(373,317)\fad(0,75)}﻿i
+Dialogue: 0,0:00:40.24,0:00:42.82,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(388,317)\fad(0,75)}﻿m
+Dialogue: 0,0:00:40.27,0:00:42.97,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(408,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:40.31,0:00:42.86,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(426,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:40.34,0:00:42.73,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(430,317)\fad(0,75)}﻿a
+Dialogue: 0,0:00:40.38,0:00:43.08,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(444,317)\fad(0,75)}﻿v
+Dialogue: 0,0:00:40.41,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(457,317)\fad(0,75)}﻿v
+Dialogue: 0,0:00:40.45,0:00:42.84,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(471,317)\fad(0,75)}﻿e
+Dialogue: 0,0:00:40.48,0:00:42.67,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(483,317)\fad(0,75)}﻿r
+Dialogue: 0,0:00:40.52,0:00:42.81,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(492,317)\fad(0,75)}﻿t
+Dialogue: 0,0:00:40.55,0:00:42.90,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(500,317)\fad(0,75)}﻿i
+Dialogue: 0,0:00:40.59,0:00:42.92,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(515,317)\fad(0,75)}﻿m
+Dialogue: 0,0:00:40.62,0:00:42.96,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(534,317)\fad(0,75)}﻿e
+Dialogue: 0,0:00:40.66,0:00:43.04,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(549,317)\fad(0,75)}﻿n
+Dialogue: 0,0:00:40.69,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(561,317)\fad(0,75)}﻿t
+Dialogue: 0,0:00:40.73,0:00:42.78,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(574,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:40.76,0:00:42.85,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(592,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:40.80,0:00:42.89,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(596,317)\fad(0,75)}﻿d
+Dialogue: 0,0:00:40.83,0:00:43.00,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(607,317)\fad(0,75)}﻿i
+Dialogue: 0,0:00:40.87,0:00:42.64,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(620,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:40.90,0:00:42.94,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(626,317)\fad(0,75)}﻿D
+Dialogue: 0,0:00:40.94,0:00:42.91,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(638,317)\fad(0,75)}﻿i
+Dialogue: 0,0:00:40.97,0:00:42.68,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(649,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:41.01,0:00:43.00,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(667,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:41.04,0:00:43.08,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(671,317)\fad(0,75)}﻿a
+Dialogue: 0,0:00:41.08,0:00:43.00,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(689,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:41.11,0:00:42.68,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(693,317)\fad(0,75)}﻿c
+Dialogue: 0,0:00:41.15,0:00:43.01,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(708,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:41.18,0:00:43.00,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(719,317)\fad(0,75)}﻿l
+Dialogue: 0,0:00:41.22,0:00:42.79,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(730,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:41.25,0:00:43.02,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(743,317)\fad(0,75)}﻿r
+Dialogue: 0,0:00:41.29,0:00:42.88,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(755,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:41.32,0:00:42.85,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(773,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:41.36,0:00:42.91,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(777,317)\fad(0,75)}﻿c
+Dialogue: 0,0:00:41.39,0:00:43.04,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(791,317)\fad(0,75)}﻿h
+Dialogue: 0,0:00:41.43,0:00:42.74,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(806,317)\fad(0,75)}﻿e
+Dialogue: 0,0:00:41.46,0:00:42.65,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(824,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:41.50,0:00:43.04,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(827,317)\fad(0,75)}﻿s
+Dialogue: 0,0:00:41.53,0:00:42.79,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(838,317)\fad(0,75)}﻿i
+Dialogue: 0,0:00:41.57,0:00:42.85,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(851,317)\fad(0,75)}﻿ 
+Dialogue: 0,0:00:41.60,0:00:42.79,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(852,317)\fad(0,75)}﻿r
+Dialogue: 0,0:00:41.64,0:00:42.91,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(860,317)\fad(0,75)}﻿i
+Dialogue: 0,0:00:41.68,0:00:43.04,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(871,317)\fad(0,75)}﻿b
+Dialogue: 0,0:00:41.72,0:00:42.80,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(886,317)\fad(0,75)}﻿e
+Dialogue: 0,0:00:41.76,0:00:42.72,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(897,317)\fad(0,75)}﻿l
+Dialogue: 0,0:00:41.80,0:00:42.98,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(904,317)\fad(0,75)}﻿l
+Dialogue: 0,0:00:41.84,0:00:42.69,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(914,317)\fad(0,75)}﻿a
+Dialogue: 0,0:00:41.88,0:00:42.74,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(929,317)\fad(0,75)}﻿n
+Dialogue: 0,0:00:41.92,0:00:42.72,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(945,317)\fad(0,75)}﻿o
+Dialogue: 0,0:00:41.96,0:00:43.06,normal - centro - arriba,,0,0,0,fx,{\be20\an5\pos(956,317)\fad(0,75)}﻿.

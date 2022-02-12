@@ -38,13 +38,26 @@ def main():
         for original_line in file:
             # suffix = [%p] | [%e]
             # line_1 = [line, suffix, '']
-            line_with_suffix = re.split("(\[%p\]$|\[%e\])$", original_line)
+            line_with_suffix = re.split("(\[%p\]|\[%e\])$", original_line)
             line_1 = line_with_suffix[0]
+        
+            if len(line_with_suffix) == 1:
+                # file che non sono script di testo, tipo _phone.scx.txt
+                prefixes.append("")
+                suffixes.append("")
+                if "\n" in line_1:
+                    lines.append(line_1)
+                else:
+                    lines.append(line_1+"\n")
+                continue
             suffix = line_with_suffix[1]
             # line_2 = [line] or [lin]
             line_2 = re.split("^(\[name\].*\[line\])", line_1)
             if len(line_2) == 1:
-                line_2 = ['', '', line_1]
+                # forse [margin top="38"] o [margin top="76"]
+                line_2 = re.split("^(\[margin top=.{4}\])", line_1)
+                if len(line_2) == 1:
+                    line_2 = ['', '', line_1]
             # line_2 = ['', '[name].*[line]', 'resto stringa'] or ['', '', line_1]
             prefix = line_2[1]
             line = line_2[2]
@@ -64,20 +77,16 @@ def main():
         new_line = new_line.replace('[line]"', '[line]“')
         new_line = new_line.replace('"[%p]', '”[%p]')
         new_line = new_line.replace('"[%e]', '”[%e]')
-        new_line = new_line.replace("E'", 'E‘')
         new_line = new_line.replace("'", "’")
         new_line = new_line.replace("?.", "?")
         new_line = new_line.replace("!.", "!")
-        new_line = new_line.replace('È', 'E‘')
-        new_line = new_line.replace('Ì', 'I‘')
-        new_line = new_line.replace('è', 'e‘')
-        new_line = new_line.replace('ì', 'i‘')
-        new_line = new_line.replace('ò', 'o‘')
-        new_line = new_line.replace('ù', 'u‘')
         new_line = new_line + '\n'
         new_lines.append(new_line)
     with open(filename, 'w', encoding='utf-8') as file:
         file.writelines(new_lines)
+    print("Ricordare di controllare i nomi racchiusi in [name] e [line]")
+    print("Ricordare di controllare se alcuni caratteri ’ devono essere cambiati in ‘")
+    print("Ricordare di controllare i caratteri \", se cambiarli in “ e ” (solo nel testo, non nei tag tipo [color]) ")
 
 if __name__=="__main__":
     main()

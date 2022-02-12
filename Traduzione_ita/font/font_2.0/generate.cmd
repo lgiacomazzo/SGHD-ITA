@@ -1,0 +1,2 @@
+..\bin\Release\net461\mgsfontgen-dx generate --charset .\Charset.utf8 --compound-characters .\CompoundCharacters.tbl --font-family "Noto Sans CJK JP" --image-format png --font-size 38 --baseline-originx 1 --baseline-originy -7
+rename FONT_A.png FONT.png

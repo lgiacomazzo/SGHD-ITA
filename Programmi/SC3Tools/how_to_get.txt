@@ -1,0 +1,6 @@
+1) Scarica sc3tools-main dal github dei CoZ (rust language)
+2) Andare in sc3tools-main\resources\sghd\ e copiare in questa directory i due file charset.utf8 e compound_chars.map
+3) Andare in sc3tools-main e lanciare il comando "cargo run --release" per compilare il nuovo sc3tools
+4) Aspettare
+5) Andare in sc3tools-main\target\release\ e prendere sc3tools.exe
+6) Fatto

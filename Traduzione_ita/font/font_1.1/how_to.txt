@@ -1,0 +1,9 @@
+1) Scarica il repo mgsfontgen-dx dal Github dei CoZ
+2) Copiare i due file Charset.utf8 e CompoundCharacters.tbl da questa directory alla directory sg/ del repo scaricato e sovrascrivere
+3) Copiare il file generate.cmd nella directory sg/ e sovrascrivere
+4) Andare nella directory sg/ ed eseguire il file generate.cmd
+5) Prendere font-outline.png e usare gimp (ad esempio) per scalare fino ad avere la prima dimensione pari a 3072 (con tutti i caratteri usati, l'altra dimensione risulta essere 2257)
+6) Prendere FONT.png e usare Ungelify per rimpiazzare l'omonimo file dentro c0data.mpk
+7) Copiare font-outline.png e widths.bin dentro la directory languagebarrier (SEMPRE DOPO AVER INSTALLATO LA PATCH DEI COZ OVVIAMENTE)
+8) Copiare c0data.mpk dentro la directory languagebarrier
+9) Fine

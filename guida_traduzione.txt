@@ -39,30 +39,17 @@ poi:
 - Sostituire ' con ’
  (no regex) ' -> ’
 - CONTROLLARE SEMPRE CHE I CARATTERI " rimasti siano quelli giusti (non violano le regole di sopra)
-- NON USARE LETTERE ACCENTATE (usare al loro posto la lettera seguita dal carattere ’, LA RICERCA NON E' CASE INSENSITIVE)
-	È -> E‘
-	e’ -> é ["e’" solo per quelli che sono grammaticamente corretti in quel caso] (valutare caso per caso)
-	a’ -> à (valutare caso per caso)
-	è -> e‘
-	Ì -> I‘
-	ì -> i‘
-	ò -> o‘
-	ù -> u‘
-	
-- Controllo regex: [ÈèìÌòù] deve restituire 0 risultati
-
-- Controllare anche questo:
+- Controllare questo:
 	(no regex) ?. -> ? (controllare caso per caso credo)
 	(no regex) !. -> ! (controllare caso per caso credo)
 	
 NOTE:
-	- le uniche vocali accentate che ho trovato nel charset sono ё, é, ü, à, ö
 	- IMPORTANTE: NON ALTERARE IL NUMERO DI RIGHE DEL FILE
 
 ------------------------- USANDO checks.py -------------------------
 - Scrivere in default_editor il percorso dell'editor utilizzato
 	- Consiglio: se è possibile, aprire l'editor PRIMA di lanciare lo script (così da evitare di dover chiudere l'editor per andare avanti)
-- Lanciare da shell "python checks.py Traduzione_ita/file.txt.da.tradurre"	
+- Lanciare da shell "python checks.py Traduzione_ita/testo/file.txt.da.tradurre"	
 - Modificare nell'editor il testo (con traduzione)
 - Controllare con Word o LibreOffice Writer possibili errori grammaticali
 - Tornare sulla shell e premere invio (su windows l'editor è un processo spawnato, quindi la join l'ho implementata così)
@@ -72,18 +59,15 @@ oppure:
 	" -> ”
 
 ------------------------- APPLICARE LE TRADUZIONI -------------------------
-
+NOTA: vale anche per il file enscript.mpk, basta solo rinominare il file finale in enscript.mpk
 per applicare la traduzione a script mpk
 prima lanciare sc3tools per tradurre i testi nei singoli SCX
-.\sc3tools.exe replace-text ..\script\SG*.SCX ..\Traduzione_ita\SG*.SCX.txt sghd
-.\sc3tools.exe replace-text ..\script\_*.SCX ..\Traduzione_ita\_*.SCX.txt sghd
-.\sc3tools.exe replace-text ..\script\MACROSYS*.SCX ..\Traduzione_ita\MACROSYS*.SCX.txt sghd
-.\sc3tools.exe replace-text ..\script\CLRFLG.SCX ..\Traduzione_ita\CLRFLG.SCX.txt sghd
-.\sc3tools.exe replace-text ..\script\MAIN*.SCX ..\Traduzione_ita\MAIN*.SCX.txt sghd
-Poi copiare script.mpk in /script e lanciare Ungelify
+.\sc3tools.exe replace-text ..\Traduzione_ita\scx\*.SCX ..\Traduzione_ita\testo\*.SCX.txt sghd
+Poi copiare script.mpk in \Traduzione_ita\scx\ e lanciare Ungelify
 .\Ungelify.exe
 cd ..
-cd script
+cd Traduzione_ita
+cd scx
 e poi bisogna eseguire 3 azioni a ripetizione per ogni file modificato
 open script.mpk
 replace FILE.SCX

@@ -37,14 +37,14 @@ Vuoi uscire dal gioco?
 OK
 Annulla
 Tutti i progressi di gioco non salvati saranno perduti.
-Vuoi tornare al menu‘ principale?
+Vuoi tornare al menù principale?
 OK
 Annulla
 Tutti i progressi di gioco non salvati saranno perduti.
-Vuoi tornare al menu‘ principale?
+Vuoi tornare al menù principale?
 OK
 Annulla
-Vuoi tornare al menu‘ principale?
+Vuoi tornare al menù principale?
 OK
 Annulla
 シーン念愁を虎浄しますか?
