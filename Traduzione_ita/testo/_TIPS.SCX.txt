@@ -96,7 +96,7 @@ Altro
 Exa-
 Exa-
 exa-
-10. I prefissi sono Kilo -> Mega -> Giga -> Tera -> Peta -> Exa in ordine crescente di grandezza. 1 exa = 1 quintilione.
+10[¹⁸]. I prefissi sono Kilo -> Mega -> Giga -> Tera -> Peta -> Exa in ordine crescente di grandezza. 1 exa = 1 quintilione.
 Chuunibyou
 ECHELON
 ECHELON
