@@ -3,7 +3,7 @@ Il CRT da 42 pollici è acceso, e Tennouji—FB—è sdraiato davanti ad esso, l
 FB è ancora vivo. Sua figlia, Nae, non ha motivo di odiare nessuno ora.[%p]
 Salgo le scale fino al laboratorio.[%p]
 Non c’è nessuno tranne Kurisu.[%p]
-[name]Rintaro[line]“Sei stato nell’appartamento di Kiryu Moeka?”[%p]
+[name]Rintaro[line]“Sei stata nell’appartamento di Kiryu Moeka?”[%p]
 [name]Kurisu[line]“...Eh?”[%p]
 Kurisu mette in pausa la sua sessione di navigazione su @channel per guardarmi confusa.[%p]
 [name]Kurisu[line]“L’appartamento di Moeka-san? Mai.”[%p]
