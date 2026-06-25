@@ -21,7 +21,7 @@ Se è così che vuoi comportarti, allora non mi lasci altra scelta che citarti p
 [name]Kurisu[line]“Cos—”[%p]
 La faccia di Kurisu diventa improvvisamente rossa.[%p]
 [name]Rintaro[line]“A quanto pare hai già il tuo cucchiaio.”[%p]
-[name]Kurisu[line]“H-ha detto questo? Mi uccideròtra cinque ore...”[%p]
+[name]Kurisu[line]“H-ha detto questo? Mi ucciderò tra cinque ore...”[%p]
 Sembra sinceramente scioccata, per qualche motivo, ma sono abbastanza sicuro che ora mi creda.[%p]
 [name]Kurisu[line]“È come se qualcuno avesse sbirciato nel mio cuore. E quel qualcuno è Okabe, tra tutte le persone.”[%p]
 Cosa pensa che io stia per fare?[%p]

@@ -43,7 +43,7 @@ Non ho mai ricordato un sogno così vividamente prima d’ora. Ricordo ogni paro
 [name]Kurisu[line]“Certo.”[%p]
 [name]Itaru[line]“Quando ci sarà il servizio fotografico?”[%p]
 [name]Kurisu[line]“Buono a sapersi che sei ancora un pervertito, Hashida.”[%p]
-[name]Itaru[line]“Dai, è la Seira di Blood Tune! Lei ha il ‘panmoro’ addosso!”[%p]
+[name]Itaru[line]“Dai, è la Seira di Blood Tune! Ha il ‘panmoro’ addosso!”[%p]
 [name]Kurisu[line]“Panmoro?”[%p]
 [name]Itaru[line]“Significa che le sue mutandine sono completamente esposte!”[%p]
 [name]Kurisu[line]“N-non è possibile...”[%p]

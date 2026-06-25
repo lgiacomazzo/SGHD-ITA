@@ -98,7 +98,7 @@ Sono le quattro e mezza. Dovremmo avere ancora circa tre ore prima che i treni s
 Se volessimo, potremmo anche partire dalla stazione di Akiba.[%p]
 Ma mi sembra una cattiva idea. Moeka e i suoi uomini potrebbero essere già lì.[%p]
 Dovremmo imbarcarci da un’altra stazione.[%p]
-Se il piano è quello di andare a Yokohama, il modo più veloce è prendere il treno proiettile dalla stazione di Tokyo.[%p]
+Se il piano è quello di andare a Yokohama, il modo più veloce è prendere il treno ad alta velocità dalla stazione di Tokyo.[%p]
 Arrivare alla stazione di Tokyo senza passare dalla stazione di Akihabara significa salire a Kanda o Awajicho.[%p]
 Potremmo arrivare a piedi alla stazione di Tokyo in un’ora, ma non voglio perdere tutto questo tempo.[%p]
 [name]Mayuri[line]“Dove stiamo andando, Okarin? Che fretta c’è?”[%p]

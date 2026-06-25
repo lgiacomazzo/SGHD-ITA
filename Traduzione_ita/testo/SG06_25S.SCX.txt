@@ -1,4 +1,4 @@
-La stanca Kurisu, la rigenerata Daru e la sempre energica Mayuri ripetono la stessa conversazione che ho visto centinaia di volte.[%p]
+La stanca Kurisu, il rigenerato Daru e la sempre energica Mayuri ripetono la stessa conversazione che ho visto centinaia di volte.[%p]
 E poi vanno alla ricerca del ristorante.[%p]
 [name]Rintaro[line]“...”[%p]
 Do loro le spalle e mi incammino verso l’oceano.[%p]
