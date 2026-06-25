@@ -80,7 +80,7 @@ Se tu mandassi i tuoi ricordi una settimana nel futuro, allora il futuro te perd
 [name]Rintaro[line]“E questo perché il futuro è intrinsecamente imprevedibile.”[%p]
 [name]Rintaro[line]“Per esempio, pensi che avrai lo stesso numero di telefono per tutta l’eternità?”[%p]
 [name]Mayuri[line]“Come faccio a saperlo? Ehehe.”[%p]
-[name]Rintaro[line]“Esattamente il mio punto di vista.”[%p]
+[name]Rintaro[line]“Esattamente il mio punto.”[%p]
 [name]Rintaro[line]“E ricorda, i cercapersone sono diventati obsoleti con l’avvento dei cellulari. Allo stesso modo, in futuro i nostri telefoni potrebbero essere sostituiti da qualche altro apparecchio.”[%p]
 Affinché il salto temporale abbia successo, il “te” bersaglio deve avere un telefono di cui conosci il numero.[%p]
 Finché questa condizione è soddisfatta, non ci dovrebbe mai essere un problema nell’impostare la destinazione.[%p]
