@@ -23,7 +23,7 @@
 [name]Rintaro[line]“Poi, abbiamo la nostra residente [color index="820000"]cosplayer[color index="800000"] e unico membro femminile, Lab Mem Number 002, Shiina Mayuri.”[%p]
 [name]Mayuri[line]“Tutturu♪ Chiamatemi Mayushii! Mi piace più creare costumi che indossarli.”[%p]
 [name]Rintaro[line]“E per ultimo, abbiamo il nostro residente [color index="820000"]super hacka[color index="800000"], Lab Mem Number 003, Hashida Itaru.”[%p]
-[name]Itaru[line]“Smettila di chiamarmi così! È super [color index="A0140000"]hacker[color index="800000"], duh.”[%p]
+[name]Itaru[line]“Smettila di chiamarmi così! È super [color index="850000"]hacker[color index="800000"], duh.”[%p]
 [name]Rintaro[line]“Qui al Laboratorio dei Gadget Futuristici, ci dedichiamo all’arte dell’invenzione!”[%p]
 [name]Rintaro[line]“Per i dettagli, vedi la homepage del nostro laboratorio.”[%p]
 [name]Rintaro[line]“La nostra massima priorità, naturalmente, è quella di sviluppare armi per la guerra con il Dominio Oscuro, ma questa ricerca ha generato una serie di invenzioni collaterali. In effetti, è l’unica cosa che ha generato.”[%p]

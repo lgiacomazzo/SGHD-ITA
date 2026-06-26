@@ -128,7 +128,7 @@ Mi alzo e mi sposto verso l’entrata, dove posso rispondere alla chiamata senza
 [name]Kurisu[line][color index="8A0000"]“Stai zitto.”[%p]
 [name]Kurisu[line][color index="8A0000"]“Hai promesso che mi avresti aiutato con il Microonde Telefonico, ricordi? O il tuo numero di lab mem è solo per fare scena?”[%p]
 [name]Rintaro[line]“Fatti aiutare da Daru. Oggi non posso farlo.”[%p]
-[name]Kurisu[line][color index="8A0000"]“...Cosa [color index="A0140000"]stai[color index="800000"] [color index="8A0000"]facendo? Dove sei?”[%p]
+[name]Kurisu[line][color index="8A0000"]“...Cosa [color index="850000"]stai[color index="800000"] [color index="8A0000"]facendo? Dove sei?”[%p]
 [name]Rintaro[line]“Nell’appartamento di Kiryu Moeka.”[%p]
 [name]Kurisu[line][color index="8A0000"]“Così sei con una donna. Sei il peggiore.”[%p]
 Non ha incontrato Moeka su questa linea di universo?[%p]

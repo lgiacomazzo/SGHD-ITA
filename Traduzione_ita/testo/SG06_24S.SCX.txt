@@ -253,7 +253,7 @@ Quindi, anche se corre dalla polizia, nessuno crederà a una sola parola di quel
 Immagino che si opporrà. Era un membro della Resistenza nella sua epoca, e so che è più forte di quanto sembri.[%p]
 Ma è pur sempre solo una ragazza. Ci vorrà un po’ di tempo, ma alla fine avrò la meglio su di lei.[%p]
 Un altro me—Hououin Kyouma, forse?—sta sussurrando nella mia testa.[%p]
-“Tu vuoi una donna, vero?” dice. “Certo che la vuoi. È [color index="A0140000"]l’istinto[color index="800000"].”[%p]
+“Tu vuoi una donna, vero?” dice. “Certo che la vuoi. È [color index="850000"]l’istinto[color index="800000"].”[%p]
 “Che importa se è la figlia di Daru? E che importa se è in missione per salvare il futuro?”[%p]
 [margin top="190"][center]Dimenticatene.[%p]
 [margin top="38"][center]È una bella donna. Questo è quanto.[%e]

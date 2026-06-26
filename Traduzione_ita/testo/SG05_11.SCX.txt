@@ -117,7 +117,7 @@ Afferra il telecomando e lo spegne, poi si aggrappa al televisore e si tiene com
 [name]Nae[line]“Hauww...”[%p]
 [name]Suzuha[line]“È finita?”[%p]
 [name]Tennouji[line]“Sembra di sì.”[%p]
-Aspetta... è [color index="A0140000"]finita[color index="800000"]?[%p]
+Aspetta... è [color index="850000"]finita[color index="800000"]?[%p]
 Passo con cautela tra le macerie e prendo il telecomando dalla mano del frastornato Mister Braun.[%p]
 Premo il pulsante rosso di accensione.[%p]
 Il CRT da 42 pollici prende immediatamente vita. Fisso l’immagine sullo schermo... e sorrido.[%p]

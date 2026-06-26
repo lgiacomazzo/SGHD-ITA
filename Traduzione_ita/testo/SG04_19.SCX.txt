@@ -57,7 +57,7 @@ Mentre ascolto la loro conversazione, sento uno strano brivido nello stomaco.[%p
 Una voce sussurra dal profondo, più profonda della ragione.[%p]
 Riproduco la conversazione nella mia testa e presto mi rendo conto della fonte del mio disagio.[%p]
 La Faris che conoscevo non era mai stata a un torneo ufficiale di RaiNet.[%p]
-Eppure ora sta per competere nelle [color index="A0140000"]finali del torneo[color index="800000"].[%p]
+Eppure ora sta per competere nelle [color index="850000"]finali del torneo[color index="800000"].[%p]
 Il che significa che sta partecipando ai tornei da un bel po’.[%p]
 È questo il cambiamento che Faris voleva fare?[%p]
 Considerando che il destinatario era suo padre, forse era severo e non la lasciava partecipare ai tornei.[%p]

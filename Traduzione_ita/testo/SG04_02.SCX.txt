@@ -32,7 +32,7 @@ Mayuri ha la capacità di andare d’accordo con chiunque, quindi non è una sor
 Nae evita me e Daru, ma adora Mayuri, e cerca sempre un abbraccio al volo ogni volta che ne ha la possibilità.[%p]
 Daru a volte si lamenta di questo.[%p]
 “Che ragazza fortunata! Vorrei potermi tuffare sul petto di Mayu-shi in quel modo!”[%p]
-“No, aspetta. Forse sarebbe meglio far tuffare Nae-tan sul [color index="A0140000"]mio[color index="800000"] petto!”[%p]
+“No, aspetta. Forse sarebbe meglio far tuffare Nae-tan sul [color index="850000"]mio[color index="800000"] petto!”[%p]
 Il suo dibattito interno andò avanti per ore.[%p]
 [name]Mayuri[line]“Questo è per te, Nae-chan. Divertiti♪”[%p]
 Mayuri prende delle caramelle dalla borsa del minimarket e le dà a Nae.[%p]

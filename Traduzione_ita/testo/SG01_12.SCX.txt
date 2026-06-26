@@ -95,7 +95,7 @@ Sebbene sembri ancora annoiato, Daru entra finalmente nella discussione attuale.
 [name]Itaru[line]“Oh, quindi nessun fatto.”[%p]
 [name]Rintaro[line]“Edison una volta disse, ‘Senza l’uno per cento di ispirazione, il novantanove per cento del sudore è sprecato’. Quindi, inventori del mondo... siate ispirati! Fine della citazione.”[%p]
 [name]Itaru[line]“Non era ‘Il genio è l’uno per cento di ispirazione, il novantanove per cento di sudore’?”[%p]
-[name]Rintaro[line]“Mi dispiace deluderti, ma negli ultimi anni è diventata una cosa risaputa che [color index="A0140000"]quella[color index="800000"] è una citazione errata. Muhahaha!”[%p]
+[name]Rintaro[line]“Mi dispiace deluderti, ma negli ultimi anni è diventata una cosa risaputa che [color index="850000"]quella[color index="800000"] è una citazione errata. Muhahaha!”[%p]
 [name]Itaru[line]“L’ha detto Edison? ‘Siate ispirati!’...?”[%p]
 [name]Rintaro[line]“Sì. ‘Siate ispirati!’ ha detto.”[%p]
 Non so se ha proprio detto così, ma sono sicuro che era qualcosa del genere.[%p]

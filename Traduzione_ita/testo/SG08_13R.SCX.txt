@@ -110,7 +110,7 @@ Mentre Mayuri stava aspettando invano, io stavo prendendo la peggiore decisione 
 Ho scelto di non far ritrasformare Lukako.[%p]
 Ho scelto di non salvare Mayuri.[%p]
 No, non giriamoci intorno.[%p]
-Ho scelto di [color index="A0140000"]lasciarla morire.[color index="800000"][%p]
+Ho scelto di [color index="850000"]lasciarla morire.[color index="800000"][%p]
 Non è che non voglio salvarla. Lo voglio.[%p]
 Ma non riesco a trovare il coraggio di fare il sacrificio necessario.[%p]
 [name]Mayuri[line]“Dov’è Luka-chan?”[%p]

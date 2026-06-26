@@ -146,7 +146,7 @@ Quindi tutta quella roba sul judo, il wrestling professionistico e i palloni si 
 Dannazione! È stato tutto inutile![%p]
 Meno male che non ho portato Suzuha con me.[%p]
 [name]Rintaro[line]“Allora perché stavi cercando di produrre delle versioni contraffatte della spilla?”[%p]
-[name]Itaru[line]“Uh, non stavo cercando di [color index="A0140000"]contraffarla[color index="800000"].”[%p]
+[name]Itaru[line]“Uh, non stavo cercando di [color index="850000"]contraffarla[color index="800000"].”[%p]
 [name]Rintaro[line]“Abbastanza vicino.”[%p]
 [name]Itaru[line]“Beh... Lo consideravo un piano di backup, credo.”[%p]
 [name]Itaru[line]“Amane-shi sarà triste se non troviamo il suo vecchio, giusto?”[%p]

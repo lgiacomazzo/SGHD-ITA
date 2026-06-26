@@ -89,7 +89,7 @@ E la finestra è anche aperta. Se Suzuha è di sotto, sono sicuro che può senti
 Quindi abbasso un po’ il volume.[%p]
 [name]Rintaro[line]“Capito? Il mondo non ha bisogno di due scienziati pazzi. Prima che loro possano superarci, dobbiamo batterli in astuzia!”[%p]
 [name]Itaru[line]“Chi sono loro?”[%p]
-[name]Rintaro[line]“Lo sai... [color index="A0140000"]loro[color index="800000"].”[%p]
+[name]Rintaro[line]“Lo sai... [color index="850000"]loro[color index="800000"].”[%p]
 [name]Mayuri[line]“Um, Mayushii non riesce proprio a capire...”[%p]
 [name]Rintaro[line]“Fondamentalmente, dobbiamo ottenere il fantomatico PC retrò... l’IBN 5100, che si dice si trovi da qualche parte ad Akiba.”[%p]
 Faccio una magnifica dichiarazione, ma Daru si limita a strofinare gli occhi, e Mayuri torna al suo ricamo.[%p]

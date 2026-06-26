@@ -14,7 +14,7 @@ Proprio mentre sto per farla piombare su questa macchina infernale, una voce gri
 Kurisu mi afferra il braccio e mi tira indietro.[%p]
 [name]Kurisu[line]“Stai cercando di rompere la macchina?”[%p]
 [name]Rintaro[line]“...”[%p]
-[name]Kurisu[line]“Non devi [color index="A0140000"]romperla[color index="800000"], Okabe.”[%p]
+[name]Kurisu[line]“Non devi [color index="850000"]romperla[color index="800000"], Okabe.”[%p]
 [name]Kurisu[line]“Abbiamo già deciso di non fare esperimenti. Ricordi?”[%p]
 [name]Kurisu[line]“Comunque, metti giù la sedia.”[%p]
 Abbasso la sedia lentamente.[%p]

@@ -19,7 +19,7 @@ Le serrande del Braun Tube Workshop sono aperte, ma il negozio stesso non apre m
 [name]Suzuha[line]“Ehh? Ma devo preparare il negozio per i clienti.”[%p]
 [name]Rintaro[line]“Di cosa ha bisogno questo vecchio e friabile Braun Tube Workshop per essere “pronto”?”[%p]
 [name]Suzuha[line]“Niente, in realtà. Accidenti. Mi limito a spazzare senza pensare davanti al negozio. Se pulisco dentro, il capo si arrabbia. ‘Tutto è dove deve essere’, dice.”[%p]
-Quindi la sta pagando per [color index="A0140000"]non[color index="800000"] pulire?[%p]
+Quindi la sta pagando per [color index="850000"]non[color index="800000"] pulire?[%p]
 C’è qualcosa che non va in quel tipo.[%p]
 [name]Rintaro[line]“Allora ascoltami.”[%p]
 [name]Suzuha[line]“Ma sono così stanca.”[%p]

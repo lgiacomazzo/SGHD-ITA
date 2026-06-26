@@ -19,7 +19,7 @@ A differenza del laboratorio, Daibiru ha l’aria condizionata. Un altro motivo 
 Non mi arrenderò così facilmente. Anche se nessun altro membro del laboratorio userà “(Nome Provvisorio)”, continuerò fino al giorno in cui decideremo il suo vero nome.[%p]
 [name]Rintaro[line]“Ora non è il momento.”[%p]
 [name]Itaru[line]“Allora, qual è la tua ultima ridicola teoria?”[%p]
-[name]Rintaro[line]“Cosa intendi per ridicola? Il mio cervello geniale considera [color index="A0140000"]ogni[color index="800000"] possibilità, anche quelle che una mente inferiore affermerebbe che violino le leggi della natura. Non osare chiamarla ridicola.”[%p]
+[name]Rintaro[line]“Cosa intendi per ridicola? Il mio cervello geniale considera [color index="850000"]ogni[color index="800000"] possibilità, anche quelle che una mente inferiore affermerebbe che violino le leggi della natura. Non osare chiamarla ridicola.”[%p]
 [name]Itaru[line]“Quindi, in pratica, ti stai semplicemente inventando le cose di sana pianta. Non puoi chiamarla scienza.”[%p]
 [name]Rintaro[line]“Daru. Ho la sensazione che il Microonde Telefonico (Nome Provvisorio) possa essere la chiave per aprire Steins Gate. Che te ne pare?”[%p]
 [name]Itaru[line]“Steins cosa? Mi hai perso a ‘ridicola’, amico.”[%p]
