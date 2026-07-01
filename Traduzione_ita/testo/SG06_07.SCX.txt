@@ -88,7 +88,7 @@ Sto cercando di arrivare alla stazione di Suehirocho senza usare le strade princ
 Ma mentre passiamo davanti all’UPX, diversi uomini sul ponte ci indicano e gridano qualcosa.[%p]
 Anche loro sono del SERN!?[%p]
 Quanti uomini hanno!?[%p]
-Torniamo indietro e cambiamo rotta.[%p]
+Torniamo indietro e cambiamo percorso.[%p]
 [name]Rintaro[line]“Haah, haah, ok, Mayuri, tu sei, un corridore, haah, haah, più veloce, quindi...”[%p]
 Parlare mentre corro consuma tutto il mio ossigeno.[%p]
 Il sudore mi cola negli occhi, rendendo difficile la vista.[%p]

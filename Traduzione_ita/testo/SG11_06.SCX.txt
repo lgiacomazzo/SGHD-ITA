@@ -92,7 +92,7 @@ Come prima, è vuoto. Posso vedere la cima della stazione ferroviaria a poca dis
 Ormai è la terza volta che vengo qui.[%p]
 Ripasso il piano nella mia testa un’ultima volta.[%p]
 Il tempo è poco, ma non ho scelta. Devo farlo.[%p]
-No. Io [color index="A0140000"]lo farò[color index="800000"]. Il fallimento non è un’opzione.[%p]
+No. Io [color index="850000"]lo farò[color index="800000"]. Il fallimento non è un’opzione.[%p]
 Aspetto che Suzuha rompa la serratura, poi corro dentro come l’ultima volta.[%p]
 Evitando di nuovo per un pelo il primo me, scendo al settimo piano.[%p]
 L’ultima volta sono sceso fino al quarto piano. Ma non questa volta.[%p]

@@ -69,7 +69,7 @@ Chiederei anche l’opinione di Suzuha, se fosse qui, ma su questa linea di univ
 [name]Kurisu[line]“La tua morte, Okabe, è la cosa peggiore che potrebbe accadere.”[%p]
 [name]Kurisu[line]“Probabilmente sei l’unica persona che può ricordare le precedenti linee di universo. Se tu muori, allora considera Mayuri morta per davvero.”[%p]
 [name]Kurisu[line]“...Non morire. Ok?”[%p]
-[name]Rintaro[line]“...Non sei [color index="A0140000"]preoccupata[color index="800000"] per me, vero?”[%p]
+[name]Rintaro[line]“...Non sei [color index="850000"]preoccupata[color index="800000"] per me, vero?”[%p]
 [name]Kurisu[line]“C-cosa!? Non essere ridicolo! Perché dovrebbe importarmi!?”[%p]
 [name]Kurisu[line]“Non sono preoccupato per te, ok? Non farti un’idea sbagliata.”[%p]
 [name]Kurisu[line]“È solo che non voglio perdere una preziosa cavia da laboratorio, tutto qui. Ecco!”[%p]
